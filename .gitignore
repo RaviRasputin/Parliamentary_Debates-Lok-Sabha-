@@ -1,0 +1,33 @@
+# Keep only the per-year ZIPs in data/. Ignore extracted markdown so the
+# large uncompressed files are never committed by accident.
+*.md
+!README.md
+data/*.md
+
+# Build scratch directories used by scripts/
+pdfs/
+by_year/
+markdown/
+
+# zip(1) leftover temp files
+zi*
+*.tmp
+*.part
+
+# local helper notes (not for publishing)
+SETUP.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+.DS_Store?
+Thumbs.db
+*.swp
+.idea/
+.vscode/
