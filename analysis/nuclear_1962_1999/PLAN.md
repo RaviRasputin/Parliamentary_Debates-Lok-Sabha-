@@ -237,6 +237,9 @@ executive voice for 2000–08, and flag the change of source in the paper.
 
 ### E3. The Indo-US deal, 2005–2008
 
+DONE (26 October 2026, author chose a model-coded sample over dictionaries): `sample3.py`, `e3.py`,
+codebook 1.2 section 7; results in `validation/REPORT.md` and paper section 5.8 (H6).
+
 - Periods: NDA to May 2004; UPA-I May 2004 – July 2008 with Left outside support; after the
   Left's withdrawal (8 July 2008) and the trust vote (22 July 2008).
 - Party labels from DataMeet's 2004 results; government sets: NDA (BJP + allies) to 22 May
