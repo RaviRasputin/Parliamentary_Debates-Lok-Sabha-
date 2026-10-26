@@ -1,10 +1,11 @@
 """Compare the author's blind human-check codes with the adjudicated model codes.
 
-Usage: python3 -I human_check.py VALDIR CODES_DIR [SAMPLE_CSV BATCH OUT_PREFIX]
+Usage: python3 -I human_check.py VALDIR CODES_DIR [SAMPLE_CSV BATCH OUT_PREFIX [weapons|broad]]
   defaults: human_check_sample.csv check human_check; relevant-only set: human_check2_sample.csv check2 human_check2
   VALDIR    validation folder (human_check_sample.csv, gold.csv, gold2.csv)
   CODES_DIR the coding page's exported documents, i.e. CODES_DIR/codes/H###.json
             (ArtifactData "list" of collection "codes" with out_dir=CODES_DIR)
+Model relevance follows codebook v1.1 (weapons and security only) unless "broad" is given.
 Writes VALDIR/human_check_results.csv and VALDIR/human_check_agreement.csv.
 """
 import csv, json, sys
@@ -13,6 +14,9 @@ from pathlib import Path
 
 VAL, CODES = Path(sys.argv[1]), Path(sys.argv[2])
 SAMPLE, BATCH, PREFIX = (sys.argv[3:6] if len(sys.argv) > 5 else ("human_check_sample.csv", "check", "human_check"))
+WEAPON_STANCES = {"pro_bomb", "keep_option", "disarmament", "critical_of_tests"}
+WEAPON_FRAMES = ["disarmament", "option_open", "discrimination", "deterrence_weapon", "security_threat"]
+SCOPE = sys.argv[6] if len(sys.argv) > 6 else "weapons"
 FR = ["disarmament", "peaceful_use", "option_open", "discrimination", "deterrence_weapon", "security_threat", "autonomy"]
 
 
@@ -42,6 +46,9 @@ def alpha_nominal(units):
 gold = {}
 for name in ("gold.csv", "gold2.csv"):
     for g in csv.DictReader(open(VAL / name, encoding="utf-8")):
+        if SCOPE == "weapons" and g["relevant"] == "yes" and not (
+                g["stance"] in WEAPON_STANCES or any(g[f] == "1" for f in WEAPON_FRAMES)):
+            g["relevant"] = "no"  # v1.1: nuclear energy, plants and safety alone are out of scope
         gold[g["code_id"]] = g
 sample = list(csv.DictReader(open(VAL / SAMPLE, encoding="utf-8")))
 human = {}

@@ -1,6 +1,7 @@
 # Codebook: nuclear passages in Indian parliamentary and MEA texts
 
-Version 1.0 (frozen 26 October 2026). Do not change it while coding.
+Version 1.1 (26 October 2026). Coding was done under 1.0; 1.1 narrows the relevance rule used in
+the analysis (section 1) and changes nothing else.
 
 ## What you code
 
@@ -20,15 +21,26 @@ Code in this order: **relevance → frames → stance → confidence**.
 
 ## 1. Relevance
 
-`relevant` = **yes** if the passage discusses nuclear weapons, nuclear explosions or tests,
-nuclear energy, nuclear materials, or nuclear diplomacy (treaties, safeguards, disarmament talks)
-in any country. Otherwise **no**, and stop.
+`relevant` = **yes** if the passage discusses nuclear **weapons or security**: nuclear weapons,
+nuclear explosions or tests, deterrence, the nuclear option, nuclear diplomacy (NPT, CTBT, test
+bans, safeguards as a weapons question, disarmament talks), nuclear-free zones, or the nuclear
+threat from other states. Otherwise **no**, and stop.
+
+Version 1.1 (author decision, 26 October 2026) puts **nuclear energy alone** out of scope: power
+stations, reactors, plant safety, accidents, uranium supply or trade, isotopes and the peaceful
+programme, when the passage says nothing about weapons or security, are **no**.
+
+In the analysis the rule is applied to the 1.0 codes: a passage coded relevant under 1.0 stays
+relevant only if its stance is `pro_bomb`, `keep_option`, `disarmament` or `critical_of_tests`, or
+it carries at least one of the frames disarmament, option_open, discrimination,
+deterrence_weapon or security_threat (`validated_series.py`, `weapons_security`).
 
 Code **no** for: "atomic" or "nuclear" used only as a name with no content ("the Atomic Energy
 Department's canteen staff"); a heading, agenda item, index line or table-of-contents entry with
 no sentence about a nuclear matter; a passing mention inside a sentence about something else that
 says nothing about the nuclear matter itself; text too garbled to read (note "unreadable").
-Code **yes** for a factual question about a nuclear plant: relevance is about topic, not depth.
+Code **no** for a factual question about a nuclear plant (1.1); a factual question about a test or
+the NPT is **yes**: relevance is about topic, not depth.
 Code **yes** for general statements about the danger of nuclear war or the arms race.
 
 ---
@@ -174,3 +186,7 @@ coders must not see each other's codes, the dictionary codes, or metadata.
   general nuclear-war fears; option_open limited to weapons choice; pro_bomb covers justifying the
   tests; peaceful_only vs neutral for plant facts; foreign deployments in the region → disarmament;
   post-test publicity questions → neutral.
+- 1.1 — (26 October 2026) relevance narrowed to nuclear weapons and security, after the author's
+  first 22 human-check codes marked energy, uranium-trade and plant passages not relevant. Applied
+  to the 1.0 codes by rule (section 1); 1,090 of the 1,990 passages relevant under 1.0 remain.
+  The 1.0 series are kept as `series_*_broad.csv`.

@@ -1,5 +1,6 @@
 """Rebuild the executive-legislative gap series on Claude-coded, Opus-adjudicated passages
-(validation/gold.csv + gold2.csv), 1962-99, six eras. Outputs to validation/series_*.csv."""
+(validation/gold.csv + gold2.csv), 1962-99, six eras. Outputs to validation/series_*.csv.
+Usage: python3 -I validated_series.py VALDIR OUTDIR [weapons|broad]  (default weapons; broad writes *_broad.csv)"""
 import csv, json, math, random, sys
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -26,8 +27,20 @@ for name in ("gold.csv", "gold2.csv"):
                   "side": m.get("side", ""), "party": m.get("party", ""), "pid": m["pid"]})
         g["group"] = "members" if g["voice"] in ("LS_member", "RS_member") else g["voice"]
         rows.append(g)
-rel = [r for r in rows if r["relevant"] == "yes"]
-print("coded", len(rows), "relevant", len(rel))
+WEAPON_STANCES = {"pro_bomb", "keep_option", "disarmament", "critical_of_tests"}
+WEAPON_FRAMES = ["disarmament", "option_open", "discrimination", "deterrence_weapon", "security_threat"]
+
+
+def weapons_security(r):
+    """Author's relevance rule (26 Oct 2026): nuclear weapons and security only, i.e. a weapons
+    stance or a weapons/security frame; nuclear energy, plants and safety alone do not count."""
+    return r["relevant"] == "yes" and (r["stance"] in WEAPON_STANCES or any(r[f] == "1" for f in WEAPON_FRAMES))
+
+
+SCOPE = sys.argv[3] if len(sys.argv) > 3 else "weapons"
+rel = [r for r in rows if (weapons_security(r) if SCOPE == "weapons" else r["relevant"] == "yes")]
+TAG = "" if SCOPE == "weapons" else "_broad"
+print("scope", SCOPE, "coded", len(rows), "relevant", len(rel))
 
 
 def fdist(rs):
@@ -122,8 +135,8 @@ for f in FR:
 def dump(name, recs):
     with open(VAL / name, "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(recs[0])); w.writeheader(); w.writerows(recs)
-for n, recs in (("series_gap.csv", series), ("series_stance.csv", stance), ("series_frames.csv", frames),
-                ("series_sides.csv", sides), ("dictionary_performance_full.csv", perf)):
+for n, recs in ((f"series_gap{TAG}.csv", series), (f"series_stance{TAG}.csv", stance), (f"series_frames{TAG}.csv", frames),
+                (f"series_sides{TAG}.csv", sides), (f"dictionary_performance_full{TAG}.csv", perf)):
     dump(n, recs)
     print("==", n)
     for r in recs:

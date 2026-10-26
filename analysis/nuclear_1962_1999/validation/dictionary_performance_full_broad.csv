@@ -1,0 +1,8 @@
+frame,gold_pos,precision,recall,f1
+disarmament,566,0.906,0.751,0.821
+peaceful_use,758,0.889,0.307,0.457
+option_open,70,0.846,0.314,0.458
+discrimination,194,0.554,0.66,0.602
+deterrence_weapon,258,0.371,0.419,0.393
+security_threat,449,0.556,0.844,0.67
+autonomy,252,0.557,0.448,0.497

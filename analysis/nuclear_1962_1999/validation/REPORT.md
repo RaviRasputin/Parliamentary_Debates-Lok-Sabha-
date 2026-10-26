@@ -56,7 +56,7 @@ Stance (`stance_by_voice_era.csv`): the MEA's passages are mostly disarmament in
 
 Agreement (Krippendorff's alpha): relevant 0.94, stance 0.88, frames 0.62 (option open) to 0.96 (peaceful use).
 
-Validated series (`series_gap.csv`, frame JSD, 90% bootstrap CI):
+Validated series under codebook 1.0, all nuclear topics (`series_gap_broad.csv`, frame JSD, 90% bootstrap CI):
 
 | Era | MEA vs members | Ministers vs members |
 | --- | --- | --- |
@@ -68,3 +68,22 @@ Validated series (`series_gap.csv`, frame JSD, 90% bootstrap CI):
 | 1998–99 | 0.12 (0.09–0.17) | 0.04 |
 
 The 550-passage check above (1990–97 as one era) understated the 1994–97 narrowing; the scaled series supersedes it. Keep-the-option stance peaks in every voice in 1994–97 (MEA 17%, ministers 13%, members 10% of relevant passages). In 1998–99 the MEA is 40% pro-bomb; members split 36 pro-bomb vs 40 critical of the tests. Dictionary F1 on the full set: 0.39–0.82 (`dictionary_performance_full.csv`).
+
+---
+
+# Weapons-and-security scope (codebook 1.1)
+
+The author's first 22 human-check codes marked nuclear-energy, plant and uranium-trade passages not relevant. The author then set the scope to weapons and security only. The rule is applied to the existing adjudicated codes (no recoding): a passage stays relevant if its stance is pro-bomb, keep-option, disarmament or critical-of-tests, or it carries a disarmament, option-open, discrimination, deterrence or security-threat frame. 1,090 of the 1,990 relevant passages remain. These are now the main series (`series_gap.csv`, `series_stance.csv`, `series_frames.csv`, `series_sides.csv`); the broad ones are kept as `*_broad.csv`.
+
+| Era | n (MEA / members / ministers) | Frames: MEA vs members | Frames: ministers vs members | Stance: MEA vs members |
+| --- | --- | --- | --- | --- |
+| 1962–68 | 95 / 102 / 31 | 0.34 (0.27–0.43) | 0.04 | 0.26 |
+| 1969–79 | 84 / 61 / 13 | 0.36 (0.29–0.46) | 0.17 | 0.33 |
+| 1980–89 | 90 / 56 / 20 | 0.18 (0.12–0.27) | 0.05 | 0.17 |
+| 1990–93 | 61 / 65 / 17 | 0.26 (0.20–0.38) | 0.32 | 0.30 |
+| 1994–97 | 72 / 66 / 26 | 0.06 (0.03–0.12) | 0.04 | 0.19 |
+| 1998–99 | 68 / 124 / 39 | 0.08 (0.05–0.12) | 0.03 | 0.30 |
+
+What changes: the frame convergence of 1994–97 is sharper (0.06 against 0.14 broad) and holds in 1998–99; the 1980s are closer than the broad series showed (0.18), because energy talk had kept members apart from the MEA's disarmament language. Keep-the-option now rises from 1990 in the executive (ministers 35%, MEA 21% in both 1990–93 and 1994–97) and reaches members only in 1994–97 (24%). The stance gap still does not close (0.30 in 1998–99). Ministers' cells are small (13–39 passages), and only three government/opposition cells reach the minimum size, so the side analysis is reported only for 1962–68 and 1998–99.
+
+Human check rescored (22 codes, model relevance under 1.1): relevance agreement 81.8% (alpha 0.49), up from 54.5% (alpha 0.08) under 1.0. Stance and frames rest on 3 passages and are not yet informative; the 30-passage relevant-only check (R001–R030) is for those.
