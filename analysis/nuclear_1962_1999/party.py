@@ -13,13 +13,13 @@ from functools import lru_cache
 from pathlib import Path
 
 OUT, ELEC = Path(sys.argv[1]), sys.argv[2]
-NO_PARTY_FROM = "2004-05-17"  # turns on or after this date get no party/side (later task)
+NO_PARTY_FROM = "2009-05-16"  # turns on or after this date (15th Lok Sabha) get no party/side
 NO_PARTY_BEFORE = "1962-04-16"  # the 3rd Lok Sabha; earlier Houses have no election data loaded
 
 # Lok Sabha in session -> election year whose winners sit in it (start date of each new House)
 HOUSES = [("1967-03-16", 1962), ("1971-03-15", 1967), ("1977-03-25", 1971), ("1980-01-21", 1977),
           ("1985-01-15", 1980), ("1989-12-18", 1984), ("1991-07-09", 1989), ("1996-05-22", 1991),
-          ("1998-03-23", 1996), ("1999-10-20", 1998), ("9999-12-31", 1999)]
+          ("1998-03-23", 1996), ("1999-10-20", 1998), ("2004-06-02", 1999), ("9999-12-31", 2004)]
 
 # Government periods: (start, end, governing parties, outside supporters). Dates between periods
 # with no stable majority (Charan Singh 1979-80, Chandra Shekhar 1990-91) are left unclassified.
@@ -32,13 +32,19 @@ GOVTS = [
     ("1996-05-16", "1996-06-01", {"BJP", "SHS", "SAP", "SAD", "HVP"}, set()),
     ("1996-06-01", "1998-03-19", {"JD", "SP", "TDP", "DMK", "TMC(M)", "AGP", "CPI"}, {"INC", "CPM", "RSP", "FBL"}),
     ("1998-03-19", "1999-10-13", {"BJP", "SHS", "SAP", "ADMK", "BJD", "WBTC", "SAD", "HLD(R)", "PMK", "MDMK"}, {"TDP"}),
-    ("1999-10-13", "9999-12-31", {"BJP", "SHS", "JD(U)", "DMK", "AITC", "BJD", "SAD", "PMK", "MDMK", "INLD"}, {"TDP"}),
+    ("1999-10-13", "2004-05-22", {"BJP", "SHS", "JD(U)", "DMK", "AITC", "BJD", "SAD", "PMK", "MDMK", "INLD"}, {"TDP"}),
+    # UPA-I with the Left, SP and BSP outside; the Left withdrew support on 8-9 July 2008 over the
+    # nuclear deal and the SP backed the government in the 22 July trust vote
+    ("2004-05-22", "2008-07-09", {"INC", "RJD", "DMK", "NCP", "PMK", "TRS", "JMM", "LJP", "MDMK", "MUL", "JKPDP",
+                                  "KEC", "RPI(A)"}, {"CPM", "CPI", "RSP", "AIFB", "SP", "BSP"}),
+    ("2008-07-09", "2009-05-22", {"INC", "RJD", "DMK", "NCP", "PMK", "JMM", "LJP", "MUL", "JKPDP", "KEC", "RPI(A)"},
+     {"SP"}),
 ]
 
 FAMILY = {
     "Congress": {"INC", "INC(I)", "INC(U)", "NCO", "ICS", "ICS(SCS)", "TMC(M)", "AIIC(T)", "WBTC", "AITC", "NCP", "ICJ"},
     "Jana Sangh / BJP": {"JS", "BJS", "BJP", "SHS"},
-    "Left": {"CPI", "CPM", "RSP", "FB", "FBL", "PWP", "IPF"},
+    "Left": {"CPI", "CPM", "RSP", "FB", "FBL", "AIFB", "PWP", "IPF"},
     "Socialist / Janata": {"PSP", "SSP", "SOC", "BLD", "JNP", "JNP(S)", "LKD", "JD", "SP", "SAP", "RJD", "JD(U)",
                            "JP", "BJD", "HLD(R)", "INLD", "SJP", "JD(G)"},
     "Swatantra": {"SWA"},
@@ -175,7 +181,7 @@ for r in rows:
         continue
     if r["speaker"].upper().startswith(("AN HON", "HON", "SOME HON")):
         continue
-    if r["date"] >= NO_PARTY_FROM:  # 2004 House and UPA periods are not yet labelled
+    if r["date"] >= NO_PARTY_FROM:  # 15th Lok Sabha onward not labelled
         continue
     if r["date"] < NO_PARTY_BEFORE:  # 1952-62 sittings would be matched to 1962 winners
         continue

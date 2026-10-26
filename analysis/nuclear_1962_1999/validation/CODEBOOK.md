@@ -1,7 +1,7 @@
 # Codebook: nuclear passages in Indian parliamentary and MEA texts
 
-Version 1.1 (26 October 2026). Coding was done under 1.0; 1.1 narrows the relevance rule used in
-the analysis (section 1) and changes nothing else.
+Version 1.2 (26 October 2026). The 1962–99 coding was done under 1.0; 1.1 narrows the relevance
+rule used in the analysis (section 1); 1.2 adds section 7 for the 2000–08 sample.
 
 ## What you code
 
@@ -179,6 +179,40 @@ coders must not see each other's codes, the dictionary codes, or metadata.
 3. Record changes in the changelog below, set version 1.0, and code the rest. Pilot passages are
    recoded under version 1.0.
 
+---
+
+## 7. Addendum for 2000–2008 passages (version 1.2)
+
+Applies only to the 2000–08 sample (`sample3.csv`, code_ids X####). Everything above still
+applies; this adds one variable and three tie-breaks for the Indo-US civil nuclear deal
+(Joint Statement of 18 July 2005, separation plan, Hyde Act 2006, 123 Agreement 2007, IAEA
+safeguards agreement and NSG waiver 2008).
+
+**Relevance.** A passage about the deal is **yes** even when it argues only about energy: the
+deal is nuclear diplomacy (safeguards, the NSG, the separation of civil and military
+facilities). Other energy-only passages remain out of scope (section 1).
+
+**`deal_stance`** (choose one; `none` if the passage is not about the deal):
+- `support` — defends or welcomes the deal, or a step of it, as good for India.
+- `oppose` — argues India should reject, stop or renegotiate the deal, or attacks it (US
+  dictation, the Hyde Act, loss of sovereignty or of the right to test, foreign-policy
+  alignment with the US, cost of imported reactors).
+- `conditional` — accepts the deal only if named conditions hold (no curb on the right to test,
+  full civil cooperation, fuel assurances, no Hyde Act constraints), without rejecting it.
+- `neutral` — about the deal but takes no position (a question, a factual answer, a report).
+- `none` — not about the deal.
+
+Tie-breaks for `stance` in this period:
+- "The deal does not touch our strategic programme / our right to test remains" or "the deal
+  must not cap our deterrent" → `keep_option`; defending weaponisation, the 1998 tests or a
+  credible minimum deterrent → `pro_bomb`.
+- An argument for the deal on energy grounds only, with no weapons position → `peaceful_only`.
+- Questions and answers about the deal's progress with no weapons position → `neutral`.
+
+Recording for X#### passages: `code_id, coder, relevant, disarmament, peaceful_use,
+option_open, discrimination, deterrence_weapon, security_threat, autonomy, stance, deal_stance,
+confidence, note`.
+
 ## Changelog
 - 0.1 — first draft.
 - 1.0 — after the pilot (Claude coders A and B; the author chose not to hand-code, and asked that
@@ -190,3 +224,5 @@ coders must not see each other's codes, the dictionary codes, or metadata.
   first 22 human-check codes marked energy, uranium-trade and plant passages not relevant. Applied
   to the 1.0 codes by rule (section 1); 1,090 of the 1,990 passages relevant under 1.0 remain.
   The 1.0 series are kept as `series_*_broad.csv`.
+- 1.2 — (26 October 2026) addendum for 2000–08 (section 7): `deal_stance` and deal tie-breaks; deal
+  passages count as relevant even when they argue only about energy.
