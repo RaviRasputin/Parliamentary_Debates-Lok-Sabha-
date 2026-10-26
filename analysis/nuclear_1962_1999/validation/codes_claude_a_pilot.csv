@@ -1,0 +1,31 @@
+code_id,coder,relevant,disarmament,peaceful_use,option_open,discrimination,deterrence_weapon,security_threat,autonomy,stance,confidence,note
+V001,claude_a,no,0,0,0,0,0,0,0,,2,Only a heading for a plant question; defence-deals text irrelevant
+V002,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question about Kudankulam project aid; no position on weapons
+V003,claude_a,no,0,0,0,0,0,0,0,,2,General peace/non-alignment speech; nuclear war only passing mention
+V004,claude_a,no,0,0,0,0,0,0,0,,1,Unreadable garbled OCR; no content recoverable
+V005,claude_a,no,0,0,0,0,0,0,0,,3,Atomic Energy Commission only in list of scientific bodies
+V006,claude_a,yes,1,0,0,0,0,0,0,neutral,2,"Factual answer on warships; opposes nuclear weapons in Indian Ocean, no India posture"
+V007,claude_a,yes,0,0,1,0,0,1,0,keep_option,2,Protocol said to foreclose options and give Pakistan parity; Sino-Pak nuclear link
+V008,claude_a,yes,0,1,0,0,0,0,1,neutral,2,Question on atomic energy development and self-reliance; no position
+V009,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,3,AEC wants continued atomic power programme; energy only
+V010,claude_a,yes,0,0,0,0,0,0,0,neutral,1,Pokhran tests praised in passing in farmers speech; no nuclear argument
+V011,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,India pushed test ban since 1954; criticises nuclear powers arms race
+V012,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on site of atomic installation; no position
+V013,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on PR firms after tests; no stated view on tests
+V014,claude_a,no,0,0,0,0,0,0,0,,3,"Anti-bomb squad, hand-grenades; conventional"
+V015,claude_a,no,0,0,0,0,0,0,0,,2,Zero-hour item on rehabilitation; atomic plant only names displacement
+V016,claude_a,no,0,0,0,0,0,0,0,,2,"Only a heading ""Nuclear device""; no content"
+V017,claude_a,yes,1,0,0,0,0,0,0,neutral,2,Question on Pakistan test ban proposal and India reaction; no view
+V018,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual answer on uranium mine radiological safety
+V019,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,3,Criticises cut in nuclear power programme; energy only
+V020,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on atomic power projections and generation figures
+V021,claude_a,no,0,0,0,0,0,0,0,,2,Question on death of Sarabhai; atomic only in ministry name
+V025,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on Kalpakkam reactor probe; no weapons position
+V037,claude_a,yes,1,0,0,1,0,0,0,disarmament,3,"Calls for CTBT, elimination of nuclear weapons, non-discriminatory regime"
+V046,claude_a,no,0,0,0,0,0,0,0,,2,Nuclear research MOU only one item in signing list
+V047,claude_a,yes,1,0,0,0,1,1,0,pro_bomb,3,Defends 1998 tests; weapons for self-defence against nuclear coercion
+V051,claude_a,no,0,0,0,0,0,0,0,,3,Bombay customs arrests; unrelated
+V056,claude_a,no,0,0,0,0,0,0,0,,2,Contents list naming nuclear items without discussion
+V073,claude_a,no,0,0,0,0,0,0,0,,3,Communal enquiry and party membership; unrelated
+V119,claude_a,no,0,0,0,0,0,0,0,,3,Chinese border killings; no nuclear content
+V126,claude_a,no,0,0,0,0,0,0,0,,3,Bomb blasts terrorism; conventional

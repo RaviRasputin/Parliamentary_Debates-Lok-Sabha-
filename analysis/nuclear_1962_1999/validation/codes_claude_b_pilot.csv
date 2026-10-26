@@ -1,0 +1,31 @@
+code_id,coder,relevant,disarmament,peaceful_use,option_open,discrimination,deterrence_weapon,security_threat,autonomy,stance,confidence,note
+V025,claude_b,yes,0,1,0,0,0,0,0,neutral,2,Question on Kalpakkam reactor damage; no weapons position.
+V006,claude_b,yes,0,0,0,0,0,1,0,other_country,2,Foreign naval nuclear presence; govt opposes nuclear weapons in Indian Ocean; no Indian posture.
+V016,claude_b,no,0,0,0,0,0,0,0,,2,Only a heading fragment 'Nuclear device'; no content.
+V126,claude_b,no,0,0,0,0,0,0,0,,3,Terrorist bomb blasts; not nuclear.
+V008,claude_b,yes,0,1,0,0,0,0,1,neutral,2,Question on atomic energy measures and self-reliance; no weapons position.
+V119,claude_b,no,0,0,0,0,0,0,0,,3,Border clash with China; no nuclear content.
+V010,claude_b,yes,0,0,0,0,1,0,0,neutral,1,Passing praise of Pokhran tests in farmer speech; no nuclear position.
+V001,claude_b,no,0,0,0,0,0,0,0,,2,Only a question title naming Rajasthan atomic plant; rest defence deals.
+V014,claude_b,no,0,0,0,0,0,0,0,,3,Anti-bomb squad grenades; not nuclear.
+V009,claude_b,yes,0,1,0,0,0,0,0,peaceful_only,3,Defends continuous atomic power station programme; nothing on weapons.
+V073,claude_b,no,0,0,0,0,0,0,0,,3,Domestic party dispute; Pokhal Singh is a name.
+V037,claude_b,yes,1,0,0,1,0,0,0,disarmament,2,"Seeks CTBT, nuclear elimination, non-discriminatory regime; India's disarmament action plan."
+V056,claude_b,no,0,0,0,0,0,0,0,,2,Table of contents list naming nuclear items without discussion.
+V015,claude_b,no,0,0,0,0,0,0,0,,2,"Rehabilitation demand in list of items; Narora named, no nuclear content."
+V046,claude_b,no,0,0,0,0,0,0,0,,2,Nuclear research MOU only in list of signed documents.
+V047,claude_b,yes,1,0,0,0,1,1,0,pro_bomb,3,1998 tests defended; weapons of self-defence against nuclear coercion.
+V020,claude_b,yes,0,1,0,0,0,0,0,neutral,3,Factual question on atomic power projections and capacity.
+V007,claude_b,yes,0,0,1,0,0,1,0,keep_option,2,Protocol said to foreclose options and give Pakistan parity; Sino-Pak nuclear link.
+V017,claude_b,yes,1,0,0,0,0,0,0,neutral,3,Question on government reaction to Pakistan test ban proposal.
+V051,claude_b,no,0,0,0,0,0,0,0,,3,Bombay smuggling case; not nuclear.
+V019,claude_b,yes,0,1,0,0,0,0,0,peaceful_only,3,Criticises slashing of nuclear energy programme; energy only.
+V012,claude_b,yes,0,1,0,0,0,0,0,neutral,2,Question on site selection of atomic installation.
+V004,claude_b,no,0,0,0,0,0,0,0,,1,Garbled Hindi OCR; no nuclear content discernible.
+V018,claude_b,yes,0,1,0,0,0,0,0,neutral,3,Factual answer on uranium mine radiation safety.
+V003,claude_b,yes,0,0,0,0,0,0,0,neutral,2,Brief general fear of nuclear war; no India posture or policy.
+V002,claude_b,yes,0,1,0,0,0,0,0,neutral,3,Question on Russian aid for Kudankulam plant.
+V021,claude_b,no,0,0,0,0,0,0,0,,2,Inquiry into scientist's death; no nuclear content.
+V013,claude_b,yes,0,0,0,0,0,0,0,neutral,2,Question on PR firms for post-test scenario; no stance on tests.
+V005,claude_b,no,0,0,0,0,0,0,0,,3,Scientist grievances; AEC only listed as organisation.
+V011,claude_b,yes,1,0,0,1,0,0,0,disarmament,3,Test ban stalled; nuclear-weapon states keep advancing arsenals; India pushes CTBT.
