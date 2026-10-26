@@ -1,0 +1,815 @@
+code_id,field,value,reason
+W0002,stance,neutral,"Factual reply listing fuel and safeguard arrangements; no argument defending the programme (cf. V134, V117)"
+W0035,deterrence_weapon,0,China's ICBM raised only as a threat; no weapons logic for India (V428)
+W0035,stance,neutral,"Asks how India will protect herself; about India so not other_country, no posture (V533)"
+W0057,peaceful_use,1,"Transport of radioactive material from AEET (isotopes); factual civil nuclear content counts (V022, V140)"
+W0085,option_open,1,India has not signed the NPT and finds it unacceptable; NPT refusal is option_open (V539)
+W0085,discrimination,1,NPT called the 'embodiment of discrimination'
+W0085,security_threat,1,Reservations on Pakistan's NWFZ proposal 'in view of the geostrategic situation'
+W0118,autonomy,0,'Indigenously produced' is a factual adjective; no independence claim (V419)
+W0118,stance,neutral,Factual answer on plutonium uses; no defence of the programme (V134)
+W0158,disarmament,0,"Disarmament named only as a dialogue topic (V100, V420)"
+W0158,stance,neutral,"Notes differences on NPT, 'position well-known'; states no posture"
+W0199,peaceful_use,1,"Question on earthquake risk to BARC reactors; factual plant question carries the frame (V022, V140)"
+W0241,deterrence_weapon,1,Pakistan's planned atomic test and asks India to gear up its programme 'to match'; weapons logic
+W0277,stance,neutral,Procedural answer on private participation; no argument for the programme
+W0338,security_threat,0,"US fuel cut-off for Tarapur is a supply issue, not an external danger to India"
+W0377,option_open,1,"Asked whether India would sign the NPT, India opposed it; NPT refusal (V539)"
+W0377,discrimination,1,'NPT was a discriminatory treaty'
+W0401,relevant,no,Labour strike; 'Atomic Power project' is only a name (codebook: name with no content)
+W0441,autonomy,1,"Asks about explaining policy abroad amid 'growing pressure' in UN (outside pressure, cf. V290)"
+W0499,deterrence_weapon,1,"Question about India's 1998 weapon tests themselves, their reasons and achievement"
+W0516,autonomy,0,Mocks self-imposed restraint; no outside pressure or sovereignty argument
+W0535,peaceful_use,0,Iran power-station sale mentioned only as US apprehension; no nuclear-energy argument
+W0535,stance,keep_option,"India 'expressed reservations' on NPT and NWFZ; refusing the treaty, no call to build (rule 4)"
+W0576,peaceful_use,0,No nuclear-energy content; about weapons programme and blasts
+W0576,deterrence_weapon,1,Defends India's nuclear weapons programme and right to test vs P-5 arsenals
+W0576,security_threat,0,No external danger to India argued; P-5 attacked for hypocrisy
+W0587,discrimination,0,Rejects curbs on own programme; no inequality argument (V102)
+W0617,discrimination,0,Criticises weapon-state testing for CTBT comprehensiveness; no inequality argument (V011)
+W0617,deterrence_weapon,0,"Weapons appear as objects for the test ban to curb; disarmament frame, no security-instrument logic"
+W0675,discrimination,0,No inequality argument
+W0675,deterrence_weapon,1,Argues making the atom bomb would hamper Pakistan ties; engages India's bomb (V102)
+W0675,security_threat,0,"Pakistan discussed for relations, not as a danger"
+W0695,deterrence_weapon,0,US nuclear-armed ships are presence/threat only; no weapons-policy content
+W0730,relevant,no,"Bomb mentioned as rhetorical foil in a sentence on foreign dependence (passing mention; V544, V164)"
+W0756,stance,peaceful_only,Argues for two atomic plants as hydro resources are saturated (V057)
+W0791,stance,neutral,Asks India's countermeasures to Pakistan's devices; question without posture (V533)
+W0804,autonomy,1,Warns India would have to align with US or USSR for security (V196)
+W0830,autonomy,0,Attacks weapon states' doctrines; no pressure or sovereignty claim in text
+W0855,discrimination,0,Factual radioactivity report; no inequality argument
+W0855,deterrence_weapon,0,"Tests cited only for environmental effects (cf. V274, V550)"
+W0871,autonomy,0,"Fuel sufficiency is peaceful_use per codebook; factual figures, no independence claim (V419)"
+W0909,deterrence_weapon,0,China's nuclear weapons asked about as a menace; no weapons logic for India (V428)
+W0927,security_threat,0,China isolated over test ban; no danger point (V530)
+W0954,relevant,no,"Fragment; Nuclear Control Institute only a name, no nuclear content"
+W0970,option_open,0,NPT called discriminatory but no refusal or weapons-choice language
+W0970,autonomy,0,Rejects five-nation talks on substance; no pressure or sovereignty claim
+W0991,option_open,1,'Contemporary technologies associated with nuclear option' passed on
+W0991,discrimination,1,"Works for 'universal, non-discriminatory' arrangements (V244)"
+W0991,autonomy,0,"National security interests paramount is security, not independence vs pressure"
+W1018,autonomy,1,MOX technology 'developed indigenously'; India maintains its reprocessing position against US (V357)
+W1037,stance,neutral,Question on Pakistan facility and policy review; no view (V533)
+W1056,stance,neutral,Fear of nuclear war in India with no call to action; not only another state's programme
+W1100,autonomy,1,'They incite us' to attend; refuses to bow to five veto powers
+W1123,relevant,yes,Food irradiation experiments by Atomic Energy; nuclear-energy application
+W1123,peaceful_use,1,Irradiation (isotopes) for food is peaceful use
+W1123,stance,neutral,Factual question
+W1161,security_threat,1,'Despite the dangers to which we are exposed'
+W1175,security_threat,0,Appeal on superpowers' security; no danger to India
+W1219,stance,disarmament,Commonwealth heads appeal to nuclear powers for test-ban and disarmament talks (cf. V363)
+W1261,security_threat,1,Army preparing for nuclear casualties: external nuclear danger to India
+W1300,option_open,0,No weapons-choice language; argues for non-manufacture treaty
+W1300,discrimination,1,"Controls must apply nondiscriminatorily to 'big and small, nuclear and non-nuclear' (unequal obligations)"
+W1335,option_open,1,"Peaceful programme but 'vigilant' on security and threat perceptions: option formula (V081, V162)"
+W1349,relevant,no,Rural development answer; only stray table cells and a heading on plants (heading rule)
+W1392,autonomy,1,Resilience to withstand sanctions (V470)
+W1402,security_threat,1,Proliferation of weapons and delivery systems 'in our neighbourhood'; own security requirements
+W1431,autonomy,0,Speaker dismisses claimed outside capping; frame mentioned only to be rejected (V220)
+W1431,stance,neutral,Supports government before visit; no posture on weapons
+W1455,relevant,yes,Dues for nuclear power supplied to NPCIL; factual nuclear-energy content (V541)
+W1455,peaceful_use,1,Nuclear power sales
+W1455,stance,neutral,Factual figures
+W1484,discrimination,0,Coercion over Tarapur fuel (autonomy) but no inequality argument
+W1500,security_threat,0,National security only located in a quoted paragraph; speaker argues consensus and wording
+W1528,stance,neutral,Reports scientists' views and asks; no view of the member (tie-break: unloaded question)
+W1543,stance,keep_option,"NPT remains discriminatory; objection to treaty, no call to build (rule 4 before 5)"
+W1564,deterrence_weapon,0,China's ICBM as threat only; no weapons logic for India (V428)
+W1599,autonomy,0,Minister denies pressure: 'I do not suspect that at all' (V220)
+W1599,stance,peaceful_only,About suspicion from the explosion; peaceful research continues (tie-break on explosion purpose)
+W1617,option_open,0,"Objections to NPT on discrimination; stresses non-proliferation, no weapons-choice language"
+W1651,disarmament,0,CTBT named re US pressure; no disarmament argument (V156)
+W1674,deterrence_weapon,0,China's tests reported as concern; no weapons logic for India (V507)
+W1674,security_threat,1,Calls attention to China's coming nuclear tests: other states' tests (codebook)
+W1693,option_open,1,"Demands bomb 'if need be': conditional, decide-by-circumstances language"
+W1705,disarmament,0,"Risk reduction and CBMs are not disarmament (V144, V511)"
+W1732,discrimination,0,Question on opposition to missile programme; no inequality argument
+W1732,deterrence_weapon,1,"India's missile programme (delivery systems, V416)"
+W1764,stance,neutral,'Whether' question on India's UN request; member states no view
+W1777,relevant,no,Conference agenda list only (codebook: agenda items with no sentence)
+W1809,discrimination,0,Against weapons themselves; no inequality argument
+W1809,deterrence_weapon,1,Engages and rejects deterrence thesis (codebook include)
+W1838,relevant,no,CTBT mentioned in passing in defence-preparedness remarks
+W1863,stance,peaceful_only,"Reassures atomic plants emit no dust (V018, V237)"
+W1885,deterrence_weapon,0,No weapons logic for India in the text; elimination framing
+W1885,security_threat,1,CTBT rejected on national security; 'deteriorating security environment'
+W1885,autonomy,1,Objects that treaty made India's signature a precondition for entry into force (coercion)
+W1899,discrimination,0,No inequality argument
+W1899,deterrence_weapon,1,Questions on bomb cost and making an atom bomb
+W1943,discrimination,0,Notes no NWS steps to disarm; no explicit inequality argument
+W1943,deterrence_weapon,0,Neighbourhood weapons as threat; India's weapons logic not stated
+W1943,stance,keep_option,'Safeguard India's nuclear option'; refused NPT and CTBT; no call to build in text
+W1971,relevant,yes,Radiation effects study by DAE and AERB composition; nuclear materials/regulation
+W1971,stance,neutral,Factual answer
+W1986,stance,disarmament,India seeks treaty halting arsenal growth with mutual obligations; no refusal stated
+W2013,stance,other_country,Soviet leader's arms-control proposals; nothing on India
+W2046,stance,disarmament,India committed to global disarmament
+W2077,relevant,no,Pokharan debate only a time reference for an NSC point
+W2111,autonomy,0,No pressure or sovereignty claim
+W2111,stance,keep_option,Objections to discriminatory NPT; rule 4 precedes disarmament
+W2135,deterrence_weapon,0,Pakistan's nuclear-capable F-16s as threat; no weapons logic for India (V507)
+W2163,disarmament,0,Fragment on detente; no disarmament content
+W2193,discrimination,0,Neutral explanation of technology controls; no inequality claim
+W2193,autonomy,0,Denies US pressure on Russia; no Indian independence claim (V350)
+W2210,peaceful_use,1,Radioactive waste under Atomic Energy Act; civil nuclear content
+W2230,disarmament,0,"Non-discriminatory NPT for non-proliferation, not disarmament (V284)"
+W2276,disarmament,0,"Guarantees against nuclear attack are security, not disarmament (V284)"
+W2300,peaceful_use,1,Question on safety scrutiny of Indian nuclear facility designs
+W2339,relevant,no,Pokhran sanctions passing mention in praise of Finance Minister
+W2373,relevant,no,Non-proliferation only listed among divergences; passing mention
+W2388,peaceful_use,0,"Plants to China framed as danger, not as nuclear energy for development (V451)"
+W2388,deterrence_weapon,0,No weapons logic
+W2388,security_threat,1,Sale to China 'endangering Indian security'
+W2404,autonomy,1,'Indigenous know-how is being generated' in frontier areas (V357)
+W2404,stance,peaceful_only,Reports BARC research and spin-offs favourably (V113)
+W2421,autonomy,0,No pressure or sovereignty claim
+W2421,stance,keep_option,"Oppose indefinite NPT extension, demand equal treaty; rule 4 precedes disarmament"
+W2454,relevant,yes,Fire at Rajasthan atomic plant is a factual nuclear-plant matter
+W2454,peaceful_use,1,Atomic power plant
+W2454,stance,neutral,Factual question
+W0007,autonomy,0,Factual question on non-attack agreement; no pressure or sovereignty argument (cf. V007)
+W0036,discrimination,0,Advanced countries lacking simulation technology is not an inequality argument
+W0036,deterrence_weapon,1,Debates whether India should go nuclear and its capability to do so in one day
+W0036,security_threat,1,Raises the nuclear question explicitly under the heading of national security
+W0061,peaceful_use,1,"Question on safety at atomic energy plants (plant questions carry peaceful_use, cf. V140)"
+W0091,stance,peaceful_only,Reports atomic power stations functioning reasonably well; favourable report (cf. V495)
+W0120,relevant,yes,States no new nuclear power station was taken up in VIII Plan; factual plant content (cf. V088)
+W0120,peaceful_use,1,Nuclear power stations and their equipment supply
+W0120,stance,neutral,Factual account of ECIL business; no argument
+W0167,deterrence_weapon,0,Pakistan weapons programme as a threat only; no weapons logic for India (codebook exclusion)
+W0167,security_threat,1,Pakistan clandestine nuclear weapons programme and its nefarious designs
+W0203,discrimination,0,Distinguishes non-proliferation from disarmament; no haves/have-nots or unequal-treatment argument
+W0258,autonomy,1,Facing a powerful country like the US on CTBT; resisting outside pressure
+W0285,stance,disarmament,"Government states proliferation is global and only tackled globally; India stated view, not other_country"
+W0340,relevant,no,Only non-nuclear (chemical/bacteriological) measures discussed; no nuclear sentence
+W0383,stance,neutral,Bare list of supporters of an appeal; no position stated in the passage
+W0413,option_open,0,CTBT signing secrecy; no weapons-choice language (option limited to weapons choice)
+W0413,stance,neutral,Demands Parliament be informed on CTBT talks; no posture on signing or building
+W0455,relevant,yes,DAE achievements list heavy water reactors and fast reactor design; nuclear energy content
+W0455,peaceful_use,1,Reactors and DAE achievements
+W0455,stance,neutral,Bare list of achievements with no argument (cf. V483 descriptive)
+W0500,peaceful_use,1,Reply on thorium storage safety at a nuclear materials site
+W0522,security_threat,0,Question on Pakistan test-ban proposal; no danger to India stated
+W0539,relevant,no,CWC debate; NPT/CTBT only as analogy (cf. V164)
+W0579,discrimination,0,Weapon states failing to disarm; no inequality argument (cf. V011)
+W0597,relevant,yes,Sentence says nuclear power is hazardous; says something about the nuclear matter (cf. V035)
+W0597,peaceful_use,0,Nuclear power cited only as a hazard; not argued for development (cf. V220)
+W0597,stance,neutral,Question about hydro alternatives; no nuclear posture
+W0620,deterrence_weapon,0,Procedural remark on test discussion; no weapons logic (cf. V274)
+W0620,security_threat,0,Procedural; no threat content stated (cf. V359)
+W0679,deterrence_weapon,1,Nuclear umbrella thesis and agreed number of retained missiles (cf. V424)
+W0679,stance,disarmament,Indian delegate urges progress on disarmament negotiation on the Gromyko plan
+W0696,relevant,yes,Sentence on Atomic Minerals Division re-estimating atomic mineral reserves; nuclear materials
+W0696,stance,neutral,Factual
+W0733,disarmament,0,Renunciation of manufacture with no worldwide disarmament content (cf. V101)
+W0765,stance,neutral,Question on CTBT pressure and ICJ; no stated posture
+W0792,stance,peaceful_only,Describes indigenisation strategy and encouraging industry response; favourable on the programme
+W0806,relevant,yes,Reports nuclear generation fell 20.7%; factual nuclear figure (cf. V541)
+W0806,peaceful_use,1,Nuclear power generation
+W0806,stance,neutral,Factual figures
+W0833,discrimination,1,CTBT would perpetuate reliance on weapons by those who completed testing; unequal order
+W0860,peaceful_use,1,Questions on Tarapur and Kota nuclear power stations
+W0874,deterrence_weapon,0,US tests and warheads cited only as double standards (cf. V411)
+W0911,deterrence_weapon,0,Tests mentioned only in criticising their timing (cf. V301)
+W0911,security_threat,1,Questions provocation: argues relations with China and Pakistan had improved
+W0911,stance,critical_of_tests,Asks what provocation justified Pokhran tests given improved relations; criticises timing
+W0931,disarmament,1,Antarctic Treaty prohibits nuclear explosions; a test-ban provision
+W0955,relevant,yes,General statement on nuclear threat to mankind (codebook: general nuclear-war statements)
+W0955,stance,neutral,General remark; no call to action
+W0972,stance,disarmament,Member says we want the whole world free of nuclear weapons
+W0994,autonomy,1,"Asks about indigenous nuclear power generation (self-reliance, cf. V357)"
+W1021,stance,neutral,"Criticises WTO and sanctioning powers, not the test itself"
+W1038,security_threat,1,Disclosure of military strategy to Pakistan; national security
+W1058,disarmament,0,US regional cap-reduce proposal is non-proliferation; India rejects it
+W1101,peaceful_use,1,Defends peaceful nuclear programmes against intrusive mechanisms
+W1101,option_open,0,No weapons-choice language
+W1101,discrimination,1,Nuclear haves; wants restraints applied without discrimination
+W1125,deterrence_weapon,1,"Engages deterrence doctrines: flexible response, weapons deterring regional conflicts"
+W1162,disarmament,1,Urges avoiding a US nuclear submarine base in the Indian Ocean (cf. V308)
+W1176,autonomy,0,Economic self-reliance begins a separate non-nuclear point
+W1228,autonomy,0,Security concerns stated; no independence-against-pressure claim
+W1262,stance,other_country,Only about Soviet disarmament policy; no Indian position
+W1304,autonomy,0,Approves NPT rejection; no sovereignty or pressure argument (cf. V539)
+W1339,discrimination,0,Bullying and isolation are autonomy; no inequality argument
+W1358,peaceful_use,0,Peaceful explosion mentioned only in denial report; no energy content
+W1358,security_threat,0,Reports a rumour and Canadian denial; no danger to India
+W1393,stance,neutral,Factual report of ENDC participation and proposals (reporting a meeting)
+W1404,disarmament,0,Non-proliferation named in a question; no disarmament argument (cf. V156)
+W1435,option_open,1,Kept capability since 1974 without using it; refusal to sign CTBT/NPT
+W1435,security_threat,0,No external danger to India stated
+W1435,stance,pro_bomb,Justifies the test as aimed at eliminating weapons; tests defended with disarmament
+W1459,stance,neutral,"Faults policy for not naming China threat; about India, no posture (cf. V032)"
+W1489,discrimination,0,Asks for reassurance of non-nuclear states; no inequality argument
+W1489,deterrence_weapon,0,Guarantees are security_threat per codebook; no weapons logic
+W1489,autonomy,1,It is for this country and Parliament to shape defence policy
+W1502,option_open,1,Resists pressure not to go nuclear; refuses to give up the choice
+W1529,stance,neutral,Seeks guarantees and doubts China proposal; no Indian weapons posture
+W1550,option_open,0,PNE safeguards; no weapons-choice language
+W1550,discrimination,1,Atomic super-monopoly; equal obligations for nuclear and non-nuclear powers
+W1565,discrimination,0,No inequality argument
+W1565,deterrence_weapon,1,"Calls for nuclear weapons, atomic explosion and missile division"
+W1602,discrimination,0,"Coercion argument, not inequality"
+W1602,security_threat,1,Nuclear states use weapons for coercion; India must not be subjected (blackmail)
+W1602,autonomy,1,Not to be subjected to nuclear coercion (cf. V047)
+W1621,autonomy,0,No pressure or sovereignty argument
+W1653,deterrence_weapon,0,No weapons logic; China explosion for river diversion
+W1653,security_threat,1,China diverting Brahmaputra; external danger to India
+W1678,relevant,yes,Danger of nuclear trigger falling to terrorists; says something about nuclear matter (cf. V035)
+W1678,security_threat,1,Nuclear terrorism risk to this country; national security
+W1678,stance,neutral,No nuclear posture
+W1695,stance,neutral,Asks India's role in Iraq inspection; no posture (cf. V007)
+W1710,relevant,yes,Working group on peaceful uses of atomic energy set up; nuclear cooperation
+W1710,peaceful_use,1,Peaceful uses of atomic energy
+W1710,stance,neutral,Factual report
+W1736,deterrence_weapon,1,"Engages bomb logic: Pakistan bomb, not building a weapon ourselves"
+W1736,stance,disarmament,"Wants Pakistan denuded via world opinion, not by building a weapon ourselves"
+W1766,security_threat,0,F-16 supply cited as incentive comparison; no threat argument
+W1790,option_open,0,No weapons-choice language
+W1790,discrimination,1,Pressure of the exclusive nuclear club
+W1790,security_threat,0,"Vulnerability to pressure is autonomy, not external danger"
+W1817,discrimination,0,Pressure to yield on NPT is autonomy; no inequality argument
+W1842,autonomy,0,Passing note sanctions eased; no independence argument (cf. V350)
+W1870,stance,neutral,General fear of warheads; passage ends before any call to action
+W1886,stance,neutral,India objects to zone procedure and regional scope; no weapons posture stated
+W1900,disarmament,0,Concerted big-power policy to meet menace; no disarmament content
+W1950,deterrence_weapon,1,"Asks about missile programme and nuclear policy (delivery systems, cf. V416)"
+W1976,deterrence_weapon,0,Pakistan weapons as threat only; no weapons logic for India (cf. V507)
+W1992,stance,neutral,India conveys concern on others' possible use; no own posture (cf. V207)
+W2023,stance,neutral,Rejects umbrella reliance but states no build posture (cf. V032)
+W2052,relevant,yes,States power generation will depend on exploiting nuclear potential; nuclear energy content
+W2052,peaceful_use,1,Nuclear power potential
+W2052,stance,neutral,Factual policy statement
+W2078,deterrence_weapon,0,Test called peaceful and praised for secrecy; no weapons logic
+W2078,autonomy,0,No pressure or sovereignty argument
+W2116,deterrence_weapon,0,Question on Chinese accusations and security; no weapons-policy argument
+W2138,deterrence_weapon,0,Capability held but unused is option_open; no weapons logic
+W2173,security_threat,1,Tension between India and Pakistan heightened by tests (cf. V448)
+W2194,stance,neutral,Question and descriptive answer on thorium stage (cf. V134)
+W2213,disarmament,0,"Non-proliferation resolution, not disarmament (cf. V284)"
+W2213,peaceful_use,1,How nuclear devices can be used for exclusively peaceful purposes
+W2240,disarmament,0,Unilateral moratorium reported; no worldwide disarmament content (cf. V511)
+W2240,security_threat,1,Pakistan tests and peace and security agenda
+W2283,discrimination,0,No inequality argument
+W2283,deterrence_weapon,0,"Keep no-bomb stand; no weapons logic, stance carries it (cf. V101)"
+W2307,disarmament,0,NPT non-proliferation principles; no disarmament argument (cf. V284)
+W2307,option_open,0,No weapons-choice language
+W2307,discrimination,1,Nuclear-weapon club given specially privileged position
+W2307,security_threat,0,Security as general proliferation motive; no danger to India
+W2344,discrimination,0,Big powers cold on technology; no inequality argument
+W2344,autonomy,0,Technology access with no independence claim (cf. V219)
+W2377,security_threat,0,No external danger to India
+W2392,discrimination,1,Few powerful nations hold peace hostage to their arsenals (hegemony)
+W2407,security_threat,1,Nuclear-weapon-free world would enhance India's security
+W2423,relevant,no,Nuclear programme mentioned only in passing; says nothing about it
+W0021,stance,neutral,Question asking what steps are taken; no argument for or against; bare question is neutral
+W0041,autonomy,1,"Nuclear shield would leave India hanging on apron strings of a bloc; dependence on others (cf. V116, V196)"
+W0062,security_threat,1,How will you defend this country; national security in general
+W0062,stance,neutral,Asks whether government will buy weapons or develop bomb; question without stated view (tie-break)
+W0092,relevant,yes,Factual question on UP share of power from Narora Atomic Power; question about a nuclear plant is relevant
+W0092,peaceful_use,1,Power from Narora atomic power station
+W0092,stance,neutral,Bare factual question
+W0121,disarmament,0,"Installation lists and disarmament dialogue only named; no disarmament content (cf. V201, V420)"
+W0172,autonomy,0,"Security concerns and elimination commitment; no pressure, sovereignty or independence-of-decision claim"
+W0209,discrimination,0,Blames US/UK for refusing to destroy stockpiles; no inequality argument
+W0209,autonomy,1,Nuclear shield would lead to withering away of our political independence
+W0268,stance,neutral,Raises Pakistan/China capabilities to demand clarity and debate from Indian government; no posture (cf. V533)
+W0286,disarmament,0,Dialogue on disarmament named only; content is sanctions report (cf. V420)
+W0356,discrimination,0,Question on China and NPT; no inequality argument (cf. V132)
+W0384,peaceful_use,0,Nuclear power paired with military striking power for foreign-policy weight; no energy/development content
+W0384,deterrence_weapon,1,Develop nuclear power and military striking power to count in world affairs: weapons as power
+W0384,stance,pro_bomb,"Says India has to develop nuclear power and military striking power; call to build, not merely keep option"
+W0416,disarmament,0,Disarmament appears only in a truncated quotation; passage is about the power programme
+W0466,relevant,yes,Press release expresses concern at US sub-critical test justified under CTBT; a sentence on a nuclear matter
+W0466,disarmament,1,Objects to sub-critical testing being allowed under CTBT; test-ban comprehensiveness concern
+W0466,security_threat,1,Pakistan missile test assessed for implications for our security
+W0466,stance,other_country,About US test and Pakistan missile only; no Indian posture
+W0501,security_threat,0,South African weapons threaten African neighbours; no danger to India
+W0524,discrimination,0,Reports Iran on NPT shortcomings and timetable; no inequality argument
+W0548,security_threat,0,Spokesman calls test report speculative; no external danger to India
+W0580,deterrence_weapon,0,"Pokharan tests cited only for political/electoral consequences (cf. V274, V301)"
+W0605,relevant,no,"Employee allowances at Kalpakkam; atomic plant only as workplace name, like canteen-staff example"
+W0625,disarmament,0,NPT balance of obligations is an inequality point; no disarmament goal stated
+W0625,deterrence_weapon,0,Regret at Asian explosion; no weapons-policy logic (cf. V162)
+W0681,autonomy,1,"Asks about economic sanctions and stopped loans after test; sanctions are in autonomy frame (cf. V290, V429)"
+W0713,disarmament,0,"China demands India sign NPT/CTBT; non-proliferation, not disarmament (cf. V284)"
+W0713,stance,neutral,Minister factually reports foreign criticism of India's tests; subject is India so not other_country
+W0736,peaceful_use,1,Question on disposal of nuclear waste from reactors; nuclear energy programme (cf. V012)
+W0771,disarmament,0,CTBT signatories question; treaty named with no disarmament argument (cf. V156)
+W0771,discrimination,0,Factual question on safeguards; no inequality argument made
+W0793,autonomy,0,Refuses NPT as discriminatory; no pressure or sovereignty argument (cf. V539)
+W0813,deterrence_weapon,0,Pakistan programme and US aid cut; no weapons logic (cf. V507)
+W0813,security_threat,1,Pakistan's nuclear programme is listed under security_threat
+W0836,relevant,no,Nuclear test only listed among price-rise factors; passing mention in a speech on inflation
+W0863,deterrence_weapon,0,Pokhran II criticised for diplomatic naivete; tests cited for diplomatic consequences (cf. V274)
+W0882,discrimination,0,Ideal vs operational mechanism distinction; no explicit inequality claim in text
+W0882,security_threat,1,Neighbouring country arming terrorists in border states; external danger to India
+W0882,stance,keep_option,Forceful defence against acceding to NPT; refusing treaty without call to build
+W0914,relevant,yes,Allocation formula for power from nuclear power stations; factual plant content (consistent with W0092)
+W0914,peaceful_use,1,Atomic power stations
+W0914,stance,neutral,Factual formula
+W0933,autonomy,0,Question on US disengaging from 1963 agreement; no independence claim (cf. V263)
+W0956,discrimination,0,Asks India's NPT attitude; no inequality argument
+W0974,disarmament,0,Disarmament named in passing; content is US arms to Pakistan
+W0995,relevant,yes,Discusses danger of smuggled atomic bombs; says something about a nuclear matter (cf. V035)
+W0995,security_threat,1,Nuclear terrorism danger; country must be cautious and train forces
+W0995,stance,neutral,General danger; no posture on India's weapons
+W1028,deterrence_weapon,0,Foreign nuclear-armed vessels as threat; no weapons-policy logic
+W1028,security_threat,1,"Nuclear-armed vessels in Indian Ocean (cf. V173, V313)"
+W1048,relevant,no,Pakistan tests mentioned in passing in a speech on Kashmir terrorism
+W1076,disarmament,1,"Describes PTBT, NPT and superpower agreement on nuclear build-up as reducing war threat"
+W1104,security_threat,0,No external danger to India stated
+W1104,autonomy,0,Glad NPT unsigned as discriminatory; no pressure or sovereignty argument (cf. V539)
+W1140,stance,peaceful_only,Reports peaceful atomic cooperation favourably as of great significance (cf. V495)
+W1163,autonomy,1,Question on sanctions over the test; sanctions in autonomy frame (consistent with W0681)
+W1178,stance,neutral,Asks government reaction and whether taken up with US; question without posture (cf. V533)
+W1230,relevant,no,AEC named only as subject of committee recommendations; no nuclear content
+W1265,deterrence_weapon,0,"States India is not a weapons state; non-possession carried by stance, no weapons logic"
+W1265,security_threat,0,Pressler Amendment discussion; no danger to India stated
+W1305,discrimination,0,No inequality argument
+W1305,autonomy,1,Objects to urging international community to pressurise India to close option
+W1341,option_open,0,No weapons-choice language; supports CTBT
+W1341,discrimination,1,Tests by NPT parties highlight treaty's inherent defects; calls for non-discriminatory CTBT
+W1363,discrimination,1,Problem arises from continued stockpiling and sophistication by weapon states (vertical; cf. V417)
+W1394,deterrence_weapon,0,Pakistan threat plus renunciation; no weapons logic for India (cf. V507)
+W1394,security_threat,1,Danger of nuclear adventurism by Pakistan
+W1405,disarmament,0,Opposes India's bomb on moral grounds; no worldwide disarmament content (cf. V101)
+W1405,deterrence_weapon,1,"Debates India making the bomb after China's explosion (cf. V102, V438)"
+W1405,security_threat,0,Explicitly not worried about China's bomb; no threat framed (cf. V530)
+W1437,discrimination,1,China will not concede to India the logic it applies to itself; double standard (cf. V494)
+W1437,autonomy,0,"No pressure, sanctions or sovereignty claim by India"
+W1476,stance,peaceful_only,Defends TAPS operation with indigenous MOX/LEU despite safeguards condition; defends programme
+W1494,autonomy,0,MTCR/NPT rejected as discriminatory; no pressure or sovereignty argument (cf. V539)
+W1503,relevant,no,Atom bomb a passing example in a sentence on industrial power; no nuclear matter discussed
+W1535,deterrence_weapon,0,"Tests cited for breaking consensus; option and outlawing, no weapons-as-security logic"
+W1555,option_open,0,No weapons-choice language
+W1555,discrimination,1,Proliferation in all manifestations vs mere dissemination; vertical vs horizontal
+W1575,discrimination,0,NPT PNE clause mentioned; no inequality argument stated
+W1575,security_threat,0,Denies any security threat then or now
+W1575,autonomy,1,"""We will have our own"" in response to NPT clause; independent decision"
+W1575,stance,critical_of_tests,No security threat now undercuts test rationale; criticises justification of tests
+W1605,deterrence_weapon,0,Tests cited only for sanctions consequences (cf. V274)
+W1637,disarmament,0,"CTBT talks question; sovereignty precondition, no disarmament argument (cf. V156)"
+W1657,relevant,yes,BARC investigation of radiation leak from gamma irradiation facility; nuclear materials safety (cf. V018)
+W1657,peaceful_use,1,Radiation/isotope facility
+W1657,stance,neutral,"Factual finding then member asks to publish report; procedural, no argument (cf. V380)"
+W1681,option_open,0,Peaceful technology access; no weapons choice
+W1681,discrimination,1,Access to nuclear technology should not remain confined to a few countries
+W1696,deterrence_weapon,0,"Renunciation of bomb; no weapons logic, stance carries it (cf. V101)"
+W1712,relevant,no,Pokharan-II passing mention in a question on borrowing (consistent with W0836)
+W1740,security_threat,1,Whether government would be caught napping; national security preparedness
+W1770,disarmament,0,Support for non-proliferation is not disarmament (cf. V284)
+W1797,stance,neutral,Fragment describes arms-race spiral; call to action cut off (cf. V270)
+W1823,security_threat,0,Dispute over PM shielding CIA; no danger to India stated
+W1823,stance,neutral,"Accuses PM of misleading House on Nanda Devi device; no posture, about India so not other_country"
+W1844,stance,peaceful_only,Favourable report of resuming beneficial peaceful nuclear cooperation (consistent with W1140)
+W1873,security_threat,0,Factual question on purpose and permission of US expedition; no danger stated
+W1887,autonomy,1,US trade restrictions after tests; sanctions/coercion in autonomy frame (consistent with W0681)
+W1911,discrimination,0,General and complete disarmament argument; no inequality claim
+W1951,disarmament,0,"Campaign against proliferation is non-proliferation, not disarmament (cf. V284)"
+W1978,disarmament,0,"CD/CTBT named as venue; withdrawal of monitoring offer, no disarmament argument (cf. V420)"
+W1995,disarmament,0,CTBT-for-sanctions question; no disarmament content (cf. V156)
+W2028,discrimination,0,Asks if embargo is directed against India; no inequality argument (cf. V350)
+W2053,deterrence_weapon,1,Capability to warn adversaries we can use this power if driven: deterrence logic
+W2053,security_threat,1,Others having evil intentions against us
+W2088,option_open,1,India shall not sign CTBT; refusing treaty (cf. V539)
+W2088,deterrence_weapon,0,No weapons logic stated
+W2088,security_threat,1,CTBT not in India's national security interest
+W2088,autonomy,1,Rejects German appeal on own national security interest grounds
+W2117,security_threat,1,India's security concerns extend beyond the sub-region (cf. V547)
+W2149,relevant,yes,Asks whether French aid to Pakistan incl. nuclear plant poses military implications for India
+W2149,security_threat,1,French military/nuclear aid to Pakistan posing implications for India
+W2149,stance,neutral,"Question asking India's rationale; no posture, about India so not other_country (cf. V533)"
+W2177,discrimination,0,No inequality argument
+W2177,security_threat,1,China being a nuclear power raised as reason India should make bomb
+W2197,discrimination,0,No inequality argument
+W2197,security_threat,1,Better appreciation of India's security concerns
+W2197,autonomy,1,Japan conditions sanctions review on signing CTBT; sanctions/conditions (cf. V429)
+W2214,discrimination,0,No inequality argument
+W2214,deterrence_weapon,1,Argues against doctrines of deterrence; engages weapons logic
+W2241,peaceful_use,1,Question on siting and safety of atomic accelerator facility (cf. V012)
+W2288,relevant,no,Agenda list item with no sentence on a nuclear matter (codebook: headings/agenda items)
+W2316,disarmament,0,"Global non-proliferation framework, not disarmament (cf. V284)"
+W2352,deterrence_weapon,0,Plant waste hazard; no weapons content
+W2352,security_threat,1,Chinese nuclear plant in Tibet discharging waste into Brahmaputra threatens India
+W2352,autonomy,0,Sovereignty word used for external hazard; no independence-of-decision argument
+W2380,security_threat,0,Global proliferation concern; no specific danger to India stated
+W2393,relevant,no,Heading plus holding answer; no sentence about the nuclear matter
+W2412,autonomy,1,Rejects third-party involvement and others arrogating responsibility for regional peace
+W2435,stance,peaceful_only,"Minister defends Narora siting and safety measures (cf. V018, V237)"
+W0023,relevant,yes,Lists capacity of named nuclear power stations; figures on plant output are relevant (V541)
+W0023,peaceful_use,1,Nuclear power stations and their capacity
+W0023,stance,neutral,Statistical table with no argument
+W0042,autonomy,0,Reports Boeing view of sanctions impact; no independence-of-decision claim (cf. V350)
+W0070,stance,neutral,Questions reliance on US/UK and notes China bomb but states no build/option posture (V032)
+W0107,relevant,no,Non-proliferation and disarmament only listed as dialogue topics; passing mention
+W0126,discrimination,0,Treaty called detrimental to interests; no inequality argument
+W0181,discrimination,0,Non-discriminatory only an adjective for a disarmament regime; no inequality argument
+W0213,stance,peaceful_only,Reports irradiation technology as satisfactory and promotes its usefulness and safety (favourable report)
+W0273,discrimination,0,Question on NPT modifications; no inequality argument
+W0314,deterrence_weapon,0,"Chinese/Pakistani missiles only as threat; no weapons logic for India (V428, V507)"
+W0314,stance,neutral,Question asking whether India complained to the UN; no posture (V533)
+W0359,autonomy,1,India opposes and takes up US export curbs on its institutions; resists outside pressure (V494)
+W0390,discrimination,0,No inequality argument
+W0390,deterrence_weapon,1,Argues weaponisation did not act as an effective deterrent (weapons logic)
+W0425,security_threat,0,Diplomatic isolation is not an external danger to India
+W0425,autonomy,0,Asks about isolation fallout; no sovereignty or pressure claim
+W0483,relevant,no,Board of Research in Nuclear Science named only in an S&T list
+W0504,deterrence_weapon,0,"Tests cited for political handling and diplomacy only (V274, V301)"
+W0504,stance,critical_of_tests,Criticises political encashing of Pokhran and resulting foreign-policy failure (handling; rule 2)
+W0527,deterrence_weapon,0,Tests cited only as an instance of resisting pressure (V166)
+W0527,stance,keep_option,Resists US pressure to sign CTBT and NPT; no call to build
+W0550,stance,peaceful_only,Argues India should develop its atomic mineral resources before explosions
+W0581,discrimination,0,Clarification on China blackmail remark; no inequality argument
+W0609,security_threat,1,"Grave concern at nuclear bases in the Indian Ocean (V173, V174, V313)"
+W0642,relevant,yes,Table gives nuclear generation figures by state; plant output figures are relevant (V541)
+W0642,peaceful_use,1,Nuclear power generation
+W0642,stance,neutral,Statistics with no argument
+W0682,relevant,yes,Discusses Pressler Amendment bar on states with nuclear weapons programmes and exceptions for Pakistan
+W0682,security_threat,1,Pakistan arms and nuclear programme as destabilising danger to India
+W0682,stance,other_country,About US policy toward Pakistan; no Indian nuclear posture
+W0714,stance,neutral,Question asking whether Western states will change position; no posture stated
+W0747,peaceful_use,1,"Question on an atomic research installation and its operations (V012, V140)"
+W0778,deterrence_weapon,0,Option to build is option_open; no deterrence or weapons-use logic
+W0778,security_threat,0,Pressure to accept NPT is autonomy; no external danger stated
+W0794,discrimination,0,No inequality argument
+W0794,deterrence_weapon,1,Atom bomb as the most effective armament India should have
+W0794,security_threat,1,National animosities; cannot afford to lag behind in defence (V048)
+W0819,peaceful_use,1,Proliferation of nuclear technology for peaceful purposes and peaceful nuclear explosives
+W0819,stance,peaceful_only,Defends freedom for peaceful nuclear development; accepts universal safeguards against weapons; no option claim
+W0839,disarmament,0,"NPT progress is non-proliferation, not disarmament (V284)"
+W0839,stance,peaceful_only,Answer states nuclear energy exclusively for peaceful purposes; no stress on renunciation (tie-break)
+W0864,deterrence_weapon,0,Pakistani warning of nuclear war; no weapons-policy content
+W0864,security_threat,1,Danger of nuclear war in South Asia over Kashmir (V448)
+W0901,discrimination,0,Factual reply; no inequality argument
+W0901,autonomy,1,"US dissuading Russia and curbs on Indian institutions; outside pressure (V429, V290)"
+W0915,autonomy,1,"Stresses indigenous capability and resists World Bank-driven dismantling (self-reliance, V357)"
+W0938,discrimination,0,Calls for disarmament; no inequality argument
+W0958,relevant,no,Pokhran used only as a label for policy shift to bus diplomacy; passing mention
+W0983,stance,neutral,India denies attack plan and reaffirms non-attack agreement; no weapons posture
+W0997,autonomy,0,Spokesman denies aid linkage; no independence-of-decision argument
+W0997,stance,disarmament,Seeks non-discriminatory arrangements and global elimination; no refusal to sign stated
+W1030,stance,neutral,Question asking government reaction and steps (V533)
+W1051,discrimination,0,CTBT position on principle; no inequality argument
+W1080,stance,neutral,Descriptive account of reactor export offer (V134)
+W1112,deterrence_weapon,0,About indistinguishability of PNEs; no weapons-as-security logic
+W1148,option_open,0,No option or freedom-to-build language
+W1148,discrimination,1,Nuclear club and status club; vertical proliferation by existing powers
+W1164,deterrence_weapon,0,Pakistan nuclear plan as threat only (V507)
+W1164,security_threat,1,Pakistan nuclear programme linked to terrorism
+W1180,option_open,1,"Rejects unilateral capping of fissile production and NPT signing (V171, V539)"
+W1180,autonomy,0,No sovereignty or pressure argument (V539)
+W1245,disarmament,0,Elimination view mentioned only to be set aside for exercising option (cf. V220)
+W1269,relevant,yes,States India commissioned its first Indian-designed nuclear power station
+W1269,peaceful_use,1,Nuclear power station for common people needs
+W1269,stance,peaceful_only,Reports the nuclear power station favourably as an achievement (V495)
+W1307,discrimination,0,Complaint about regional confinement; no nuclear inequality argument
+W1307,stance,keep_option,Objects to US capping and rollback of India capabilities; prefers global approach
+W1344,stance,disarmament,"India must play big role stopping big-power arms race; New Delhi message (V077, V363)"
+W1365,relevant,no,Nuclear weapons mentioned in passing in a sentence on defending freedom
+W1397,discrimination,0,No inequality argument
+W1409,deterrence_weapon,1,Weighs decision not to go nuclear against China blackmail (V438)
+W1409,stance,neutral,Accepts not going nuclear; asks what government will do (V533)
+W1439,deterrence_weapon,0,No weapons logic; about Pressler applicability
+W1439,security_threat,0,"Pakistan programme cited only as contrast, no danger point"
+W1439,autonomy,0,No independence claim; objects to equation with Pakistan (cf. V100)
+W1478,relevant,yes,"Hiroshima homage; general statement on nuclear destruction (codebook 1.0, V403)"
+W1478,stance,neutral,General fear of nuclear war with no call to action
+W1495,autonomy,0,Will not sign discriminatory NPT; no pressure or sovereignty argument (V539)
+W1505,stance,neutral,Demand to destroy Pakistan nuclear stations fits no Indian weapons posture; proposes Indian action so not other_country
+W1538,disarmament,0,NPT extension question; no disarmament content
+W1538,autonomy,0,Third World unity against nuclear powers is discrimination; no India independence claim
+W1558,peaceful_use,1,Disposal of radioactive waste from atomic power reactors
+W1577,relevant,no,Atomic installations mentioned in passing; question is about CIA espionage gadgets
+W1612,peaceful_use,0,Bill introduction by name only; no nuclear energy content
+W1641,security_threat,1,Deterrent to safeguard territorial integrity against threat of force (national security)
+W1663,security_threat,1,Neighbours nuclear weapon development programmes (other states programmes)
+W1687,stance,peaceful_only,"Minister defends plant safety records (V018, V237)"
+W1697,stance,peaceful_only,"Reply reassures radiation near RAPS is low and within limits (V018, V237)"
+W1718,security_threat,0,Collective security definition; no danger to India
+W1718,stance,neutral,Question on NPT reservations; no posture stated (V547)
+W1750,discrimination,0,Balance of obligations noted in passing; argument is about China and proliferation
+W1750,autonomy,0,No pressure or sovereignty argument
+W1750,stance,keep_option,Asks to speed technological preparation for knowing how to make bombs; capability not bomb now
+W1772,disarmament,0,NPT drafting and rejecting nuclear-armed force; no weapons reduction content (V284)
+W1801,option_open,0,Freedom for peaceful explosions; treaty not tied to weapons choice (codebook 1.0)
+W1825,deterrence_weapon,0,Chinese ICBM and test as threat only (V428)
+W1825,stance,neutral,Question whether protest lodged; no posture (V533)
+W1851,deterrence_weapon,1,Engages and rejects balance-of-deterrence rationale (weapons logic argued against)
+W1874,deterrence_weapon,0,China bomb capacity as threat only (V428)
+W1874,security_threat,1,Danger from China nuclear tests and attitude
+W1891,discrimination,0,No inequality argument
+W1891,autonomy,0,Concerns about US paper conveyed; no independence-of-decision argument (V114)
+W1917,relevant,no,Non-proliferation only listed as a briefing topic
+W1963,discrimination,0,Non-discriminatory only an adjective for disarmament; no inequality argument
+W1963,deterrence_weapon,0,Disarmament and CTBT diplomacy; no weapons logic
+W1981,stance,critical_of_tests,Says country entered a crisis after the tests (consequences; rule 2)
+W1997,stance,neutral,Dominant content is a uranium security lapse and secrecy; past advocacy only background
+W2031,stance,peaceful_only,Reply assures safety measures keep exposure within standards (V018)
+W2054,security_threat,0,"Test deplored as against mankind welfare, not as threat to India (V530)"
+W2092,autonomy,0,Approves not signing NPT and asks about talks; no pressure or sovereignty argument (V539)
+W2120,peaceful_use,1,"Concerns about an atomic energy plant (V088, V140)"
+W2150,stance,other_country,India abstention on North Korea; nothing on India own posture
+W2182,stance,neutral,Factual answer on DAE keeping abreast of technology; no posture
+W2199,discrimination,0,Questions need for new standards; no explicit inequality argument
+W2216,disarmament,0,CTBT named with no disarmament argument (V156)
+W2252,discrimination,0,No inequality argument
+W2252,deterrence_weapon,0,"Tests cited for explaining diplomatically only (V274, V550)"
+W2290,option_open,0,NPT refusal conditioned on great-power reductions; no weapons-choice language
+W2290,deterrence_weapon,0,No weapons logic
+W2290,stance,disarmament,Dominant: demands assurance atomic energy never diverted to war-like use; NPT tied to stock reductions
+W2327,option_open,0,"Option exercised, India now a weapon state; not keeping option"
+W2354,stance,disarmament,Condemns arms race and use doctrines; endorses NAM summit disarmament agenda (V363)
+W2381,autonomy,0,Refusing CTBT mentioned; no pressure or sovereignty argument
+W2394,relevant,no,"Employee strike at plant; labour issue, like canteen staff example"
+W2416,relevant,no,Delhi Declaration named only in a list of relations milestones
+W2443,relevant,yes,PM statement on nuclear energy for peaceful purposes and technology-denial regimes
+W2443,peaceful_use,1,Nuclear energy for peaceful purposes
+W2443,autonomy,1,Indigenous capabilities and removal of embargoes (V357)
+W2443,stance,peaceful_only,Favourable statement on the peaceful programme; no weapons position
+W0031,deterrence_weapon,0,"Pakistan's nuclear capability as threat; question asks for steps, no weapons logic for India (V162, V533)"
+W0055,deterrence_weapon,0,Pokhran cited only for diplomatic consequences/isolation (V274)
+W0074,deterrence_weapon,0,Pakistan's clandestine programme as threat only; no weapons-policy content (V507)
+W0074,autonomy,0,Confidence in defence preparedness; no outside pressure or sovereignty argument
+W0114,relevant,yes,Question asks installed nuclear power generation capacity; factual plant question is relevant (V541)
+W0114,peaceful_use,1,Nuclear power generation capacity
+W0114,stance,neutral,Bare factual question on capacity
+W0140,discrimination,1,Nuclear powers obstruct India's peaceful programme in the name of proliferation: unequal order (V494)
+W0140,deterrence_weapon,0,No weapons content; question concerns peaceful programme
+W0140,autonomy,1,Outside powers obstructing India's programme: outside pressure (V494)
+W0188,deterrence_weapon,1,Nuclear promiscuity vs brahmacharya; economics of nuclear arms for India
+W0188,security_threat,1,Government answerable for the security of the nation (national security)
+W0214,security_threat,0,UAR threat to Israel; no danger to India
+W0274,relevant,no,"Bond scheme; tests mentioned in passing, nothing about the nuclear matter itself"
+W0326,option_open,1,Programmes non-negotiable and irreversible: refuses to give up capability
+W0326,deterrence_weapon,1,Missile programme (delivery systems) (V416)
+W0326,security_threat,0,"US curbing activism is pressure (autonomy), not a danger to India"
+W0326,stance,keep_option,Loaded question keeps nuclear and missile capability without calling to build
+W0371,deterrence_weapon,0,Pakistan's weapons quest as concern only; no weapons logic (V507)
+W0371,security_threat,1,Serious concern over Pakistan's weapons-oriented programme
+W0393,option_open,1,Not acquiring weapons despite proven technological capacity: capability kept without commitment
+W0432,option_open,1,"Describes policy 'we can make the bomb, but would not do it'"
+W0432,security_threat,1,Nuclear shield against China and blackmail; guarantees are security_threat
+W0432,autonomy,0,No sovereignty or pressure argument
+W0496,autonomy,1,"Import substitution, indigenising and mastering technology: self-reliance (V357)"
+W0507,discrimination,0,No inequality argument; calls for freeze and elimination
+W0507,deterrence_weapon,1,Discusses deterrence doctrines and no-use of weapons (V144)
+W0529,relevant,yes,Sentence claims Pokhran explosion and Agni test as Congress policy results
+W0529,deterrence_weapon,1,"Nuclear test and Agni missile (testing, delivery)"
+W0529,stance,pro_bomb,"Claims credit for the tests, implicitly welcoming them"
+W0568,deterrence_weapon,0,US sabotage of facilities; no weapons-security logic
+W0568,security_threat,1,India among countries targeted by US design to sabotage facilities
+W0568,stance,disarmament,Endorses disarmament on equal footing as goal; no option or build call
+W0584,disarmament,0,General critique of nuclear thinking; no reduction or elimination call (V270)
+W0610,stance,pro_bomb,"Post-1998 defence of Agni development and posture, though affirming elimination (rule 3)"
+W0650,disarmament,0,"Risk reduction and CBMs are not disarmament (V144, V511)"
+W0691,relevant,yes,States power sharing from second unit of nuclear plant undecided (V088)
+W0691,peaceful_use,1,Nuclear power plant
+W0691,stance,neutral,Factual
+W0718,security_threat,1,Defence capability and deterrent constrained by superpowers: national security
+W0718,stance,disarmament,States India has forsworn nuclear arms; renunciation without option
+W0750,discrimination,0,Rejects pressure but no inequality/haves-have-nots argument
+W0779,stance,neutral,Question on sanctions' effect; does not criticise the tests
+W0797,stance,disarmament,Calls for early non-proliferation treaty and end to arms race
+W0824,relevant,no,Peaceful nuclear cooperation only a passing item in cooperation list
+W0843,deterrence_weapon,0,Moral distress at bomb talk; no weapons-security logic
+W0866,security_threat,0,No danger to India; peace and disarmament commitments
+W0903,deterrence_weapon,1,Israel's nuclear power as threat; India to face dangers by own nuclear self-sufficiency
+W0903,stance,pro_bomb,"Demands programme so India not at 'nuclear mercy' of others, like Israel's threat capacity"
+W0917,option_open,0,"PNE freedom argued for development, not tied to weapons choice"
+W0917,discrimination,1,Poor and developing nations should not alone be denied technology; nondiscriminatory safeguards
+W0917,autonomy,0,No pressure or sovereignty argument
+W0939,relevant,yes,Policy on prescribed substances under Atomic Energy Act: nuclear materials
+W0939,peaceful_use,0,Mineral mining controls; no nuclear energy or development content
+W0939,stance,neutral,Descriptive policy statement
+W0965,relevant,yes,Reports Agreement on Peaceful Uses of Atomic Energy ready for signature (V540)
+W0965,peaceful_use,1,Peaceful uses of atomic energy agreement
+W0965,stance,neutral,Factual report
+W0985,stance,neutral,Question on dangers and precautions; no criticism of the tests stated
+W1002,autonomy,1,America trying to foist conditions on Tarapur fuel: outside pressure
+W1031,option_open,1,Not going to sign the NPT (V539)
+W1031,discrimination,0,No inequality argument in the passage
+W1052,security_threat,0,US proposals described; no danger to India
+W1086,option_open,0,Denies press report; no weapons-option language
+W1086,stance,neutral,Denial of a press report; no posture on weapons
+W1115,security_threat,1,Discusses China's nuclear capability and invasion danger
+W1115,stance,disarmament,Opposes changing no-bomb policy after China's blast; stands by test ban
+W1150,stance,peaceful_only,Argues for a nuclear power station for power shortage (V057)
+W1167,stance,peaceful_only,"Reply defends health and safety programme at plants (V018, V237)"
+W1181,peaceful_use,1,Question on atomic energy plants (V140)
+W1246,security_threat,0,Visa denials and isolation; no danger to India
+W1273,security_threat,1,Internal security and cross-border terrorism
+W1273,autonomy,0,No pressure or sovereignty argument
+W1311,peaceful_use,1,Radioactive sources for well logging: isotopes
+W1346,security_threat,1,Weapon-free world would enhance India's security (national security)
+W1371,relevant,yes,Nuclear generation targets and actuals (V541)
+W1371,peaceful_use,1,Nuclear power generation
+W1371,stance,neutral,Figures only
+W1399,autonomy,0,"Sanctions mentioned factually; no independence claim (V350, V419)"
+W1421,disarmament,1,Presses for universal disarmament treaties and elimination of all nuclear weapons
+W1421,option_open,0,No weapons-option language
+W1421,discrimination,1,"NPT discriminatory, haves and have nots"
+W1421,stance,keep_option,Rejects discriminatory NPT and its extension without calling to build (rule 4)
+W1440,stance,disarmament,India backs Gromyko principle in disarmament committee: endorses disarmament plan
+W1481,security_threat,1,Deterrent against WMD use or threat against India (V377)
+W1496,security_threat,1,Strengthen capability so big powers cannot act against India
+W1496,autonomy,0,Argument is monopoly and threat; no pressure/sovereignty claim (V171)
+W1519,deterrence_weapon,1,Dispute over whether China's threat justifies India's nuclear weapons programme
+W1539,disarmament,0,Disarmament Committee named only as venue (V420); assurances not disarmament (V284)
+W1539,deterrence_weapon,0,No weapons logic; assurances only
+W1539,security_threat,1,Great-power assurances of non-nuclear states' security
+W1559,discrimination,0,Monopoly claim raised only to be dismissed (V220)
+W1559,stance,other_country,Only lists other nuclear powers; nothing on India
+W1583,discrimination,0,No inequality argument
+W1583,deterrence_weapon,1,Asks about India's nuclear-weapon-state status
+W1614,disarmament,1,Fear of stockpiles; India's peace initiative to find a way out
+W1614,stance,disarmament,Presents India as peace-maker pursuing initiative against nuclear war
+W1642,discrimination,0,No inequality argument
+W1642,deterrence_weapon,1,Review nuclear policy to match Pakistan's weapons advance
+W1642,stance,pro_bomb,Loaded question: match Pakistan's nuclear weapons advance (tie-break)
+W1664,discrimination,0,"Hegemony refers to military attacks, not nuclear order"
+W1664,autonomy,0,No independence-of-decision claim
+W1690,stance,keep_option,Resists US pressure on missile programme while others proliferate; no build call (V231)
+W1702,deterrence_weapon,0,Tests mentioned only for Pakistani reaction (V550)
+W1702,security_threat,0,Hostile propaganda only; no security danger stated
+W1719,stance,peaceful_only,Hopes for fresh thrust to peaceful uses cooperation; favourable
+W1760,option_open,1,NPT would bind India not to manufacture weapons: surrender of choice
+W1760,deterrence_weapon,0,"Weapons cited as monopoly and blackmail, not weapons policy (V411)"
+W1773,disarmament,0,CTBT position named; no disarmament content (V156)
+W1773,stance,pro_bomb,"Post-test: national security concerns addressed, now reassurance (rule 3)"
+W1802,discrimination,1,No country should be guardian of the world: hegemony
+W1802,security_threat,0,No danger to India
+W1802,autonomy,1,No country should dictate to others
+W1826,deterrence_weapon,0,No weapons logic; global disarmament and NPT pressure
+W1826,autonomy,1,American effort to make India sign NPT; India put in a bind
+W1852,deterrence_weapon,0,China's tests reported; no weapons policy (V428)
+W1852,security_threat,0,Factual listing of China's tests; no danger stated
+W1875,disarmament,0,CTBT named in question with no disarmament argument (V156)
+W1894,deterrence_weapon,1,Weighs manufacturing atomic weapons against China's explosion (V438)
+W1918,stance,neutral,Descriptive list of safety features (V380)
+W1965,relevant,yes,Heavy water plant's dependence on fertilizer plant: fact about nuclear facility
+W1965,peaceful_use,1,Atomic Energy heavy water plant
+W1965,stance,neutral,Factual
+W1983,peaceful_use,1,Question on unused nuclear material in programme
+W2007,option_open,0,No weapons-option language
+W2007,discrimination,1,Demands balanced obligations of nuclear and non-nuclear powers
+W2035,peaceful_use,0,Development sentence cut off; no energy content stated
+W2035,autonomy,0,No pressure or sovereignty argument
+W2060,discrimination,0,No inequality argument
+W2060,security_threat,1,CTBT did not address security concerns; assured security
+W2098,peaceful_use,0,No nuclear energy content
+W2098,discrimination,1,Unjust fiats by weapon states without own commitments
+W2129,stance,neutral,Regrets lack of measures against Pakistan's bombs; no Indian posture (V533)
+W2155,stance,keep_option,India could not be party to discriminatory CTBT (rule 4 precedes disarmament)
+W2185,discrimination,0,No inequality argument
+W2185,deterrence_weapon,1,Nuclear deterrence in national agenda
+W2200,deterrence_weapon,1,"Weapon states' doctrines, targeting, ABM, testing (V144)"
+W2200,stance,disarmament,CTBT faulted as not real disarmament; no refusal stated
+W2217,option_open,0,No weapons-option language
+W2217,discrimination,1,NPT lets few keep weapons while others denied
+W2217,deterrence_weapon,1,Rejects argument that security of few depends on nuclear weapons
+W2217,stance,disarmament,Goal of world free of nuclear weapons; no refusal or build call
+W2260,option_open,0,No weapons-option language
+W2260,discrimination,1,NPT discriminatory; vertical proliferation by five
+W2292,relevant,yes,Argues whether China's nuclear power drove US-China detente
+W2292,stance,other_country,About China's nuclear power only
+W2330,disarmament,0,CTBT named with no disarmament argument (V156)
+W2330,security_threat,1,Asks about review of peace and security in South Asia
+W2330,stance,neutral,Question asking government reaction and review
+W2371,relevant,yes,General statement on nuclear-age destruction danger (codebook 1.0)
+W2371,peaceful_use,1,"Rightly used, nuclear-age technology can transform mankind"
+W2371,stance,neutral,General remark; no call to action
+W2382,stance,neutral,Analyses US verification argument; no Indian posture stated
+W2398,relevant,no,Recruitment rules at NPCIL; nuclear only as name
+W2418,stance,peaceful_only,Reports favourably that Indian scientists conduct AEC work
+W2444,relevant,yes,States India's opposition to nuclear collaboration with South Africa
+W2444,stance,other_country,About other states' collaboration; nothing on India's posture
+W0033,option_open,0,No option or weapons-choice language in the statement
+W0033,discrimination,1,Regime legitimises arsenals of five NPT weapon powers in perpetuity (inequality)
+W0033,security_threat,0,Regional security mentioned only in quoted NAM text; no danger to India argued
+W0033,stance,disarmament,Does not justify tests; says tests underline need to achieve nuclear disarmament and elimination
+W0056,deterrence_weapon,0,Tests cited only for diplomatic reception at ARF (precedent V274/V550)
+W0084,disarmament,0,Talks on nuclear and non-proliferation issues reported; no disarmament argument
+W0116,discrimination,0,Complains of US pressure on NPT and safeguards; no inequality argument (autonomy carries it)
+W0146,autonomy,1,Question on sanctions imposed after test; sanctions are in the autonomy frame (V470)
+W0194,discrimination,1,Objects to distinction between aligned and non-aligned non-nuclear nations; that distinction ought to go
+W0215,security_threat,1,Recounts Pakistan's unprovoked 1971 attack on India; external danger
+W0275,relevant,no,Nuclear issues mentioned only as not discussed; passing mention with no nuclear content
+W0332,disarmament,1,Presents nuclear disarmament as an emphasis of India's Nehru-era policy (India as champion)
+W0332,deterrence_weapon,0,May 1998 explosions merely mentioned before truncation; no weapons logic stated
+W0332,stance,neutral,Truncated before any posture on the tests; China concern only; judge text alone
+W0372,discrimination,0,Question about coordinating with potential weapon powers; no inequality argument made
+W0397,option_open,1,'We will not be dictated ... in exercise of nuclear option'
+W0397,deterrence_weapon,0,No weapons or deterrence logic; argument is about who decides
+W0397,security_threat,1,Centres on India's security requirements (national security in general)
+W0437,disarmament,0,CTBT named only in a meeting report (precedent V156)
+W0498,discrimination,0,US reluctance to see India dominant; no nuclear-order inequality argument
+W0498,deterrence_weapon,0,Renunciation of nuclear device carried by stance; no weapons logic (cf. V101)
+W0498,security_threat,0,States India has no designs on China or Pakistan; no danger to India
+W0514,stance,peaceful_only,Defends reserving minerals 'to sustain the atomic energy programme'; argues for the programme
+W0533,peaceful_use,1,"Question about Tarapur nuclear power plant (plant questions carry peaceful_use, V140)"
+W0573,discrimination,1,Rejects 'controls by some States over other States ... to the advantage of some States'
+W0586,stance,disarmament,Reports India's view on the need for disarmament shared with host
+W0612,deterrence_weapon,0,Foreign bases as threat; no weapons-policy content
+W0612,security_threat,1,Great-power nuclear bases in the Indian Ocean (V173/V174)
+W0659,security_threat,1,Pakistan's Kashmir linkage and cross-border terrorism; external danger
+W0694,discrimination,0,Faults weapon-reliant states' reluctance; no explicit inequality argument
+W0694,autonomy,0,Security imperative and restraint; no sovereignty or outside-pressure claim
+W0728,stance,peaceful_only,Regrets lack of finance for Nuclear Power Corporation projects; argues for programme (V057)
+W0752,stance,neutral,Question asking details and government steps on Pakistan threat; no posture (V533)
+W0787,deterrence_weapon,1,China as threat-perception reason for explosions; proud of tests
+W0803,stance,neutral,Mentions guarantee against nuclear attack and China's bomb; no Indian posture (V032)
+W0829,autonomy,0,Self-confidence and domestic credit dispute; no outside pressure or self-reliance claim
+W0853,security_threat,1,Discusses 'security environment of this country' and peril
+W0869,option_open,1,Refuses to sign NPT (precedent V539)
+W0869,discrimination,0,Notes treaty comes from superpowers; no inequality argument
+W0869,deterrence_weapon,1,Asks for nuclear improvement within defence expenditure
+W0904,disarmament,0,CTBT named in sanctions question; no disarmament content (V156)
+W0922,autonomy,0,Port-visit policy; no pressure or sovereignty argument
+W0950,discrimination,0,Question on exclusion; no inequality argument stated
+W0950,autonomy,1,"Question on US conditioning India's inclusion on NPT (outside pressure, V290/V429)"
+W0969,peaceful_use,0,Nuclear propulsion for naval submarine; not energy for development
+W0969,security_threat,1,'India has a long coastline to defend'; national security
+W0969,stance,neutral,Factual reassurance submarine carries no weapons; no posture on India's weapons
+W0986,deterrence_weapon,1,Engages nuclear weapons policy and message to weaker neighbours
+W1003,option_open,0,No weapons-choice language
+W1003,discrimination,1,Arms spending 'strengthening the monopoly of the nuclear-weapon Powers'
+W1036,disarmament,0,CTBT implementation question; no disarmament argument (V156)
+W1053,discrimination,0,Faults CTBT as not disarmament and having loopholes; no inequality argument here
+W1099,security_threat,1,Great-power military build-up in Indian Ocean threatening region (V447)
+W1120,autonomy,1,Denies India agreed 'under US pressure'; independence of decision
+W1151,discrimination,0,Says NPT/CTBT lose relevance; no inequality argument
+W1151,autonomy,0,No sovereignty or pressure argument
+W1173,autonomy,1,Scientists capable of 'independent contribution'; indigenous capability (V357)
+W1182,disarmament,1,'Our country has always played a leading role ... disarmament' (India as champion)
+W1182,security_threat,1,Pakistan armed by big power; border instigation; others' capability
+W1248,disarmament,0,Disarmament position mentioned without content (V100/V420)
+W1298,stance,neutral,Bare press-release report of agreement signing; no argument
+W1322,autonomy,1,"Stresses indigenous uranium and BARC's indigenous LEU know-how (self-reliance, V357)"
+W1322,stance,neutral,Factual written answer on fuel supply; descriptive (V134)
+W1348,autonomy,1,Question on US-initiated MTCR revision constraining India's programmes (outside pressure)
+W1386,stance,disarmament,"Dominant: GCD commitment; asks NPT altered toward disarmament, no refusal to sign stated"
+W1401,deterrence_weapon,1,Criticises Indonesia's intent to produce atomic power for defence (weapons-policy content)
+W1401,security_threat,0,No danger to India stated; framed as violation of Cairo declaration
+W1430,security_threat,0,Security as goal of disarmament; no external danger (cf. V530)
+W1445,autonomy,0,Asks about losses from stalled agreements; no pressure or sanctions claim
+W1483,discrimination,1,'Are we less capable of responsibility than those others...' double standard (V494)
+W1497,option_open,1,India 'had the nuclear capability' as threshold state before tests
+W1497,deterrence_weapon,0,Tests cited for consequences (sanctions) only (V274)
+W1497,autonomy,1,Sanctions imposed and negotiations with US after tests (V470)
+W1525,autonomy,0,Seeks Soviet collaboration; no independence claim (V219)
+W1542,autonomy,1,'Live without American aid'; not surrendering to US threats
+W1563,discrimination,0,'Non-discriminatory' only quoted from resolution in factual answer
+W1563,deterrence_weapon,0,Factual FMCT description; no weapons logic
+W1585,deterrence_weapon,0,Pakistan's weapons programme as concern only (V507)
+W1585,security_threat,1,Pakistan's nuclear weapons programme and US arms to Pakistan
+W1615,discrimination,0,Anti-NPT adherence stated; no inequality argument
+W1615,deterrence_weapon,0,"Explosion decision framed as capability/choice (option), no weapons logic"
+W1615,security_threat,1,'The giving of arms is a danger today' re Pakistan
+W1649,autonomy,1,"Weathered sanctions imposed after the tests (sanctions, V470)"
+W1670,relevant,yes,Regulator's radiation survey answer is nuclear-safety content (cf. V018)
+W1670,stance,neutral,Factual answer on radiation levels
+W1692,security_threat,0,Pakistan-USSR peaceful cooperation called 'not unusual'; no danger
+W1704,stance,peaceful_only,Praises nuclear energy as boon and thanks scientists
+W1727,autonomy,1,"Asks if reactor built principally by Indians with Indian materials (self-reliance, V008)"
+W1762,stance,neutral,Descriptive answer on food irradiation rules (V134)
+W1774,stance,disarmament,Urges signing CTBT; no explicit criticism of India's test
+W1807,stance,keep_option,India stays outside NPT on principled position (refuses treaty)
+W1836,discrimination,0,Faults NPT's ineffectiveness on proliferation; no inequality argument
+W1836,deterrence_weapon,0,No weapons logic
+W1836,security_threat,1,Nuclear material smuggled to a neighbour that should not have it
+W1836,autonomy,0,Sovereignty refers to other NAM states' choices; no Indian independence claim
+W1836,stance,keep_option,India not signatory and faults the treaty; refuses NPT without call to build
+W1857,stance,neutral,Asks government reaction and steps; no posture (V533)
+W1877,stance,neutral,Descriptive factual answer on BARC spin-offs (V134)
+W1898,option_open,1,Resists US attempt to stop nuclear knowledge and research (V390)
+W1898,deterrence_weapon,1,"US wants to stop India's missile programme (delivery systems, V416)"
+W1898,stance,keep_option,Wants capability preserved against pressure; no explicit test criticism
+W1919,peaceful_use,1,Defends peaceful reactors against discriminatory controls; IAEA role
+W1970,stance,other_country,Alarm at US nuclear base but no Indian call for removal (V478 tie-break)
+W1984,deterrence_weapon,0,Pokhran cited for economic cost only (V274)
+W2010,autonomy,0,Pakistan's sanctions; no Indian independence claim
+W2039,option_open,1,Atomic decisions weigh defence needs in best interests (V081/V162 option formula)
+W2039,security_threat,1,'Nobody can ignore the needs of defence' (national security)
+W2039,autonomy,1,Decisions taken only in 'the best interests of the country' (national interest)
+W2068,discrimination,0,'Nuclearized world thrust upon us'; no inequality argument
+W2109,peaceful_use,1,Criticises atomic energy power-sector targets (nuclear power for development)
+W2109,stance,neutral,"Mixed: faults atomic sector, notes surviving sanctions; no weapons posture"
+W2131,discrimination,0,"India-Pakistan aid treatment, not nuclear-order inequality"
+W2157,autonomy,0,"Argument is WTO benefits, not independence against pressure"
+W2192,security_threat,0,Diplomatic ties question; no danger (V359)
+W2204,discrimination,0,No inequality argument
+W2204,security_threat,1,Pakistan and China 'making great strides' in nuclear field
+W2227,relevant,yes,Asks nuclear power share of capacity; factual nuclear content (V541)
+W2227,peaceful_use,1,Nuclear power generation capacity (V541)
+W2227,stance,neutral,Bare factual question
+W2264,security_threat,0,Nuclear dialogue with China; no danger stated
+W2295,peaceful_use,1,Question on inspection of nuclear power reactors
+W2331,disarmament,0,Reported US-China non-proliferation demands; disarmament named in passing (V284)
+W2331,discrimination,0,Reports denial of weapon status without inequality argument
+W2331,autonomy,0,No pressure-resistance or sovereignty claim by India
+W2372,relevant,yes,"Fragment evaluates 'dreadful doctrine of winnability of nuclear war' (general nuclear war, V403)"
+W2372,stance,neutral,General nuclear-war statement with no call (V403)
+W2387,stance,disarmament,India deplores stalled disarmament and escalating arms race (V532)
+W2400,discrimination,0,Draft NPT unacceptable; no inequality argument
+W2420,autonomy,1,"Madras plant 'designed and fabricated indigenously' (self-reliance, V357)"
+W2448,stance,peaceful_only,'Proud of the progress made by scientists'; praises programme (V113)
