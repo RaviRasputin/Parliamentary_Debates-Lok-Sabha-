@@ -1,0 +1,12 @@
+field,n,pct_agree,alpha
+relevant,22,54.5,0.081
+stance,4,25.0,0.045
+stance (consensus items),2,50.0,0.4
+stance (adjudicated items),2,0.0,-0.2
+disarmament,4,75.0,0.533
+peaceful_use,4,75.0,0.0
+option_open,4,0.0,-0.75
+discrimination,4,50.0,-0.167
+deterrence_weapon,4,50.0,-0.167
+security_threat,4,50.0,-0.167
+autonomy,4,50.0,-0.167

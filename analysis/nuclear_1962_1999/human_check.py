@@ -1,6 +1,7 @@
 """Compare the author's blind human-check codes with the adjudicated model codes.
 
-Usage: python3 -I human_check.py VALDIR CODES_DIR
+Usage: python3 -I human_check.py VALDIR CODES_DIR [SAMPLE_CSV BATCH OUT_PREFIX]
+  defaults: human_check_sample.csv check human_check; relevant-only set: human_check2_sample.csv check2 human_check2
   VALDIR    validation folder (human_check_sample.csv, gold.csv, gold2.csv)
   CODES_DIR the coding page's exported documents, i.e. CODES_DIR/codes/H###.json
             (ArtifactData "list" of collection "codes" with out_dir=CODES_DIR)
@@ -11,6 +12,7 @@ from collections import Counter
 from pathlib import Path
 
 VAL, CODES = Path(sys.argv[1]), Path(sys.argv[2])
+SAMPLE, BATCH, PREFIX = (sys.argv[3:6] if len(sys.argv) > 5 else ("human_check_sample.csv", "check", "human_check"))
 FR = ["disarmament", "peaceful_use", "option_open", "discrimination", "deterrence_weapon", "security_threat", "autonomy"]
 
 
@@ -41,12 +43,12 @@ gold = {}
 for name in ("gold.csv", "gold2.csv"):
     for g in csv.DictReader(open(VAL / name, encoding="utf-8")):
         gold[g["code_id"]] = g
-sample = list(csv.DictReader(open(VAL / "human_check_sample.csv", encoding="utf-8")))
+sample = list(csv.DictReader(open(VAL / SAMPLE, encoding="utf-8")))
 human = {}
-for p in (CODES / "codes").glob("H*.json"):
+for p in (CODES / "codes").glob("*.json"):
     d = json.load(open(p, encoding="utf-8"))
     d = d.get("data", d)
-    if d.get("batch", "check") == "check":
+    if d.get("batch", "check") == BATCH:
         human[d["code_id"]] = d
 
 rows = []
@@ -55,7 +57,7 @@ for s in sample:
     if not h:
         continue
     g = gold[s["code_id"]]
-    rec = {"check_id": s["check_id"], "code_id": s["code_id"], "voice": s["voice"], "era": s["era"],
+    rec = {"check_id": s["check_id"], "code_id": s["code_id"], "voice": s["voice"], "era": s.get("era", s.get("year", "")),
            "adjudicated": g["adjudicated"], "human_relevant": h["relevant"], "model_relevant": g["relevant"],
            "human_stance": h.get("stance", ""), "model_stance": g["stance"]}
     framed = any(int(h.get(f, 0) or 0) for f in FR)
@@ -83,7 +85,7 @@ report("stance (adjudicated items)", [(r["human_stance"], r["model_stance"]) for
 for f in FR:
     report(f, [(r[f"human_{f}"], r[f"model_{f}"]) for r in both if r[f"human_{f}"] != ""])
 
-for name, recs in (("human_check_results.csv", rows), ("human_check_agreement.csv", out)):
+for name, recs in ((f"{PREFIX}_results.csv", rows), (f"{PREFIX}_agreement.csv", out)):
     with open(VAL / name, "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(recs[0])); w.writeheader(); w.writerows(recs)
 for o in out:
