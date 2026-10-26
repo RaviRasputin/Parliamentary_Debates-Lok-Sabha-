@@ -14,7 +14,17 @@ Sources (all four companion repositories, cloned side by side under one root):
 ```
 python3 extract.py <root containing the four repos> output 1962 1999   # ~30 min, 4 cores
 python3 analyze.py output
+curl -o parliament.csv https://raw.githubusercontent.com/datameet/india-election-data/master/parliament-elections/parliament.csv
+python3 party.py output parliament.csv      # Lok Sabha party and government/opposition labels
+python3 party_analysis.py output
 ```
+
+`party.py` matches Lok Sabha speakers to election winners (ECI results compiled by DataMeet)
+by printed constituency and an order-independent name match, then codes each member
+government / outside support / opposition by the parties in office on the sitting date.
+About 57% of Lok Sabha member turns are matched. Rajya Sabha speakers get a party only
+from a name match against Lok Sabha winners; those labels are unreliable and are not used
+in `party_analysis.py`.
 
 `extract.py` splits each sitting at printed speaker labels, marks ministers (labels such as
 "THE MINISTER OF EXTERNAL AFFAIRS (SHRI ...):" and that person's later turns), keeps turns
@@ -39,6 +49,12 @@ and members, with 300-resample bootstrap intervals.
 | `active_members.csv` | Members with the most nuclear turns, by period |
 | `nehru_baseline.json` | Frame shares in Nehru's Selected Works, 1962–64 |
 | `corpus_sizes.csv` | Words per source and year |
+| `turns_party.csv` | `turns.csv` plus party, party family, match method and side |
+| `gap_by_side.csv` | Divergence from the MEA and from ministers, government vs opposition benches (Lok Sabha) |
+| `frames_by_family.csv` | Frame shares and key-phrase rates by party family and era (Lok Sabha) |
+| `lead_lag_party.csv` | First year each phrase is used, by side and party family (Lok Sabha) |
+| `robustness.csv` | Main gap measure without the security frame, and for each house separately |
+| `party_coverage.csv` | Member turns by side and matched/unmatched, by period |
 
 ## Caveats
 
