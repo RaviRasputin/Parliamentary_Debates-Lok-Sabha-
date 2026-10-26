@@ -1,0 +1,18 @@
+{
+  "autonomy": 1,
+  "batch": "check2",
+  "code_id": "R009",
+  "codebook": "1.0",
+  "coder": "human_1",
+  "confidence": "",
+  "deterrence_weapon": 1,
+  "disarmament": 0,
+  "discrimination": 0,
+  "note": "",
+  "option_open": 0,
+  "peaceful_use": 0,
+  "relevant": "yes",
+  "saved_at": "2026-10-26T10:26:54.386Z",
+  "security_threat": 1,
+  "stance": "pro_bomb"
+}

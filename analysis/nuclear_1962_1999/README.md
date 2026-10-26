@@ -1,5 +1,7 @@
 # Executive–legislative gap on nuclear policy, 1962–1999
 
+Start here: `CLAUDE.md` (project guide, status, how to reproduce) and `paper/closing_the_gap.md` (the paper).
+
 Code and output tables for a paper on how far India's executive and Parliament were
 apart on nuclear policy, and whether that gap narrowed between 1962 and 1999.
 

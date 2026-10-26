@@ -1,0 +1,18 @@
+{
+  "autonomy": 1,
+  "batch": "check",
+  "code_id": "H003",
+  "codebook": "1.0",
+  "coder": "human_1",
+  "confidence": 3,
+  "deterrence_weapon": 0,
+  "disarmament": 0,
+  "discrimination": 1,
+  "note": "",
+  "option_open": 1,
+  "peaceful_use": 0,
+  "relevant": "yes",
+  "saved_at": "2026-10-26T09:40:53.459Z",
+  "security_threat": 0,
+  "stance": "neutral"
+}
