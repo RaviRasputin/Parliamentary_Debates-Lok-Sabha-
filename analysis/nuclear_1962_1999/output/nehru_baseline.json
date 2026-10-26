@@ -1,0 +1,13 @@
+{
+ "swjn_chunks": 679,
+ "dist_swjn": {
+  "disarmament": 0.379,
+  "peaceful_use": 0.047,
+  "option_open": 0.0,
+  "discrimination": 0.045,
+  "deterrence_weapon": 0.055,
+  "security_threat": 0.448,
+  "autonomy": 0.025
+ },
+ "jsd_swjn_members_1962_64": 0.0626
+}
