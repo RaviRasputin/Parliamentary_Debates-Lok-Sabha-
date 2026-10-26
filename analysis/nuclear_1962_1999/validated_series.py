@@ -17,6 +17,10 @@ meta = {}
 for name in ("sample.csv", "sample2.csv"):
     for r in csv.DictReader(open(VAL / name, encoding="utf-8")):
         meta[r["code_id"]] = r
+# speaker-role fix (revoice.py): corrected voice and Lok Sabha side for parliamentary passages
+if (VAL / "voice_fix.csv").exists():
+    for r in csv.DictReader(open(VAL / "voice_fix.csv", encoding="utf-8")):
+        meta[r["code_id"]].update(voice=r["voice"], party=r["party"], side=r["side"])
 rows = []
 for name in ("gold.csv", "gold2.csv"):
     for g in csv.DictReader(open(VAL / name, encoding="utf-8")):

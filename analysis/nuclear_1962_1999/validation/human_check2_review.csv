@@ -1,0 +1,30 @@
+check_id,human,model,review,sides_with,reason
+R001,neutral,keep_option,keep_option,model,"India has capability, refrains from weapons, opposes the NPT as discriminatory: tie-break 'will not make the bomb, will not sign the NPT'"
+R002,pro_bomb,critical_of_tests,critical_of_tests,model,Notes India's isolation and the ARF's disapproval of the tests; nothing welcomes or justifies them (confidence 2)
+R003,not relevant,disarmament,disarmament,model,"No foreign warships carrying nuclear weapons in Indian ports: tie-break on nuclear-armed ships -> disarmament; weapons topic, so relevant"
+R004,neutral,pro_bomb,pro_bomb,model,"Tests 'a measured response to a deteriorating security environment': a post-1998 defence of the tests, even with the disarmament plan"
+R005,peaceful_only,critical_of_tests,critical_of_tests,model,'It has started an arms race ... this threat cannot be reduced by Pokharan'
+R006,other_country,pro_bomb,pro_bomb,model,Congratulates the scientists and the Government on the tests 'bringing glory to the nation'
+R007,keep_option,keep_option,keep_option,both,
+R008,peaceful_only,disarmament,disarmament,model,Nuclear-war casualties question; the minister's answer is India's disarmament policy; no energy content
+R009,pro_bomb,pro_bomb,pro_bomb,both,
+R010,other_country,disarmament,disarmament,model,"India's own position on a balanced NPT and the elimination of stocks, not another state's programme"
+R012,not relevant,keep_option,keep_option,model,Hindi: praises the PM's declared policy of not signing the NPT despite pressure; relevant under 1.1
+R013,pro_bomb,pro_bomb,pro_bomb,both,
+R014,pro_bomb,pro_bomb,pro_bomb,both,
+R015,pro_bomb,disarmament,disarmament,model,"The amendment regrets the omission of the plan to eliminate nuclear weapons; Jaswant Singh's speech has not yet begun (text only, no speaker guessing)"
+R016,neutral,disarmament,disarmament,model,MEA statement at the UN calling for disarmament; neutral is defensible because it recites UN history (confidence 2)
+R017,not relevant,neutral,neutral,model,"Lahore declaration on nuclear risk reduction and doctrines: nuclear diplomacy, relevant; no stance"
+R018,neutral,keep_option,keep_option,model,MTCR and NPT 'not acceptable' while discriminatory: refusing treaties that close the choice
+R019,keep_option,other_country,other_country,model,Question about China's means of delivery; no position on India's weapons
+R020,not relevant,other_country,other_country,model,Reports South African preparations to test nuclear weapons: a sentence about the nuclear matter itself (confidence 2)
+R021,not relevant,disarmament,disarmament,model,Big powers must not compete in missiles and bombs; India has a role in stopping it
+R022,neutral,neutral,neutral,both,
+R023,peaceful_only,keep_option,keep_option,model,Restates objections to the NPT and rejects the five-power conference; no energy content
+R024,keep_option,critical_of_tests,critical_of_tests,model,"Says the tests were conducted 'to remain in power', not for security"
+R025,not relevant,pro_bomb,neutral,neither,A factual answer on the test moratorium: relevant (tests) but no argument; 'successful' alone does not make it pro-bomb
+R026,neutral,critical_of_tests,critical_of_tests,model,'Your weaponisation did not act as an effective deterrent. You had Kargil'
+R027,not relevant,other_country,other_country,model,Indonesia's stated intention to make atomic power 'for defence purposes' breaches the Cairo code: another state's weapons plans
+R028,neutral,critical_of_tests,critical_of_tests,model,The Finance Minister was 'kept in the dark'; sanctions were inevitable after the test (also a role error: opposition speaker coded minister)
+R029,peaceful_only,critical_of_tests,critical_of_tests,model,Hindi: 'you exploded a nuclear device'; the technology should have gone to water and power for farmers; peaceful_only is defensible (confidence 2)
+R030,not relevant,neutral,not relevant,human,A one-line interjection ('About nuclear deterrent you have not mentioned') with no content; the reply is on defence indigenisation

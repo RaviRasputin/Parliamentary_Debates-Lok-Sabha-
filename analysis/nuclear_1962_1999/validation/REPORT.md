@@ -87,3 +87,28 @@ The author's first 22 human-check codes marked nuclear-energy, plant and uranium
 What changes: the frame convergence of 1994–97 is sharper (0.06 against 0.14 broad) and holds in 1998–99; the 1980s are closer than the broad series showed (0.18), because energy talk had kept members apart from the MEA's disarmament language. Keep-the-option now rises from 1990 in the executive (ministers 35%, MEA 21% in both 1990–93 and 1994–97) and reaches members only in 1994–97 (24%). The stance gap still does not close (0.30 in 1998–99). Ministers' cells are small (13–39 passages), and only three government/opposition cells reach the minimum size, so the side analysis is reported only for 1962–68 and 1998–99.
 
 Human check rescored (22 codes, model relevance under 1.1): relevance agreement 81.8% (alpha 0.49), up from 54.5% (alpha 0.08) under 1.0. Stance and frames rest on 3 passages and are not yet informative; the 30-passage relevant-only check (R001–R030) is for those.
+
+---
+
+# Human check of 30 relevant passages (R001–R030)
+
+The author coded 29 of the 30 passages blind (R011 left uncoded); scored with `human_check.py` (`human_check2_results.csv`, `human_check2_agreement.csv`).
+
+| Field | n | Agreement | Alpha |
+| --- | --- | --- | --- |
+| Relevant | 29 | 72% | n/a (the model said yes to all 30, by design of the sample) |
+| Stance | 21 | 24% | 0.11 |
+| Frames | 21 | 43% (option open) to 76% (disarmament, deterrence) | −0.18 to 0.53 |
+
+Review by Claude (`human_check2_review.csv`). Claude read each passage against the codebook with both codes in view, so this is not an independent third coder and may share the model coders' blind spots. Of 29 passages, the two codes agreed on 5; the review sided with the model on 22, with the author on 1 (R030, a one-line interjection), and with neither on 1 (R025, a factual answer on the test moratorium, ruled neutral). The recurring differences:
+
+- **Relevance of short or Hindi passages.** The author marked as not relevant a Hindi speech praising the refusal to sign the NPT (R012), a ruling against nuclear-armed warships in Indian ports (R003) and the Lahore risk-reduction text (R017). All are weapons topics under codebook 1.1.
+- **Peaceful-only for criticism.** Speeches that attack the tests (R005, R029) or restate NPT objections (R023) were coded peaceful only.
+- **Defences of the tests coded neutral or other-country** (R004, R006), which the codebook puts under pro-bomb.
+- **More frames per passage** (2.9 against 1.9). Peaceful use was marked in 11 of 21 passages (model 1) and option open in 13 (model 3).
+
+The check did turn up one fault in the pipeline, not in the coding. Two "minister" passages from 1998 (R028, R029) are opposition speeches. Two causes:
+- a plain-name turn kept ministerial status for the rest of the calendar year, even after the government changed;
+- a run-on sentence ending in "…Minister" followed by a member's label ("SHRI SUSHIL KUMAR SHINDE (Solapur):") was read as a minister's label.
+
+Both are fixed in `extract.py`. `revoice.py` re-derives every coded passage's voice from the new extraction. The codes are blind to voice, so they stand.

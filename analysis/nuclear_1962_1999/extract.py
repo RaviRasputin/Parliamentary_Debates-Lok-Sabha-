@@ -86,6 +86,33 @@ MONTHS = {m: i for i, m in enumerate(["january", "february", "march", "april", "
                                       "september", "october", "november", "december"], 1)}
 
 
+# Union governments (swearing-in dates). Ministerial status carried by plain-name turns
+# lapses when the government changes, so ex-ministers in opposition count as members.
+GOV_STARTS = ["1952-04-17", "1962-04-02", "1964-05-27", "1964-06-09", "1966-01-11", "1966-01-24",
+              "1967-03-13", "1971-03-18", "1977-03-24", "1979-07-28", "1980-01-14", "1984-10-31",
+              "1984-12-31", "1989-12-02", "1990-11-10", "1991-06-21", "1996-05-16", "1996-06-01",
+              "1997-04-21", "1998-03-19", "1999-10-13", "2004-05-22", "2009-05-22", "2014-05-26",
+              "2019-05-30", "2024-06-09"]
+
+
+def gov_start(date):
+    return max(g for g in GOV_STARTS if g <= date) if date >= GOV_STARTS[0] else GOV_STARTS[0]
+
+
+MEM_INSIDE = re.compile(HON + r"\s+[A-Z][A-Za-z.'\-]*(?:\s+[A-Z][A-Za-z.'\-]*){0,5}\s*\([^()]{2,60}\)$")
+
+
+def member_label_inside(lab):
+    """A sentence ending in '...Minister' that runs into a member's label ('SHRI X (Solapur)')
+    matches the minister pattern; real minister labels put the honorific inside the brackets.
+    Returns the member label if the match is such a run-on, else None."""
+    head, _, inner = lab.rpartition("(")
+    if re.match(r"\s*" + HON, inner):
+        return None
+    mm = MEM_INSIDE.search(lab)
+    return mm.group(0) if mm else None
+
+
 def norm_name(s):
     s = re.sub(r"\([^)]*\)", " ", s).upper()
     s = re.sub(r"\b(SHRI|SHRIMATI|SMT|DR|PROF|KUMARI|SARDAR|CH|MAULANA|PANDIT|ACHARYA|MR|MRS|MISS)\b\.?", " ", s)
@@ -136,7 +163,7 @@ def sittings(house, year):
 
 def process_house_year(args):
     house, year = args
-    exec_since = {}  # normalized name -> first date seen speaking as a minister
+    exec_last = {}  # normalized name -> last date seen speaking under a minister label
     turns, words_total = [], 0
     nm_rnd, nm_seen, nm_res = random.Random(NM_SEED + year), 0, []  # reservoir of near-miss turns
     for date, text in sittings(house, year):
@@ -144,17 +171,20 @@ def process_house_year(args):
         ms = list(LABEL.finditer(text))
         for i, m in enumerate(ms):
             seg = text[m.end(): ms[i + 1].start() if i + 1 < len(ms) else len(text)]
-            if m.group("exec"):
+            mislabel = m.group("exec") and member_label_inside(m.group("exec"))
+            if m.group("exec") and not mislabel:
                 role, name = "executive", m.group("ename")
                 key = norm_name(name)
-                exec_since.setdefault(key, date)
+                exec_last[key] = date
                 office = re.sub(r"\s+", " ", m.group("exec").split("(")[0]).strip()
             elif m.group("chair"):
                 role, name, office = "chair", m.group("chair"), ""
-            elif m.group("mem"):
-                name, office = m.group("mem"), ""
+            elif m.group("mem") or mislabel:
+                name, office = (mislabel or m.group("mem")), ""
                 key = norm_name(name)
-                role = "executive" if key in exec_since and exec_since[key] <= date else "member"
+                # a plain-name turn is ministerial only within the government in which the
+                # person last spoke under a minister label
+                role = "executive" if key in exec_last and exec_last[key] >= gov_start(date) else "member"
             else:
                 role, name, office = "member", m.group("hon"), ""
             if role == "chair":
