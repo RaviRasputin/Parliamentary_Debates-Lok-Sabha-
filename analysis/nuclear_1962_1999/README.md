@@ -16,6 +16,8 @@ python3 analyze.py output
 curl -o parliament.csv https://raw.githubusercontent.com/datameet/india-election-data/master/parliament-elections/parliament.csv
 python3 party.py output parliament.csv      # Lok Sabha party and government/opposition labels
 python3 party_analysis.py output
+python3 -I revoice.py output validation        # corrected voices for the coded sample
+python3 -I validated_series.py validation output   # main series (weapons and security; add 'broad' for all nuclear topics)
 python3 sample.py output validation          # validation sample (550 passages)
 ```
 

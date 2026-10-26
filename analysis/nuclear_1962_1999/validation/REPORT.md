@@ -112,3 +112,10 @@ The check did turn up one fault in the pipeline, not in the coding. Two "ministe
 - a run-on sentence ending in "…Minister" followed by a member's label ("SHRI SUSHIL KUMAR SHINDE (Solapur):") was read as a minister's label.
 
 Both are fixed in `extract.py`. `revoice.py` re-derives every coded passage's voice from the new extraction. The codes are blind to voice, so they stand.
+
+After the fix (fresh `extract.py` run, `party.py`, `party_analysis.py`, then `revoice.py`; `voice_fix.csv`), 14 of the 750 coded ministerial passages became members' passages: 7 Lok Sabha and 7 Rajya Sabha, among them Pranab Mukherjee in 1996, Basudeb Acharia in 1995 and Sushil Kumar Shinde in 1998. R029 (Som Pal, 1998) stays ministerial: he was a minister of state in the government at the time. The weapons-and-security series barely moves:
+- MEA vs members: 0.33, 0.36, 0.17, 0.26, 0.06, 0.08;
+- ministers vs members: 0.02, 0.17, 0.05, 0.34, 0.03, 0.03;
+- stance, MEA vs members: 0.25, 0.33, 0.16, 0.30, 0.20, 0.31.
+
+Dictionary outputs change only in the third decimal.

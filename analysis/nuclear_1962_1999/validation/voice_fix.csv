@@ -1,0 +1,2251 @@
+code_id,pid,old_voice,voice,speaker,party,side
+V001,RS-1987-08-13-7,minister,minister,SHRI SHTV- RAJ PATIL,,
+V002,RS-1993-03-11-2,RS_member,RS_member,SHRI S. MADHAVAN,,unknown
+V004,RS-1962-11-15-1,RS_member,RS_member,ch. Sum R. S. KHANDEKAR (Msdhya Pradesh),,unknown
+V005,RS-1972-05-18-4,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+V006,LS-1988-04-06-10,LS_member,LS_member,SHRI SYED SHAHABUDDIN,,unknown
+V007,RS-1989-03-02-1,RS_member,RS_member,SHRI M. A. BABY (Kerala),,unknown
+V008,LS-1995-04-26-1,minister,minister,SHRI H.R. BHARDWAJ,,
+V009,LS-1969-07-23-3,minister,minister,SHRIMATI INDIRA GANDHI,,
+V010,LS-1998-06-03-22,LS_member,LS_member,SHRI NAKLI SINGH,BJP,government
+V012,LS-1966-11-21-5,LS_member,LS_member,Dr. M. M. Das,INC,government
+V013,RS-1998-07-23-1,RS_member,RS_member,DR. ALLADI R RAJKUMAR,,unknown
+V015,LS-1997-05-16-1,LS_member,LS_member,SHRI P.N. SIVA (Pudukkottai),,unknown
+V016,LS-1978-04-17-10,minister,minister,SHRI MORARJI DESAI,,
+V017,LS-1989-07-20-2,minister,minister,SHRI K. NATWAR SINGH,,
+V018,RS-1999-12-09-10,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+V019,LS-1996-08-30-1,LS_member,LS_member,SHRI JAG MOHAN (New Delhi),,unknown
+V020,LS-1987-03-12-3,LS_member,LS_member,SHRI K S. RAO,,unknown
+V021,RS-1972-03-16-3,RS_member,RS_member,DR. BHAI MAHAVIR,,unknown
+V022,RS-1973-08-20-1,RS_member,RS_member,SHRI J. P. YADAV,,unknown
+V023,RS-1999-12-06-1,RS_member,RS_member,SHRI NILOTPAL BASU,,unknown
+V024,LS-1968-04-19-1,LS_member,LS_member,SHRI HEM BARUA,,unknown
+V026,LS-1962-03-27-1,minister,minister,Shri Kanungo,,
+V027,RS-1982-07-22-13,minister,minister,SHRI NIHAR RANJAN LASKAR,,
+V028,LS-1997-11-19-8,minister,minister,SHRI YOGINDER K. ALAGH,,
+V029,LS-1998-05-27-1,LS_member,LS_member,SHRI R. SAMBASIVA RAO,INC,opposition
+V030,RS-1988-02-25-14,RS_member,RS_member,SHRI V. NARAYANASAMY,,unknown
+V031,RS-1999-12-03-17,RS_member,RS_member,SHRI P. PRABHAKAR REDDY,,unknown
+V032,RS-1966-05-11-15,RS_member,RS_member,SHRI NIREN GHOSH,CPM,opposition
+V033,RS-1983-12-06-14,minister,minister,SHRI R. VENKATARAMAN,,
+V034,RS-1964-04-30-1,RS_member,RS_member,SHRI BIREN ROY,IND,opposition
+V035,LS-1968-05-03-1,LS_member,LS_member,SHRI H.N. MUKERJEE (Calcutta North East),,unknown
+V036,LS-1995-04-28-2,minister,LS_member,SHRI BASUDEB ACHARIA (Bankura),CPM,opposition
+V038,LS-1987-04-22-2,minister,minister,SHRI P. CHIDAMBARAM,,
+V039,LS-1986-12-03-19,LS_member,LS_member,SHRI RADHAKANTA DIGAL,,unknown
+V040,LS-1982-03-03-2,LS_member,LS_member,SHRI R. L. BHATIA,,unknown
+V041,LS-1986-07-29-2,minister,minister,SHRI RAM NIWAS MIRDHA,,
+V042,RS-1988-03-07-5,RS_member,RS_member,SHRI RAOOF VALIULLAH,,unknown
+V043,LS-1998-07-30-2,LS_member,LS_member,SHRI K.P. MOHAN (Dharmapuri),PMK,government
+V044,LS-1968-02-14-14,LS_member,LS_member,SHRI SAMAR GUHA,PSP,opposition
+V045,RS-1968-04-29-1,minister,minister,SHRI FAKHRUDDIN ALI AHMED,,
+V048,LS-1991-09-04-4,LS_member,LS_member,SHRI DAU DAYAL JOSHI (Kota),BJP,opposition
+V049,LS-1978-08-17-9,minister,minister,SHRI SAMARENDRA KUNDU,,
+V050,LS-1998-12-14-1,minister,minister,DR. MURLI MANOHAR JOSHI,,
+V052,LS-1983-08-16-1,minister,minister,SHRI P. SHIV SHANKAR,,
+V053,RS-1966-04-07-1,RS_member,RS_member,SHRI M. C. SHAH,,unknown
+V054,LS-1974-12-11-14,LS_member,LS_member,SHRI P. M. MEHTA,NCO,opposition
+V055,LS-1974-12-18-5,LS_member,LS_member,SHRIMATI SAVITRI SHYAM,INC,government
+V057,LS-1988-04-06-17,LS_member,LS_member,DR. G. VIJAYA RAM ARAO (Siddipet),,unknown
+V058,LS-1968-04-08-1,LS_member,LS_member,SHRI P. K. DEO (Kalahandi),SWA,opposition
+V059,RS-1995-05-17-5,RS_member,RS_member,SHRI RAMDAS AGARWAL,,unknown
+V060,RS-1972-03-30-5,minister,minister,SHRIMATI INDIRA GANDHI,,
+V061,RS-1992-12-03-7,RS_member,RS_member,SHRI DEBABRATA BISWAS,,unknown
+V062,RS-1994-08-04-2,RS_member,RS_member,SHRI KRISHNA KUMAR BIR. LA,,unknown
+V064,LS-1968-07-31-24,minister,minister,SHRI L. N. MISHRA,,
+V065,RS-1992-07-16-4,RS_member,RS_member,SHRI S. K. T. RAMACHAN- DRAN,,unknown
+V066,RS-1964-12-01-3,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+V067,RS-1973-12-10-3,RS_member,RS_member,SHRI KRISHAN KANT,BLD,opposition
+V068,LS-1996-12-17-9,LS_member,LS_member,SHRI PR AKASH MANI TRIPATHI,,unknown
+V069,RS-1966-08-09-4,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+V070,RS-1991-01-08-14,RS_member,RS_member,SHRI SHIVPRASAD CHANPU- RIA,,unclassified period
+V071,LS-1998-07-29-20,LS_member,LS_member,SHRI AJA Y KUMAR S. SARNAIK,,unknown
+V072,RS-1998-12-11-1,RS_member,RS_member,SHRI SANJAY NIRUPAM,,unknown
+V074,LS-1963-12-16-2,minister,minister,Shrimati Lakshmi Menon,,
+V075,RS-1976-01-29-3,RS_member,RS_member,SHRI INDRADEEP SINHA,,unknown
+V076,LS-1998-12-22-3,LS_member,LS_member,SHRI RUPCHAND PAl,CPM,opposition
+V077,RS-1962-05-02-5,RS_member,RS_member,SHRIMATI K. BHARATHI (Kerala),,unknown
+V079,LS-1970-03-11-13,minister,minister,SHRIMATI INDIRA GANDHI,,
+V080,RS-1997-08-07-12,RS_member,RS_member,SHRI BHAGABAN MAJHI,,unknown
+V081,LS-1982-07-29-6,minister,minister,SHRI P. V. NARASIMHA RAO,,
+V082,LS-1989-05-08-4,minister,minister,SHRIMATI SUMATIORAON,,
+V084,RS-1967-06-21-21,RS_member,RS_member,SHRI SURJIT SINGH ATWAL (Punjab),INC,government
+V086,LS-1999-03-04-17,LS_member,LS_member,SHRI SADASHtVRAO DADOBA MANDUK,,unknown
+V087,LS-1985-04-29-1,minister,minister,SHRI BUTA SINGH,,
+V088,LS-1973-04-25-14,minister,minister,DR. K. L. RAO,,
+V089,LS-1966-05-10-12,minister,minister,Shri Swaran Singh,,
+V091,LS-1965-05-10-14,LS_member,LS_member,Shri Ram MHarak Yadav,,unknown
+V092,LS-1994-12-07-15,LS_member,LS_member,SHRI GABHAJI MANGAJI THAKORE,BJP,opposition
+V093,RS-1967-06-20-2,RS_member,RS_member,SHRI BANK A BEHARY DAS,,unknown
+V094,LS-1962-06-22-6,LS_member,LS_member,Shri P. C. Borooah,,unknown
+V095,LS-1999-03-17-5,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+V097,LS-1997-05-06-21,LS_member,LS_member,SHRI LAKSHMAN SINGH (Rajgarh),INC,outside support
+V099,LS-1985-11-28-1,minister,minister,SHRIMATI MOH- SINA KIDW AI,,
+V100,RS-1987-12-07-10,RS_member,RS_member,SHRI RAJNI RANJAN SAHU,,unknown
+V101,RS-1967-05-22-4,RS_member,RS_member,SHRI P. N. SAPRU,,unknown
+V102,RS-1964-12-22-15,RS_member,RS_member,SHRI A. D. MANI,,unknown
+V103,RS-1974-12-19-6,RS_member,RS_member,SHRI J. S. ANAND,,unknown
+V104,LS-1998-05-29-35,LS_member,LS_member,SHRI MADHUKAR SIRPOTDAR,SHS,government
+V105,LS-1962-08-14-6,minister,minister,Shri Jawaharlal Nehru,,
+V107,RS-1983-03-04-14,RS_member,RS_member,SHRI KALRAJ MISHRA,,unknown
+V108,RS-1973-08-10-1,RS_member,RS_member,SHRI SUHRID MULLICK CHOWDHURY,,unknown
+V109,LS-1991-12-04-3,minister,minister,SHRIMATl MARGARET ALVA,,
+V110,LS-1973-08-30-4,minister,minister,SHRI SWARAN SINGH,,
+V111,LS-1988-08-31-19,minister,minister,SHRI CHIN- TAMANI PANIGRAHI,,
+V112,RS-1998-06-11-39,minister,minister,SHRIMATI VASDNDHRA RAJE,,
+V114,RS-1992-03-09-30,RS_member,RS_member,SHRI MURLIDHAR CHANDRA-KANT BHANDARE (Maharashtra),,unknown
+V115,LS-1988-03-09-2,minister,minister,SHRI SHIVRAJ V. PATIL,,
+V116,LS-1966-03-21-16,LS_member,LS_member,Shri H. N. Mukerjee,CPI,opposition
+V117,LS-1979-02-28-3,LS_member,LS_member,SHRI JANARDHANA POOJARY,INC,opposition
+V120,RS-1998-05-28-66,RS_member,RS_member,SHRI YOGINDER K. ALAGH,,unknown
+V122,RS-1999-12-20-3,minister,minister,SHRI PRAMOD MAHAJAN,,
+V123,LS-1999-12-09-5,minister,minister,SHRI l.K. ADVANI,,
+V124,LS-1998-12-16-2,LS_member,LS_member,SHRI PRAMOTHES KUMHERJEE SHRI NARESH PUGLIA,,unknown
+V125,RS-1997-11-27-21,minister,minister,SHRIMATI KAMALA SINHA,,
+V127,LS-1967-12-04-10,LS_member,LS_member,SHRI SHIVA CHANDRA JHA,SSP,opposition
+V128,RS-1982-04-30-7,RS_member,RS_member,SHRI AMARPROSAD CHA- KRABORTY,,unknown
+V129,LS-1973-12-05-6,LS_member,LS_member,SHRI RANABAHADUR SINGH,IND,opposition
+V131,LS-1998-07-17-9,minister,minister,SHRI YASHWANT SINHA,,
+V132,RS-1998-05-28-48,RS_member,RS_member,SHRI S. RAMACHANDRAN PIL-LAI,,unknown
+V135,RS-1966-02-15-2,RS_member,RS_member,SHRI A. D. MANI,,unknown
+V136,RS-1964-03-16-1,minister,minister,SHRI T. T. KRISHNAMACHARI,,
+V137,LS-1965-08-23-22,LS_member,LS_member,Shri Karni Singhji,IND,opposition
+V139,RS-1986-03-13-3,RS_member,RS_member,SHRIMATI MAIMOONA SUL- TAN,,unknown
+V140,LS-1986-08-06-3,LS_member,LS_member,SHRI ANAND SINGH,,unknown
+V143,RS-1993-08-12-3,RS_member,RS_member,MISS SAROJ KHAPARDE,,unknown
+V144,RS-1999-02-26-7,RS_member,RS_member,DR. MANMOHAN SINGH (Assam),INC,opposition
+V146,RS-1988-09-01-7,RS_member,RS_member,SHRI SUKOMAL SEN,,unknown
+V147,RS-1967-11-21-18,minister,minister,SHRIMATI INDIRA GANDHI,,
+V148,LS-1981-03-25-1,LS_member,LS_member,SHRI NITYANANDA MISRA,INC(I),government
+V149,LS-1987-11-17-4,LS_member,LS_member,SHRI RANJITSINGH GAEK- WAD,,unknown
+V150,RS-1968-02-29-4,minister,minister,SHRI K. K. SHAH,,
+V153,LS-1968-08-14-34,minister,minister,SHRIMATI INDIRA GANDHI,,
+V154,LS-1972-05-02-5,LS_member,LS_member,SHRIMATI BHARGAVI THANK- APPAN,,unknown
+V155,LS-1965-09-13-1,LS_member,LS_member,Shri Raghunath Singh,INC,government
+V156,RS-1999-02-26-15,minister,minister,SHRI JOHN F. FERNANDES (Goa),,
+V157,RS-1988-08-11-35,minister,minister,SHRI K. R. NARAYANAN,,
+V158,RS-1967-06-24-1,minister,minister,SARDAR SWARAN SINGH,,
+V160,LS-1997-02-26-8,minister,minister,T.R. BAALU,,
+V164,LS-1999-12-21-2,LS_member,LS_member,SHRI SUDIP BANDYOPAOHYAY,AITC,government
+V165,LS-1996-09-09-6,minister,minister,SHRI N.V.N. SOMU,,
+V166,RS-1999-03-08-1,RS_member,RS_member,SHRI J. CHITHRANJAN (Kerala),,unknown
+V168,RS-1967-05-22-6,minister,minister,SHRI M. C. CHAGLA,,
+V169,LS-1975-03-19-5,LS_member,LS_member,SHRI K. S. CHAVDA,NCO,opposition
+V170,RS-1967-06-01-3,RS_member,RS_member,SHRI NIREN GHOSH (West Bengal),CPM,opposition
+V172,LS-1994-12-14-13,LS_member,LS_member,SHRI R. SURENDER REDDY,,unknown
+V173,LS-1983-12-06-10,LS_member,LS_member,SHRI BRAJAMOHAN MOHAN- TY,,unknown
+V178,LS-1973-12-05-2,LS_member,LS_member,SHRI SAROJ MUKHERJEE,CPM,opposition
+V181,LS-1978-03-02-2,minister,minister,SHRI ATAL VAJPAYEE,,
+V182,LS-1999-03-12-16,LS_member,LS_member,SHRI BASWARAJ PATIL SEDAM (Gulbarga),BJP,government
+V183,LS-1998-07-09-8,LS_member,LS_member,SHRI JAGAT VIR SINGH ORONA,,unknown
+V184,RS-1990-05-11-2,RS_member,RS_member,Shri David Ledger. SHRI DAVID LEDGER,,unknown
+V186,LS-1963-08-19-3,LS_member,LS_member,Shri Kesar Lal,SWA,opposition
+V187,LS-1998-07-07-19,LS_member,LS_member,SHRI P.R. KYNDIAH,INC,opposition
+V188,LS-1997-05-06-10,LS_member,LS_member,SHRI ATAL BIHARI VAJPAYEE,BJP,opposition
+V189,RS-1983-03-21-4,RS_member,RS_member,SHRI SYED SHAHABUDDIN (Bi- har),JD,opposition
+V190,RS-1983-12-22-5,minister,minister,SHRI SHIVRAJ V. PATIL,,
+V191,LS-1964-11-24-17,LS_member,LS_member,Shri Krishna Menon (Bombay City North),,unknown
+V192,RS-1979-04-26-39,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+V193,LS-1974-03-12-3,LS_member,LS_member,SHRI JYOTIRMOY BOSU,CPM,opposition
+V195,LS-1999-12-09-6,minister,minister,SHRI L.K. ADVANI,,
+V196,RS-1967-06-21-20,RS_member,RS_member,SHRI AWADHESHWAR PRASAD SINHA (Bihar),,unknown
+V200,LS-1996-12-18-6,minister,minister,SHRI T.R. BAALU,,
+V202,LS-1998-07-23-10,minister,minister,SHRI BABAGOUDA PATIL,,
+V204,LS-1993-04-27-10,LS_member,LS_member,SHRI SURYA NARAYAN YADAV (Saharasa),JD,opposition
+V205,RS-1975-03-06-3,minister,minister,SHRI B. P. MAURYA,,
+V206,RS-1997-11-20-18,minister,minister,SHRI YOGINDER K. ALAGH,,
+V208,RS-1974-08-01-13,RS_member,RS_member,PROF. RASHEEDUDDIN KHAN,,unknown
+V209,RS-1998-07-27-1,RS_member,RS_member,SHRI PRANAB MUKHERJEE(West Bengal),,unknown
+V210,LS-1988-08-31-7,minister,minister,SHIU K.R. NARAYANAN,,
+V211,LS-1995-03-15-6,minister,minister,DA. C. SILVERA,,
+V212,LS-1999-03-10-16,LS_member,LS_member,SHRI RAVINDRA KUMAR PANDEY,BJP,government
+V214,LS-1968-03-14-2,LS_member,LS_member,SHRI BABURAO PATEL,,unknown
+V215,RS-1998-12-08-3,minister,minister,SHRI P.R. KUMARAMANGALAM,,
+V217,LS-1974-04-26-1,LS_member,LS_member,SHRI VAYALAR RAVI,INC,government
+V219,RS-1998-12-15-13,RS_member,RS_member,SHRI YOGINDER K. ALAGH (Gujarat),,unknown
+V220,RS-1974-08-29-19,RS_member,RS_member,SHRI A. G. KULKARNI,,unknown
+V227,LS-1967-11-20-3,minister,minister,SHRIMATI INDIRA GANDHI,,
+V228,LS-1996-02-28-16,LS_member,LS_member,SHRI VILASRAO NAGNTHRAO GUNDEWAR,SHS,opposition
+V230,LS-1997-05-06-6,LS_member,LS_member,SHRI K.C. KONDAIAH,INC,outside support
+V231,RS-1997-08-28-6,RS_member,RS_member,SHRI N. RAJENDRAN (Tamil Nadu),,unknown
+V234,LS-1986-02-26-4,LS_member,LS_member,SHRI MOHANBHAI PAT BL,,unknown
+V236,LS-1986-11-19-22,LS_member,LS_member,SHRI SOMNATH RATH,INC,government
+V237,LS-1997-08-13-2,minister,minister,SHRI S.R. BALASUBRAMONIYAN,,
+V239,LS-1988-12-05-20,LS_member,LS_member,SHRI PRATAPRAO B. BHOSALE,INC,government
+V240,LS-1997-05-07-3,LS_member,LS_member,SHRI RAM NAIK,BJP,opposition
+V241,RS-1990-05-15-8,RS_member,RS_member,SHRI N. K. P. SALVE,,unknown
+V243,LS-1994-12-19-1,minister,minister,SHRI SUKH RAM,,
+V245,LS-1978-05-10-3,LS_member,LS_member,SHRI RAJ KESHAR SINGH,BLD,government
+V246,LS-1998-12-09-14,LS_member,LS_member,SHRI MOTILAL VORA,INC,opposition
+V247,RS-1966-03-11-1,RS_member,RS_member,SHRI P. K. KUMARAN,,unknown
+V248,LS-1987-03-18-4,minister,minister,SHRIkAa TI SUSHILA ROHTAGI,,
+V249,RS-1968-03-14-5,RS_member,RS_member,SARDAR RAM SINGH,,unknown
+V251,LS-1968-04-17-10,minister,minister,SHRI L. N. MISHRA,,
+V252,LS-1971-08-11-2,minister,minister,SHRI K. C. PANT,,
+V253,LS-1973-08-01-17,LS_member,LS_member,SHRI Y. ESWARA REDDY,CPI,opposition
+V254,LS-1967-07-03-4,LS_member,LS_member,Shri D. N. Patodla,,unknown
+V257,LS-1998-05-29-39,LS_member,LS_member,SHRI G.M. BANATWALLA (Ponnani),MUL,opposition
+V262,RS-1974-08-08-5,RS_member,RS_member,SHRI B. P. NAGARAJA MURTHY,,unknown
+V263,LS-1965-09-20-5,minister,minister,Shri Swaran Singh,,
+V264,LS-1967-11-27-8,minister,minister,SHRI K. K. SHAH,,
+V265,LS-1964-09-21-5,LS_member,LS_member,Shri P. K. Deo,GP,opposition
+V266,LS-1982-10-14-3,LS_member,LS_member,SHRI B. V. DESAI,INC(I),government
+V267,RS-1969-12-04-10,minister,minister,SHRIMATI IXDIRA GANDHI,,
+V268,LS-1968-12-18-14,LS_member,LS_member,SHRI JYOTIRMOY BASU,CPM,opposition
+V269,LS-1993-02-23-3,LS_member,LS_member,SHRI SOBHANADHEESWARA RAO VADDE,TDP,opposition
+V272,RS-1986-11-20-27,RS_member,RS_member,acharya Commission. THE DEPUTY CHAIRMAN,,unknown
+V273,RS-1982-07-15-2,RS_member,RS_member,DR. LOKESH CHANDRA,,unknown
+V274,RS-1998-08-03-2,RS_member,RS_member,SHRI PRANAB MUKHERJEE (West Bengal),,unknown
+V277,RS-1972-08-11-6,minister,minister,SHRI SURENDRA PAL SINGH,,
+V278,LS-1976-08-25-2,LS_member,LS_member,SHRI CHINTAMANI PANIGRAHI,INC,government
+V280,RS-1998-07-09-6,RS_member,RS_member,DR. GOPALRAO VITHAL-RAO PATIL,,unknown
+V281,RS-1983-05-09-3,RS_member,RS_member,SHRI B. SATYANARAYAN REDDY,,unknown
+V283,RS-1994-03-03-16,RS_member,RS_member,SHRI SURESH PACHOURI,,unknown
+V285,LS-1974-03-13-16,LS_member,LS_member,SHRI JYOTIRMOY BOSU,CPM,opposition
+V288,RS-1971-06-03-16,RS_member,RS_member,SHRI K. CHANDRASEKHARAN (Kerala),,unknown
+V289,LS-1972-05-31-18,LS_member,LS_member,SHRI S.N. MISRA,INC,government
+V290,LS-1965-11-22-3,LS_member,LS_member,Shri Buta Singh,AD,opposition
+V291,LS-1998-05-28-25,LS_member,LS_member,SHRI B.M. MENSINKAI (DHARWAD SOUTH),LS,opposition
+V292,RS-1968-07-25-14,RS_member,RS_member,SHRIMATI SHAKUNTALA PARANJPYE,,unknown
+V293,RS-1973-11-22-1,minister,minister,SHRI MOHAN DHARIA,,
+V298,RS-1966-08-23-2,RS_member,RS_member,SHRI R. T. PARTHASARATHY,,unknown
+V299,LS-1999-12-22-35,minister,minister,DR. MURLI MANOHAR JOSHI,,
+V301,LS-1999-04-16-17,LS_member,LS_member,SHRI K. NATWAR SINGH,INC,opposition
+V302,LS-1963-03-23-6,LS_member,LS_member,"Dr. Gaitonde (Goa, Daman and Diu)",,unknown
+V303,LS-1992-05-05-1,minister,minister,SHRI ARJUN SINGH,,
+V306,LS-1991-02-25-2,LS_member,LS_member,SHRI J. CHOKKA RAO,INC,unclassified period
+V308,LS-1986-04-16-48,LS_member,LS_member,SHRI INDRAJIT GUPTA,CPI,opposition
+V309,LS-1962-04-24-11,LS_member,LS_member,Shri Bateshwar Singh,,unknown
+V311,RS-1999-12-03-14,minister,minister,SHRI JASWANT SINGH,,
+V312,LS-1991-08-22-4,LS_member,LS_member,SHRI HARAOHAN ROY (Asansol),CPM,opposition
+V314,RS-1970-12-17-4,minister,minister,SHRI K. S. RAMASWAMY,,
+V316,RS-1999-12-03-11,RS_member,RS_member,SHRI PRAFULL GORADIA,,unknown
+V319,RS-1986-11-07-11,minister,minister,SHRI MADHAVRAO SCINDIA,,
+V320,LS-1966-03-09-1,minister,minister,Shri Manubhai Shah,,
+V321,LS-1974-08-14-5,minister,minister,SHRI C. SUBRAMANIAM,,
+V322,LS-1978-03-27-2,LS_member,LS_member,SHRI YADVENDRA DUTT (Jaun- pur),,unknown
+V324,RS-1998-06-03-7,minister,minister,SHRI R. KUMARAMANGALAM,,
+V325,LS-1983-04-20-14,LS_member,LS_member,SHRI AMAR ROYPRA- D H A N,,unknown
+V329,LS-1964-11-23-15,minister,minister,Shri Lal Bahadur Shastri,,
+V330,RS-1998-07-22-2,RS_member,RS_member,SHRIMATI CHANDRA KALA PANDEY,,unknown
+V332,RS-1991-12-16-2,RS_member,RS_member,SHRI KAPIL VERMA,,unknown
+V334,LS-1985-11-20-31,LS_member,LS_member,SHRI V. SOBHANADR SWARA RAO,,unknown
+V339,LS-1992-03-26-7,LS_member,LS_member,SHRI SOMNATH CHATTERJEE (Boipur),CPM,opposition
+V341,LS-1998-05-27-15,LS_member,LS_member,PROF. AJIT KUMAR MEHTA,RJD,opposition
+V343,LS-1970-08-19-30,minister,minister,SHRIMATI INDIRA GANDHI,,
+V344,RS-1977-12-01-1,minister,minister,SHRI DHANIK LAL MANDAL,,
+V348,RS-1984-03-15-2,RS_member,RS_member,SHRI SHIVA CHANDRA JHA,SSP,opposition
+V350,RS-1987-05-05-2,minister,minister,SHRI NARAYAN DATT TIWARI,,
+V353,LS-1988-03-09-20,LS_member,LS_member,PROF. K.V. THOMAS,INC,government
+V354,RS-1990-03-14-17,RS_member,RS_member,DR. YELAMANCHILI SIVAJI,,unknown
+V355,LS-1970-08-19-29,minister,minister,SHRI K.C. PANT,,
+V356,RS-1986-11-27-30,RS_member,RS_member,SHRI VITHALBHAI MOTI- RAM PATEL,,unknown
+V357,LS-1985-04-10-25,minister,minister,SHRI S~nVRAJ v. PATIL,,
+V359,LS-1998-07-22-29,LS_member,LS_member,SHRI G.M. BANATWALLA,MUL,opposition
+V360,LS-1976-04-29-2,LS_member,LS_member,SHRI BHOGENDRA JHA (Jai- nagar),CPI,opposition
+V361,RS-1999-10-28-2,RS_member,RS_member,SHRI H. HANUMANTHAPPA,,unknown
+V362,RS-1973-02-26-1,RS_member,RS_member,SHRI BABUBHAI M. CHINAI,,unknown
+V365,LS-1983-08-10-5,LS_member,LS_member,SHRI RAM VILAS PAS- WAN,,unknown
+V366,RS-1978-03-02-3,RS_member,RS_member,SHRI INDRADEEP SINHA,,unknown
+V367,LS-1995-07-31-7,minister,minister,SHRIMATI URMILABEN CHIMANBHAI PATEL,,
+V369,RS-1994-07-25-1,RS_member,RS_member,Shri Ghulam Nab,,unknown
+V370,RS-1983-08-25-4,RS_member,RS_member,SHRI KALRAJ MISHRA,,unknown
+V372,LS-1991-07-25-5,LS_member,LS_member,SHRI SUSHIL CHANDRA VERMA,BJP,opposition
+V373,RS-1999-02-26-4,RS_member,RS_member,SHRI M. VENKAIAH NAIDU,,unknown
+V374,RS-1992-03-23-1,RS_member,RS_member,SHRI S. MADHAVAN,,unknown
+V377,RS-1998-07-29-3,minister,minister,SHRI GEORGE FERNANDES,,
+V378,RS-1998-07-28-9,minister,minister,SHRI JOHN F. FERNANDES,,
+V379,RS-1987-08-03-1,RS_member,RS_member,SHRI D. B. CHANDRE GOWDA,INC,government
+V380,RS-1999-03-18-14,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+V381,RS-1988-08-11-47,RS_member,RS_member,SHRI CHITTA BASU,FBL,opposition
+V382,LS-1990-08-27-4,LS_member,LS_member,SHRI AMAL DATTA,CPM,outside support
+V383,RS-1978-08-08-4,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+V385,RS-1966-11-08-5,RS_member,RS_member,SHRI NIREN GHOSH,CPM,opposition
+V386,LS-1976-05-06-7,minister,minister,SHRI BIPINPAL DAS,,
+V389,RS-1971-06-17-2,RS_member,RS_member,SHRI K. L. N. PRASAD,,unknown
+V390,LS-1996-08-30-2,LS_member,LS_member,SHRI JAG MOHAN,,unknown
+V391,RS-1984-03-15-14,RS_member,RS_member,ch. SHRI SHYAM SUNDAR MTfHA- PATRA,,unknown
+V392,LS-1998-08-04-5,minister,minister,SHRI ATAL BIHARI VAJPAYEE,,
+V393,RS-1987-03-03-9,RS_member,RS_member,SHRI VALAMPURI JOHN (Jamil-Nadu),,unknown
+V395,RS-1998-05-28-68,RS_member,RS_member,SHRI S.R. BOMMAI,,unknown
+V397,LS-1990-04-09-1,minister,minister,PROF. M.G.K. MENON,,
+V398,LS-1970-03-04-5,LS_member,LS_member,SHRI VIRENDRAKUMAR SHAH,,unknown
+V399,RS-1978-11-23-7,RS_member,RS_member,SHRI GHOUSE MOHIUDDIN SHEIKH,,unknown
+V400,RS-1976-03-12-3,RS_member,RS_member,SHRI AWADHESHWAR PRASAD SINGH,,unknown
+V401,LS-1985-01-22-2,LS_member,LS_member,SHRI TARUN KANTI GHOSH,INC,government
+V405,RS-1968-03-21-15,minister,minister,SHRIMATI INDIRA GANDHI,,
+V407,RS-1992-03-16-16,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+V408,RS-1998-07-09-49,RS_member,RS_member,SHRI K.R. MALKANI,,unknown
+V409,RS-1986-03-06-2,RS_member,RS_member,SHRI M. S. GURUPADA- SWAMY,,unknown
+V412,RS-1984-08-13-9,RS_member,RS_member,SHRI PAWAN KUMAR BAN- SAL,,unknown
+V413,LS-1994-03-01-1,LS_member,LS_member,SHRI SARAT PATIANAYAK,,unknown
+V415,LS-1963-09-02-4,minister,minister,Shri Jawaharlaj Nebru,,
+V416,RS-1995-03-30-11,minister,minister,SHRI MALLIKARJUN,,
+V418,RS-1974-11-22-7,RS_member,RS_member,SHRI S. KUMARAN,,unknown
+V419,RS-1979-05-10-11,minister,minister,PROF. SHER SlNGH,,
+V420,RS-1967-11-21-2,RS_member,RS_member,SHRI V. M. CHORD IA,,unknown
+V421,RS-1998-06-09-4,RS_member,RS_member,SHRI VEDPRAKASH P. GOYAL,,unknown
+V422,LS-1971-06-01-1,LS_member,LS_member,SHRI MOHINDER SINGH GILL,,unknown
+V423,LS-1999-04-16-3,LS_member,LS_member,SHRI PRABHUNATH SINGH (MAHARAJGANJ),SAP,government
+V424,LS-1964-12-21-4,LS_member,LS_member,Shri Hem Barua,PSP,opposition
+V425,LS-1967-05-31-11,minister,minister,Shri M. C. Chagla,,
+V428,RS-1998-05-28-62,RS_member,RS_member,SHRIMATI KAMLA SINHA,,unknown
+V429,LS-1993-07-28-15,LS_member,LS_member,SHRI RAMESHWAR PATIDAR,BJP,opposition
+V430,LS-1995-12-18-13,minister,minister,SHRI R.L. BHATIA,,
+V432,RS-1985-07-25-4,RS_member,RS_member,SHRI M. KADHARSHA,,unknown
+V433,LS-1982-11-02-2,LS_member,LS_member,SHRI R. P. GAE.KWAD,,unknown
+V434,LS-1970-09-02-3,LS_member,LS_member,SHRI SAMAR GUHA,PSP,opposition
+V436,RS-1963-03-05-2,minister,minister,SHRI D. R. CHAvAN,,
+V437,LS-1966-03-29-1,LS_member,LS_member,Shri Krishmapal Singh,,unknown
+V438,LS-1964-11-23-45,LS_member,LS_member,Shri Harish Chandra Mathur,,unknown
+V441,RS-1969-03-20-9,minister,minister,SHRI MORARJI R. DESAI,,
+V445,RS-1978-04-27-8,RS_member,RS_member,SHRI DHARAMCHAND JAIN,,unknown
+V446,RS-1966-08-02-9,minister,minister,SARDAR SWARAN SINGH,,
+V447,RS-1978-03-01-2,RS_member,RS_member,DR. V. P. DUTT (Nominated),,unknown
+V450,LS-1974-04-26-2,LS_member,LS_member,SARDAR SWARAN SINGH SOKHI (Jamshedpur),,unknown
+V452,LS-1974-12-18-3,LS_member,LS_member,SHRI GAJADHAR MAJHI,INC,government
+V454,RS-1997-03-04-2,minister,minister,SHRI P. CHIDAMBARAM,,
+V455,RS-1998-12-15-6,RS_member,RS_member,SHRI NILOPTAL BASU (West Bengal),,unknown
+V456,RS-1998-07-16-16,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+V457,RS-1998-07-09-30,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+V458,RS-1973-09-03-1,RS_member,RS_member,SHRI K. P. SINGH DEO,INC,government
+V459,RS-1967-11-28-4,RS_member,RS_member,SHRI R. P. KHAITAN,,unknown
+V461,RS-1987-11-11-3,minister,minister,SHRI RAJIV GANDHI,,
+V462,LS-1978-02-22-2,LS_member,LS_member,SHRI JAGDISH PRASAD MATHUR,BLD,government
+V463,LS-1999-12-01-15,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+V464,RS-1987-03-12-4,RS_member,RS_member,SHRI ASHWANi KUMAR,,unknown
+V465,LS-1981-03-12-3,LS_member,LS_member,SHRI ASHOK GEHLOT,INC(I),government
+V467,RS-1982-10-11-3,minister,minister,Rajasthan,,
+V469,RS-1963-02-18-1,RS_member,RS_member,Shri R,,unknown
+V470,RS-1999-03-04-5,minister,minister,SHRI JASWANT SINGH,,
+V471,RS-1966-05-03-2,RS_member,RS_member,SHRI M. C. SHAH,,unknown
+V473,LS-1993-04-21-5,LS_member,LS_member,SHRI SANAT KUMAR MANDAL,RSP,opposition
+V474,RS-1991-12-12-9,RS_member,RS_member,SHRI A. G. KULKARNI,,unknown
+V475,LS-1985-11-20-20,LS_member,LS_member,SHRI R.M. BHOYE,INC,government
+V476,RS-1995-08-17-9,minister,minister,SHRIMATI MARGARET ALVA,,
+V477,RS-1999-03-18-11,RS_member,RS_member,SHRI NILOTPAL BASU,,unknown
+V478,LS-1975-04-16-17,LS_member,LS_member,DR. HENRY AUSTIN,INC,government
+V482,LS-1967-11-14-6,minister,minister,SHRIMATI INDIRA GANDHI,,
+V483,LS-1994-03-09-11,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+V484,LS-1966-11-10-3,LS_member,LS_member,Shri Sezhiyan,,unknown
+V485,LS-1968-08-28-8,minister,minister,SHRI L. N. MISHRA,,
+V486,RS-1982-08-03-2,minister,minister,SHRI R. VENKATARAMAN,,
+V487,RS-1974-07-22-1,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+V488,RS-1996-03-06-14,RS_member,RS_member,DR. BAPU KALDATE,BLD,opposition
+V489,LS-1983-08-10-7,LS_member,LS_member,SHRI MUZA F R HUS- SAIN,,unknown
+V490,RS-1996-08-01-13,RS_member,RS_member,SHRI SANJAY DALMIA,,unknown
+V491,RS-1998-05-28-27,minister,minister,SHRIMATI VASUNDHRA RAJE,,
+V492,RS-1997-11-27-8,RS_member,RS_member,SHRI GYAN RANJAN,,unknown
+V494,LS-1976-03-11-3,LS_member,LS_member,SHRI BHAGWAT JHA AZAD,INC,government
+V496,LS-1998-05-27-9,LS_member,LS_member,SHRI MUllAPAll Y RAMACHANDRAN,,unknown
+V497,LS-1998-05-27-43,minister,minister,SHRi GEORGE FERNANDES,,
+V498,RS-1999-12-23-31,RS_member,RS_member,SHRI K.R. MALKANI,,unknown
+V499,LS-1998-05-29-11,LS_member,LS_member,SHRI VAlKO,,unknown
+V500,LS-1994-04-27-25,LS_member,LS_member,DR. KARTIKESWAR PATRA,INC,government
+V501,LS-1971-11-17-5,minister,minister,SHRI GHANSHYAM OZA,,
+V502,LS-1998-07-29-30,LS_member,LS_member,SHRI ARJUN SETHI,,unknown
+V503,RS-1971-04-06-1,minister,minister,SHRI R. K. KHADILKAR,,
+V504,LS-1991-12-05-4,LS_member,LS_member,SHRI NAVAL KISHORE RAI,,unknown
+V505,LS-1978-05-10-1,LS_member,LS_member,SHRI RAMA CHANDRA MALLICK,BLD,government
+V507,LS-1998-05-29-34,LS_member,LS_member,SHRI MADHUKAR SIRPOTDAR,SHS,government
+V508,RS-1970-05-20-5,RS_member,RS_member,SHRI ARJUN ARORA,,unknown
+V509,RS-1998-06-03-5,RS_member,RS_member,SHRIMATI KAMLA SINHA,,unknown
+V510,RS-1985-12-05-15,RS_member,RS_member,SHRI MUKHTIAR SINGH MALIK,INC,government
+V513,LS-1986-08-06-23,minister,minister,SHRf Z. R. ANSAR.I,,
+V514,LS-1995-03-29-12,minister,minister,DR. C. SILVERA,,
+V516,RS-1973-08-27-3,RS_member,RS_member,SHRI KRISHAN KANT,BLD,opposition
+V518,RS-1995-03-30-5,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+V519,LS-1980-06-11-10,LS_member,LS_member,SHRI K. MALLANNA,INC(I),government
+V520,LS-1974-12-18-9,minister,minister,SHRI BP. MAURYA,,
+V521,RS-1993-08-18-13,minister,RS_member,SHRI G. SWAMINATHAN (Tamil Nadu),,unknown
+V524,RS-1991-01-09-2,RS_member,RS_member,SHRI JAGESH DESAI (Maharashtra),,unclassified period
+V525,RS-1983-03-17-10,minister,minister,SHRI VIRBHADRA SINGH,,
+V528,RS-1966-08-16-3,RS_member,RS_member,SHRI N. SRI RAMA REDDY,,unknown
+V530,RS-1996-07-31-2,RS_member,RS_member,SHRIMATI VEENA VERMA,,unknown
+V533,RS-1997-11-27-2,RS_member,RS_member,SHRI RAM NATH KOVIND,,unknown
+V534,LS-1983-04-28-6,LS_member,LS_member,SHRI CHfITA BASU (Barasat),FBL,opposition
+V538,LS-1969-04-02-2,minister,minister,SHRI CHOWDHARY RAM SEWAK,,
+V539,RS-1987-12-07-5,RS_member,RS_member,SHRI M. S. GURUPADASWAMY (Karnataka),,unknown
+V540,LS-1990-12-27-2,minister,minister,SHRI VIDYACHARAN SHUKLA,,
+V541,RS-1993-03-10-4,minister,minister,SHRI P. V. RANGAYYA NAIDU,,
+V542,LS-1998-07-29-24,minister,minister,SHRI SOMPAl,,
+V544,LS-1962-12-10-1,LS_member,LS_member,Shri Khaidilkar (Khed),,unknown
+V545,LS-1995-12-13-7,LS_member,LS_member,SHRIMATI GIRIJA DEVI SHRI RAJESH KUMAR,,unknown
+V548,RS-1967-05-29-1,RS_member,RS_member,SHRI ARJUN ARORA,,unknown
+V549,RS-1998-12-17-1,RS_member,RS_member,SHRI GURUDAS DAS GUPTA (West Bengal),INC,opposition
+V550,LS-1998-08-03-9,LS_member,LS_member,SHRI VAlKO (Sivakasi),MDMK,government
+W0002,LS-1970-05-06-10,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0003,RS-1975-05-08-6,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0004,LS-1962-06-06-6,LS_member,LS_member,Shri Hem Barua,PSP,opposition
+W0005,LS-1995-08-07-8,LS_member,LS_member,SHRI SOBHANADREESWARA RAO VADDE,TDP,opposition
+W0006,RS-1999-12-03-10,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0007,RS-1986-03-06-11,RS_member,RS_member,SHRI RAMANAND YADAV,,unknown
+W0008,RS-1991-08-07-3,RS_member,RS_member,SHRI MURLIDHAR CHANDRA- KANT BHANDARE (Maharashtra),,unknown
+W0009,LS-1994-02-23-7,LS_member,LS_member,SHRI SATYAGOPAL MISRA,CPM,opposition
+W0010,RS-1971-07-29-1,RS_member,RS_member,SHRI GOLAP BARBORA,,unknown
+W0012,LS-1971-08-11-10,LS_member,LS_member,SHRI VARKEY GEORGE,KEC,opposition
+W0013,RS-1983-12-01-4,RS_member,RS_member,SHRI DHULESHWAR MEENA,,unknown
+W0014,LS-1983-03-02-10,LS_member,LS_member,SHRI RAM SINGH YADAV,INC(I),government
+W0015,RS-1995-03-20-6,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W0018,RS-1998-06-11-35,RS_member,RS_member,DR. SHRIKANT RAMCHANDRA JICHKAR,,unknown
+W0019,LS-1985-05-08-5,minister,minister,SHRI KHURSHEED ALAM KHAN,,
+W0020,RS-1998-12-08-8,minister,minister,SHRI YASHWANT SINHA,,
+W0021,LS-1979-02-21-30,LS_member,LS_member,SHRI SAMAR MUKHERJEE,,unknown
+W0023,LS-1999-03-08-1,minister,minister,SHRI P.R. KUMARAMANGALAM,,
+W0024,RS-1987-12-09-4,RS_member,RS_member,SHRI SATYA PRAKASH MALAVIYA,,unknown
+W0025,RS-1995-05-04-1,RS_member,RS_member,SHRI RAJNI RANJAN SAHU,,unknown
+W0027,RS-1999-02-25-23,RS_member,RS_member,SHRI AKHILESH DAS,,unknown
+W0028,RS-1993-12-09-6,minister,minister,SHRI BHUVENSH CHATURVEDI,,
+W0029,LS-1994-08-25-1,minister,minister,SHRI SALMAN KHURSHEED,,
+W0030,LS-1994-04-18-9,LS_member,LS_member,DR. Y.S. RAJASEKI-,,unknown
+W0031,RS-1994-05-12-4,RS_member,RS_member,SHRI RAMDAS AGARWAL,,unknown
+W0032,RS-1966-03-22-5,RS_member,RS_member,DR. ANUP SINGH,,unknown
+W0034,LS-1998-07-29-35,minister,minister,SHRI SOMPAL,,
+W0035,LS-1973-03-15-5,LS_member,LS_member,SHRI BISHWANATH JHUN- JHUNWALA,,unknown
+W0036,RS-1996-12-03-7,RS_member,RS_member,DR. B. B. DUTTA (Nominated),CPM,outside support
+W0037,LS-1991-12-18-3,minister,minister,SHRIMATI MARGARET ALVA,,
+W0038,LS-1990-03-19-6,minister,minister,PROF. M.G.K. MENON,,
+W0039,LS-1983-08-10-10,LS_member,LS_member,SHRI B.V. D SAI,,unknown
+W0040,RS-1985-07-25-27,minister,minister,SHRIMATI KANAK MUKHERJEE,,
+W0041,RS-1964-12-22-21,RS_member,RS_member,KUMARI SHANTA VASISHT (Delhi),,unknown
+W0042,LS-1998-07-09-4,minister,minister,SHRI ANANTH KUMAR,,
+W0043,RS-1968-03-14-6,RS_member,RS_member,SARDAR RAM SINGH,,unknown
+W0044,LS-1986-04-10-5,LS_member,LS_member,SHRI S. JAIPAL R.EDDY,JNP,opposition
+W0046,LS-1979-04-25-12,LS_member,LS_member,SHRIMATI MOHSINA KiD- WAI,,unknown
+W0048,LS-1996-03-06-4,LS_member,LS_member,SHRI K. PRADHANI,INC,government
+W0050,LS-1979-02-21-9,minister,minister,SHRI MORARJI DESAI,,
+W0051,RS-1994-08-04-4,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W0053,RS-1991-08-01-8,RS_member,RS_member,SHRI SHANTI TYAGI,,unknown
+W0054,LS-1991-11-27-10,minister,minister,SHRIMAT1 MARGARET ALVA,,
+W0055,RS-1999-02-25-31,RS_member,RS_member,SHRI C. RAMACHANDRAIAH,,unknown
+W0057,RS-1967-04-03-1,RS_member,RS_member,PROF. SATYAVRATA SID- DHANTALANKAR,,unknown
+W0058,RS-1973-05-10-7,RS_member,RS_member,SHRI N. R. CHOUDHURY,,unknown
+W0059,LS-1999-03-04-4,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0060,RS-1998-07-20-2,minister,minister,SHRI RAMAKRISHNA HEGDE,,
+W0061,RS-1993-12-16-12,RS_member,RS_member,SHRI MENTAY PABMANA- BHAM,,unknown
+W0062,LS-1997-02-24-5,LS_member,LS_member,DR. MURLI MANOHAR JOSHI,BJP,opposition
+W0063,RS-1996-09-12-4,minister,minister,SHRI YOGINDER K. ALAGH,,
+W0064,LS-1993-12-22-7,LS_member,LS_member,SHRI UDA YSINGRAO GAIKWAD,,unknown
+W0065,LS-1970-04-08-27,LS_member,LS_member,SHRI M. L. SONDHI,BJS,opposition
+W0066,LS-1994-08-09-1,LS_member,LS_member,Shri M.V. Chandrashekhara Murthy Statutory Resolution Re,,unknown
+W0068,LS-1999-12-08-8,LS_member,LS_member,SHRI SURESH RAMRAO JADHAV,SHS,government
+W0070,RS-1965-03-11-1,RS_member,RS_member,SHRI D. L. SEN GUPTA,,unknown
+W0071,RS-1966-07-26-4,RS_member,RS_member,SHRI A. D. MANI,,unknown
+W0072,RS-1962-08-22-2,minister,RS_member,SHRI ANTJP SINGH (Punjab),,unknown
+W0073,RS-1975-03-06-8,RS_member,RS_member,SHRI AWADHESHWAR PRASAD SINHA,,unknown
+W0075,LS-1964-09-14-3,LS_member,LS_member,Shri P. K. Deo,GP,opposition
+W0076,RS-1989-02-22-5,RS_member,RS_member,SHRI P. V. NARASIMHA RAO,,unknown
+W0077,LS-1971-07-20-12,LS_member,LS_member,SHRI HARI KISHORE SINGH (Pupri),INC,government
+W0078,LS-1968-07-31-4,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0080,LS-1970-12-02-5,LS_member,LS_member,SHRI BENI SHANKER SHARMA,BJS,opposition
+W0081,LS-1991-12-16-2,LS_member,LS_member,SHRI SURYA NARAYAN YADAV (Saharasa),JD,opposition
+W0082,RS-1998-05-29-29,RS_member,RS_member,Mr. Prime Minister. THE PRIME MINISTER (SHRI ATAL BIHARI VAJPAYEE),,unknown
+W0086,RS-1978-07-27-11,minister,minister,SHRI MORARJI R. DESAI,,
+W0090,RS-1992-03-16-6,minister,minister,SHRI MADHAVSINH SOLANKI,,
+W0091,LS-1976-04-14-7,minister,minister,PROF. SID- DHESHWAR PRASAD,,
+W0092,LS-1997-08-14-9,LS_member,LS_member,SHRI BHANU PRATAP SINGH VERMA,,unknown
+W0093,LS-1992-12-08-2,minister,minister,SHRIMATI D.K. THARADEVI SIDDHARTHA,,
+W0094,RS-1963-09-17-1,RS_member,RS_member,SHRI T. S. AVINASHILINGAM CHETTIAR,,unknown
+W0095,LS-1993-12-13-5,LS_member,LS_member,PROF. RASA SINGH RAWAT,BJP,opposition
+W0096,LS-1992-11-26-2,LS_member,LS_member,SHRI VISHWANATH PRATAP SINGH,,unknown
+W0097,LS-1970-08-12-1,LS_member,LS_member,SHRI RANJEET SINGH,BJS,opposition
+W0099,LS-1998-07-15-5,LS_member,LS_member,SHRI RANJIB BISWAL,INC,opposition
+W0100,LS-1975-03-19-14,LS_member,LS_member,SHRI M. KATHAMUTHU,CPI,opposition
+W0102,LS-1986-08-06-9,minister,minister,SHRI SHI VRAl V. PATIL,,
+W0103,LS-1990-03-26-6,LS_member,LS_member,SHRI BALGOPAL MISHRA,JD,government
+W0105,RS-1998-07-09-41,RS_member,RS_member,SHRI KULDIP NAYYAR,,unknown
+W0106,LS-1997-03-05-6,LS_member,LS_member,SHRI G.G. SWELL,IND,opposition
+W0108,RS-1967-06-21-5,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+W0111,RS-1993-03-04-7,RS_member,RS_member,DR. MURLI MANOHAR JOSHI,,unknown
+W0112,RS-1996-11-22-1,minister,minister,CAPT. JAI NARAIN PRASAD NISHAD,,
+W0114,RS-1999-02-24-4,minister,minister,SHRI P.R. KUMARAMANG-LAM,,
+W0115,RS-1968-07-24-3,RS_member,RS_member,SHRI BANKA BEHARY DAS (Orissa),CPM,opposition
+W0116,RS-1979-03-07-5,RS_member,RS_member,SHRI BIPINPAL DAS,CPM,outside support
+W0117,LS-1996-08-26-2,LS_member,LS_member,SHRI PR. DASMUNSI,,unknown
+W0118,LS-1987-03-04-10,minister,minister,SHRI K. R. NARAYANAN,,
+W0120,RS-1998-12-03-7,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0122,LS-1985-08-14-6,minister,minister,SHRI ASHOK GEHLOT,,
+W0123,RS-1991-12-09-7,RS_member,RS_member,SHRI MENTAY PADMANA- BHAM,,unknown
+W0124,RS-1998-06-03-4,RS_member,RS_member,SHRIMATI KAMLA SINH A,,unknown
+W0125,RS-1986-05-06-1,minister,minister,SHRI SANTOSH KUMAR SAHU (Orissa),,
+W0126,LS-1968-04-04-5,LS_member,LS_member,SHRI HANUMANTHAIYA,,unknown
+W0127,LS-1985-11-20-38,minister,minister,S I GIRIDHAR OOMANGO,,
+W0128,LS-1985-03-27-12,LS_member,LS_member,PROF. K.K. TEWARY,,unknown
+W0129,LS-1993-12-30-10,LS_member,LS_member,Shri Viclyac,,unknown
+W0130,RS-1980-12-04-12,RS_member,RS_member,SHRI SYED SHAHABUDDIN,JD,opposition
+W0131,LS-1962-05-14-6,minister,LS_member,Shri Ansar Harvani (Bisauli),INC,government
+W0132,RS-1993-02-25-1,minister,minister,SHRI EDUARDO FALEIRO,,
+W0133,RS-1992-02-27-4,minister,minister,SHRIMATI MARGARET ALVA,,
+W0134,LS-1969-12-10-18,minister,minister,SHRI SURENDRA PAL SINGH,,
+W0135,LS-1994-12-07-11,minister,minister,SHRIMATI MARGARET ALVA,,
+W0137,LS-1999-12-02-1,minister,minister,SHRI GEORGE FER- NANDES,,
+W0139,LS-1996-03-06-6,LS_member,LS_member,SHRI BOLLA BULLI RAMAIAH,,unknown
+W0140,RS-1976-03-25-3,RS_member,RS_member,SHRI KASIM ALI ABID,,unknown
+W0141,LS-1999-04-17-1,minister,minister,SHRI ATAL BIHARI VAJPAYEE,,
+W0142,LS-1994-08-08-1,minister,minister,SHRI P.V. RANGAYYADAIDU,,
+W0143,LS-1998-07-07-43,LS_member,LS_member,SHRI FRANCISCO SARDINHA (Marmagoa),,unknown
+W0144,LS-1989-12-27-2,LS_member,LS_member,SHRI P.O. THOMAS (Mavattupuzha),,unknown
+W0145,LS-1966-03-14-23,LS_member,LS_member,Shri Karni Singhji (Bikaner),IND,opposition
+W0146,LS-1999-02-24-20,LS_member,LS_member,PROF. P.J. KURIEN,INC,opposition
+W0147,RS-1980-02-01-3,RS_member,RS_member,SHRI SAWAISINGH SISODIA,,unknown
+W0148,LS-1972-11-15-9,minister,minister,SHRI F. H. MOHSIN,,
+W0149,LS-1993-12-22-5,LS_member,LS_member,SHRI SHANTARAM POTDuKHE,INC,government
+W0150,RS-1995-05-10-7,minister,minister,SHRI R. L. BHATIA,,
+W0152,RS-1974-08-26-3,minister,minister,SHRI D. K. BOROOAH,,
+W0155,LS-1965-03-15-4,LS_member,LS_member,Shri Himatsingka,,unknown
+W0156,RS-1998-07-16-19,RS_member,RS_member,SHRI DIPANKAR MUKHERJEE,,unknown
+W0158,RS-1993-04-28-6,minister,minister,SHRI R. L. BHATIA,,
+W0159,RS-1994-03-03-1,minister,minister,SHRI EDUARDO FALEIRO,,
+W0160,LS-1997-03-19-3,LS_member,LS_member,DR. T. SUBBARAMI REDDY,INC,outside support
+W0161,LS-1995-03-28-1,minister,minister,SHRI SAL RAM JAKHAR,,
+W0162,RS-1991-03-05-8,minister,minister,SHRI SUBODH KANT SAHAY,,
+W0163,RS-1997-08-07-19,RS_member,RS_member,SHRIMATI JAYANTI PAT- NAIK,,unknown
+W0164,LS-1990-08-27-8,minister,minister,PROF. M.G.K. MENON,,
+W0165,RS-1976-04-02-5,RS_member,RS_member,SHRI NABIN CHANDRA BURAGO- HAIN,,unknown
+W0166,RS-1992-02-27-8,minister,minister,SHRIMATI MARGARET ALVA,,
+W0167,RS-1991-09-11-2,RS_member,RS_member,SHRIMATI VEENA VERMA,,unknown
+W0168,LS-1968-02-21-18,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0170,LS-1993-08-17-1,minister,minister,DEPARTMENT OF EDUCATION AND DE:'ARTMENT OF CULTURE,,
+W0171,RS-1967-06-13-10,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0173,RS-1990-05-16-2,RS_member,RS_member,SHRI TALARI MANOHAR,,unknown
+W0174,RS-1985-12-16-4,minister,minister,SHRI ARIF MOHD. KHAN,,
+W0175,RS-1974-11-15-4,RS_member,RS_member,SHRI DFORAO PATII.,,unknown
+W0176,LS-1999-03-10-7,LS_member,LS_member,SHRI P.S. GADHAVI,BJP,government
+W0177,LS-1998-12-02-16,LS_member,LS_member,SHRI MADHAVRAO SCINDIA,INC,opposition
+W0178,RS-1986-11-28-1,minister,minister,SHRTMATT MOHSINA KID- I WAT,,
+W0179,LS-1988-12-05-42,minister,minister,SHRJ MADHAVSINH SOLANKI,,
+W0180,LS-1982-04-27-2,LS_member,LS_member,SHRI B. R. NAHATA,INC(I),government
+W0183,RS-1978-05-11-5,RS_member,RS_member,SHRI GIAN CHAND TOTU,,unknown
+W0185,LS-1985-05-15-10,minister,minister,SHRI VIR SEN,,
+W0186,LS-1983-03-02-3,LS_member,LS_member,SHRI CHHOTEY SINGH YADAV,JNP(S),opposition
+W0187,LS-1998-12-14-7,LS_member,LS_member,SHRI MADHUKAR SIRPOTDAR,SHS,government
+W0188,LS-1966-04-30-3,LS_member,LS_member,Dr. L. M. Singhvi,IND,opposition
+W0189,LS-1970-08-07-2,LS_member,LS_member,SHRI MOHAMMAD ISMAIL,,unknown
+W0190,LS-1990-03-29-5,minister,minister,SHRI I.K GWRAL,,
+W0191,LS-1995-12-13-19,LS_member,LS_member,DR. VASANT NIWRUTTI PAWAR,INC,government
+W0192,LS-1988-04-06-5,minister,minister,SHRI K.R. NARAYANAN,,
+W0193,RS-1990-05-02-1,RS_member,RS_member,SHRI KAMAL MORARKA,,unknown
+W0194,RS-1967-03-20-1,RS_member,RS_member,SHRI DEBABRATA MOOKERJEE,,unknown
+W0195,RS-1999-12-01-1,RS_member,RS_member,SHRI J. CHITHARANJAN,,unknown
+W0196,RS-1991-03-05-12,minister,minister,SHRI KAMAL MORARKA,,
+W0197,LS-1994-02-23-16,LS_member,LS_member,SHRI R. SUR ENDER REDDY,,unknown
+W0198,RS-1963-03-04-2,RS_member,RS_member,Mr. C,,unknown
+W0199,RS-1996-07-18-8,RS_member,RS_member,SHRI JAYANT KUMAR MALHOUTRA,,unknown
+W0201,LS-1994-12-07-9,LS_member,LS_member,SHRI ASTBHUJA PAASAD SHUKLA,,unknown
+W0202,LS-1999-12-15-3,LS_member,LS_member,SHRIMATI SHEELA GAUTAM,BJP,government
+W0203,LS-1999-04-16-19,LS_member,LS_member,SHRI K. NATWAR SINGH,INC,opposition
+W0204,LS-1993-03-17-3,minister,minister,SHRI BHUVENESHCHATURVEDI,,
+W0205,LS-1992-12-04-3,LS_member,LS_member,SHRI SHIVRAJ SINGH CHAUHAN,,unknown
+W0206,RS-1996-08-26-5,RS_member,RS_member,DR. B.B. DUTTA,CPM,outside support
+W0207,LS-1986-07-30-26,LS_member,LS_member,SHRI AMARSINH RATHAWA,,unknown
+W0208,RS-1978-04-27-9,RS_member,RS_member,SHRI BHAGWAN DIN,INC,opposition
+W0209,RS-1966-08-08-3,RS_member,RS_member,SHRI NIREN GHOSH,CPM,opposition
+W0210,LS-1997-03-19-16,LS_member,LS_member,SHRI NITISH BHARDWAJ,,unknown
+W0211,LS-1995-08-16-1,minister,minister,Shri P. Chidambaram,,
+W0212,RS-1996-11-28-2,RS_member,RS_member,SHRI E. BALANANDAN,,unknown
+W0213,RS-1998-12-03-6,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0214,LS-1964-11-30-7,LS_member,LS_member,Shri Tan Singh,RRP,opposition
+W0216,RS-1966-03-09-1,RS_member,RS_member,SHRI D. THENGARI (Uttar Pradesh),,unknown
+W0217,LS-1988-08-09-3,minister,minister,SHRI C.K. JAFFER SHARIEF,,
+W0219,LS-1966-05-11-2,minister,minister,Shri C. Subramaniam,,
+W0220,LS-1998-06-11-10,LS_member,LS_member,SHRI RATILAL KAUDAS VARMA (Dhandhuka),BJP,government
+W0222,RS-1962-04-30-3,RS_member,RS_member,SHRI B. N. BHARGAVA,INC,government
+W0223,RS-1996-08-29-4,minister,minister,DR. U. VENKATESWARLU,,
+W0225,RS-1982-02-27-1,RS_member,RS_member,SHRI RAMAKRISHNA HEGDE,,unknown
+W0226,RS-1999-12-03-3,minister,minister,SHRI RAM NAIK,,
+W0227,LS-1992-07-22-1,LS_member,LS_member,SHRI K. PRADHANI,INC,government
+W0228,LS-1981-12-10-1,minister,minister,SHRI S. B CHAVAN,,
+W0229,RS-1994-05-04-5,minister,minister,SYED SIBTEY RAZI,,
+W0230,LS-1998-05-28-1,LS_member,LS_member,SHRI RAJVEER SINGH,BJP,government
+W0231,LS-1973-07-24-5,minister,minister,SHRI BALGOVIND VERMA,,
+W0232,LS-1982-04-15-7,LS_member,LS_member,SHRI DAULAT RAM SARAN,JNP(S),opposition
+W0233,RS-1998-12-17-21,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0234,LS-1976-04-01-2,minister,minister,SHRI BIPINPAL DAS,,
+W0235,RS-1973-08-02-26,minister,minister,SHRI C. SUBRA- MANIAM,,
+W0236,RS-1988-12-05-3,minister,minister,SHRI J. VENGAL RAO,,
+W0237,RS-1993-12-08-8,minister,minister,SHRT R. L. BHATIA,,
+W0239,RS-1972-08-07-1,minister,minister,DR. K. L. RAO,,
+W0240,LS-1996-03-06-1,LS_member,LS_member,SHRI NAWAL KISHORE RAI,JD,opposition
+W0241,RS-1980-12-05-11,RS_member,RS_member,SHRI N K. P SALVE,,unknown
+W0245,RS-1990-05-08-7,minister,minister,SHRI CHIMANBHAI MEHTA,,
+W0246,LS-1983-03-23-42,LS_member,LS_member,PROF. MADHU DANDAVAT,JNP,opposition
+W0247,LS-1986-04-02-37,LS_member,LS_member,DR. DATTA SAMANT (Bombay South Central),IND,opposition
+W0249,LS-1998-08-03-13,LS_member,LS_member,SHRI MULAYAM SINGH YADAV (Sambhal),SP,opposition
+W0250,RS-1987-04-30-3,minister,minister,SHRI JANARDHAN POOJARI,,
+W0251,LS-1966-04-11-2,LS_member,LS_member,Shri Daljit Singh,INC,government
+W0252,LS-1973-03-07-7,minister,minister,SHRI DHARAM BIR SINHA,,
+W0254,LS-1999-12-22-3,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0255,LS-1990-09-03-9,LS_member,LS_member,SHRI AMAL DATTA,CPM,outside support
+W0257,LS-1998-12-09-5,LS_member,LS_member,SHRI SHANKAR PRASAD JAISWAL,BJP,government
+W0258,RS-1996-09-11-10,minister,minister,SHRI V. NARAYANASAMY,,
+W0260,RS-1982-07-29-9,minister,minister,SHRIMATI. RAM DULARI SINHA,,
+W0261,LS-1985-04-19-3,LS_member,LS_member,SHRI AMAL DATTA,CPM,opposition
+W0263,LS-1972-04-03-1,LS_member,LS_member,SHRI SHYAMNANDAN MISHRA (Begusarai),NCO,opposition
+W0264,LS-1966-04-12-1,LS_member,LS_member,ch. Shri Basappa (Tiptur),,unknown
+W0265,RS-1998-12-17-17,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0266,LS-1973-12-12-20,minister,minister,SHRI F. H. MOHSIN,,
+W0267,RS-1989-07-25-8,RS_member,RS_member,DR. NARREDDY THU- LASI REDDY,,unknown
+W0268,RS-1985-05-15-7,RS_member,RS_member,SHRI JASWANT SlNGH,,unknown
+W0271,LS-1997-08-06-2,LS_member,LS_member,SHRI JASWANT SINGH,BJP,opposition
+W0272,LS-1964-11-23-43,LS_member,LS_member,Shri Nath Pai,,unknown
+W0273,RS-1993-07-28-1,RS_member,RS_member,SHRI IQBAL SINGH,INC,government
+W0274,LS-1999-02-26-1,minister,minister,SHRI YASHWANT SINHA,,
+W0277,LS-1997-03-05-29,minister,minister,SHRI YOGINDER K. ALAGH,,
+W0278,LS-1992-07-08-6,LS_member,LS_member,SHRI SOBHANA- DREESWARA RAO VADDE,,unknown
+W0279,RS-1986-05-02-1,minister,minister,SHRI YOGENDRA MAKWANA,,
+W0280,LS-1979-03-07-4,LS_member,LS_member,SHRI DHIRENDRA NATH BASU,INC,opposition
+W0281,LS-1994-04-27-27,LS_member,LS_member,SHRI ANANTRAO DESH- MUKH,,unknown
+W0282,RS-1967-11-28-6,RS_member,RS_member,SHRI N. SRI RAMA REDDY,,unknown
+W0283,RS-1998-07-15-10,RS_member,RS_member,DR. ALLADI P. RAJKUMAR,,unknown
+W0284,RS-1972-11-22-7,RS_member,RS_member,SHRI V. V. SWAMINATHAN (Tamil Nadu),,unknown
+W0285,RS-1987-11-12-15,minister,minister,SHRI K. NATWAR SINGH,,
+W0286,RS-1993-03-03-2,minister,minister,SHRI DINESH SINGH,,
+W0287,LS-1967-08-07-5,minister,minister,Shrimaij Indira Gandhi,,
+W0288,LS-1997-08-14-5,minister,minister,SHRI YOGINDER K. ALAGH,,
+W0289,LS-1986-07-29-4,minister,minister,SHRIMATI SUSHILA ROHTAGI,,
+W0290,RS-1985-03-28-14,RS_member,RS_member,SHRI M. S. GURUPADASWAMY,,unknown
+W0291,LS-1966-03-08-1,LS_member,LS_member,Shri Harish Chandra Mathur (Jalore),,unknown
+W0292,RS-1996-12-20-1,RS_member,RS_member,SHRI R.K. KUMAR,,unknown
+W0293,LS-1982-11-03-13,LS_member,LS_member,SHRI SATISH AGARWAL,,unknown
+W0294,RS-1992-03-09-1,RS_member,RS_member,SHRI T. R. BALU,,unknown
+W0295,RS-1992-07-16-7,minister,minister,SHRI M. M. JACOB,,
+W0296,LS-1991-08-28-9,LS_member,LS_member,SHRI GUMAN MAL LODHA (Pali),,unknown
+W0297,LS-1992-07-22-3,LS_member,LS_member,SHRI SHARAD YADAV,JD,opposition
+W0298,RS-1983-12-07-13,RS_member,RS_member,SHRIMATI USHA MALHOTRA,,unknown
+W0299,RS-1966-11-29-3,minister,minister,SHRI M. C. CHAGLA,,
+W0300,RS-1995-02-13-2,RS_member,RS_member,SMT. BASAVA RAJESHWARI,,unknown
+W0301,RS-1998-07-29-6,RS_member,RS_member,SHRI RAJUBHAI A. PARMAR,,unknown
+W0302,LS-1999-03-04-27,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0304,LS-1998-06-11-14,LS_member,LS_member,SHRI P CHIDAMBARAM,TMC(M),opposition
+W0305,RS-1999-02-25-25,RS_member,RS_member,PROF. VIJAY KUMAR MALHOTRA,,unknown
+W0306,RS-1992-11-26-11,minister,minister,SHRI EDUARDO FALEIRO,,
+W0307,LS-1982-04-05-2,LS_member,LS_member,SHRI H. N. NANJE GOWDA,,unknown
+W0308,LS-1971-08-11-14,LS_member,LS_member,SHRI RAMACHANDRAN KADANNAPPALLI,INC,government
+W0309,LS-1964-03-30-2,LS_member,LS_member,Shri Hari Vishnu Kamath,PSP,opposition
+W0310,LS-1983-04-27-7,LS_member,LS_member,SHRIMATI JAYANTI PAT- NATK,,unknown
+W0311,LS-1967-12-22-2,LS_member,LS_member,SHRI SANT BUX SINGH (Fatehpur),INC,government
+W0312,LS-1998-12-02-6,minister,minister,SHRI SOMPAL,,
+W0313,LS-1971-06-16-2,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0314,LS-1998-07-07-40,LS_member,LS_member,SHRI PRABHUNATH SINGH,SAP,government
+W0315,RS-1964-12-02-1,RS_member,RS_member,SHRI P. K. KUMARAN,,unknown
+W0318,LS-1992-02-26-16,LS_member,LS_member,SHRI K.H. MUNIYAPPA,INC,government
+W0319,LS-1980-01-30-1,minister,minister,SHRI J. B. PATNAIK,,
+W0320,RS-1966-08-16-4,RS_member,RS_member,SHRI ARJUN ARORA,,unknown
+W0321,LS-1999-03-04-24,LS_member,LS_member,SHRIMATI JAYANTI PATNAIK,INC,opposition
+W0322,RS-1997-05-12-1,minister,minister,SHRI YOGINDER K. ALAGH,,
+W0325,LS-1981-04-29-11,LS_member,LS_member,SHRI SAMAR. MUKHERJEE,CPM,opposition
+W0326,RS-1995-04-26-7,RS_member,RS_member,SHRI INDER KUMAR GUJRAL,JD,opposition
+W0327,LS-1988-11-28-5,LS_member,LS_member,SHRI RAMSWAROOP RAM,INC,government
+W0330,LS-1966-02-28-9,LS_member,LS_member,Shri M. Rampure,,unknown
+W0331,RS-1972-03-16-2,RS_member,RS_member,SHRI K. C. PANDA,,unknown
+W0332,RS-1998-07-09-53,RS_member,RS_member,SHRI M. SANKARALINGAM (Tamil Nadu),,unknown
+W0333,RS-1967-06-01-7,RS_member,RS_member,SHRI M. RUTHNASWAMY,,unknown
+W0334,LS-1997-05-02-1,LS_member,LS_member,SHRI SUSHIL CHANDRA (Bhopal),BJP,opposition
+W0335,RS-1991-03-06-7,RS_member,RS_member,SHRI MAHENDRA PRASAD,,unclassified period
+W0337,RS-1967-12-01-1,RS_member,RS_member,SHRI N. PATRA,,unknown
+W0338,RS-1984-03-09-4,RS_member,RS_member,SHRI B. IBRAHIM,,unknown
+W0341,LS-1991-09-18-4,LS_member,LS_member,SHRI E. AHAMED (Manjeri),MUL,opposition
+W0342,RS-1994-08-26-7,RS_member,RS_member,SHRI VIRENDRA KATARIA (Punjab),,unknown
+W0343,LS-1962-05-14-8,LS_member,LS_member,Shri Nambiar (Tiruchirapalli),,unknown
+W0344,LS-1971-07-14-7,LS_member,LS_member,SHRI SAMAR GUHA,PSP,opposition
+W0345,LS-1974-04-24-2,LS_member,LS_member,SHRI SHRIKISHAN MODI,,unknown
+W0346,LS-1988-08-03-37,minister,minister,SHRI K.R. NARAYANAN,,
+W0347,LS-1992-02-25-2,minister,minister,SHRI MALUKARJUN,,
+W0348,LS-1998-07-21-2,LS_member,LS_member,SHRI KHARABELA SWAIN (Balasore),,unknown
+W0349,LS-1990-03-22-7,minister,minister,SHRII.K. GUJRAL,,
+W0350,LS-1969-03-12-8,LS_member,LS_member,SHRI YAJNA DATT SHARMA,BJS,opposition
+W0351,LS-1993-04-21-7,LS_member,LS_member,SHRI MANORANJAN BHAKTA,INC,government
+W0353,LS-1991-12-18-1,minister,minister,SHRIMATI MARGARET ALVA,,
+W0354,RS-1980-12-04-1,RS_member,RS_member,SHRI B. SATYANARAYAN REDDY,,unknown
+W0355,LS-1999-12-15-11,LS_member,LS_member,SHRI Y.S. VIVEKANANDA REDDY,INC,opposition
+W0356,RS-1991-12-16-15,RS_member,RS_member,SHRI G.G. SWELL,,unknown
+W0359,RS-1997-07-24-9,minister,minister,SHRI I.K. GUJRAL,,
+W0360,LS-1994-03-16-6,LS_member,LS_member,DR. LAL BAHADUR RAWAL,BJP,opposition
+W0361,RS-1973-03-02-4,minister,minister,SHRI SURENDRA PAL SINGH,,
+W0362,RS-1970-03-05-2,RS_member,RS_member,SHRI KRISHAN KANT,BLD,opposition
+W0363,LS-1979-04-18-1,LS_member,LS_member,SHRI SAUGATA ROY,INC,opposition
+W0366,LS-1966-11-14-15,minister,minister,Shrimati Indira Gandhi,,
+W0367,RS-1991-09-03-1,RS_member,RS_member,SHRI J. P. JAVALI (Kamataka),,unknown
+W0368,RS-1989-03-28-2,RS_member,RS_member,SHRI SAMAR MU- KHERJEE,,unknown
+W0369,RS-1994-04-18-2,RS_member,RS_member,SHRI SIKANDER BAKHT,BLD,opposition
+W0370,LS-1999-12-08-37,LS_member,LS_member,SHRI BASU DEB ACHARIA,,unknown
+W0372,LS-1967-06-12-2,LS_member,LS_member,Dr. Ramen Sen,,unknown
+W0373,LS-1997-03-05-20,minister,minister,DR. S. VENUGOPALACHARI,,
+W0375,RS-1968-11-28-10,RS_member,RS_member,SHRI CHITTA BASU,FBL,opposition
+W0378,RS-1997-02-27-16,RS_member,RS_member,SHRI V. RAJAN CHELLAPPA (Tamil Nadu),,unknown
+W0381,RS-1986-02-27-20,RS_member,RS_member,SHRI PARVATHANENI UPEN- DRA,,unknown
+W0382,RS-1966-05-07-6,RS_member,RS_member,SHRI S. K. VAISHAMPAYEN (Maharashtra),,unknown
+W0383,LS-1984-08-22-9,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0384,LS-1971-07-19-3,LS_member,LS_member,SHRI SURENDRA MOHANTY,UTC,opposition
+W0385,RS-1990-08-21-3,minister,minister,PROF. M. G. K. MENON,,
+W0387,LS-1990-04-04-7,LS_member,LS_member,SHRI V. KRISHNA RAO,INC,opposition
+W0388,RS-1994-08-25-11,RS_member,RS_member,SHRI V. GOPALSAMY,,unknown
+W0389,RS-1998-05-28-58,minister,minister,SHRI TRILOKI NATH CHATURVEDI,,
+W0390,RS-1999-10-27-2,RS_member,RS_member,SHRI PRANAB MUKHERJEE,,unknown
+W0391,RS-1968-03-21-13,RS_member,RS_member,SHRI R. T. PARTHASARATHY,,unknown
+W0394,LS-1974-08-01-2,LS_member,LS_member,DR. KARNI SINGH,IND,opposition
+W0395,RS-1995-03-29-6,RS_member,RS_member,SHRI RAMDAS AGARWAL,,unknown
+W0396,RS-1991-03-06-1,minister,minister,SHRI JAI PARKASH,,
+W0397,LS-1998-05-27-34,LS_member,LS_member,SHRI JAG MOHAN,,unknown
+W0398,RS-1992-11-26-27,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W0399,RS-1993-12-06-3,RS_member,RS_member,SHRIMATI KAMLA SINHA,,unknown
+W0401,LS-1977-11-16-3,LS_member,LS_member,SHRI DINEN BHATTACHAR-,CPM,outside support
+W0402,LS-1972-08-23-5,minister,minister,SHRI SIDDHESHWAR PRA: SAD,,
+W0403,RS-1991-02-27-1,RS_member,RS_member,SHRI JAGADISH JAM,,unclassified period
+W0404,LS-1998-08-03-30,LS_member,LS_member,SHRi PRITHVIRAJ D. CHAVAN (Karad),INC,opposition
+W0405,LS-1999-03-12-14,LS_member,LS_member,SHRI NAKLI SINGH,BJP,government
+W0406,LS-1992-04-23-4,minister,minister,SHRI EDUARDOFAlEIRO,,
+W0407,LS-1998-06-08-6,LS_member,LS_member,SHRI RAGHVENDRA SINGH,BJP,government
+W0409,LS-1981-03-03-5,minister,minister,SHRI VIK- RAM MAHAJAN,,
+W0410,RS-1992-07-09-10,RS_member,RS_member,PROF. SAURIN BHATTACHARYA,,unknown
+W0411,RS-1979-07-12-9,RS_member,RS_member,SHRI SURENDRA MOHANTY,,unknown
+W0413,RS-1999-02-25-36,RS_member,RS_member,SHRI JOHN F. FERNANDES,,unknown
+W0415,LS-1993-08-23-4,LS_member,LS_member,SHRI NURUL ISLAM,INC,government
+W0418,RS-1981-12-03-20,RS_member,RS_member,SHRI N. K. P. SALVE,,unknown
+W0419,LS-1990-08-16-9,LS_member,LS_member,SHRI PRATAPRAO B. BHOSALE,INC,opposition
+W0420,RS-1994-08-26-5,RS_member,RS_member,Mr. G.G. Swell. SHRIG.G. SWELL (Meghalaya),,unknown
+W0421,LS-1997-08-01-1,LS_member,LS_member,SHRI MADHUKAR SARPOTDAR,SHS,opposition
+W0422,LS-1996-12-11-3,LS_member,LS_member,SHRI SATYA DEO SINGH,,unknown
+W0423,RS-1994-02-24-1,minister,minister,SHRI GHULAM NABI AZAD,,
+W0425,LS-1998-07-07-35,LS_member,LS_member,SHRI T.R. BAALU,DMK,opposition
+W0426,RS-1980-07-01-1,RS_member,RS_member,SHRI V. B. RAJU,TDP,opposition
+W0427,LS-1965-11-08-7,minister,minister,Shri Y. B. Chavan,,
+W0428,LS-1964-11-30-2,LS_member,LS_member,Shri Shivaji Rao S. Deshmukh,,unknown
+W0429,RS-1998-07-22-7,RS_member,RS_member,SHRI RAMDAS AGARWAL,,unknown
+W0430,LS-1973-08-29-4,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0431,RS-1990-03-27-5,RS_member,RS_member,SHRI MOHINDER SINGH LATHER,,unknown
+W0432,LS-1966-05-10-7,LS_member,LS_member,Shri Hari Vishnu Kamath,PSP,opposition
+W0433,RS-1994-04-21-5,RS_member,RS_member,SHRI V. HANUMANTHA RAO,,unknown
+W0434,RS-1994-12-21-7,minister,minister,SHRI R. L. BHATIA,,
+W0435,LS-1970-02-23-3,LS_member,LS_member,SHRI SHIV KUMAR SHASTRI,IND,opposition
+W0436,LS-1962-11-22-1,LS_member,LS_member,Shri Frank Anthony (Nominated- Anglo-Indians),,unknown
+W0438,LS-1962-08-20-14,LS_member,LS_member,Shri Joachim Alva,,unknown
+W0439,RS-1989-05-02-12,RS_member,RS_member,SHRI VIRENDRA VERMA,BJP,opposition
+W0440,LS-1986-02-26-3,LS_member,LS_member,SHRI SRIHARI RAO,TDP,opposition
+W0441,LS-1978-03-09-1,minister,minister,SHRI NARHARI PRA- SAD SUKHDEO SAI,,
+W0442,RS-1998-07-09-47,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA (Rajasthan),,unknown
+W0443,RS-1963-09-02-4,RS_member,RS_member,SHRI T. S. PATTABIRAMAN (Madras),,unknown
+W0444,LS-1998-07-30-1,minister,minister,DR. M. THAMBI DURAl,,
+W0445,LS-1994-12-07-3,LS_member,LS_member,PROF. K.V. THOMAS,INC,government
+W0447,LS-1968-08-07-5,LS_member,LS_member,SHRI R. K. SINHA,INC,government
+W0448,RS-1994-03-17-16,RS_member,RS_member,SHRI H. HANUMANTHAPPA,,unknown
+W0449,LS-1990-04-04-22,LS_member,LS_member,SHRI JANAK RAJ GUPTA,INC,opposition
+W0450,LS-1989-03-27-1,LS_member,LS_member,DR. DATTA SAMANT,IND,opposition
+W0451,LS-1968-02-15-6,LS_member,LS_member,SHRI BAKAR ALI MIRZA,INC,government
+W0452,RS-1986-03-13-8,RS_member,RS_member,SHRI K. VASUDEVA PANIC KER,,unknown
+W0453,RS-1987-12-07-4,RS_member,RS_member,SHRI DIPEN GHOSH (West Bengal),,unknown
+W0454,RS-1994-03-02-5,RS_member,RS_member,SHRI BISHAMBHAR NATH PANDE,,unknown
+W0455,RS-1999-02-26-1,minister,minister,SHRI SURJIT SINGH BARNALA,,
+W0456,RS-1966-08-25-1,minister,minister,SHRI S. K. DEY,,
+W0457,LS-1998-07-29-27,LS_member,LS_member,SHRI GIRDHARILAL BHARGAVA,,unknown
+W0458,LS-1968-07-24-4,minister,minister,SHRi SWARAN SINGH,,
+W0459,LS-1986-04-08-13,LS_member,LS_member,SHRI M. S. GILL,,unknown
+W0460,LS-1991-02-25-9,minister,minister,SHRI KAMAL MORARKA,,
+W0462,RS-1998-07-09-50,RS_member,RS_member,SHRI K.R. MALKANI,,unknown
+W0464,RS-1970-03-26-7,minister,minister,SHRI R. K. KHADILKAR,,
+W0465,RS-1970-05-07-3,RS_member,RS_member,SHRI JAGDISH PRASAD MATHUR,BLD,opposition
+W0468,LS-1984-08-01-15,LS_member,LS_member,SHRI DAULAT RAM SARAN,JNP(S),opposition
+W0469,RS-1974-08-13-1,RS_member,RS_member,SHRI K.P. SINGH DEO,INC,government
+W0472,RS-1974-08-29-24,RS_member,RS_member,DR. K. MATHEW KURIAN,,unknown
+W0473,LS-1973-02-21-27,LS_member,LS_member,SHRI S. M. BANERJEE (Kanpur),IND,opposition
+W0474,LS-1988-04-27-15,minister,minister,SHRI P. CHIDAMBARAM,,
+W0475,LS-1987-12-02-10,LS_member,LS_member,SHRI SYED SHAHABUDDIN,,unknown
+W0476,RS-1965-03-03-2,minister,minister,DR. K. L. RAO,,
+W0477,LS-1962-08-14-5,LS_member,LS_member,Shri Nataraja Pillai,IND,opposition
+W0478,RS-1992-03-09-23,RS_member,RS_member,MISS SAROJ KHAPARDE,,unknown
+W0480,LS-1997-03-05-45,LS_member,LS_member,SHRI SOHAN BEER,,unknown
+W0481,LS-1994-08-10-5,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W0483,RS-1995-04-27-5,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W0484,RS-1962-08-24-2,RS_member,RS_member,SHRI N. M. ANWAR,,unknown
+W0485,RS-1967-11-28-3,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0487,RS-1998-05-28-24,minister,minister,SHRIMATI VASUNDHRA RAJE,,
+W0490,LS-1973-04-18-8,LS_member,LS_member,SHRI JHARKHANDE RAI,,unknown
+W0491,RS-1996-12-12-8,minister,minister,SHRI YOGINDER K. ALAGH,,
+W0493,LS-1968-12-18-2,minister,minister,SHRI K. K. SHAH,,
+W0494,LS-1985-07-24-17,minister,minister,SHRI KHURSHID ALAM KHAN,,
+W0495,RS-1999-12-15-1,minister,minister,SHRI P. R. KUMARAMANGALAM,,
+W0496,RS-1987-11-26-10,minister,minister,"SHRI K, R. NARAYANAN",,
+W0498,RS-1978-08-29-3,RS_member,RS_member,Mr. Zakaria. DR. RAFIQ ZAKARIA (Maharashtra),,unknown
+W0499,RS-1998-05-28-12,RS_member,RS_member,DR. SHRIKANT RAMCHANDRA JICHKAR,,unknown
+W0500,RS-1986-03-06-1,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W0503,LS-1995-03-28-2,minister,minister,SHRI KAMAL NATH,,
+W0504,LS-1999-04-16-7,LS_member,LS_member,SHRI MULAYAM SINGH YADAV,SP,opposition
+W0506,RS-1980-08-08-4,RS_member,RS_member,SHRI J. K. JAIN,BLD,opposition
+W0508,RS-1975-05-08-2,RS_member,RS_member,SHRI J. S. TILAK,,unknown
+W0510,LS-1970-03-17-1,LS_member,LS_member,SHRI AMIYANATH BOSE (Arambagh),FBL,opposition
+W0513,LS-1962-11-09-3,LS_member,LS_member,Shri A. P. Jain,,unknown
+W0514,LS-1979-05-02-5,minister,minister,"PROF, SHER SINGH",,
+W0516,LS-1966-04-29-1,LS_member,LS_member,Shri Nath Pai (Rajapur),,unknown
+W0517,RS-1991-02-27-8,minister,minister,SHRI KAMAL MORARKA,,
+W0518,LS-1977-11-16-5,minister,minister,SHRI L.K. ADVANI,,
+W0519,LS-1967-12-11-40,LS_member,LS_member,SHRI GEORGE FERNAN- DES,,unknown
+W0520,LS-1985-05-08-10,minister,minister,SHRI SHIVRAJ V. PATIL,,
+W0522,RS-1989-08-02-2,minister,minister,SHRI MADHAVRAO SCINDIA,,
+W0523,LS-1989-03-27-14,minister,minister,SHRI K.R. NARAY- ANAN,,
+W0524,LS-1995-05-08-25,minister,minister,SHRI R.L. BHATIA,,
+W0525,LS-1998-07-09-10,LS_member,LS_member,SHRI JAGAT VIR SINGH ORONA (KANPUR),,unknown
+W0526,LS-1994-03-02-23,minister,minister,SHRIMATI SHEILA KAUL,,
+W0527,RS-1998-07-27-2,RS_member,RS_member,SHRI J. CHITHARANJAN,,unknown
+W0528,RS-1998-05-29-16,RS_member,RS_member,SHRI S. PETER ALPHONSE (Tamil Nadu),,unknown
+W0529,LS-1999-04-15-7,LS_member,LS_member,SHRI BHAJAN LAL (Karnal),INC,opposition
+W0530,LS-1988-11-21-24,LS_member,LS_member,DR. C.S. RAJHANS (Jhanjharpur),,unknown
+W0531,RS-1965-08-19-1,RS_member,RS_member,SHRI A. D. MANI,,unknown
+W0532,LS-1980-07-09-8,minister,minister,SHRI- MATI INDIRA GANDHI,,
+W0533,LS-1976-03-10-4,LS_member,LS_member,SHRI MOHINDER SINGH GILL,,unknown
+W0536,RS-1992-12-04-1,RS_member,RS_member,SHRI S. AUSTIN (Tamil Nadu),,unknown
+W0537,LS-1998-07-07-39,minister,minister,SHRI SOMPAL,,
+W0538,RS-1994-08-11-5,RS_member,RS_member,SHRI ANANT RAM JAISWAL,BLD,opposition
+W0539,RS-1998-06-02-7,RS_member,RS_member,SHRI JONH F. FERNANDES,,unknown
+W0540,LS-1972-11-21-1,LS_member,LS_member,DR. H. P. SHARMA,,unknown
+W0541,LS-1997-03-10-2,LS_member,LS_member,SHRI G.A. CHARAN REDDY,,unknown
+W0542,RS-1993-02-23-2,minister,minister,SHRI P. V. RANGAYYA NAIDU,,
+W0544,RS-1993-08-26-3,RS_member,RS_member,SHRI MURLIDHAR CHANDRAKANT BHANDARE,,unknown
+W0545,RS-1991-12-19-10,minister,minister,SHRI- MATI MARGARET ALVA,,
+W0546,RS-1995-05-31-1,minister,minister,SHRI R. L. BHATTA,,
+W0547,RS-1987-04-30-10,minister,minister,SHRI K. R. NARAYANAN,,
+W0549,LS-1995-03-22-14,LS_member,LS_member,SHRI CHHITUBHAI GAMIT,,unknown
+W0550,LS-1965-11-25-2,LS_member,LS_member,Shri Wartor,,unknown
+W0552,RS-1995-12-22-1,RS_member,RS_member,SHRI BHUBNESWAR KALITA (Assam),INC,government
+W0553,RS-1971-11-30-1,RS_member,RS_member,SHRI SURESH J. DESAI (Gujarat),,unknown
+W0554,RS-1970-03-12-15,RS_member,RS_member,SHRI BANKA BEHARY DAS,CPM,opposition
+W0555,LS-1992-03-25-9,LS_member,LS_member,PROF. RASA SINGH RAWAT,BJP,opposition
+W0556,LS-1999-12-22-9,LS_member,LS_member,SHRI SURESH KURUP,CPM,opposition
+W0557,RS-1972-04-29-4,RS_member,RS_member,SHRI V. GOPALSAMY,,unknown
+W0558,LS-1983-03-22-4,LS_member,LS_member,ch. SOME HON. MEMBERS,,unknown
+W0559,RS-1979-03-09-2,RS_member,RS_member,DR. RAFIQ ZAKARIA (Maharashtra),,unknown
+W0560,LS-1990-04-12-1,minister,minister,SHRI MUFTI MOHAMMAD SAYEED,,
+W0562,RS-1988-05-12-14,minister,minister,SHRI K. NATWAR SINGH,,
+W0564,LS-1997-05-06-25,minister,minister,SHRI YOGINDER K. ALAGH,,
+W0565,LS-1987-02-25-18,minister,minister,SHRI B.K. GADHVI,,
+W0566,RS-1998-12-18-1,RS_member,RS_member,SHRI K. R. MALKANI,,unknown
+W0568,LS-1992-07-08-14,LS_member,LS_member,SHRI BUOY. KRISHNA HANDIOUE (Jorhat),INC,government
+W0569,RS-1972-08-10-3,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0570,LS-1994-12-12-10,LS_member,LS_member,PROF. RASA SINGH RAWAT (Ajmer),BJP,opposition
+W0572,RS-1995-08-03-11,RS_member,RS_member,SHRI SARADA MOHANTY,,unknown
+W0575,LS-1967-12-04-11,minister,minister,SHRI SWARAN SINGH,,
+W0576,RS-1998-06-08-5,RS_member,RS_member,SHRIMATI JAYANTHI NATARAJAN,,unknown
+W0577,LS-1990-08-16-11,minister,minister,SHAI VISH- WANATH PRATAP SINGH,,
+W0580,LS-1999-03-12-7,LS_member,LS_member,SHRI RAGHUVANSH PRASAD SINGH,RJD,opposition
+W0582,RS-1998-12-03-15,minister,minister,SHRI SOMPAL,,
+W0583,RS-1999-04-19-7,RS_member,RS_member,DR. ALLADI P. RAJKUMAR,,unknown
+W0585,LS-1962-06-06-1,minister,minister,Shri Dinesh Singh,,
+W0588,LS-1992-08-03-2,LS_member,LS_member,DR. MAHADEEPAK SINGH SHANKYA,,unknown
+W0589,LS-1963-04-29-6,minister,minister,Shri Jawaharlal Nehra,,
+W0590,RS-1996-07-15-9,RS_member,RS_member,SHRI PRAKASH YASHWANT AM- BEDKAR (Nominated),,unknown
+W0591,RS-1968-08-29-5,RS_member,RS_member,SHRI SITARAM JAIPURIA,,unknown
+W0592,RS-1967-11-23-1,minister,minister,SHRI C. M. POONACHA,,
+W0593,RS-1974-11-22-8,RS_member,RS_member,SHRI S. KUMARAN,,unknown
+W0594,LS-1994-08-23-1,LS_member,LS_member,SHRI V. SREENIVASA PRASAD,INC,government
+W0597,RS-1986-11-10-1,RS_member,RS_member,SHRI TALARI MANOHAR,,unknown
+W0598,RS-1996-11-27-1,RS_member,RS_member,DR. SHRIKANT RAMCHANDRA JICHKAR,,unknown
+W0599,RS-1992-11-26-1,RS_member,RS_member,SHRI G. G. SWELL,,unknown
+W0600,LS-1998-12-09-9,LS_member,LS_member,SHRI SURESH WARPUDKAR,,unknown
+W0601,LS-1980-07-09-11,LS_member,LS_member,SHRI ANANDA GOPAL MUKHO- PADHYAY (Asansol),INC(I),government
+W0603,LS-1992-07-08-7,LS_member,LS_member,SHRI LAL BABU RAI,JD,opposition
+W0605,RS-1988-08-11-24,RS_member,RS_member,SHRI SAMAR MUKHERJEE,,unknown
+W0606,LS-1998-05-27-26,minister,minister,SHRI SOMPAL,,
+W0607,RS-1992-08-20-7,RS_member,RS_member,DR. SANJAYA SINH,,unknown
+W0608,LS-1993-12-30-3,LS_member,LS_member,SHRI NITISH KUMAR,JD,opposition
+W0609,RS-1964-09-22-17,RS_member,RS_member,SHRI NIREN GHOSH (West Bengal),CPM,opposition
+W0611,LS-1997-08-05-2,LS_member,LS_member,SHRI K. PARASURAMAN (Chengalpatu),DMK,government
+W0612,LS-1965-04-26-18,LS_member,LS_member,Shri Warior (Trichur),,unknown
+W0615,RS-1987-08-13-8,RS_member,RS_member,SHRI SATOSH BAGRODIA,,unknown
+W0618,RS-1968-05-02-2,RS_member,RS_member,SHRI NIRANJAN VARMA,,unknown
+W0619,LS-1998-08-03-15,LS_member,LS_member,SHRI MULAYAM SINGH YADAV,SP,opposition
+W0620,LS-1998-05-29-7,minister,minister,SHRI MADAN LAL KHURANA,,
+W0621,RS-1966-05-11-1,RS_member,RS_member,SHRI R. S. KHANOEKAR (Madhya Pradesh),,unknown
+W0622,LS-1993-03-24-5,LS_member,LS_member,SHRI DAU DAYAL JOSHI,BJP,opposition
+W0623,RS-1974-08-29-12,RS_member,RS_member,SHRI HARSH DEO MALAVIYA,,unknown
+W0625,RS-1967-04-04-1,minister,minister,SHRI M. C. CHAGLA,,
+W0627,RS-1982-08-13-6,RS_member,RS_member,Shri Jagb,,unknown
+W0628,RS-1991-02-27-11,RS_member,RS_member,SHRI TALARI MANOHAR,,unclassified period
+W0629,RS-1998-07-07-1,minister,minister,SHRI GEORGE FERNANDES,,
+W0630,LS-1965-03-29-16,minister,minister,Shrimati Lakshmi Menon,,
+W0631,RS-1998-12-22-1,RS_member,RS_member,SHRI KAPIL SABIL,,unknown
+W0632,LS-1969-08-20-5,minister,minister,DR. RAM SUBHAG SINGH,,
+W0634,RS-1980-08-06-1,RS_member,RS_member,SHRIMATI USHA MALHOTRA (Himachal Pradesh),,unknown
+W0635,RS-1968-11-21-2,RS_member,RS_member,SHRI KRISHAN KANT,BLD,opposition
+W0638,RS-1998-07-16-6,RS_member,RS_member,SARDAR GURCHARAN SINGH TOHRA,SAD,government
+W0639,RS-1998-05-28-49,RS_member,RS_member,SHRI S.R. BOMMAI (Karnataka),,unknown
+W0640,LS-1991-08-28-8,minister,minister,SHRIMATI MARGARET ALVA,,
+W0641,RS-1997-08-11-1,minister,minister,SHRIMATI KANTI SINGH,,
+W0642,LS-1996-09-11-5,minister,minister,DR. S. VENUGOPALACHARI,,
+W0643,RS-1992-05-07-2,minister,minister,SHRI SHARAD PA WAR,,
+W0644,LS-1998-12-09-6,LS_member,LS_member,SHRIMATI SURYAKANTA PATIL,INC,opposition
+W0645,RS-1967-05-30-6,RS_member,RS_member,SHRI B. N. MANDAL,,unknown
+W0647,RS-1996-12-03-1,minister,RS_member,SHRI PRANAB MUKHERJEE (West Bengal),,unknown
+W0648,RS-1992-07-30-2,minister,minister,SHRI P. R. KUMARA-MANGA1AM,,
+W0650,RS-1999-02-25-21,minister,minister,SHRI JASWANT SINGH,,
+W0651,LS-1997-03-05-24,minister,minister,SHRI YOGINDER K. ALAGH,,
+W0652,RS-1991-12-12-11,RS_member,RS_member,SHRI N. K. P. SALVE,,unknown
+W0655,LS-1982-03-31-14,minister,minister,SHRI P V. NARASfMHA RAO,,
+W0656,RS-1988-12-06-13,RS_member,RS_member,PROF. C. LAKSHMANNA,,unknown
+W0657,LS-1984-04-04-5,LS_member,LS_member,SHRI LAKSHMAN MALLICK,INC(I),government
+W0659,RS-1998-12-16-10,RS_member,RS_member,SHRI SHARIEF-UD-DIN SHARIQ (Jammu and Kashmir),,unknown
+W0660,LS-1972-05-03-2,LS_member,LS_member,SHRI S.N. MISRA,INC,government
+W0661,RS-1998-12-01-4,minister,minister,SHRI P.R. KUMARAMANGALAM,,
+W0663,LS-1995-08-02-19,minister,minister,DR. C. SILVERA,,
+W0664,LS-1997-07-23-2,LS_member,LS_member,SHRI SANTOSH KUMAR GANGWAR,BJP,opposition
+W0666,RS-1998-06-02-3,RS_member,RS_member,SHRIMATI KAMLA SINHA (Bihar),,unknown
+W0667,LS-1989-07-24-8,LS_member,LS_member,SHRI CHANDRA KISHORE PATHAK,INC,government
+W0668,LS-1995-08-09-8,LS_member,LS_member,SHRI KASHIRAM RANA,BJP,opposition
+W0669,LS-1979-04-02-7,LS_member,LS_member,SHRI RATANSINH RAJDA,,unknown
+W0670,RS-1992-03-16-9,RS_member,RS_member,SHRI MURLIDHAR CHANDRAKANT BHANDARE,,unknown
+W0671,RS-1982-10-21-21,RS_member,RS_member,SHRI SHIVA CHANDRA JHA,SSP,opposition
+W0672,LS-1992-07-31-1,LS_member,LS_member,SHRI GOPI NATH GAJAPATHI (Berhampur),,unknown
+W0673,LS-1993-08-25-5,LS_member,LS_member,DR. R. MALLU,INC,government
+W0674,RS-1978-05-05-8,minister,minister,SHRI P. RAMACHANDRAN,,
+W0675,LS-1998-03-31-1,LS_member,LS_member,SHRI RAM VILAS PASWAN,JD,opposition
+W0676,LS-1970-03-18-13,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0677,RS-1991-01-08-6,minister,minister,SHRI KAMAL MORARKA,,
+W0678,LS-1974-04-10-2,minister,minister,SHRI C SUBRAMANIAM,,
+W0680,LS-1994-12-21-12,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W0681,RS-1999-03-04-16,RS_member,RS_member,SHRI S.M. KRISHNA,,unknown
+W0682,RS-1994-03-16-3,RS_member,RS_member,SHRI K. R. MALKANI (Delhi),,unknown
+W0683,LS-1979-03-21-6,LS_member,LS_member,SHRI CHITTA BASU,FBL,opposition
+W0684,LS-1993-12-23-2,minister,minister,SHRI B. SHANKARANAND,,
+W0685,LS-1970-05-20-21,minister,minister,SHRI SIDDHESHWAR PRA- SAD,,
+W0687,RS-1968-02-15-4,minister,minister,SHRI K. K. SHAH,,
+W0689,RS-1994-03-03-12,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W0690,LS-1999-03-12-8,LS_member,LS_member,SHRI RAGHUVANSH PRASAD SINGH,RJD,opposition
+W0691,LS-1971-07-28-3,minister,minister,"DR. K. L, RAO",,
+W0693,LS-1979-04-11-19,LS_member,LS_member,SHRI EDUARDO FALEIRO,,unknown
+W0695,RS-1983-12-02-7,minister,minister,SHRI P. V. NARASIMHA RAO,,
+W0696,LS-1975-03-20-1,minister,minister,SHRI SUKHDEV PRASAD,,
+W0698,RS-1983-02-24-14,minister,minister,SHRI-MATI INDIRA GANDHI,,
+W0700,RS-1962-08-30-13,RS_member,RS_member,SHRI V. M. CHORDIA,,unknown
+W0701,LS-1983-03-30-13,LS_member,LS_member,SHRI SONTOSH MOHAN DEV,INC(I),government
+W0702,LS-1973-04-25-6,minister,minister,SHRI DHARAM BIR SINHA,,
+W0703,RS-1993-03-04-2,RS_member,RS_member,DR. YELAMANCHILI SIVAJI,,unknown
+W0704,RS-1962-06-18-1,minister,minister,DR. RAM SUBHAC SINGH,,
+W0705,LS-1999-03-11-11,LS_member,LS_member,SHRI AJIT KUMAR PANJA,WBTC,government
+W0706,LS-1963-11-18-1,LS_member,LS_member,Shri Hari Vishnu Kamath,PSP,opposition
+W0709,LS-1992-08-12-4,LS_member,LS_member,SHRI R. SURENDER REDDY,,unknown
+W0710,LS-1965-03-29-23,LS_member,LS_member,Shri Yashpal Singh,IND,opposition
+W0711,RS-1998-06-02-2,RS_member,RS_member,SHRI GURUDAS DAS GUPTA (West Bengal),INC,opposition
+W0712,RS-1983-12-08-2,RS_member,RS_member,SHRI RAMKRISHNA MAZUMDER,,unknown
+W0713,LS-1998-07-29-39,minister,minister,SHRI SOMPAL,,
+W0714,RS-1992-07-09-6,RS_member,RS_member,SHRI N. E. BALARAM,,unknown
+W0716,RS-1991-11-20-4,RS_member,RS_member,DR. R. K. PODDAR,,unknown
+W0718,LS-1976-04-06-7,LS_member,LS_member,SHRI H. M. PATEL,SWA,opposition
+W0719,LS-1965-03-08-12,minister,minister,Shri Swaran Singh,,
+W0720,RS-1991-09-18-1,minister,RS_member,ch. SHRI KAMAL MORARKA,,unknown
+W0721,LS-1997-08-29-7,LS_member,LS_member,SHRI CHANDRABHUSHAN SINGH SHRI CHANDRABHUSHAN SINGH (Kannauj),,unknown
+W0722,LS-1967-11-14-2,LS_member,LS_member,SHRI KANWAR LAL GUPTA,BJS,opposition
+W0723,LS-1973-02-28-4,minister,minister,SHRI DHARAM BIR SINHA,,
+W0725,RS-1982-07-13-2,minister,minister,SHRI A. B. A. GHANI KHAN CHAUDHURI,,
+W0726,LS-1965-03-22-3,minister,minister,Shri Lalit Sen,,
+W0727,RS-1963-09-12-1,minister,minister,SHRI C. SUBRA-MANIAM,,
+W0728,RS-1996-02-28-13,RS_member,RS_member,Shri E. Balanandan. SHRI E. BALANANDAN (Kerala),,unknown
+W0730,RS-1997-08-28-8,RS_member,RS_member,DR. B.B. DUTTA,CPM,outside support
+W0732,RS-1996-12-04-1,RS_member,RS_member,SHRI K.R. MALKANI (Delhi),,unknown
+W0733,RS-1964-09-29-2,RS_member,RS_member,SHRI MAHABIR DASS,,unknown
+W0734,LS-1983-08-17-15,minister,minister,SHRI SHIVRAJ V. PATIL,,
+W0735,RS-1970-08-20-4,RS_member,RS_member,SHRI SURAJ PRASAD,INC,government
+W0736,RS-1992-03-05-8,RS_member,RS_member,SHRI M. VINCENT,,unknown
+W0738,LS-1995-05-22-4,minister,minister,SHRI SONTOSH MOHAN DEV,,
+W0739,LS-1990-04-04-19,LS_member,LS_member,SHRI T. BASHEER,INC,opposition
+W0740,LS-1965-11-22-1,LS_member,LS_member,Shri Ramachandra Ulaka,INC,government
+W0741,LS-1971-03-31-1,LS_member,LS_member,SHRI P.K. GHOSH,INC,government
+W0744,LS-1996-11-28-1,LS_member,LS_member,SHRI B.L. SHARMA PREM,BJP,opposition
+W0745,LS-1992-04-23-1,LS_member,LS_member,SHRI SANATKUMAR MANDAL,,unknown
+W0746,LS-1967-12-18-23,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0747,RS-1978-12-14-2,RS_member,RS_member,SHRI N. P. CHENGALRAYA NAIDU,INC,opposition
+W0748,LS-1994-04-25-14,LS_member,LS_member,PROF. K. VENKATAGIRI GOWDA (Bangalore South),BJP,opposition
+W0749,LS-1973-08-30-6,minister,minister,SHRI SWARAN SINGH,,
+W0751,RS-1962-04-30-10,RS_member,RS_member,SHRI P. N. SAPRU,,unknown
+W0752,RS-1994-03-09-10,RS_member,RS_member,SHRI SHIV PRATAP MISH-RA,,unknown
+W0754,RS-1994-03-09-15,minister,minister,SHRI PRANAB MUKHERJEE,,
+W0755,RS-1996-12-05-38,minister,minister,SHRI YOGINDER K. ALAGH,,
+W0756,RS-1970-12-15-1,RS_member,RS_member,SHRI M. K. MOHTA,,unknown
+W0758,RS-1999-12-22-2,RS_member,RS_member,SHRI MANOHAR KANT DHYANI,,unknown
+W0759,LS-1974-11-12-1,LS_member,LS_member,SHRI K (७. PANT),,unknown
+W0761,LS-1998-07-07-34,LS_member,LS_member,SHRI JAGDAMBI PRASAD YADAV,BJP,government
+W0762,RS-1980-12-18-4,RS_member,RS_member,SHRI SHIVA CHANDRA JHA,SSP,opposition
+W0764,LS-1987-02-25-15,LS_member,LS_member,SHRI M. RAGHUMA REdDy,TDP,opposition
+W0765,RS-1996-11-20-5,RS_member,RS_member,SHRI ASHOK MITRA,,unknown
+W0766,LS-1974-04-03-4,LS_member,LS_member,SHRI NAWAL KISHORE SHARMA,INC,government
+W0767,LS-1990-03-26-2,LS_member,LS_member,SHRI K. PRADHANI,INC,opposition
+W0768,RS-1995-03-15-4,RS_member,RS_member,SHRIMATI VEENA VERMA,,unknown
+W0771,LS-1997-03-10-16,LS_member,LS_member,SHRI MADHAVRAO SCINDIA,MPVC,opposition
+W0772,RS-1966-05-11-8,RS_member,RS_member,SHRI MULKA GOVINDA REDDY,,unknown
+W0773,LS-1999-12-13-1,minister,minister,SHRIMATI JAYAWANTI MEHTA,,
+W0774,LS-1975-02-26-13,LS_member,LS_member,SHRI BIRENDER SINGH RAO,,unknown
+W0775,RS-1978-03-16-4,RS_member,RS_member,DR. LOKEEH CHANDRA,,unknown
+W0779,LS-1999-04-16-1,LS_member,LS_member,SHRI BIJOY HANDIQUE,,unknown
+W0780,RS-1987-08-26-2,RS_member,RS_member,SHRI ASHWANI KUMAR,,unknown
+W0781,LS-1965-11-15-8,minister,minister,Shri Lal Bahadur Shastri,,
+W0783,LS-1998-07-15-1,LS_member,LS_member,SHRI V.V. RAGHAVAN,CPI,opposition
+W0784,LS-1999-03-11-1,LS_member,LS_member,SHRI CHHATTRA PAL SINGH,,unknown
+W0785,LS-1992-03-03-3,LS_member,LS_member,SHRI JASWANT SINGH,BJP,opposition
+W0787,RS-1998-12-15-15,RS_member,RS_member,SHRI BHUVNESH CHATURVEDI (Rajasthan),,unknown
+W0788,LS-1963-09-16-14,minister,LS_member,"Dr. Gaitonde (Goa, Daman & Diu)",,unknown
+W0791,LS-1995-05-08-3,LS_member,LS_member,SHRI MAHESH KANODIA,BJP,opposition
+W0792,LS-1973-08-22-3,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0793,LS-1994-03-07-10,minister,minister,SHRI R.L BHATIA,,
+W0794,RS-1965-09-07-2,RS_member,RS_member,SHRI C. D. PANDE,INC,government
+W0795,RS-1970-03-25-1,RS_member,RS_member,SHRI K. P. MALLIKARIUNUDU,,unknown
+W0796,LS-1962-05-31-1,minister,minister,Shri Krishna Menon,,
+W0798,LS-1998-08-05-3,LS_member,LS_member,DR. C.P. THAKUR (Palna),BJP,government
+W0799,RS-1999-03-08-3,RS_member,RS_member,DR. C. NARAYANA REDDY (Nominated),,unknown
+W0801,RS-1994-04-26-4,RS_member,RS_member,SHRI S. JAIPAL REDDY,,unknown
+W0802,LS-1988-04-20-35,minister,LS_member,PROF. NARAIN CHAND PARASHAR (Hamirpur),,unknown
+W0803,LS-1967-07-18-5,LS_member,LS_member,Shrimati Lakshmikanthamma,,unknown
+W0804,RS-1966-05-11-10,RS_member,RS_member,SHRI BANKA BEHARY DAS (Orissa),CPM,opposition
+W0806,LS-1990-08-21-1,LS_member,LS_member,SHRI MAHENORA SINGH,BJP,outside support
+W0807,LS-1972-08-16-17,LS_member,LS_member,SHRI ARVIND NETAM,,unknown
+W0808,RS-1990-08-28-8,RS_member,RS_member,SHRI SHAMIM HASHMI,,unknown
+W0809,RS-1984-08-17-1,RS_member,RS_member,SHRI JASWANT SINGH,,unknown
+W0810,LS-1964-09-24-2,LS_member,LS_member,Shri Raghunath Singh,INC,government
+W0811,LS-1966-08-12-1,minister,minister,Shri Sachindra Chaudhuri,,
+W0812,LS-1984-08-22-33,minister,minister,SHRI BUTA SINGH,,
+W0813,RS-1991-02-27-5,RS_member,RS_member,SHRI MAHENDRA PRASAD,,unclassified period
+W0815,LS-1962-04-26-2,LS_member,LS_member,Shri Harish Chandra Mathur (Jalore),,unknown
+W0816,LS-1966-03-29-13,minister,minister,Shri Y. B. Chavan,,
+W0818,LS-1966-11-29-1,LS_member,LS_member,Dr. Me M. Das,,unknown
+W0820,RS-1998-06-04-12,minister,minister,SHRIMATI VASUNDHRA RAJE,,
+W0821,RS-1980-11-20-20,minister,minister,SHRI C. P. N. SINGH,,
+W0822,LS-1967-06-21-12,LS_member,LS_member,Shri K. P. Singh Deo (Dhenkanal),,unknown
+W0823,LS-1966-11-07-1,LS_member,LS_member,Shri Bibhuti Mishra,INC,government
+W0825,RS-1990-08-07-1,minister,minister,PROF. M. G. K. MENON,,
+W0826,RS-1979-07-13-3,minister,minister,SHRI SAMARENDRA KUNDU,,
+W0827,RS-1964-04-29-1,minister,minister,SHRI T. T. KRISHNAMACHARI,,
+W0828,LS-1962-05-02-5,minister,minister,Shri Jawaharlal Nehru,,
+W0829,LS-1999-04-16-16,LS_member,LS_member,SARDAR SURJEET SINGH BARNALA,SAD,government
+W0831,LS-1998-06-10-24,LS_member,LS_member,PROF. A.K. PAEMAJAN (Bandagara),CPM,opposition
+W0832,LS-1998-05-27-28,LS_member,LS_member,SHRI ABDUL GHAFOOR (Gopalganj),SAP,government
+W0834,RS-1979-02-22-5,RS_member,RS_member,SHRI KALP NATH RAI,,unknown
+W0836,LS-1998-07-09-18,LS_member,LS_member,SHRI BIKRAM KESHARI DEO (KALAHANDI),BJP,government
+W0837,RS-1975-05-05-1,RS_member,RS_member,SHRI SUBRAMANIAN SWAMY,,unknown
+W0838,RS-1999-03-18-1,RS_member,RS_member,SHRIMATI BASANTI SARMA,,unknown
+W0839,LS-1966-11-21-10,LS_member,LS_member,Shri Alvares,,unknown
+W0840,RS-1991-12-04-2,minister,minister,SHRIMATI D. K. THARA DEVI SIDDHARTHA,,
+W0841,RS-1970-12-15-3,RS_member,RS_member,Mr. Misra. SHRI S. D. MISRA (Uttar Pradesh),,unknown
+W0843,RS-1966-05-07-3,RS_member,RS_member,SHRI P. N. SAPRU (Uttar Pradesh),,unknown
+W0844,RS-1973-08-02-4,RS_member,RS_member,SHRI KRISHAN KANT,BLD,opposition
+W0845,LS-1968-12-04-8,minister,minister,SHRI L. N. MISHRA,,
+W0846,LS-1994-05-11-3,LS_member,LS_member,PROF. RASA SINGH RAWAT,BJP,opposition
+W0847,RS-1999-03-10-3,RS_member,RS_member,SHRI GHULAM NABI AZAD (Jammu and Kashmir),,unknown
+W0849,RS-1994-05-12-5,RS_member,RS_member,SHRI KRISHAN LAL SHARMA,BJP,opposition
+W0850,RS-1993-08-05-2,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W0851,LS-1974-11-20-4,LS_member,LS_member,SHRI BHAGATRAM MAN- HAR,,unknown
+W0852,LS-1992-07-22-5,LS_member,LS_member,SHRI V.S. VIJAYARAGHAVAN,INC,government
+W0853,RS-1986-11-11-5,RS_member,RS_member,SHRI A. G. KULKARNI,,unknown
+W0854,LS-1978-03-01-7,LS_member,LS_member,SHRI S. D. SOMASUNDA- RAM,,unknown
+W0855,LS-1998-12-10-5,minister,minister,SHRI GEORGE FERNANDES,,
+W0856,RS-1992-05-14-1,minister,minister,SHRl P. A. SANGMA,,
+W0858,LS-1983-04-20-7,LS_member,LS_member,SHRI SUBASH YADAV,INC(I),government
+W0859,LS-1977-08-03-2,LS_member,LS_member,DR. MURLI MANOHAR JOSHI,BLD,government
+W0860,LS-1997-03-05-23,LS_member,LS_member,SHRI GEORGE FERNANDES,SAP,opposition
+W0862,LS-1963-02-21-1,LS_member,LS_member,Shri Rajaram (Krishnagiri),,unknown
+W0863,RS-1999-03-09-5,RS_member,RS_member,SHRI SURESH A. KESWANI (Maharashtra),,unknown
+W0864,LS-1994-02-28-5,LS_member,LS_member,SHRI RAM VILAS PASWAN,JD,opposition
+W0865,RS-1998-07-16-32,minister,minister,SHRI SOMPAL,,
+W0866,LS-1998-08-03-1,minister,minister,SHRI ATAL BIHARI VAJPAYEE,,
+W0867,RS-1964-12-22-18,RS_member,RS_member,SHRI M. S. GURUPADA SWAMY,,unknown
+W0868,LS-1983-02-23-22,LS_member,LS_member,SHRI MADHA VRAO SCINDIA,,unknown
+W0869,LS-1968-03-14-11,LS_member,LS_member,SHRI SRINIBAS MISRA,PSP,opposition
+W0871,LS-1987-11-18-13,LS_member,LS_member,SMT. JAYANTI PATNAIK,INC,government
+W0872,LS-1989-07-24-7,LS_member,LS_member,DR. KRUPASINDHU BHOI,INC,government
+W0873,RS-1993-12-09-9,RS_member,RS_member,SHRI DIGVAY SINGH,,unknown
+W0874,LS-1998-08-03-11,LS_member,LS_member,SHRI VAlKO,MDMK,government
+W0875,RS-1998-06-09-11,RS_member,RS_member,SHRI GURUDAS DAS GUPTA,INC,opposition
+W0877,RS-1989-08-02-1,minister,minister,SHRI P. V. NARASIMHA RAO,,
+W0878,RS-1998-06-08-3,RS_member,RS_member,SHRI PRANAB MUKHERJEE,,unknown
+W0879,RS-1978-12-15-5,RS_member,RS_member,SHRI BIPINPAL DAS,CPM,outside support
+W0880,LS-1995-05-24-11,LS_member,LS_member,SHRI PRITHVIRAJ D. CHAVAN,INC,government
+W0881,LS-1995-05-17-4,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W0883,RS-1966-08-16-1,RS_member,RS_member,SHRI N. SRI RAMA REDDY,,unknown
+W0884,LS-1992-04-22-13,LS_member,LS_member,SHRI P.G. NARAYANAN (Gobichettipalayam),ADK,opposition
+W0885,RS-1999-12-09-11,RS_member,RS_member,SHRI SANTOSH BAGRODIA,,unknown
+W0886,LS-1974-11-20-19,LS_member,LS_member,SHRI VASANT SATHE,,unknown
+W0887,RS-1979-07-12-2,RS_member,RS_member,SHRI T. ANJIAH,,unknown
+W0888,RS-1998-12-17-12,RS_member,RS_member,SHRI P. SOUNDARARAJAN,,unknown
+W0889,RS-1990-05-23-1,RS_member,RS_member,DR. YELAMANCHILI SIVA-JI,,unknown
+W0890,RS-1986-03-13-7,minister,minister,SHRI ARUN NEHRU,,
+W0892,RS-1997-05-15-8,minister,minister,DR. S. VENUGOPALACHARI,,
+W0893,RS-1979-04-26-1,minister,minister,SHRI DHANIK LAL MANDAL,,
+W0894,LS-1989-04-24-15,LS_member,LS_member,SHRI KAMLA PRASAD SINGH,INC,government
+W0895,RS-1987-08-13-21,minister,minister,SHRI B K. GADHVI,,
+W0896,RS-1994-04-21-9,RS_member,RS_member,DR. SHRIKANT RAMACHAN DRA JICHKAR,,unknown
+W0897,RS-1970-08-20-11,RS_member,RS_member,SHRI INDER SINGH,,unknown
+W0898,RS-1981-04-23-6,RS_member,RS_member,SHRI DHARAMCHAND JAIN,,unknown
+W0899,LS-1991-01-10-2,LS_member,LS_member,SHRI MAHENDRA SINGH MEWAR,,unclassified period
+W0900,RS-1997-03-06-1,RS_member,RS_member,DR. MOHAN BABU,,unknown
+W0901,LS-1997-07-30-1,LS_member,LS_member,SHRI R. SAMBASIVA RAO,,unknown
+W0902,LS-1997-08-06-6,LS_member,LS_member,SHRI N. RAMAKRISHNA REDDY,TDP,government
+W0903,RS-1971-06-03-17,RS_member,RS_member,SHRI JOACHIM ALVA,,unknown
+W0904,RS-1999-03-18-20,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W0905,RS-1970-08-27-20,RS_member,RS_member,SHRI MAHAVIR TYAGI,INC,government
+W0907,LS-1968-11-27-3,minister,minister,SHRI SWARAN SINGH,,
+W0908,LS-1993-04-29-1,LS_member,LS_member,SHRI JASWANT SINGH (Chittorgarh),BJP,opposition
+W0909,LS-1965-03-29-3,LS_member,LS_member,Shri Harish Chandra Mathur,,unknown
+W0911,RS-1998-05-28-64,RS_member,RS_member,SHRI S.R. BOMMAI,,unknown
+W0912,RS-1994-08-04-6,RS_member,RS_member,SHRI S. AUSTIN,,unknown
+W0914,RS-1998-07-07-5,minister,minister,SHRI R. KUMARAMANGALAM,,
+W0915,RS-1993-03-23-2,RS_member,RS_member,SHRI E. BALANANDAN,,unknown
+W0916,LS-1994-05-09-14,LS_member,LS_member,PROF. RASA SINGH RAWAT (Ajmer),BJP,opposition
+W0918,LS-1994-05-02-3,LS_member,LS_member,SHRI RABI RAY,JD,opposition
+W0920,LS-1968-12-04-7,LS_member,LS_member,SHRI A. SREEDHARAN,SSP,opposition
+W0921,LS-1998-05-29-8,LS_member,LS_member,SHRI VAlKO,,unknown
+W0922,RS-1992-03-09-17,minister,minister,SHRI MADHAVSINH SOLANKI,,
+W0923,LS-1973-08-01-2,LS_member,LS_member,SHRI SAMAR GUHA,PSP,opposition
+W0924,RS-1973-12-13-1,RS_member,RS_member,SHRI II M. I RtVEDI,,unknown
+W0925,RS-1968-03-07-3,minister,minister,SHRIMATI INDIRA GANDHI,,
+W0926,RS-1998-05-28-57,RS_member,RS_member,SHRI GURUDAS DAS GUPTA,INC,opposition
+W0927,RS-1963-09-20-3,RS_member,RS_member,SHRI N. SRI RAMA REDDY,,unknown
+W0929,RS-1973-05-14-1,RS_member,RS_member,SHRI JOACHIM ALVA,,unknown
+W0930,LS-1962-05-14-11,LS_member,LS_member,Shri Koya (Kozhikode),,unknown
+W0931,LS-1992-03-25-5,minister,minister,SHRIMATI MARGARET ALVA,,
+W0932,LS-1991-12-18-2,LS_member,LS_member,SHRI DHARAMPAL SINGH MALIK,,unknown
+W0933,LS-1981-08-27-3,LS_member,LS_member,SHRI CHITTA MAHATA,,unknown
+W0934,LS-1973-05-07-1,minister,minister,PROF. S. NURUL HASAN,,
+W0935,LS-1993-03-17-14,minister,minister,SHRI MUKUL BALKRISHNA WASNIK,,
+W0936,RS-1969-12-18-6,RS_member,RS_member,SHRI JAGDAMBI PRASAD YADAV,,unknown
+W0939,RS-1998-12-17-10,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0940,RS-1996-03-06-8,minister,minister,SHRI PRANAB MUKHERJEE,,
+W0942,LS-1984-05-02-1,minister,minister,SHRI Sl-UVRAJ V. PATIL,,
+W0943,LS-1971-07-07-2,LS_member,LS_member,SHRI P. NARASIMHA REDDY,INC,government
+W0945,LS-1991-08-26-2,LS_member,LS_member,SHRI NIRMAL KANTI CHAT- TERJEE,,unknown
+W0946,LS-1968-03-06-22,LS_member,LS_member,SHRI BHOGENDRA JHA,CPI,opposition
+W0948,RS-1978-03-02-2,RS_member,RS_member,SHRIMATI LEELA DAMO-DARA MENON,,unknown
+W0950,RS-1995-12-06-10,RS_member,RS_member,SHRI T. VENKATRAM REDDY,,unknown
+W0952,LS-1992-08-19-1,LS_member,LS_member,Prof. Susanta Chakraborty. PROF. SUSANTA CHAKRABORTY (Howrah),,unknown
+W0953,LS-1978-03-29-5,LS_member,LS_member,SHRI NARENDRA SINGH,BLD,government
+W0954,LS-1987-05-06-28,LS_member,LS_member,SHRI BRAJAMOHAN MOHANTY,INC,government
+W0955,RS-1995-05-30-1,minister,minister,SHRI KAMAL NATH,,
+W0956,LS-1970-04-08-28,LS_member,LS_member,SHRIMATI TARKESHWARI SIN- HA (Barh),,unknown
+W0958,RS-1999-02-26-9,RS_member,RS_member,SHRI GURUDAS DAS GUPTA (West Bengal),INC,opposition
+W0959,LS-1963-11-26-2,LS_member,LS_member,Shri Ram Ratan Gupta,INC,government
+W0960,LS-1998-05-27-38,LS_member,LS_member,SHRI CHANDRA SHEKHAR,SJP(R),opposition
+W0962,RS-1990-03-14-11,RS_member,RS_member,SHRI SATYA PRAKASH MALAVIYA,,unknown
+W0963,RS-1997-02-27-13,minister,minister,DR. S. VENUGOPALACHARI,,
+W0964,LS-1986-04-07-12,LS_member,LS_member,SHRI H. A. DORA,,unknown
+W0966,LS-1986-11-06-10,LS_member,LS_member,SHRI S. JAIPAL REDDY (Mahbub- nagar),JNP,opposition
+W0967,LS-1995-07-31-2,LS_member,LS_member,SHRI HARIN PATHAK,BJP,opposition
+W0968,RS-1972-05-09-2,minister,minister,SHRI MOHD. SHAFI QURESHI,,
+W0970,RS-1992-11-26-17,minister,minister,SHRI EDUARDO FALEIRO,,
+W0972,RS-1999-03-17-4,minister,minister,SHRI GEORGE FERNANDES,,
+W0973,LS-1969-02-24-2,LS_member,LS_member,SHRI HEM BARUA.,,unknown
+W0975,RS-1992-05-07-10,RS_member,RS_member,SHRI VITHALRAO MADHAVRAO JADHAV,,unknown
+W0976,LS-1993-12-15-9,LS_member,LS_member,DR. KRUPASINDHU BHOI,INC,government
+W0977,RS-1990-05-15-11,RS_member,RS_member,SHRI MURLIDHAR CHANDRA-KANT BHANDARE (Maharashtra),,unknown
+W0978,LS-1962-03-27-2,minister,minister,Shri Mehr Chand Khanna,,
+W0979,RS-1998-06-09-1,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W0980,LS-1991-08-26-4,LS_member,LS_member,SHRI GEORCE FFRNANDES (Muzaffarpur),JD,opposition
+W0981,RS-1966-03-15-2,RS_member,RS_member,SHRI T. V. ANANDAN,,unknown
+W0982,RS-1993-08-25-5,RS_member,RS_member,SHRI VITHALBHAI M. PATEL,,unknown
+W0984,LS-1962-08-20-16,minister,LS_member,Shri U. N. Dhebar (Rajkot),INC,government
+W0985,LS-1998-12-10-4,LS_member,LS_member,SHRIMATI KRISHNA BOSE,WBTC,government
+W0986,LS-1998-03-28-3,LS_member,LS_member,SHRI INDRAJIT GUPTA,CPI,opposition
+W0987,RS-1986-08-14-18,RS_member,RS_member,SHRI JASWANT SINGH,,unknown
+W0988,RS-1981-03-11-9,RS_member,RS_member,SHRI SYED SHAHABUDDIN,JD,opposition
+W0989,LS-1999-12-01-5,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W0990,RS-1995-06-01-7,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W0992,RS-1986-02-27-15,minister,minister,SHRI P. CHIDAMBRAM,,
+W0993,RS-1988-07-28-21,RS_member,RS_member,SHRI PRAMOD MAHAJAN,BJP,opposition
+W0994,RS-1980-12-04-21,RS_member,RS_member,SHRI SHRIKANT VERMA,,unknown
+W0995,RS-1993-03-15-1,RS_member,RS_member,SHRI G. SWAMINATHAN,,unknown
+W0998,RS-1991-12-20-7,minister,RS_member,SHRI KAPIL VERMA (Uttar Pradesh),,unknown
+W0999,RS-1974-07-25-11,RS_member,RS_member,SHRI R. D. J. AVERGOANKAR,,unknown
+W1000,RS-1993-08-18-11,minister,minister,SHRI JAGDISH TYTLER,,
+W1001,RS-1996-03-08-1,RS_member,RS_member,SHRI DIPANKAR MUKHARJEE (West Bengal),,unknown
+W1002,LS-1993-12-21-2,LS_member,LS_member,SHRI RAM NAIK (Bomaby North),BJP,opposition
+W1004,LS-1979-02-21-11,LS_member,LS_member,SHRI D. D. DESAI,INC,opposition
+W1007,LS-1988-08-17-15,LS_member,LS_member,SHRI HARIHAR SORE.S,,unknown
+W1008,RS-1994-12-15-4,RS_member,RS_member,SHRI GOVINDRAO ADDC,,unknown
+W1010,LS-1991-08-14-9,minister,minister,SHRIMATI MARGARET ALVA,,
+W1011,RS-1993-12-08-4,minister,minister,SHRI R. L. BHATIA,,
+W1013,RS-1973-07-26-2,RS_member,RS_member,SHRI M. K. MOHTA,,unknown
+W1014,LS-1998-12-17-10,minister,minister,SHRI L.K.ADVANI,,
+W1015,RS-1977-08-02-1,RS_member,RS_member,SHRI LAKSHMANA MAHAPATRO,,unknown
+W1016,RS-1992-04-27-4,RS_member,RS_member,SHRI H. HANUMANTHAPPA (Kar- nataka),,unknown
+W1017,RS-1995-05-10-5,RS_member,RS_member,SHRI RAMDAS AGARWAL,,unknown
+W1018,RS-1993-08-12-2,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1021,RS-1998-07-27-3,RS_member,RS_member,SHRI S. VIDUTHALAI VIRUMBI (Tamil Nadu),,unknown
+W1022,LS-1980-12-10-6,LS_member,LS_member,SHRI R. K. MHALGI,JNP,opposition
+W1023,RS-1998-07-09-10,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1026,LS-1992-03-04-2,minister,minister,SHRIMATI MARGARET ALVA,,
+W1027,LS-1964-03-10-2,minister,minister,Shri T. T. Krishnamachari,,
+W1029,RS-1981-08-19-2,minister,minister,SHRI SHIVRAJ V. PATIL,,
+W1030,LS-1995-03-27-9,LS_member,LS_member,SHRI PRAKASH V. PATIL,INC,government
+W1031,RS-1992-03-16-18,RS_member,RS_member,Shri Yashwant Sinha. SHRI YASHWANT SINHA,BJP,opposition
+W1033,LS-1994-08-03-4,LS_member,LS_member,SHRIMATI VASUNDHARA RAJE,BJP,opposition
+W1034,LS-1984-08-22-12,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1036,LS-1998-12-15-3,LS_member,LS_member,SHRI SHARAD PAWAR (BARAMATI),,unknown
+W1037,RS-1995-05-31-2,RS_member,RS_member,SHRI JANARDAN YADAV,BJP,opposition
+W1038,LS-1999-04-16-9,LS_member,LS_member,SHRI MULAYAM SINGH YADAV,SP,opposition
+W1040,LS-1983-12-14-8,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1041,RS-1990-05-29-3,minister,minister,PROF. M. G. K. MENON,,
+W1042,RS-1973-08-16-6,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1043,RS-1997-03-20-6,RS_member,RS_member,SHRI PREM CHAND GUPTA,,unknown
+W1044,RS-1994-04-21-7,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W1046,RS-1998-05-29-3,RS_member,RS_member,SHRI GURUDAS DAS GUPTA (West Bengal),INC,opposition
+W1047,LS-1996-09-11-2,minister,minister,SHRI YOGINDER K. ALAGH,,
+W1048,LS-1998-06-01-6,LS_member,LS_member,SHRI AMAR PAL SINGH (Meerut),BJP,government
+W1050,LS-1988-08-10-9,LS_member,LS_member,SHRI MOHANBHAI PATEl.,,unknown
+W1052,RS-1994-04-27-7,minister,minister,SHRI R. L. BHATIA,,
+W1054,LS-1966-02-28-6,minister,minister,Shrimatj Indira Gandhi,,
+W1055,LS-1998-07-03-1,LS_member,LS_member,SHRI K.S. RAO,INC,opposition
+W1056,LS-1999-11-30-3,LS_member,LS_member,SHRI J.S. BRAR,INC,opposition
+W1057,LS-1997-08-28-5,LS_member,LS_member,SHRI PRITHIVIRAJ D. CHAVAN (Karad),INC,outside support
+W1058,RS-1995-04-26-8,minister,minister,SHRI R. L. BHATIIA,,
+W1059,RS-1992-04-30-5,minister,RS_member,SHRI M. VINCENT (Tamil Nadu),,unknown
+W1061,LS-1972-03-17-2,LS_member,LS_member,DR. RANEN SEN,,unknown
+W1062,RS-1990-03-14-13,minister,minister,PROF. M. G. K. MENON,,
+W1063,RS-1994-12-21-4,RS_member,RS_member,SHRI HIPHEI,,unknown
+W1064,RS-1982-10-21-13,RS_member,RS_member,SHRI JASWANT SINGH,,unknown
+W1065,RS-1999-03-18-7,RS_member,RS_member,SHRI RAJNATH SINGH SURYA,INC,opposition
+W1067,LS-1983-03-23-14,minister,minister,SHRI M. S. SA IE VI RAO,,
+W1068,RS-1987-08-13-15,RS_member,RS_member,SHRI URESH PACHOURI,,unknown
+W1069,LS-1993-04-26-4,LS_member,LS_member,SHRI ANBARASU ERA(Madras-Central),INC,government
+W1070,LS-1998-12-08-2,minister,minister,SHRI DALIT EZHILMALAI,,
+W1072,LS-1971-07-21-4,LS_member,LS_member,SHRI P. K. DEO,SWA,opposition
+W1073,RS-1978-08-10-5,RS_member,RS_member,SHRI YOGENDRA SHARMA,CPI,opposition
+W1074,RS-1996-03-06-9,RS_member,RS_member,SHRI S. JAIPAL REDDY,,unknown
+W1076,RS-1970-08-26-2,RS_member,RS_member,Pandit Jawaharlal Nehru,,unknown
+W1078,LS-1972-08-02-1,minister,minister,SHRI H. N. BAHUGUNA,,
+W1079,LS-1992-03-26-5,LS_member,LS_member,SHRI BHUWAN CHANDRA KHA.NDURI,,unknown
+W1080,RS-1993-12-09-12,minister,minister,SHRI.. BHUVNESH .CHATUR- VEDI,,
+W1082,RS-1992-12-03-11,RS_member,RS_member,SHRI VITHALRAO' MADHAV RAO JADHAV,,unknown
+W1083,LS-1968-05-01-3,minister,minister,SHRI M. R. KRISHNA,,
+W1084,LS-1973-08-24-1,LS_member,LS_member,SHRI PILOO MODY,,unknown
+W1085,LS-1994-03-16-1,minister,minister,SHRI P.K. THUNGON,,
+W1088,RS-1999-12-03-9,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W1089,LS-1962-11-08-4,minister,minister,Shri Rame (Buldana),,
+W1090,LS-1998-06-03-19,LS_member,LS_member,DR. ASIM BALA,CPM,opposition
+W1091,LS-1999-04-16-10,LS_member,LS_member,KUMARI MAMATA BANERJEE,WBTC,government
+W1093,LS-1966-02-21-19,minister,minister,Shrimati Indira Gandhi,,
+W1094,LS-1992-04-08-10,minister,minister,SHRI S.Br NYAMAGOUDA,,
+W1095,LS-1997-02-26-6,LS_member,LS_member,SHRI CHINTAMAN WANAGA,BJP,opposition
+W1096,LS-1994-08-24-15,LS_member,LS_member,SHRI P.G. NARAYANAN (Gobichettipalayam),ADK,opposition
+W1097,RS-1992-12-03-9,RS_member,RS_member,SHRI BISHAMBHAR NATH PANDE,,unknown
+W1098,RS-1991-11-28-3,RS_member,RS_member,SHRI T. CHANDRASEKHAR REDDY,,unknown
+W1100,LS-1995-05-08-15,minister,minister,SHRI R.L. BHATIA,,
+W1103,LS-1984-05-02-10,minister,minister,SHRI SHJVRAJ V. PATIL,,
+W1104,RS-1995-05-17-20,RS_member,RS_member,SHRI S. VIDUTHALAI VIRUMBI,,unknown
+W1105,LS-1983-08-11-5,minister,minister,SHRl A. A. RAHIM,,
+W1107,LS-1999-11-29-3,LS_member,LS_member,SHRI MAHESHWAR SINGH (Mandi),BJP,government
+W1108,RS-1995-12-12-1,minister,minister,SHRI GHULAM NABI AZAD,,
+W1109,LS-1978-12-07-4,LS_member,LS_member,SHRI YADVENDRA DUTT,,unknown
+W1110,RS-1982-07-29-6,minister,minister,SHRI P. VENKATASUBBAIAH,,
+W1112,RS-1967-03-27-2,RS_member,RS_member,SHRI M. N. KAUL,,unknown
+W1113,LS-1994-03-02-7,LS_member,LS_member,SHRI RAJNATH SONKAR SHASTRI,JD,opposition
+W1114,RS-1995-08-24-5,minister,minister,DR. C. SILVERA,,
+W1115,LS-1964-11-24-3,LS_member,LS_member,Shri Khadilkar,,unknown
+W1116,RS-1993-12-09-13,RS_member,RS_member,DR. BAPU KALDATE',BLD,opposition
+W1118,LS-1965-03-30-9,LS_member,LS_member,Shri Nath Pal,,unknown
+W1121,RS-1994-03-02-2,minister,minister,SHRI KAMAL NATH,,
+W1123,LS-1974-05-08-8,LS_member,LS_member,SHRI ANADI CHARAN DAS,INC,government
+W1124,LS-1999-10-22-1,minister,minister,SHRI ATAL BIHARI VAJPAYEE,,
+W1126,LS-1994-04-25-10,LS_member,LS_member,SHRI D.VENKATESWARA RAO,TDP,opposition
+W1128,RS-1999-03-08-6,RS_member,RS_member,DR. ARUN KUMAR SARMA (Assam),,unknown
+W1129,RS-1986-08-14-15,RS_member,RS_member,SHRI SUKOMAL SEN (West Bengal),,unknown
+W1130,RS-1992-08-06-9,RS_member,RS_member,SHRIMATI KAMLA SINHA,,unknown
+W1131,RS-1992-03-05-10,RS_member,RS_member,SHRI RAGHAVJI,BLD,opposition
+W1132,RS-1974-08-24-2,RS_member,RS_member,SHRIMATI SUMITRA G. KULKARNI (Maharashtra),,unknown
+W1133,LS-1985-04-24-19,minister,minister,SHRI SHIVRAJ V. PATIL,,
+W1134,RS-1994-08-22-1,RS_member,RS_member,SHRI TRILOKI NATH CHATURVEDI,,unknown
+W1136,RS-1991-12-16-8,RS_member,RS_member,SHRI KAPIL VERMA,,unknown
+W1137,RS-1995-03-30-8,RS_member,RS_member,SHRI K.R. MALKANI,,unknown
+W1138,RS-1979-04-26-9,RS_member,RS_member,SHRI MULKA GOVINDA REDDY,,unknown
+W1139,LS-1988-04-20-34,LS_member,LS_member,SHRI BALWANT SINGH RAMOOW- ALIA,,unknown
+W1141,RS-1999-10-28-6,RS_member,RS_member,Shri Kapil Sibal. SHRI KAPIL SIBAL (Bihar),,unknown
+W1142,RS-1992-07-29-1,RS_member,RS_member,DR. YELAMANCHILI SIVAJI (Andhra Pradesh),,unknown
+W1143,RS-1994-08-04-19,minister,minister,SHRI BHU-VNESH CHATURVEDI,,
+W1144,LS-1967-07-17-5,LS_member,LS_member,Shri Arjun Singh Bhadoria,,unknown
+W1146,LS-1995-07-31-6,LS_member,LS_member,SHRI LAETA UMBREY,INC,government
+W1147,LS-1999-03-10-17,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1148,RS-1966-11-24-3,minister,minister,SHRI M. C. CHAGLA,,
+W1149,RS-1993-12-08-11,minister,minister,SHRI R. L. BHATTAJ,,
+W1150,RS-1992-08-20-20,RS_member,RS_member,SHRI N. GIRI PRASAD (Andhra Pradesh),,unknown
+W1151,LS-1998-05-29-38,LS_member,LS_member,SHRI PRAKASH YASHWANT AMBEDKAR (Akola),RPI,opposition
+W1152,RS-1996-03-06-3,RS_member,RS_member,SHRI SUSHILKUMAR SAMBHAJIRAO SHINDE,INC,government
+W1154,LS-1974-11-20-17,minister,minister,PROF SIDDHESHWAR PRASAD,,
+W1155,RS-1977-11-24-6,minister,minister,SHRI MORARJI R. DESAI,,
+W1156,LS-1995-08-23-7,minister,minister,~HRI BHUVNESH CHATURVEDI,,
+W1157,RS-1999-12-15-4,RS_member,RS_member,SHRI SANTOSH BAGRODIA,,unknown
+W1159,RS-1999-12-16-2,RS_member,RS_member,SHRI PRANAB MUKHERJEE,,unknown
+W1160,RS-1988-08-22-3,RS_member,RS_member,SHRI A. G. KULKARNI,,unknown
+W1162,RS-1970-05-07-1,RS_member,RS_member,SHRI K. P. SUBRAMANIA MENON,,unknown
+W1163,LS-1999-12-22-6,LS_member,LS_member,SHRI ANANT GANGARAM QEETE,SHS,government
+W1164,LS-1998-06-10-14,LS_member,LS_member,SHRI RAMAKRISHNA BABA PATIL,INC,opposition
+W1165,LS-1976-01-07-6,LS_member,LS_member,SARDAR SWARAN SINGH SOKHI,,unknown
+W1166,RS-1977-11-23-2,RS_member,RS_member,DR. LOKESH CHANDRA,,unknown
+W1167,LS-1995-08-23-3,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1168,RS-1989-07-31-1,RS_member,RS_member,SHRI MURLIDHAR CHANDRAKANT BHANDARE,,unknown
+W1169,RS-1990-03-20-12,RS_member,RS_member,SHRI SURESH KALMADI,INC,opposition
+W1170,RS-1964-12-01-9,RS_member,RS_member,SHRI I. K. GUJRAL,JD,opposition
+W1171,LS-1992-04-23-5,LS_member,LS_member,SHRI ATAL BIHARI VAJPAYEE,BJP,opposition
+W1172,RS-1993-12-23-1,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1173,LS-1998-05-27-27,LS_member,LS_member,Shri Indrajit Gupta. SHRIINDRAJITGUPTA,CPI,opposition
+W1174,RS-1994-05-11-3,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W1178,LS-1995-08-16-7,LS_member,LS_member,Dr. Vasant Niwrutti Pawar,INC,government
+W1179,LS-1978-03-08-4,LS_member,LS_member,SHRI M. KALYANASUNDA- RAM,,unknown
+W1181,LS-1990-04-09-9,LS_member,LS_member,SHRI KAILASH MEGHWAL,BJP,outside support
+W1182,LS-1986-04-08-7,LS_member,LS_member,SHRI LAL VIJAY P.RATAP SINGH (Sarguja),,unknown
+W1183,LS-1990-08-20-6,LS_member,LS_member,SHRI SURESH KODIKKUN- NIL,,unknown
+W1184,RS-1966-03-08-1,minister,minister,SHRIMATI NANDINI SATPATHY,,
+W1185,LS-1974-04-02-6,minister,minister,SHRI K. C. PANT,,
+W1186,RS-1974-12-20-2,minister,minister,SHRI BIPINPAL DAS,,
+W1188,LS-1964-12-21-3,minister,minister,Shrimati Lakshmi Menon,,
+W1189,RS-1999-12-16-4,RS_member,RS_member,SHRI H. HANUMANTHAPPA,,unknown
+W1190,LS-1987-12-02-23,LS_member,LS_member,SHRI VIRDHI CHANDER JAIN (Barmer),,unknown
+W1191,RS-1999-10-26-3,RS_member,RS_member,Shri E. Balanandan. SHRI E. BALANANDAN (Kerala),,unknown
+W1192,LS-1992-05-06-3,LS_member,LS_member,SHRI SANAT KUMAR MANDAL,RSP,opposition
+W1193,RS-1968-12-19-7,RS_member,RS_member,SHRI SURESH J. DESAI,,unknown
+W1195,LS-1978-11-22-5,LS_member,LS_member,SHRI D. D. DESAI,INC,opposition
+W1197,LS-1995-12-18-5,minister,minister,SHRI R.L BHATIA,,
+W1198,RS-1993-12-09-11,RS_member,RS_member,MISS SAROJ KHAPARDE,,unknown
+W1200,RS-1989-04-25-10,minister,minister,SHRI K. R. NARAYANAN,,
+W1201,LS-1985-12-04-11,LS_member,LS_member,PROF. NIRMALA KUMARI SHAKTAWAT,,unknown
+W1202,RS-1973-08-02-2,RS_member,RS_member,SHRI KRISHAN KANT,BLD,opposition
+W1204,LS-1988-09-01-1,LS_member,LS_member,SHRI R.M. BHOVE,,unknown
+W1206,LS-1986-11-05-17,LS_member,LS_member,PROF. P.l. KUR.IBN,,unknown
+W1208,RS-1990-08-10-2,RS_member,RS_member,SHRI BASUDEB MOHAPATRA (Orissa),,unknown
+W1209,LS-1967-07-31-6,minister,minister,Shrimati Indira Gandhi,,
+W1210,LS-1991-03-04-8,minister,minister,SHRI KA~ MAL MORARKA,,
+W1211,LS-1998-12-22-10,LS_member,LS_member,SHRI E. AHAMED (Manjeri),MUL,opposition
+W1212,LS-1986-03-19-19,LS_member,LS_member,SHRI YESHWANTltAO GADAKH PATIL,,unknown
+W1213,RS-1980-12-05-13,minister,minister,SHRI P. V. NARASIMHA RAO,,
+W1215,LS-1966-05-09-20,minister,minister,Shri Nanda,,
+W1218,RS-1981-12-18-2,RS_member,RS_member,SHRI N. K. P. SALVE,,unknown
+W1221,LS-1962-05-31-2,minister,minister,Shri Krishna Menon,,
+W1222,RS-1979-05-08-3,RS_member,RS_member,PROF. RAMLAL PARIKH (Guja rat),,unknown
+W1223,LS-1979-04-04-3,LS_member,LS_member,SHRI SURENDRA BIKRAM,BLD,government
+W1224,LS-1991-11-27-6,LS_member,LS_member,SHRI RAMESH CHENNITHAUV,INC,government
+W1225,LS-1964-11-17-8,minister,minister,Shri Swaran Singh,,
+W1226,RS-1995-03-23-1,RS_member,RS_member,SHRIMATI CHANDRA KALA PANDEY,,unknown
+W1230,LS-1970-09-02-10,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1231,RS-1997-08-07-16,RS_member,RS_member,SHRI RAMDAS AGARWAL,,unknown
+W1232,LS-1974-05-08-9,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1233,RS-1972-04-29-8,RS_member,RS_member,DR. M. M. S. SiDDHU,,unknown
+W1234,LS-1972-12-20-8,minister,minister,SHRI SIDDHESHWAR PRASAD,,
+W1236,RS-1991-02-27-10,RS_member,RS_member,SHRI RAMDAS AGARWAL,,unclassified period
+W1239,RS-1992-12-03-1,RS_member,RS_member,SHRI S. K. T. RAMACHANDRAN,,unknown
+W1240,LS-1983-03-22-9,LS_member,LS_member,SHRI C. T. DHANDAPANI (Pollachi),DMK,opposition
+W1242,LS-1982-03-25-9,LS_member,LS_member,SHRI AJITSINH DABHI (Kaira),,unknown
+W1243,RS-1998-12-04-1,RS_member,RS_member,SHRI K.R. MALKANI,,unknown
+W1244,LS-1966-05-10-29,minister,minister,Shri Swaran Singh,,
+W1245,RS-1990-05-23-7,RS_member,RS_member,SHRI MURLIDHAR CHAN- DRAKANT BHANDARE,,unknown
+W1246,RS-1998-07-16-3,RS_member,RS_member,SHRIMATI KAMLA SINHA,,unknown
+W1247,RS-1966-09-02-2,RS_member,RS_member,SHRI LOKANATH MISRA,,unknown
+W1249,RS-1992-12-03-17,RS_member,RS_member,SHRI INDER KUMAR GUJRAL,JD,opposition
+W1250,RS-1994-08-26-10,RS_member,RS_member,SHRI S. MUTHU MAN (Tamil Nadu),,unknown
+W1252,RS-1986-11-12-1,minister,minister,KUMARI SA-ROJ KHAPARDE,,
+W1254,RS-1990-08-21-15,RS_member,RS_member,Mr. Fotedar. SHRI MAKHAN LAL FOTEDAR,,unknown
+W1256,RS-1994-04-26-5,RS_member,RS_member,ch. SHRI V. KISHORE CHANDRA S. DEO (Andhra Pradesh),,unknown
+W1257,RS-1994-12-07-11,RS_member,RS_member,SHRI E. BALANANDAN (Kerala),,unknown
+W1258,RS-1997-08-11-3,minister,minister,SHRl RAGHUBANS PRASAD SINGH,,
+W1259,RS-1983-08-02-1,RS_member,RS_member,SHRI G. C. BHATTACHAR- YA,,unknown
+W1260,LS-1991-07-17-2,minister,minister,SHRI- MAT1 MARGARET ALVA,,
+W1261,RS-1999-03-17-3,RS_member,RS_member,SHRI RAGHAVJI,BLD,opposition
+W1264,RS-1983-12-12-1,minister,minister,SHRI P. SHIV SHANKER,,
+W1266,RS-1985-12-10-7,RS_member,RS_member,Shri Kalyanasundaram. SHRI M. KALYANASUNDARAM (Tamil Nadu),CPI,opposition
+W1267,LS-1997-08-27-3,LS_member,LS_member,KUMARI MAMATA BANERJEE,INC,outside support
+W1268,LS-1993-03-15-4,LS_member,LS_member,SHRI SHRAVAN KUMAR PATEL,INC,government
+W1271,LS-1979-04-18-12,minister,minister,PROF. SHER SINGH,,
+W1272,LS-1993-05-12-2,LS_member,LS_member,SHRI KHELAN RAMJANGDE,,unknown
+W1273,RS-1998-12-09-5,RS_member,RS_member,SHRI NILOTPAL BASU,,unknown
+W1274,RS-1995-04-27-8,RS_member,RS_member,SHRI E. BALANANDAN,,unknown
+W1276,RS-1974-08-29-30,RS_member,RS_member,SHRI KRISHAN KANT,BLD,opposition
+W1277,RS-1998-06-02-1,RS_member,RS_member,SHRI VEDPRAKASH P. GOYAL,,unknown
+W1278,LS-1986-08-13-30,LS_member,LS_member,SHRI K. N. PRADHAN (Bhopal),INC,government
+W1279,RS-1973-08-20-2,RS_member,RS_member,SHRI LOKANATH MISRA,,unknown
+W1280,LS-1978-05-04-4,minister,minister,SHRI ATAL BIHARI VAJPAYEE,,
+W1281,LS-1994-08-10-12,LS_member,LS_member,SHRI D. VENKATESWARA RAO,TDP,opposition
+W1282,LS-1997-03-10-5,LS_member,LS_member,SHRI SHIVRAJ V. PATIL,INC,outside support
+W1283,LS-1968-02-21-17,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1285,LS-1982-03-09-2,LS_member,LS_member,SHRI MOHAN LAL PATEL,,unknown
+W1286,LS-1987-07-29-12,minister,minister,SHRI JANAR- CHANA POOJAAY,,
+W1287,LS-1988-02-29-1,LS_member,LS_member,SHRI P. R. KUMARAMANGALAM,,unknown
+W1289,RS-1968-07-26-2,RS_member,RS_member,SHRI A. D. MANI,,unknown
+W1290,RS-1998-06-11-23,RS_member,RS_member,SHRI JOYANTA ROY,,unknown
+W1291,RS-1986-03-06-16,RS_member,RS_member,SHRI SHANTIMOY GHOSH,,unknown
+W1292,RS-1998-06-11-33,minister,minister,SHRIMATI VASUNDHRA RAJE,,
+W1293,LS-1979-03-28-2,minister,minister,SHRI DHANIK LAL MANDAL,,
+W1294,RS-1992-05-06-3,RS_member,RS_member,SHRI PRAKASH YASHWANT AMBEDKAR,,unknown
+W1295,LS-1992-07-22-7,LS_member,LS_member,SHRI SHRAVAN KUMAR PATEL,INC,government
+W1296,RS-1964-12-22-7,RS_member,RS_member,SHRI K. V. RAGHUNATHA REDDY (Andhra Pradesh),,unknown
+W1297,LS-1990-03-29-2,LS_member,LS_member,SHRI P.M. SAYEED. SHRI PRAKASH V PATIL,,unknown
+W1302,LS-1962-05-14-3,LS_member,LS_member,Shri Frank. Anthony (Nominated— Anglo-Indians),,unknown
+W1304,RS-1995-05-17-17,RS_member,RS_member,SHRI INDER KUMAR GUJRAL,JD,opposition
+W1305,LS-1997-05-06-11,LS_member,LS_member,SHRI PRAMOD MAHAJAN,BJP,opposition
+W1306,RS-1976-01-15-1,RS_member,RS_member,SHRI HARSH DEO MALAVIYA,,unknown
+W1307,RS-1994-12-13-1,RS_member,RS_member,SHRI INDER KUMAR GUJ- RAL,,unknown
+W1309,LS-1989-02-28-7,minister,minister,SHRI VASANT SATHE,,
+W1310,LS-1962-11-13-1,LS_member,LS_member,Shri Brajesvar Prasad,INC,government
+W1311,LS-1994-04-27-5,LS_member,LS_member,SHRI GEORGE FERNAN- DES,,unknown
+W1312,RS-1990-03-21-2,RS_member,RS_member,SHRI HARVENDRA SIN- GH HANSPAL,,unknown
+W1313,LS-1993-04-27-2,LS_member,LS_member,SHRI CHANDRA JEETYADAV(Azamgarh),JD,opposition
+W1314,LS-1977-11-30-1,minister,minister,SHRI MORARJI DESAI,,
+W1316,LS-1973-07-25-6,LS_member,LS_member,SHRI CHINTAMANI PANI GRAHI,,unknown
+W1318,RS-1968-03-14-17,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+W1319,RS-1982-05-06-2,RS_member,RS_member,SHRI JASWANT SINGH,,unknown
+W1320,LS-1996-03-11-7,minister,minister,SHRI PRANA8 MUKHERJEE,,
+W1321,LS-1985-12-11-4,LS_member,LS_member,SHRI DHARAM PAL SINGH MALIK,,unknown
+W1322,RS-1995-03-20-5,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1324,LS-1995-03-29-2,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1325,LS-1964-11-23-9,LS_member,LS_member,Shri Hari Vishnu Kamath,PSP,opposition
+W1328,LS-1988-11-21-19,LS_member,LS_member,SHRIMATI BASAVARAJESWARI,INC,government
+W1329,RS-1990-08-28-3,RS_member,RS_member,MISS SAROJ KHAPARDE,,unknown
+W1330,RS-1988-08-11-29,RS_member,RS_member,PROF. C. LAKSHMANNA,,unknown
+W1331,RS-1990-03-20-3,minister,minister,PROF. M. G. K. MENON,,
+W1332,LS-1968-07-22-3,minister,minister,SHRI SIDDHESHWAR PRASAD,,
+W1334,LS-1993-07-28-13,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1336,LS-1991-12-11-1,LS_member,LS_member,SHRI RAM NAiK,BJP,opposition
+W1337,LS-1990-12-27-1,LS_member,LS_member,SHRI SHANTARAM POTDUKHE,,unclassified period
+W1338,RS-1978-12-14-11,minister,minister,SHRI DHANIK LAL MANDAL,,
+W1339,RS-1996-12-16-2,RS_member,RS_member,SHRI ASHOK MITRA,,unknown
+W1340,LS-1979-03-07-11,minister,minister,SHRI MORARJI DESAI,,
+W1342,RS-1992-07-15-1,RS_member,RS_member,SHRI S. MADHAVAN,,unknown
+W1343,RS-1996-12-06-4,RS_member,RS_member,SHRI K.R. MALKANI,,unknown
+W1344,LS-1983-03-23-37,LS_member,LS_member,SHRI M. SATYANARAYAN RAO,INC(I),government
+W1346,RS-1998-05-28-34,minister,minister,SHRI ATAL BIHARI VAJPAYEE,,
+W1347,LS-1997-05-14-8,minister,minister,SHRI RAMAKANT D. KHALAP,,
+W1348,RS-1993-03-10-2,RS_member,RS_member,DR. SANJAYA SINH,,unknown
+W1349,LS-1992-04-22-6,minister,minister,SHRI UTI AMBHAI H. PATEL,,
+W1350,LS-1976-08-25-9,minister,minister,PROF. SIDDHESHWAR PRASAD,,
+W1351,LS-1968-08-28-9,LS_member,LS_member,SHRI BABURAO PATEL,,unknown
+W1352,RS-1968-08-01-9,RS_member,RS_member,DR. BHAI MAHAVIR,,unknown
+W1353,RS-1990-04-30-1,RS_member,RS_member,Prof. M,,unknown
+W1354,RS-1966-11-08-4,RS_member,RS_member,SHRI A. P. CHATTERJEE,,unknown
+W1355,LS-1988-03-02-17,minister,minister,SHRI K.R. NARAYANAN,,
+W1356,RS-1996-08-26-2,RS_member,RS_member,SHRI SATISH AGARWAL,,unknown
+W1358,LS-1966-08-22-12,minister,minister,Shri Swaran Siagh,,
+W1359,LS-1992-12-02-10,LS_member,LS_member,SHRI K.V. THANGKABALU,,unknown
+W1360,LS-1990-03-29-8,LS_member,LS_member,PROF. K. V. THOMAS (Emakulam),INC,opposition
+W1361,LS-1968-02-12-1,LS_member,LS_member,Shri Nijalingapa. SHRI NATH PAI (Rajapur),,unknown
+W1364,RS-1998-12-16-3,minister,minister,SHRI GEORGE FERNANDES,,
+W1365,LS-1965-03-30-5,LS_member,LS_member,Shri Raghunath Singh,INC,government
+W1366,LS-1973-12-19-4,minister,minister,SHRI K. R. GANESH,,
+W1367,LS-1998-06-08-8,LS_member,LS_member,SHRI RAMPAL UPADHYAY,INC,opposition
+W1369,RS-1998-06-11-43,RS_member,RS_member,SHRI S.S. SURJEWALA (Haryana),,unknown
+W1371,RS-1991-07-15-1,RS_member,RS_member,SHRI R. T. GOPALAN,,unknown
+W1372,LS-1970-03-11-4,LS_member,LS_member,SHRI BABURAO PATEL,,unknown
+W1373,LS-1968-05-08-6,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1374,LS-1980-01-30-6,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1375,RS-1964-11-24-6,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1376,RS-1991-01-07-3,RS_member,RS_member,SHRI V. NARAYANASAMY,,unclassified period
+W1377,RS-1973-02-20-1,minister,minister,SHRI BALGOVIND VERMA,,
+W1379,LS-1999-02-24-15,minister,minister,SHRI JASWANT SINGH,,
+W1381,RS-1992-03-05-13,minister,minister,SHRIMATI MARGARET ALVA,,
+W1382,LS-1995-08-16-13,minister,minister,Shri H. R. Bhardwaj,,
+W1384,RS-1992-03-05-2,minister,minister,SHRIMATI MARGARET ALVA,,
+W1385,RS-1985-05-09-6,RS_member,RS_member,DR. BAPU KALDATE,BLD,opposition
+W1388,RS-1991-01-08-13,minister,minister,SHRI RAMJILAL SUMAN,,
+W1389,RS-1998-06-04-23,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1390,RS-1999-03-04-3,minister,minister,SHRI JASWANT SINGH,,
+W1391,RS-1995-06-02-2,RS_member,RS_member,DR. M. ARAM (Nominated),,unknown
+W1393,RS-1965-08-31-1,minister,minister,SHRIMATI LAKSHMI N. MENON,,
+W1395,RS-1995-06-01-16,minister,minister,SHRI BHUVNESH GHATURVEM,,
+W1396,LS-1970-12-02-3,LS_member,LS_member,SHRI VIKRAM CHAND MAHA- JAN,,unknown
+W1397,RS-1998-06-04-3,RS_member,RS_member,SHRI JANARDHANA POOJARY,,unknown
+W1398,LS-1988-03-16-23,LS_member,LS_member,SHRI RADHAKANTA DIGAL,,unknown
+W1399,RS-1998-07-28-2,minister,minister,SHRI YASHWANT SINHA,,
+W1400,RS-1966-05-07-1,RS_member,RS_member,DR. S. CHANDRASEKHAR,BJP,opposition
+W1401,LS-1964-11-25-4,LS_member,LS_member,Shri Hem Barua,PSP,opposition
+W1403,LS-1993-02-24-4,minister,minister,SHRI S KRISHNA KUMAR,,
+W1404,RS-1965-03-09-1,RS_member,RS_member,SHRI A. D. MANI,,unknown
+W1405,RS-1965-03-08-7,RS_member,RS_member,SHRI P. N. SAPRU,,unknown
+W1406,LS-1983-08-24-4,LS_member,LS_member,SHRI MANOHAR LAL SAINI,,unknown
+W1407,LS-1998-07-29-17,LS_member,LS_member,DR. SAROJA V.,ADMK,government
+W1408,RS-1978-07-28-13,RS_member,RS_member,SHRI PRANAB MUKHERJEE,,unknown
+W1409,RS-1969-05-08-12,RS_member,RS_member,DR. BHAI MAHAVIR (Delhi),,unknown
+W1410,RS-1991-12-20-4,RS_member,RS_member,SHRI MURLIDHAR CHANDRAKANT BHANDARE (Maharashtra),,unknown
+W1411,LS-1989-04-10-5,minister,minister,SHAI SHIVRAJ V. PATIL,,
+W1412,RS-1984-04-23-4,RS_member,RS_member,SHRI SHRIDHAR WASUDEQ DHABE (Maharashtra),,unknown
+W1413,LS-1969-02-18-1,LS_member,LS_member,SHRI HEM BARUA (Mangaldai),,unknown
+W1415,RS-1972-05-11-7,RS_member,RS_member,SHRI GANESHI TlAL CHAUDHARY,,unknown
+W1418,RS-1980-07-31-2,RS_member,RS_member,SHRI N. P. CHENGALRAYA NAIDU,INC,government
+W1419,LS-1986-04-02-20,minister,minister,SHRI SHIVRAJ V. PATIL,,
+W1420,RS-1999-12-23-9,RS_member,RS_member,SHRI PREM CHAND GUPTA,,unknown
+W1422,LS-1998-06-10-5,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1423,LS-1994-05-11-5,LS_member,LS_member,SHRI PARAS RAM BHARDWAJ,INC,government
+W1424,RS-1969-12-04-11,RS_member,RS_member,SHRI N. SRI RAMA REDDY,,unknown
+W1425,RS-1984-04-23-1,RS_member,RS_member,SHRI RAMANAND YADAV,,unknown
+W1426,LS-1995-05-17-6,LS_member,LS_member,SHRI KESRI LAL,JD,opposition
+W1427,LS-1996-03-11-9,minister,minister,SHRI PRANAB MUKHERJEE,,
+W1431,LS-1994-05-02-10,LS_member,LS_member,SHRI PAWAN KUMAR BANSAL,INC,government
+W1432,LS-1967-12-11-4,LS_member,LS_member,SHRI SAMAR GUHA,PSP,opposition
+W1433,RS-1995-08-17-13,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1434,LS-1986-11-12-2,LS_member,LS_member,SHRI AN AND SINGH,,unknown
+W1435,RS-1998-05-28-67,RS_member,RS_member,SHRI GEORGE PERNANDES,,unknown
+W1436,RS-1997-07-31-5,RS_member,RS_member,SHRI PARAG CHALIHA,IND,opposition
+W1438,LS-1986-12-01-1,minister,minister,SHRI YOGENDRA· MAKWANA,,
+W1441,LS-1999-02-24-31,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1442,RS-1979-05-10-7,RS_member,RS_member,SHRI SHIVA CHANDRA JHA,SSP,opposition
+W1443,RS-1993-08-05-3,RS_member,RS_member,SHRI MENTAY PADMANA- BHAM,,unknown
+W1444,LS-1974-03-13-6,minister,minister,PROF. SHER SINGH,,
+W1445,LS-1999-12-07-1,LS_member,LS_member,SHRI T. GOVINDAN,CPM,opposition
+W1448,LS-1991-08-21-3,LS_member,LS_member,SHRI K. V. THANGKA EALU,INC,government
+W1449,LS-1984-03-01-6,minister,minister,SHRI A.A. RAHIM,,
+W1451,LS-1969-03-12-4,LS_member,LS_member,SHRI BENI SHANKER SHARMA,BJS,opposition
+W1452,LS-1968-11-13-5,LS_member,LS_member,SHRI K. P. SINGH DEO,,unknown
+W1453,RS-1985-12-05-6,RS_member,RS_member,SHRI T. CHANDRA- SEKHAR REDDY,,unknown
+W1454,LS-1976-05-05-2,LS_member,LS_member,SHRI SHANKERRAC SAVANT,,unknown
+W1455,LS-1995-08-07-9,minister,minister,SHRIMATI URMILABEN CHIMANBHAI PATEL,,
+W1457,RS-1998-06-11-8,RS_member,RS_member,SHRI BHUVNESH CHATURVEDI,,unknown
+W1459,RS-1978-07-28-5,RS_member,RS_member,SHRIMATI MAIMOONA SULTAN,INC,opposition
+W1461,LS-1994-04-27-2,LS_member,LS_member,SHRI RAM NAIK,BJP,opposition
+W1462,LS-1985-07-24-28,minister,minister,SHRI SHIVRAJ V. PATIL,,
+W1463,LS-1999-03-10-9,minister,minister,SHRI SOMPAL,,
+W1466,RS-1992-11-26-33,RS_member,RS_member,SHRI G. SWAMINATHAN,,unknown
+W1467,LS-1986-04-16-40,LS_member,LS_member,PROF. G. G SWELL,INC,government
+W1470,LS-1990-04-09-32,LS_member,LS_member,SHRI MALLIKARJUN (Mahbubnagar),INC,opposition
+W1471,LS-1965-05-10-4,LS_member,LS_member,Shri Harish Chandra Mathur,,unknown
+W1472,LS-1992-11-25-2,minister,minister,SHRI EDUARDO FALEIRO,,
+W1473,LS-1979-03-07-8,LS_member,LS_member,SHRI GIRIDHAR GOMAN- GO,,unknown
+W1474,RS-1964-04-22-1,RS_member,RS_member,SHRI M. RUTHNASWAMY (Madras),,unknown
+W1475,RS-1995-08-09-2,RS_member,RS_member,DR. MURLI MANOHAR JOSHI (UTTAR PRADESH),,unknown
+W1476,LS-1993-07-28-16,minister,minister,SHRI BHUVNESHCHATURVEDI,,
+W1477,LS-1991-02-25-1,minister,minister,SHRI KAMAL MORARKA,,
+W1478,RS-1989-08-09-1,RS_member,RS_member,SHRI DIPEN GHOSH (West Ben- gal),,unknown
+W1480,LS-1993-12-08-12,LS_member,LS_member,SHRI MANORANJAN BHAKTA,INC,government
+W1481,RS-1998-12-09-3,minister,minister,SHRI GEORGE FERNANDES,,
+W1482,LS-1993-03-12-1,LS_member,LS_member,SHRI NITISH KUMAR,JD,opposition
+W1484,RS-1993-07-29-11,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W1485,LS-1970-09-02-7,LS_member,LS_member,SHRI MEGHACHANDRA,CPI,opposition
+W1486,RS-1982-03-11-5,RS_member,RS_member,SHRIMATI AMARJIT KAUR,,unknown
+W1487,LS-1967-12-11-22,LS_member,LS_member,SHRI SAMAR GUHA,PSP,opposition
+W1488,RS-1988-11-29-5,RS_member,RS_member,SHRI KAPIL VERMA,,unknown
+W1489,LS-1965-08-30-11,minister,minister,Shri Swaran Singh,,
+W1490,LS-1991-08-14-15,minister,minister,SHRIMAII MARGARET ALVA,,
+W1491,LS-1962-05-30-4,LS_member,LS_member,Shri Hari Vishnu Kamath,PSP,opposition
+W1492,LS-1966-08-29-7,minister,minister,Shrimati Indira Gandhi,,
+W1493,LS-1993-07-28-14,LS_member,LS_member,SHRI ARJIN CHARAN SETHI,JD,opposition
+W1494,RS-1993-08-04-1,minister,minister,SHRI SAIMAN KHURSEED,,
+W1495,RS-1992-03-23-4,minister,minister,SHRI MADHAVSINH SOLANKI,,
+W1496,RS-1972-05-12-2,RS_member,RS_member,SHRI KRISHAN KANT,BLD,opposition
+W1497,RS-1998-12-15-7,RS_member,RS_member,SHRIMATI KAMLA SINHA (Bihar),,unknown
+W1498,LS-1973-08-13-1,minister,minister,SHRI A. K. KISKU,,
+W1499,RS-1990-09-04-12,RS_member,RS_member,SHRI MENTAY PADMANA- BHAM,,unknown
+W1500,RS-1998-05-28-35,RS_member,RS_member,Shri Pranab Mukherjee. SHRI PRANAB MUKHERJEE (West Bengal),,unknown
+W1501,RS-1991-12-12-7,RS_member,RS_member,SHRI MURLIDHAR CHAN- DiRAKANT BHANDARE,,unknown
+W1502,RS-1994-03-03-22,RS_member,RS_member,SHRI K. R. MALKANI,,unknown
+W1504,RS-1993-05-05-5,RS_member,RS_member,DR. ISHWAR CHANDRA GUPTA,,unknown
+W1505,LS-1992-03-09-3,LS_member,LS_member,SHRI MOHAN RAWALE (Bombay- South Central),SHS,opposition
+W1506,RS-1975-05-08-11,minister,minister,SHRI T. A. PAI,,
+W1507,RS-1967-12-14-1,minister,minister,SHRI MOHD. SHAFI QURESHI,,
+W1508,LS-1967-11-20-29,LS_member,LS_member,SHRI K. P. SINGH DEO,,unknown
+W1509,LS-1990-04-09-24,minister,minister,PROF. M.G.K. MENON,,
+W1510,LS-1968-12-04-5,minister,minister,SHRI K. K. SHAH,,
+W1511,LS-1972-12-05-1,minister,minister,SHRI ् ै PAI,,
+W1513,LS-1974-03-26-2,LS_member,LS_member,SHRI YAMUNA PRASAD MANDAL,INC,government
+W1514,LS-1985-07-23-2,minister,minister,SHRl RAlIV GANDHI,,
+W1515,LS-1968-11-13-6,LS_member,LS_member,SHRI SHRI GOPAL SABOO,,unknown
+W1516,LS-1981-08-26-1,LS_member,LS_member,SHRI SONTOSH MOHAN DEV,INC(I),government
+W1517,LS-1963-03-25-8,LS_member,LS_member,Shri Ranga,,unknown
+W1518,RS-1995-02-14-1,minister,minister,SHRI AJIT KUMAR PANJA,,
+W1519,LS-1998-07-07-18,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1520,LS-1992-12-02-13,LS_member,LS_member,SHRI At-'ANTRAO DESHMUKH,,unknown
+W1521,LS-1991-07-24-4,LS_member,LS_member,SHRI ANNA JOSHI,BJP,opposition
+W1522,LS-1962-05-29-4,minister,minister,Shri Mehr Chand Khanna,,
+W1523,RS-1990-03-14-5,RS_member,RS_member,SHRI SATYA PRAKASH MALAVIYA,,unknown
+W1525,RS-1979-03-08-1,RS_member,RS_member,SHRI SANKAR GHOSE,,unknown
+W1526,RS-1999-04-19-5,RS_member,RS_member,SHRI P. PRABHAKAR REDDY,,unknown
+W1527,LS-1968-07-24-13,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1528,LS-1970-08-26-3,LS_member,LS_member,SHRI SHIV KUMAR SHASTRI,IND,opposition
+W1530,LS-1983-04-20-13,LS_member,LS_member,SHRI RAJNATH SONKAR SHASTRI,JNP(S),opposition
+W1531,RS-1964-12-09-6,RS_member,RS_member,SHRI ARJUN ARORA (Uttar Pradesh),,unknown
+W1532,RS-1984-05-03-10,RS_member,RS_member,SHRI KAILASHPATI MISHRA,,unknown
+W1534,LS-1963-05-02-1,LS_member,LS_member,Shri P. R. Patel,INC,government
+W1535,RS-1998-05-28-52,RS_member,RS_member,Dr. Manmohan Singh. DR. MANMOHAN SINGH (Assam),INC,opposition
+W1537,LS-1990-05-11-1,LS_member,LS_member,SHRI BAlGOPAl MISHRA (Bolangir),JD,government
+W1538,RS-1995-05-24-3,RS_member,RS_member,SHRIMATI VEENA VERMA,,unknown
+W1539,LS-1965-08-23-12,minister,minister,Shri Swaran Singh,,
+W1540,LS-1987-04-01-10,LS_member,LS_member,SHRI H. N. NAtUS GOWDA,,unknown
+W1541,LS-1994-08-24-17,LS_member,LS_member,SHRI RAMESH CHENNITHALA (Kcttayam),INC,government
+W1542,LS-1992-04-22-14,LS_member,LS_member,SHRI GUMAN MAL LODHA (Pali),,unknown
+W1543,RS-1993-03-31-4,minister,minister,SHRI DINESH SINGH,,
+W1544,LS-1993-08-18-6,minister,minister,SHRI BHUV- NESH CHATURVEDf,,
+W1545,RS-1991-01-08-15,minister,minister,SHRI KAMAL MORARKA,,
+W1546,LS-1992-08-12-3,minister,minister,SHRIMATI MARGARET ALVA,,
+W1547,LS-1991-07-16-2,LS_member,LS_member,SHRI JASWANT SINGH,BJP,opposition
+W1548,RS-1993-05-05-8,RS_member,RS_member,DR. JlNENDRA KUMAR JAIN (Madhya Pradesh),,unknown
+W1549,RS-1992-03-12-1,RS_member,RS_member,DR. YELAMANCHILI SIVAJI,,unknown
+W1552,LS-1995-05-08-16,minister,minister,"SHRI N,K,P' SALVE",,
+W1553,LS-1999-03-12-5,LS_member,LS_member,SHRI T.R. BAALU (Madras South),DMK,opposition
+W1554,LS-1968-03-13-16,LS_member,LS_member,SHRI S. R. DAMANT,,unknown
+W1557,LS-1973-08-09-3,minister,minister,SHRI SURENDRA PAL SINGH,,
+W1558,LS-1992-04-08-13,minister,minister,PROF. P.J. KURIEN,,
+W1559,RS-1968-03-14-13,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+W1561,RS-1997-03-05-4,RS_member,RS_member,SHRI O.P. KOHLI,,unknown
+W1562,LS-1963-04-29-3,minister,minister,Shri Dinesh Singh,,
+W1563,LS-1997-08-06-8,LS_member,LS_member,SHRI SUDHIR GIRI,CPM,outside support
+W1564,LS-1995-08-09-18,minister,minister,SHRI MALLIKARJUN,,
+W1565,LS-1970-04-27-6,LS_member,LS_member,SHRI CHINTAMANI PANIGRAHI,INC,government
+W1566,RS-1985-05-09-22,RS_member,RS_member,PROF. B. RAMACHANDRA RAO,,unknown
+W1567,RS-1966-12-08-1,RS_member,RS_member,SHRI D. THENGARI,,unknown
+W1568,LS-1986-03-19-28,LS_member,LS_member,SHRI T. BASHEBR,,unknown
+W1570,LS-1968-03-06-24,LS_member,LS_member,SHRI SHRI GOPAL SABOO,,unknown
+W1571,RS-1981-02-19-25,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+W1572,LS-1968-12-11-25,LS_member,LS_member,SHRI N.R. LASKAR,INC,government
+W1573,LS-1998-07-15-3,LS_member,LS_member,SHRI SUSHIL KUMAR SHINDE,,unknown
+W1574,RS-1998-12-03-13,minister,minister,SHRI SOMPAL,,
+W1575,LS-1998-05-27-36,LS_member,LS_member,SHRI K. NATWAR SINGH,INC,opposition
+W1576,LS-1999-03-17-19,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1577,LS-1966-05-09-16,minister,minister,Shri Nanda,,
+W1579,LS-1998-12-23-19,minister,minister,SHRI SOMPAL,,
+W1580,LS-1998-07-29-8,LS_member,LS_member,SHRI KHARABELA SHAIN,,unknown
+W1581,RS-1966-03-22-3,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1582,LS-1992-03-11-4,LS_member,LS_member,SHRI MOI IAN RAWALE,,unknown
+W1583,LS-1999-12-22-19,LS_member,LS_member,SHRI BRAHMA NAND MANDAL,JD(U),government
+W1586,RS-1980-12-11-4,RS_member,RS_member,SHRI MURLIDHAR CHiUMDRAKANT BHANDARE,,unknown
+W1587,RS-1968-05-02-7,RS_member,RS_member,SHRI BIRA KESARI DEO,,unknown
+W1588,LS-1963-08-19-5,LS_member,LS_member,Shri Basumatari,,unknown
+W1589,RS-1995-08-03-13,RS_member,RS_member,SHRI GOVINDRAO ADIK,,unknown
+W1590,LS-1975-03-26-9,LS_member,LS_member,SHRI NOORUL HUDA,,unknown
+W1591,RS-1999-12-23-28,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1592,LS-1975-03-12-4,minister,minister,SHRI A. C. GEORGE,,
+W1593,LS-1968-08-14-24,LS_member,LS_member,SHRI R. K. SINHA,INC,government
+W1594,RS-1986-11-20-12,RS_member,RS_member,SHRI RAM CHANDRA VIKAL,INC,government
+W1595,LS-1989-04-06-7,LS_member,LS_member,DR. CHANDRA SHEKHAR TRIPATHI (f<halilabad),,unknown
+W1599,RS-1977-12-22-6,minister,minister,SHRI MORARJI R. DESAI,,
+W1600,RS-1973-03-01-2,minister,minister,SHRI F. H. MOHSIN,,
+W1601,RS-1996-12-12-21,minister,minister,DR. U. VENKATESHWARLU,,
+W1602,LS-1998-05-28-17,LS_member,LS_member,SHRI P CHIDAMBARAM (SIVAGANGA),TMC(M),opposition
+W1603,LS-1985-08-29-2,minister,minister,SHRI V. N. OADGIL,,
+W1604,RS-1999-03-18-9,RS_member,RS_member,SHRI SOLIPETA RAMA- CHANDRA REDDY,,unknown
+W1605,RS-1998-06-04-22,RS_member,RS_member,SHRI O. RAJAGOPAL,,unknown
+W1606,LS-1986-04-16-45,LS_member,LS_member,SHRI P. KOLANDAIVELU (Gobi .. chettipalayam),ADK,opposition
+W1607,LS-1988-08-17-4,minister,minister,SHRI K R. NARAYANAN,,
+W1608,LS-1989-04-24-18,LS_member,LS_member,SHRI SRIKANTHA DATTA NARASIMHARAJA WADIYAR,,unknown
+W1609,RS-1998-06-08-4,RS_member,RS_member,SHRI S. RAMACHANDRAN PILLAI (Kerala),,unknown
+W1610,RS-1974-11-22-4,minister,minister,SHRI K. V. RAGHUNATHA REDDY,,
+W1611,RS-1997-05-08-8,RS_member,RS_member,SHRI V. HANUMANTHA RAO,,unknown
+W1612,LS-1986-11-10-2,minister,minister,SHRI NARAYAN DATT TIW ARI,,
+W1613,LS-1970-12-02-6,minister,minister,CHOWDHARY RAM SEWAK,,
+W1615,RS-1977-08-09-2,RS_member,RS_member,SHRI DINESH SINGH,INC,opposition
+W1616,LS-1973-04-04-14,minister,minister,SHRI DHARAM BIR SINHA,,
+W1617,RS-1991-09-04-3,minister,minister,SHRI EDUARDO FALEIRO,,
+W1618,RS-1992-08-20-16,RS_member,RS_member,SHRI RAJUBHAI A. PARMAR,,unknown
+W1619,RS-1970-11-26-23,RS_member,RS_member,SHRI KALYAN ROY,,unknown
+W1620,LS-1985-12-09-9,LS_member,LS_member,PROF. N. G. RANGA,INC,government
+W1621,RS-1970-04-30-20,RS_member,RS_member,SHRI A. G. KULKARNI,,unknown
+W1622,RS-1998-07-29-9,minister,minister,SHRI MADAN LAL KHURANA,,
+W1623,RS-1968-07-25-17,RS_member,RS_member,SHRI J. P. YADAV,,unknown
+W1624,LS-1998-08-04-8,LS_member,LS_member,SHRI MANORANJAN BHAKTA (Andaman and Nlcobar Islands),INC,opposition
+W1627,RS-1963-03-14-1,RS_member,RS_member,SHRI MR. CHAIRMAN,,unknown
+W1629,LS-1963-04-29-2,LS_member,LS_member,Shri Maheswar Naik,INC,government
+W1631,LS-1985-12-11-2,LS_member,LS_member,SHRI D.P. JADEJA,,unknown
+W1632,LS-1999-12-01-13,minister,minister,SHRI JAWANT SINGH,,
+W1633,LS-1968-08-14-13,minister,minister,SHRI SWARAN SINGH,,
+W1634,RS-1966-03-22-4,RS_member,RS_member,SHRI G. MURAHARI,INC,government
+W1635,LS-1995-12-20-12,LS_member,LS_member,SHRI GURUDAS KAMAT,INC,government
+W1637,LS-1998-12-22-22,LS_member,LS_member,SHRI R.S. GAVAI (Amravati),RPI,opposition
+W1638,LS-1969-12-17-4,LS_member,LS_member,SHRI VASUDEVAN NAIR,,unknown
+W1639,LS-1974-08-01-13,LS_member,LS_member,PROF. NARAIN CHAND PARASHAR,,unknown
+W1640,RS-1998-06-11-40,RS_member,RS_member,SHRI JAYANT KUMAR MALHOUTRA (Uttar Pradesh),,unknown
+W1642,RS-1996-07-24-2,RS_member,RS_member,SHRIMATI VEENA VERMA,,unknown
+W1643,RS-1998-12-16-1,minister,minister,SHRI GEORGE FERNANDES,,
+W1644,RS-1994-04-27-6,RS_member,RS_member,SHRI RAJNI RANJAN SAHU,,unknown
+W1646,LS-1999-03-17-18,minister,minister,SHRI RAM NAIK,,
+W1647,LS-1995-03-15-9,LS_member,LS_member,DR. CHATIRAPAL SINGH,,unknown
+W1649,LS-1998-12-21-4,LS_member,LS_member,SHRI KALPNATH RAI (Ghosi),SAP,government
+W1650,LS-1972-05-10-9,minister,minister,SHRI- MATI INDIRA GANDHI,,
+W1651,RS-1996-07-15-5,RS_member,RS_member,DR. BIPLAB DASGUPTA,CPM,outside support
+W1652,LS-1978-05-10-7,LS_member,LS_member,SHRI HITENDRA DESAI,,unknown
+W1653,LS-1996-12-16-2,LS_member,LS_member,SHRI GEORGE FERNANDES,SAP,opposition
+W1654,LS-1980-07-07-4,LS_member,LS_member,SHRIMATI GEETA MUKHERJEE (Panskura),CPI,opposition
+W1655,RS-1982-03-15-1,RS_member,RS_member,SHRIMATI NAJMA HEPTULLA,,unknown
+W1656,LS-1987-04-16-1,LS_member,LS_member,SHRI VIJAY N. PATIL,INC,government
+W1657,LS-1986-08-12-1,minister,minister,SHRI M. ARUNA .. CHALARM,,
+W1658,RS-1994-08-11-9,minister,minister,SHRI BHUVNESH CHA TURVEDI,,
+W1660,RS-1974-08-02-1,RS_member,RS_member,Mr. Krishan Kant. SHRI KRISHAN KANT,BLD,opposition
+W1661,RS-1994-02-24-10,RS_member,RS_member,DR. SHRIKANT RAMCHANDRA JICHKAR,,unknown
+W1662,LS-1964-12-01-1,minister,minister,Shri Shabngwaz Khan,,
+W1663,RS-1985-05-09-15,RS_member,RS_member,SHRI RAMANAND YADAV,,unknown
+W1664,LS-1998-12-22-25,LS_member,LS_member,SHRI KHARABELA SWAIN,,unknown
+W1665,RS-1995-03-30-10,RS_member,RS_member,SHRI INDER KUMAR GUJRAL,JD,opposition
+W1666,LS-1997-03-10-18,minister,minister,SHRI JANESHWAR MISHRA,,
+W1667,RS-1999-12-03-1,RS_member,RS_member,DR. GOPALRAO VITHALRAO PATIL,,unknown
+W1668,LS-1994-08-09-4,LS_member,LS_member,SHRIMATI DIL KUMAR I BHANDARI,,unknown
+W1669,LS-1992-12-04-6,LS_member,LS_member,SHRI MOHAN SINGH (Deoria),JD,opposition
+W1670,LS-1995-05-24-14,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1671,LS-1999-12-15-6,minister,minister,SHRI ARUN SHOURIE,,
+W1672,LS-1990-04-16-1,LS_member,LS_member,SHRI SUDHIR GIRl,,unknown
+W1673,LS-1977-06-29-24,minister,minister,SHRI CHARAN SINGH,,
+W1674,LS-1994-05-05-1,LS_member,LS_member,SHRI SYED SHAHABUDDING (Kishanganj),JD,opposition
+W1675,RS-1998-06-04-19,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1676,RS-1979-04-26-16,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+W1677,RS-1997-02-27-6,RS_member,RS_member,DR. MANMOHAN SINGH,INC,outside support
+W1678,LS-1993-05-14-5,LS_member,LS_member,SHRI RAM NAIK,BJP,opposition
+W1679,LS-1990-04-09-2,minister,minister,PROF. M.G.K. MENON,,
+W1680,LS-1992-05-06-7,minister,minister,SHRIMATI MAR~T ALVA,,
+W1682,LS-1984-08-08-3,LS_member,LS_member,SHRI MOOL CHAND DAGA,INC(I),government
+W1685,RS-1997-03-20-16,RS_member,RS_member,SHRIMATI RENUKA CHOWDHURY,INC,outside support
+W1686,RS-1966-08-09-2,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+W1687,LS-1998-12-23-11,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1688,LS-1998-07-16-5,minister,minister,SHRI RAM JETHMALANI,,
+W1690,RS-1992-05-05-1,RS_member,RS_member,SHRI KAPIL VERMA,,unknown
+W1691,RS-1983-03-17-6,RS_member,RS_member,DR. BHAI MAHAVIR,,unknown
+W1692,LS-1968-12-18-6,minister,minister,SHRI 8. R. BHAGAT,,
+W1693,RS-1990-05-15-3,RS_member,RS_member,SHRI A. G. KULKARNI,,unknown
+W1695,RS-1992-08-20-13,minister,minister,SHRI V. NARAYANASAMY,,
+W1696,RS-1974-08-21-11,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+W1697,LS-1991-12-03-4,LS_member,LS_member,SHRI BHAGWAN SHANKAR RAWAT,BJP,opposition
+W1698,LS-1992-03-04-1,minister,minister,SHRI M. ARUNACHALAM,,
+W1699,LS-1964-12-14-6,LS_member,LS_member,Shri Harish Chandra Mathur,,unknown
+W1701,RS-1992-03-16-17,RS_member,RS_member,SHRI A.G. KULKARNI,,unknown
+W1702,LS-1998-07-07-13,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1703,RS-1991-08-29-2,RS_member,RS_member,SHRI KAPIL VERMA (Uttar Pradesh),,unknown
+W1705,LS-1999-04-15-1,minister,minister,SHRI GEORGE FERNANDES,,
+W1706,LS-1998-07-20-2,LS_member,LS_member,DR. T. SUBBRAMI REDDY,INC,opposition
+W1707,LS-1973-12-12-12,LS_member,LS_member,DR. RANEN SEN,,unknown
+W1709,LS-1996-07-24-8,minister,minister,SHRI YOGINDER K. ALAGH,,
+W1712,LS-1998-07-16-9,LS_member,LS_member,ch. SHRI T.R. BAALU (Madras South),DMK,opposition
+W1713,RS-1985-12-19-9,RS_member,RS_member,SHRI V. GOPALSAMY,,unknown
+W1714,RS-1964-12-24-4,RS_member,RS_member,SHRI R. V. RAMASWAMY,,unknown
+W1715,LS-1987-02-24-1,minister,minister,SHRIMATI SUSHILA ROHTAGI,,
+W1717,RS-1984-05-08-2,minister,minister,SHRI R. VENKATARAMAN,,
+W1718,RS-1992-03-16-2,RS_member,RS_member,SHRI DHULESHWAR MEENA,,unknown
+W1720,RS-1995-08-03-19,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1721,LS-1970-05-06-8,LS_member,LS_member,SHRI SAMAR GUHA,PSP,opposition
+W1722,LS-1994-03-08-1,LS_member,LS_member,SHRI BHAGWAN SHANKAR RAWAT,BJP,opposition
+W1723,RS-1967-06-20-6,RS_member,RS_member,SHRI SURENDRA MOHAN GHOSE,,unknown
+W1724,LS-1993-05-12-1,LS_member,LS_member,SHRI RAM KAPSE,,unknown
+W1726,RS-1993-02-24-4,minister,minister,SHRI DINESH SINGH,,
+W1727,LS-1965-08-23-8,LS_member,LS_member,Shri A. N. Vidyalankar,INC,government
+W1728,RS-1993-12-09-1,RS_member,RS_member,SHRI SUSHILKUMAR SAM- BHAIIRAO SHINDE,,unknown
+W1729,LS-1990-04-25-2,minister,minister,SHRI RASHEED MASOOD,,
+W1730,RS-1967-03-31-5,minister,minister,SHRI K. C. PANT,,
+W1731,RS-1994-04-27-1,minister,minister,SHRI R. L. BHATIA,,
+W1732,LS-1996-03-11-11,LS_member,LS_member,SHRI SHRAVAN KUMAR PATEL,INC,government
+W1734,RS-1966-11-08-8,RS_member,RS_member,SHRI D. L. SEN GUPTA,,unknown
+W1735,RS-1994-12-14-1,RS_member,RS_member,DR. NAUNIHAL SINGH,CPM,opposition
+W1736,RS-1992-03-05-18,RS_member,RS_member,SHRI G.G. SWELL,,unknown
+W1737,LS-1968-12-18-18,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1738,LS-1983-08-10-13,LS_member,LS_member,SHRI AMAR ROYPRA- DHAN,,unknown
+W1739,LS-1977-12-07-4,LS_member,LS_member,SHRI SUKHENDRA SINGH,BLD,government
+W1740,RS-1970-08-27-9,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1741,LS-1970-05-13-1,minister,minister,DR. K. L. RAO,,
+W1744,LS-1995-08-23-12,LS_member,LS_member,SHRI V.S. VIJAYARAGHAVAN,INC,government
+W1745,RS-1994-03-16-2,RS_member,RS_member,SHRI RAM JETHMALANI,,unknown
+W1746,LS-1985-03-27-42,LS_member,LS_member,SHRI C. JANGA REDDY,BJP,opposition
+W1747,LS-1999-12-08-13,LS_member,LS_member,SHRI KRISHNAMRAJU,,unknown
+W1748,LS-1998-12-16-19,minister,minister,SHRI JASWANT SINGH,,
+W1749,RS-1995-03-23-9,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1750,LS-1966-05-10-32,LS_member,LS_member,Mr. Pant. Shri K. C. Pant (Nainital),INC,government
+W1751,LS-1994-04-28-1,LS_member,LS_member,SHRI SYED SHAHABUDDIN (Kishanganj),JD,opposition
+W1752,RS-1968-05-01-3,RS_member,RS_member,SHRI BRAHMANANDA PANDA (Orissa),,unknown
+W1753,RS-1988-03-24-14,RS_member,RS_member,SHRI V. RAMANATHAN,,unknown
+W1755,RS-1995-08-03-17,RS_member,RS_member,SHRI PRAMOD MAHAJAN,BJP,opposition
+W1756,LS-1994-03-02-3,minister,minister,SHRI S. KRISHNA KUMAR,,
+W1757,LS-1986-04-02-32,minister,minister,SHRI ARUN NEHRU,,
+W1759,RS-1962-06-20-6,RS_member,RS_member,SHRI N. M. ANWAR,,unknown
+W1760,RS-1967-03-27-11,RS_member,RS_member,SHRI NIREN GHOSH (West Bengal),CPM,opposition
+W1762,LS-1992-08-12-15,LS_member,LS_member,SHRI D. VENKATESWARA RAO,TDP,opposition
+W1764,RS-1962-04-25-10,RS_member,RS_member,SHRI B. N. BHARGAVA,INC,government
+W1765,LS-1995-03-27-10,minister,minister,SHRI R.L. BHATIA,,
+W1766,RS-1994-04-27-9,RS_member,RS_member,SHRI GHUFRAN AZAM,INC(I),opposition
+W1769,LS-1991-09-14-4,LS_member,LS_member,SHRI GEORGE FERNANDES,JD,opposition
+W1771,RS-1996-08-29-2,RS_member,RS_member,SHRI SOLIPETA RAMACHANDRA REDDY,,unknown
+W1773,RS-1999-12-16-15,minister,minister,SHRI JASWANT SINGH,,
+W1774,RS-1998-05-29-21,RS_member,RS_member,SHRI KULDIP NAYYAR,,unknown
+W1776,LS-1994-08-24-1,LS_member,LS_member,SHRI PRAKASH V. PATIL,INC,government
+W1779,LS-1986-04-03-6,LS_member,LS_member,SHRI PRIYA RAJAN DAS MUNSI,INC,government
+W1780,LS-1991-11-27-1,LS_member,LS_member,SHRI K.V. THANGKABALU,,unknown
+W1781,RS-1967-06-23-2,RS_member,RS_member,SHRI DAHYABHAI V. PATEL,INC,government
+W1782,LS-1972-08-09-11,LS_member,LS_member,SHRI S. M. BANERJEB,IND,opposition
+W1783,LS-1965-04-26-7,minister,minister,Shri Lal Bahadur Shastri,,
+W1784,RS-1998-06-09-2,minister,minister,SHRI R. JANARTHANAM,,
+W1785,RS-1992-03-09-4,RS_member,RS_member,SHRI CHIMANBHAI MEHTA,,unknown
+W1786,RS-1992-03-16-14,RS_member,RS_member,SHRI ASHWANI KUMAR,,unknown
+W1789,LS-1978-12-21-5,LS_member,LS_member,SHRI YADVENDRA DUTT,,unknown
+W1790,LS-1998-12-22-2,LS_member,LS_member,SHRI RUPCHAND PAL,CPM,opposition
+W1793,RS-1963-12-10-1,RS_member,RS_member,SHRI B. N. BHARGAVA,INC,government
+W1794,LS-1992-05-04-1,LS_member,LS_member,SHRI BOLLA GULli RAMAIAH,,unknown
+W1795,LS-1986-04-02-4,LS_member,LS_member,SHRI MURLIDHAR MANE,,unknown
+W1796,LS-1992-04-20-4,LS_member,LS_member,SHRI A. CHARLES (Trivandrum),INC,government
+W1798,LS-1995-05-09-1,minister,minister,SHRI KAMAL NATH,,
+W1799,RS-1995-08-24-2,RS_member,RS_member,SHRI E. BALANANDAN,,unknown
+W1801,LS-1971-08-10-8,LS_member,LS_member,SHRI SAMAR GUHA,PSP,opposition
+W1803,RS-1974-02-22-2,RS_member,RS_member,SHRI BHUPESH GUPTA (West Bengal),,unknown
+W1804,LS-1976-03-10-7,LS_member,LS_member,SHRI MOHAMMAD ISMAIL,,unknown
+W1805,RS-1968-08-23-1,minister,minister,SHRI I. K. GUJRAL,,
+W1807,RS-1995-05-24-4,minister,minister,SHRI R.L. BHATIA,,
+W1808,RS-1996-12-05-22,RS_member,RS_member,Shri John F. Fernandes,,unknown
+W1810,LS-1998-06-11-4,LS_member,LS_member,DR. SUGUNA KUMARI CHELLAMELLA,TDP,outside support
+W1812,LS-1986-07-30-18,LS_member,LS_member,SHRI RAM DHAN,,unknown
+W1814,RS-1996-09-04-1,RS_member,RS_member,SHRI PREM CHAND GUPTA (Bihar),,unknown
+W1816,LS-1978-04-25-3,LS_member,LS_member,SHRI PRADYUMNA BAL,,unknown
+W1817,LS-1994-12-14-1,LS_member,LS_member,SHRI HARI KISHORE SINGH,JD,opposition
+W1819,LS-1965-05-07-1,minister,minister,Shri Manubhai Shah,,
+W1820,RS-1994-08-04-10,RS_member,RS_member,DR. MURLI MANOHAR JOSHI,,unknown
+W1821,LS-1973-12-12-5,minister,minister,SHRI RAM NIWAS MIRDHA,,
+W1822,RS-1973-08-08-1,minister,minister,SHRI ANNASAHEB SHINDE,,
+W1823,RS-1978-05-18-2,RS_member,RS_member,SHRI PILOO MODY,,unknown
+W1824,LS-1998-07-24-3,minister,minister,SHRI SUKHBIR SINGH BADAL,,
+W1825,LS-1973-08-09-1,LS_member,LS_member,SHRI MADHU LIMAYE,,unknown
+W1826,LS-1991-11-28-3,LS_member,LS_member,SHRI ANANDGAJAPATI RAJU POOSAPATI,,unknown
+W1829,LS-1999-03-04-15,LS_member,LS_member,DR. ULHAS VASUDEO PATIL,INC,opposition
+W1830,RS-1983-08-19-5,RS_member,RS_member,SHRI SHRIDHAR WASUDEO DHABE,,unknown
+W1831,RS-1983-08-12-5,RS_member,RS_member,SHRI N. P. CHENGALRAYA NAIDU,INC,government
+W1832,RS-1988-08-11-12,minister,minister,SHRI K. NATWAR SINGH,,
+W1833,RS-1989-03-13-12,RS_member,RS_member,DR. YELAMANCHILI SIVAJI,,unknown
+W1834,LS-1974-08-09-2,LS_member,LS_member,SHRI VISHWANATH PRATAP SINGH (Phulpur),,unknown
+W1836,RS-1995-05-17-36,minister,minister,SHRI PRANAB MUKHERJEE,,
+W1837,LS-1992-07-15-2,minister,minister,SHRI P.A. SANGMA,,
+W1838,LS-1996-09-11-12,LS_member,LS_member,SHRI P.R. DASMUNSI,,unknown
+W1839,RS-1992-08-03-1,RS_member,RS_member,SHRI MURLIDHAR CHANDRAKANT BHANDARE (Maharashtra),,unknown
+W1840,RS-1973-11-19-3,RS_member,RS_member,SHRI J. P. YADAV,,unknown
+W1841,RS-1964-09-22-9,RS_member,RS_member,SHRI NIREN GHOSH,CPM,opposition
+W1842,RS-1998-07-23-21,RS_member,RS_member,DR. GOPALRAO VITHALRAO PATIL (Maharashtra),,unknown
+W1843,RS-1987-11-26-7,RS_member,RS_member,SHRI K. VASUDEVA PANI- CKER,,unknown
+W1845,RS-1983-08-12-4,RS_member,RS_member,SHRIMATI MAIMONNA SULTAN,INC,government
+W1846,RS-1996-09-09-1,RS_member,RS_member,SHRI SATISH AGARWAL (Rajasthan),,unknown
+W1847,LS-1968-08-14-36,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1850,RS-1973-03-09-2,RS_member,RS_member,SHRI THILLAI VILLALAN,,unknown
+W1852,RS-1969-05-01-11,minister,minister,SHRIMATI NANDINI SATPA- THY,,
+W1853,RS-1967-04-07-3,RS_member,RS_member,SHRI BHUPESH GUPTA,,unknown
+W1855,RS-1976-01-08-2,RS_member,RS_member,SHRI GIAN CHAND TOTU,,unknown
+W1856,LS-1993-04-27-5,LS_member,LS_member,SHRI AYUB KHAN (Jhunjunnu),INC,government
+W1857,LS-1994-12-19-2,LS_member,LS_member,SHRI SUDHIR SAWANT,INC,government
+W1858,RS-1975-02-20-10,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1860,RS-1997-08-27-2,RS_member,RS_member,SHRI AMAR SINGH (Uttar Pradesh),,unknown
+W1861,LS-1965-11-15-5,minister,minister,Shri Y. 8. Chavan,,
+W1862,LS-1970-08-19-28,minister,minister,SHRIMATI INDIRA GANDHI,,
+W1863,LS-1999-03-15-3,minister,minister,SHRI BABU LAL MARANDI,,
+W1864,LS-1993-03-17-7,LS_member,LS_member,SHRIMATI VASUNDHRARAJE,,unknown
+W1865,LS-1973-11-21-3,minister,minister,SHRI DHARAM BIR SINHA,,
+W1867,RS-1967-06-01-2,minister,minister,SHRI M. S. GURUPADASWAMY,,
+W1868,RS-1997-03-06-12,RS_member,RS_member,SHRI S. B. CHAVAN (Maharashtra),,unknown
+W1869,RS-1998-12-16-7,minister,minister,SHRI JASWANT SINGH,,
+W1871,LS-1997-03-11-2,LS_member,LS_member,SHRI SULTAN SALAHUDDIN OWAISI,AIMIM,opposition
+W1872,LS-1965-05-10-13,minister,minister,Shri Swaran Singh,,
+W1873,LS-1978-08-16-6,minister,minister,SHRI P. RAMACHANDRAN,,
+W1874,LS-1971-07-08-7,LS_member,LS_member,PROF. NARAIN CHAND PARASHAR (Hamirpur),,unknown
+W1875,LS-1999-12-01-6,LS_member,LS_member,SHRI PRIYA RANJAN DASMUNSI,INC,opposition
+W1876,LS-1986-03-19-1,LS_member,LS_member,SHRI BASUDEB ACHARIA,CPM,opposition
+W1877,LS-1991-11-27-4,minister,minister,SI«UMATI MARGARET ALVA,,
+W1878,LS-1992-07-29-8,minister,minister,SHRIMATI MARGARET ALVA,,
+W1879,LS-1990-05-17-1,LS_member,LS_member,SHRI EDUARDO FALEIRO,,unknown
+W1880,LS-1994-12-07-7,LS_member,LS_member,SHRI DATTA MEGHE,,unknown
+W1881,LS-1986-07-31-2,minister,minister,SHRIMATI KRISHNA SAHI,,
+W1882,RS-1989-07-25-10,minister,minister,SHRI K. R. NARAYANAN,,
+W1883,LS-1998-12-23-8,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W1884,RS-1967-05-30-15,minister,minister,SHRI M. S. GURUPADA- SWAMY,,
+W1887,LS-1998-06-12-3,LS_member,LS_member,SHRI MAGANTI BABU,,unknown
+W1888,RS-1983-08-18-2,RS_member,RS_member,SHRI V. C. KESAVA RAO,,unknown
+W1889,LS-1973-02-27-4,minister,minister,SHRI BALGOVIND VERMA,,
+W1890,LS-1967-06-19-1,LS_member,LS_member,Shri SWwarag Singh,,unknown
+W1891,RS-1992-03-23-2,minister,minister,SHRI MADHAVSINH SOLANKI,,
+W1893,RS-1995-12-07-4,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W1894,LS-1965-02-17-2,LS_member,LS_member,Shri Hari Vishnu Kamath,PSP,opposition
+W1895,LS-1980-07-10-1,LS_member,LS_member,SHRI GEORGE JOSEPH MUNDA- CKAL (Muvattupuzha),,unknown
+W1896,LS-1996-07-24-7,LS_member,LS_member,SHRI SANAT MEHTA,INC,outside support
+W1897,LS-1984-04-18-1,LS_member,LS_member,SHRI B.K. NAIR,INC(I),government
+W1898,RS-1995-05-17-18,RS_member,RS_member,SHRI INDER KUMAR GUJRAL,JD,opposition
+W1899,RS-1964-12-01-5,RS_member,RS_member,SHRI G. RAMACHANDRAN,,unknown
+W1900,LS-1964-11-17-5,LS_member,LS_member,Shri T. Subramanyam,INC,government
+W1903,LS-1991-11-25-1,minister,minister,SHRI P.V. RANGAYYA NAIDU,,
+W1905,LS-1976-03-30-5,minister,minister,DR. G. S. DHILLON,,
+W1906,RS-1986-11-06-13,minister,minister,SHRI SUKH RAM,,
+W1907,LS-1995-03-22-6,minister,minister,SHRIMATI MARGARET ALVA,,
+W1908,LS-1996-03-11-8,LS_member,LS_member,SHRI SANAT KUMAR MANDAL,RSP,opposition
+W1909,RS-1996-08-01-14,RS_member,RS_member,SHRI PARAG CHALIHA (Assam),IND,opposition
+W1910,RS-1993-02-23-3,minister,minister,SHRI P. V. RANGAYYA NAIDU,,
+W1913,LS-1978-03-29-9,LS_member,LS_member,SHRI MUKHTIAR SINGH MALIK,,unknown
+W1914,LS-1968-07-31-3,LS_member,LS_member,SHRI SHRI CHAND GOYAL,BJS,opposition
+W1915,LS-1998-08-03-10,LS_member,LS_member,SHRI VAlKO,MDMK,government
+W1916,LS-1998-07-06-4,minister,minister,SHRI P. R. KUMARAMANGALAM,,
+W1918,RS-1991-08-01-3,RS_member,RS_member,MISS SAROJ KHAPARDE,,unknown
+W1921,LS-1998-05-29-6,LS_member,LS_member,SHRI R.S. GAVAI,,unknown
+W1922,LS-1990-05-31-1,LS_member,LS_member,SHRI BHOGENDRAJHA (Madhubani),,unknown
+W1924,RS-1965-03-03-1,RS_member,RS_member,SHRI M. C. SHAH,,unknown
+W1925,RS-1994-12-08-7,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1927,LS-1995-05-24-4,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1928,RS-1995-03-20-4,RS_member,RS_member,SHRIMATI VEENA VERMA,,unknown
+W1929,RS-1996-02-28-7,minister,minister,SHRI PRANAB MUKHERJEE,,
+W1931,RS-1993-08-16-2,RS_member,RS_member,SHRI SHIV PRATAP MISHRA (Uttar Pradesh),,unknown
+W1932,RS-1986-11-13-13,RS_member,RS_member,SHRI A. G. KULKARNI,,unknown
+W1934,RS-1986-08-12-1,minister,minister,SHRI JANARDHAN POOJARI,,
+W1935,LS-1990-08-16-12,LS_member,LS_member,SHRI RAM NAIK,BJP,outside support
+W1936,LS-1962-04-19-3,minister,minister,Shrimati Lakshmi Menon,,
+W1938,RS-1994-02-24-13,RS_member,RS_member,SHRI GHUFRAN AZAM,INC(I),opposition
+W1940,LS-1985-04-24-22,LS_member,LS_member,SHRI RAJESH PILOT (Dausa),INC,government
+W1942,LS-1966-02-21-16,minister,minister,Shrimau’ = Indira Gandhi,,
+W1944,RS-1998-07-09-39,RS_member,RS_member,SHRI ARUN SHOURIE (Uttar Pradesh),,unknown
+W1949,RS-1998-05-28-41,RS_member,RS_member,SHRI K.R. MALKANI,,unknown
+W1950,RS-1994-04-21-1,RS_member,RS_member,SHRI KRISHAN LAL SHARMA,BJP,opposition
+W1951,LS-1981-11-26-5,LS_member,LS_member,SHRI JAINARAIN R O A T,,unknown
+W1953,LS-1991-08-21-5,minister,minister,SHRIMATI MARGARET ALVA,,
+W1954,RS-1986-04-24-6,minister,minister,SHRI SUKH RAM,,
+W1955,LS-1966-07-25-18,minister,minister,Shri A. M. Thomas,,
+W1956,LS-1997-05-06-19,LS_member,LS_member,DR. LAXMI NARAYAN PANDEY,,unknown
+W1957,RS-1963-03-04-1,RS_member,RS_member,SHRI LOKANATH MISRA (Oris- sa),,unknown
+W1958,RS-1998-07-16-31,RS_member,RS_member,SHRI VAYALAR RAVI,INC,opposition
+W1959,LS-1968-08-21-1,LS_member,LS_member,SHRI YAJNA DATT SHARMA,BJS,opposition
+W1960,LS-1999-12-08-18,minister,minister,SHRI JASWANT SINGH,,
+W1962,RS-1974-12-05-3,RS_member,RS_member,DR. R. K. CHAKRABARTI,,unknown
+W1964,RS-1994-08-19-6,RS_member,RS_member,SHRI S. JAIPAL REDDY (Andhra Pradesh),,unknown
+W1965,LS-1995-08-25-1,LS_member,LS_member,SHRI SRIBALLAV PANIGRAHI (D90garh),INC,government
+W1968,LS-1994-12-21-6,LS_member,LS_member,SHRI PARASRAM BHARDWAJ,,unknown
+W1969,LS-1991-07-31-4,LS_member,LS_member,SHRI KASHI RAM RANA,,unknown
+W1970,LS-1965-04-28-3,LS_member,LS_member,Shri H. N. Mukerjee (Calcutta Central),CPI,opposition
+W1971,RS-1990-08-07-3,minister,minister,PROF. M. G. K. MENON,,
+W1972,RS-1995-03-30-1,minister,minister,SHRI BHUVNESH CHATURVEDI,,
+W1973,LS-1993-12-15-1,LS_member,LS_member,SHRI RAJESH KUMAR,JD,opposition
+W1975,LS-1987-03-19-3,LS_member,LS_member,SHRI MOHD. MAHFOOZ ALl KHAN (Etah),,unknown
+W1977,RS-1990-08-27-1,RS_member,RS_member,SHRI SAMAR MUKHERJEE,,unknown
+W1979,RS-1992-07-28-5,RS_member,RS_member,SHRI ASHIS SEN (West Bengal),,unknown
+W1980,RS-1983-03-24-22,RS_member,RS_member,SHRI SYED SHAHABUDDIN,JD,opposition
+W1981,RS-1998-06-11-5,RS_member,RS_member,SHRI NARENDRA MOHAN,,unknown
+W1983,LS-1999-12-15-5,LS_member,LS_member,SHRI SHEESH RAM SINGH RAVI,,unknown
+W1984,RS-1998-11-30-2,RS_member,RS_member,DR. BIPLAB DASGUPTA,CPM,opposition
+W1985,LS-1965-09-22-2,LS_member,LS_member,Shri Hem Barua,PSP,opposition
+W1987,LS-1993-12-15-12,LS_member,LS_member,SHRI SANDIPAM BHAGWAN THORAT,INC,government
+W1988,LS-1968-12-11-16,LS_member,LS_member,SHRI MAHANT DIGVIJAI NATH,,unknown
+W1989,RS-1992-05-12-3,RS_member,RS_member,SHRI M. S. GURUPADASWAMY,,unknown
+W1994,LS-1985-03-14-14,LS_member,LS_member,SHRI SAIFUDDlN CHOWDHARY,CPM,opposition
+W1995,RS-1999-02-25-16,RS_member,RS_member,SHRI DIPANKAR MUKHERJEE,,unknown
+W1996,LS-1983-02-23-8,minister,minister,SHRI S. B. CHAVAN,,
+W1997,RS-1974-04-30-4,RS_member,RS_member,SHRI SUBRAMANIAN SWAMY,,unknown
+W1998,LS-1986-11-05-33,LS_member,LS_member,SHRIMATI MADHUREB SINGH,INC,government
+W1999,RS-1962-06-20-1,RS_member,RS_member,SHRI A. D. MANI,,unknown
+W2000,LS-1972-12-20-4,LS_member,LS_member,SHRI SOMCHAND SOLAN- KI,,unknown
+W2001,RS-1992-03-30-4,RS_member,RS_member,SHRI SHIV PRATAP MISHRA,,unknown
+W2003,LS-1980-07-15-1,LS_member,LS_member,SHRI DILEEP SINGH BHURIA,INC(I),government
+W2004,RS-1964-02-17-1,RS_member,RS_member,SHRI N. C. KASLIWAL,INC,government
+W2005,RS-1979-03-07-6,RS_member,RS_member,SHRI DEVENDRA NATH DWIVEDI (Uttar Pradesh),,unknown
+W2006,LS-1996-12-18-2,LS_member,LS_member,SHRI ASHOK PRADHAN,,unknown
+W2008,RS-1981-02-20-5,RS_member,RS_member,SHRI SHIVA CHANDRA JHA,SSP,opposition
+W2010,RS-1995-05-17-9,minister,minister,SHRI SURESH PACHOURI,,
+W2011,LS-1992-12-02-4,minister,minister,SHRI SALMAN KHURSHEED,,
+W2012,LS-1995-08-09-10,LS_member,LS_member,PROF. PREM DHUMAL,,unknown
+W2014,LS-1997-05-14-2,minister,minister,DR. S. VENUGOPALACHARI,,
+W2015,RS-1985-08-01-25,RS_member,RS_member,SHRI RAMANAND YADAV,,unknown
+W2016,LS-1993-07-28-6,LS_member,LS_member,SHRI DAU DAYAL JOSHI,BJP,opposition
+W2017,LS-1974-12-18-8,LS_member,LS_member,SHRI BHAGATRAM MAN. HAR,,unknown
+W2018,RS-1991-12-12-4,minister,minister,SHRIMATI MARGARET ALVA,,
+W2019,RS-1988-03-17-7,RS_member,RS_member,SHRI MURLIDHAR CHAN-DRAKANT BHANDARE,,unknown
+W2020,LS-1974-03-26-3,minister,minister,SHRI K. R. GANESH,,
+W2022,RS-1993-12-21-1,RS_member,RS_member,SHRI DAVID LEDGER,,unknown
+W2023,LS-1967-05-31-6,LS_member,LS_member,Shri Hem Barua (Mangaldai),,unknown
+W2024,RS-1983-03-21-2,RS_member,RS_member,SHRI ERA SEZHIYAN (Tamil Nadu),DMK,opposition
+W2025,LS-1983-02-23-1,LS_member,LS_member,SHRI RASHEED MASOOD,JNP(S),opposition
+W2026,LS-1987-07-29-11,LS_member,LS_member,SHRI G.S. BASAVARAJU,INC,government
+W2028,LS-1974-12-04-7,LS_member,LS_member,SHRI P. M. MEHTA,NCO,opposition
+W2029,LS-1995-12-20-9,LS_member,LS_member,SHRI KESRI LAL,JD,opposition
+W2030,RS-1989-08-08-18,minister,RS_member,SHRI MADAN BHATIA (Nomina- ted),,unknown
+W2031,LS-1990-04-23-11,minister,minister,PROF. M.G.K. MENON,,
+W2032,RS-1972-08-10-5,RS_member,RS_member,KUMARI CHUNDAWAT,,unknown
+W2034,LS-1992-12-16-9,LS_member,LS_member,SHRI AJOY MUKHOPADHYAY,CPM,opposition
+W2036,RS-1970-12-03-8,RS_member,RS_member,SHRI N. R. MUNISWAMY,,unknown
+W2037,LS-1992-04-22-1,LS_member,LS_member,SHRI VLJAY NAVAL PATIL,INC,government
+W2039,RS-1970-08-27-5,minister,minister,SHRIMATI INDIRA GANDHI,,
+W2040,RS-1981-02-19-5,minister,minister,SHRI CHARANJIT CHANANA,,
+W2042,RS-1988-11-16-1,RS_member,RS_member,SHRI RAJNI RANJAN SAHU,,unknown
+W2044,LS-1992-03-03-4,LS_member,LS_member,SHRI RABI RAY (Kandrapada),JD,opposition
+W2045,RS-1973-11-29-4,minister,minister,SHRIMATI INDIRA GANDHI,,
+W2048,RS-1995-12-20-1,RS_member,RS_member,SHRI SUSHILKUMAR SAMBHA- JIRAO SHINDE,,unknown
+W2049,RS-1999-10-28-7,minister,minister,SHRI JASWANT SINGH,,
+W2050,LS-1992-08-12-12,LS_member,LS_member,SHRI KASHIRAM RANA,BJP,opposition
+W2051,RS-1971-06-03-9,RS_member,RS_member,SHRI N. R. MUNISWAMY,,unknown
+W2052,RS-1980-08-11-2,minister,minister,SHRI VIKRAM MAHAJAN,,
+W2053,RS-1977-08-09-13,RS_member,RS_member,SHRI N. G. RANGA (Andhra Pradesh),,unknown
+W2054,LS-1965-08-16-5,minister,minister,Shri Lal Bahadur Shastri,,
+W2055,LS-1964-12-14-22,LS_member,LS_member,Shri Surendranath Dwivedy,PSP,opposition
+W2056,RS-1994-12-08-2,RS_member,RS_member,DR. SHRIKANT RAMACHAN-DRA JICHKAR,,unknown
+W2058,LS-1979-03-08-12,minister,minister,SHRI ATAL BIHARI VAJPAYEE,,
+W2059,LS-1975-04-30-1,LS_member,LS_member,SHRI R. V. SWAMINATHAN,INC,government
+W2060,RS-1998-12-03-18,minister,minister,SHRI SOMPAL,,
+W2061,LS-1995-08-23-10,LS_member,LS_member,SHRI RAM KAPSE,,unknown
+W2062,LS-1967-11-27-15,LS_member,LS_member,SHRI S. M. BANERJEE,,unknown
+W2063,RS-1967-06-23-9,RS_member,RS_member,SHRI NIREN GHOSH,CPM,opposition
+W2064,LS-1992-07-29-12,LS_member,LS_member,SHRI RAM BADAN,JD,opposition
+W2065,LS-1972-08-02-16,minister,minister,SHRIMATI INDIRA GANDHI,,
+W2066,LS-1995-05-10-19,LS_member,LS_member,PROF. PREM DHUMAL (Hamlrpur),,unknown
+W2071,LS-1972-03-15-7,minister,minister,SHRI K~-G.-RANT,,
+W2072,RS-1994-08-04-13,minister,minister,MISS SAROJ KHAPARDE,,
+W2073,RS-1999-12-23-3,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W2074,LS-1998-05-27-5,minister,minister,SHAIMATI VASUNDHAAA AAJE,,
+W2076,LS-1992-03-11-3,minister,minister,SHRI UTTAMBHAI H. PATEL,,
+W2077,RS-1998-12-16-6,RS_member,RS_member,SHRI NILOTPAL BASU (West Bengal),,unknown
+W2078,RS-1985-08-26-1,RS_member,RS_member,SHRI MAHENDRA PRASAD (Bihar),,unknown
+W2079,RS-1981-11-26-3,minister,minister,SHRI CHANDRA PRATAP NARAYAN SINGH,,
+W2080,LS-1994-02-23-12,LS_member,LS_member,SHRI BAPU HARI CHAURE,INC,government
+W2081,LS-1968-02-27-1,LS_member,LS_member,SHRI BABURAO PATEL,,unknown
+W2082,RS-1997-11-20-4,RS_member,RS_member,SHRI KRISHNA KUMAR BIRLA,,unknown
+W2083,RS-1997-11-20-8,RS_member,RS_member,SHRI S. MUTHU MANI,,unknown
+W2084,LS-1997-08-07-3,LS_member,LS_member,PROF. PREM SINGH CHANDUMAJRA,SAD,opposition
+W2085,RS-1986-05-08-22,RS_member,RS_member,SHRI VIRENDRA VERMA,BJP,opposition
+W2086,LS-1966-11-24-10,LS_member,LS_member,Shri Madhu Limaye,,unknown
+W2087,RS-1990-05-08-6,RS_member,RS_member,SHRI TALARI MANOHAR,,unknown
+W2088,LS-1996-12-09-8,minister,minister,SHRI I K GUJRAL,,
+W2089,RS-1992-12-03-2,minister,minister,SHRI EDUARDO FALEIRO,,
+W2090,LS-1968-04-17-5,minister,minister,SHRI SURENDRA PAL SINGH,,
+W2091,LS-1983-07-27-22,LS_member,LS_member,SHRI SAIFUDDIN CHOW- DHARY,,unknown
+W2092,RS-1995-05-17-27,RS_member,RS_member,SHRI N. GIRI PRASAD (Andhra Pradesh),,unknown
+W2093,LS-1987-04-15-17,LS_member,LS_member,PROF. MADHU DANDAVATF.,JNP,opposition
+W2094,LS-1998-05-27-39,LS_member,LS_member,SHRI P. CHIDAMBARAM (Sivaganga),TMC(M),opposition
+W2095,RS-1980-11-27-6,RS_member,RS_member,SHRI NAGESHWAR PRASAD SHAHI,,unknown
+W2096,LS-1996-07-15-2,minister,minister,DR. U. VENKATESWARLU,,
+W2097,RS-1991-08-29-1,RS_member,RS_member,SHRI SANTOSH KUMAR SAHI (Orissa),,unknown
+W2100,RS-1995-05-17-33,RS_member,RS_member,SHRI JAGMOHAN,BJP,opposition
+W2102,LS-1988-11-28-9,LS_member,LS_member,PROF. NARAIN CHAND PAR- ASHAR,,unknown
+W2103,LS-1997-02-26-5,minister,minister,DR. U. VENKATESWARLU,,
+W2106,RS-1970-12-14-1,RS_member,RS_member,SHRI S. D. MISRA,,unknown
+W2107,RS-1969-12-09-1,minister,minister,DR. K. L. RAO,,
+W2108,RS-1963-09-02-7,RS_member,RS_member,SHRI M. RUTHNASWAMY,,unknown
+W2109,RS-1999-12-14-2,RS_member,RS_member,SHRI S. B. CHAVAN (Maharashtra),,unknown
+W2110,LS-1995-03-15-2,LS_member,LS_member,SHRI SURENDRA PAL PATHAK,BJP,opposition
+W2113,RS-1998-07-29-10,minister,minister,SHRI SOMPAL,,
+W2114,RS-1991-03-06-9,minister,minister,SHRI MANUBHAI KOTADIA,,
+W2115,RS-1995-03-30-2,RS_member,RS_member,PROF. VIJAY KUMAR MALHOTRA,,unknown
+W2116,LS-1998-07-16-3,minister,minister,SHRI RAMESH BAIS,,
+W2117,LS-1998-07-15-12,minister,minister,SHRIMATI VASUNDHARA RAJ E,,
+W2118,LS-1995-08-09-4,LS_member,LS_member,SHRI RAM NAIK,BJP,opposition
+W2119,LS-1994-12-21-8,LS_member,LS_member,SHRI PRABHU DAYAL KATHERIA,BJP,opposition
+W2120,LS-1991-09-16-4,LS_member,LS_member,SHRI DAU DAYAL JOSHI (Kota),BJP,opposition
+W2121,RS-1997-03-20-15,minister,minister,SHRI YOGINDER K. ALAGH,,
+W2122,LS-1975-03-04-2,LS_member,LS_member,SHRI AMARNATH VIDYALAN- KAR (Chandigarh),,unknown
+W2123,LS-1994-08-01-3,minister,minister,SHRI SALMAN KHURSHEED,,
+W2126,RS-1985-07-25-13,RS_member,RS_member,SHRI LAL K. ADVANI,BJP,opposition
+W2127,LS-1981-08-26-2,LS_member,LS_member,SHRI JANARDHANA POOJARY,INC(I),government
+W2128,RS-1982-07-16-1,RS_member,RS_member,SHRI MURLIDHAR CHAN- DRAKANT BHANDARE,,unknown
+W2129,LS-1990-03-14-2,LS_member,LS_member,SHRI PALAI K.M. MATHEW (ldukki),INC,opposition
+W2130,RS-1986-12-04-4,minister,minister,SHRI P. CHIDAMBARAM,,
+W2131,LS-1998-12-04-5,LS_member,LS_member,SHRI SUSHIL KUMAR SHINDE,,unknown
+W2132,LS-1972-08-23-1,LS_member,LS_member,SHRI PURUSHOTTAM KAKO- DKAR,,unknown
+W2134,RS-1993-05-05-7,minister,minister,SHRI B. SHANKARANAND,,
+W2135,RS-1995-05-17-8,minister,minister,SHRI PRANAB MUKHERJEE,,
+W2136,LS-1963-03-04-4,LS_member,LS_member,Shri D. C. Sharma,,unknown
+W2137,LS-1995-12-20-10,LS_member,LS_member,SHRI SUSHIL CHANDRA VARMA,BJP,opposition
+W2138,LS-1987-12-07-3,LS_member,LS_member,PROF. MADHU DANDAVATE (Raja- par),JNP,opposition
+W2140,RS-1964-09-15-1,RS_member,RS_member,SHRI Y. A. REDDY,,unknown
+W2142,RS-1992-07-09-8,RS_member,RS_member,SHRI SHBRAMANIAN SWAMY,,unknown
+W2143,LS-1976-04-14-5,minister,minister,SHRI K. Cc. PANT,,
+W2146,LS-1991-09-04-8,LS_member,LS_member,SHRI AMAL DATI A(Diamond Harbour),,unknown
+W2147,RS-1974-07-25-6,RS_member,RS_member,SHRI J. S. ANAND,,unknown
+W2148,RS-1980-08-07-14,RS_member,RS_member,SHRI SADASHIV BAGAITKAR,,unknown
+W2149,RS-1992-05-14-6,RS_member,RS_member,SHRI DHULESHWAR MEENA,,unknown
+W2151,RS-1989-03-13-9,minister,minister,SHRI K. R. NARAYANAN,,
+W2152,RS-1994-02-24-14,RS_member,RS_member,SHRI GOVIND RAO ADIK,,unknown
+W2153,RS-1974-04-29-2,minister,minister,PROF. SIDDHESHWAR PRASAD,,
+W2156,RS-1993-08-25-7,RS_member,RS_member,SHRI PRAMOD MAHAJAN,BJP,opposition
+W2157,RS-1998-12-22-2,RS_member,RS_member,SHRI ARUN SHOURIE (Uttar Pradesh),,unknown
+W2158,RS-1996-08-01-2,RS_member,RS_member,SHRI ASHOK MITRA,,unknown
+W2161,LS-1970-07-29-16,LS_member,LS_member,SHRI ASOKA MEHTA (Bhandara),,unknown
+W2162,RS-1992-03-05-4,RS_member,RS_member,SHRI M.A. BABY,,unknown
+W2164,RS-1998-07-29-2,RS_member,RS_member,SHRI GURUDAS DAS GUPTA,INC,opposition
+W2166,RS-1990-08-07-8,minister,minister,"PROF, M. G. K. MENON",,
+W2167,RS-1970-03-18-1,RS_member,RS_member,SHRI M. P. BHARGAVA (Uttar Pradesh),,unknown
+W2168,LS-1987-04-22-4,minister,minister,SHRI SUKH RAM,,
+W2169,LS-1998-11-30-2,minister,minister,SHAI P.R. KUMARAMANGALAM,,
+W2170,LS-1983-04-27-25,minister,minister,SHRI P. YENKATASUBBAIAH,,
+W2171,RS-1972-08-09-2,RS_member,RS_member,SHRI A. G. KULKARNI (Mali tra),,unknown
+W2172,LS-1993-07-28-17,minister,minister,SHRI MAN MOHAN SINGH,,
+W2173,RS-1998-12-03-22,RS_member,RS_member,SHRI GOVINDRAO ADIK,,unknown
+W2174,LS-1972-08-09-2,LS_member,LS_member,SHRI K. S. CHAVDA,NCO,opposition
+W2175,RS-1993-08-16-1,RS_member,RS_member,DR. NAUNITHAI SINGH (Uttar Pradesh),CPM,opposition
+W2176,LS-1981-12-10-14,LS_member,LS_member,PROF. NARAIn CHAND PARA- SHAR (Hamirpur),,unknown
+W2177,LS-1968-04-01-4,minister,minister,SHRI SWARAN SINGH,,
+W2178,RS-1993-04-26-2,minister,minister,SHRI RAJESH PILOT,,
+W2180,LS-1968-02-29-1,LS_member,LS_member,SHRI NITIRAJ SINGH CHAUDHARY,,unknown
+W2181,RS-1998-07-09-3,RS_member,RS_member,SHRI SANJAY NIRUPAM,,unknown
+W2182,LS-1969-05-14-26,LS_member,LS_member,SHRI JUGAL MONDAL,,unknown
+W2183,LS-1993-12-15-25,LS_member,LS_member,SHRI ANAND AH.RWAR,,unknown
+W2184,LS-1973-04-10-5,LS_member,LS_member,DR. H. P. SHARMA (Alwar),,unknown
+W2185,LS-1998-06-05-8,minister,minister,SHRI L.K. ADVANI,,
+W2186,LS-1968-08-14-22,LS_member,LS_member,SHRI D. C. SHARMA,,unknown
+W2188,LS-1977-11-14-2,minister,minister,SHRI MURARJ DESAI,,
+W2189,LS-1995-05-24-21,LS_member,LS_member,SHRI S.M. LALJAN BASHA,,unknown
+W2190,RS-1989-05-09-15,minister,minister,SHRI CHI- INTAMANI PANIGRAHI,,
+W2191,LS-1970-05-19-1,minister,minister,DR. ५. K. R. ५. RAO,,
+W2192,LS-1998-12-09-8,LS_member,LS_member,SHRI R. SAMBASIVA RAO,INC,opposition
+W2194,RS-1988-08-11-4,RS_member,RS_member,SHRI SUBRAMANIAN SWAMY,,unknown
+W2195,RS-1962-06-20-4,RS_member,RS_member,SHRI DINESH SINUH,,unknown
+W2196,RS-1993-03-31-1,minister,minister,SHRI DINESH SINGH,,
+W2197,LS-1999-12-08-34,minister,minister,SHRI JASWANT SINGH,,
+W2198,RS-1988-07-28-14,RS_member,RS_member,SHRI B. SATYANARAYAN RE- DDY,,unknown
+W2199,LS-1963-09-16-4,LS_member,LS_member,Shri D. C. Sharma,,unknown
+W2202,RS-1962-08-08-3,RS_member,RS_member,SHRI V. M. CHORDIA,,unknown
+W2203,LS-1998-12-08-1,minister,minister,SHRI DALIT EZHILMALAI,,
+W2204,LS-1966-02-21-25,LS_member,LS_member,Shri Sivamurthi Swamy,,unknown
+W2205,RS-1974-08-29-5,RS_member,RS_member,DR. R. K. CHAKRABARTI,,unknown
+W2206,LS-1997-08-27-2,LS_member,LS_member,SHRI SONTOSH MOHAN DEV (Silchar),INC,outside support
+W2210,LS-1995-08-08-1,minister,minister,SHRI KAMAL NATH,,
+W2211,RS-1998-05-28-14,minister,minister,SHRIMATI VASUNDHRA RAJE,,
+W2212,LS-1998-06-01-3,minister,minister,SHRI P.R. KUMARAMANGALAM,,
+W2213,RS-1966-11-29-7,minister,minister,SHRI M. C. CHAGLA,,
+W2215,RS-1972-04-29-16,minister,minister,SHRI CHANDRA PRATAP NARAIN SINGH,,
+W2216,RS-1999-02-25-37,RS_member,RS_member,SHRI JOHN F. FERNANDES,,unknown
+W2219,LS-1995-05-22-12,LS_member,LS_member,DR. R. MALLU,INC,government
+W2220,RS-1992-12-03-4,minister,minister,SHRI P. R. KUMARAMANGALAM,,
+W2221,LS-1970-12-09-8,LS_member,LS_member,SHRI BABU RAO PATEL,,unknown
+W2222,RS-1996-08-26-1,RS_member,RS_member,SHRI JIBON ROY,,unknown
+W2223,LS-1964-10-03-5,LS_member,LS_member,Shri Ranga,,unknown
+W2224,RS-1977-04-07-1,RS_member,RS_member,MR. DUFUTY CHAIRMAN,,unknown
+W2227,RS-1986-08-12-4,RS_member,RS_member,SHRI PARVATHANENI UP- ENDRA,,unknown
+W2228,LS-1971-06-24-1,LS_member,LS_member,SHRI DHANDAPANI (Dharapuram),,unknown
+W2229,RS-1992-11-26-22,RS_member,RS_member,SHRI MURASOLI MARAN,DMK,opposition
+W2231,LS-1969-12-03-20,minister,minister,SHRI CHOWDHARY RAM SEWAK,,
+W2232,LS-1997-03-12-8,minister,minister,SHRI CHANDRADEO PRASAD VARMA,,
+W2233,RS-1973-03-22-8,RS_member,RS_member,SHRI K. P. SINGH DEO,INC,government
+W2234,RS-1996-11-28-5,minister,minister,SHRI YOGINDER K. ALAGH,,
+W2235,RS-1965-11-16-22,RS_member,RS_member,SHRI N. SRI RAMA REDDY,,unknown
+W2236,RS-1967-06-21-24,RS_member,RS_member,Mr. Triloki Singh. SHRI TRILOKI SINGH (Uttar Pradesh),,unknown
+W2237,LS-1972-08-02-18,LS_member,LS_member,SHRIMATI SAVITRI SHYAM,INC,government
+W2239,RS-1988-07-29-4,RS_member,RS_member,SHRI SUKOMAL SEN,,unknown
+W2241,LS-1990-09-03-6,LS_member,LS_member,SHRI BHABANI SHANKAR HOTA,JD,government
+W2242,LS-1992-07-08-5,LS_member,LS_member,SHRI N.J. RATHVA,JD(G),opposition
+W2243,LS-1997-03-12-2,LS_member,LS_member,DR. SATYANARAYAN JATIA,BJP,opposition
+W2244,LS-1997-03-18-2,LS_member,LS_member,SHRI ANANDRAO V. ADSUL,SHS,opposition
+W2246,LS-1992-07-15-6,LS_member,LS_member,SHRI SURYA NARAYAN YADAV,JD,opposition
+W2247,LS-1998-06-11-19,minister,LS_member,SHRI SUSHIL KUMAR SHINDE (Solapur),,unknown
+W2248,RS-1999-12-23-10,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W2249,RS-1965-11-16-20,RS_member,RS_member,SHRI ARJUN ARORA,,unknown
+W2252,LS-1998-07-15-32,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W2254,RS-1998-05-28-65,RS_member,RS_member,SHRI M. VENKAIAH NAIDU,,unknown
+W2255,LS-1966-05-10-33,minister,minister,Shri Swaran Singh,,
+W2256,RS-1971-06-16-2,RS_member,RS_member,SHRI K. C. PANDA,,unknown
+W2257,RS-1967-12-07-1,RS_member,RS_member,SHRI HARISH CHANDRA MA- THUR,,unknown
+W2259,RS-1982-07-13-1,RS_member,RS_member,SHRIMATI KANAK MU- KHERJEE,,unknown
+W2261,LS-1968-11-25-2,minister,minister,SHRI SIDDHESHWAR PRA- SAD,,
+W2263,LS-1991-07-25-2,LS_member,LS_member,SHRI SANAT KUMAR MANDAL,RSP,opposition
+W2264,RS-1995-05-10-8,RS_member,RS_member,SHRI G. Y. KRISHNAN,,unknown
+W2265,LS-1995-05-31-8,LS_member,LS_member,SHRI DHARMANNA MONDAYYA SADUL,INC,government
+W2266,RS-1973-12-06-9,RS_member,RS_member,SHRI SHYAMLAL GUPTA,,unknown
+W2267,LS-1967-06-23-1,minister,LS_member,Shri Amrit Nahata (Barmer),INC,government
+W2268,LS-1995-04-26-5,LS_member,LS_member,SHRI DATTATRAYA BANDARU,BJP,opposition
+W2269,LS-1968-03-27-2,LS_member,LS_member,SHRI G. S. MISHRA,,unknown
+W2270,LS-1991-12-03-1,LS_member,LS_member,SHRI E AHAMED,MUL,opposition
+W2271,RS-1962-05-08-10,minister,minister,SHRI JAWAHARLAL NEHRU,,
+W2272,LS-1998-12-15-5,minister,minister,SHRI YASHWANT SINHA,,
+W2273,LS-1990-08-16-20,minister,minister,SHRII.K. GUJRAL,,
+W2274,LS-1990-04-09-19,LS_member,LS_member,SHRI PRATAPRAO B. BHOSALE,INC,opposition
+W2276,RS-1967-06-13-5,RS_member,RS_member,SHRI K. SUNDARAM,,unknown
+W2277,LS-1992-04-28-1,minister,minister,SHRI M.L FOTEDAR,,
+W2278,LS-1999-12-09-4,LS_member,LS_member,SHRI G.M. BANATWALLA (Ponnani),MUL,opposition
+W2279,RS-1966-03-21-1,RS_member,RS_member,SHRI D. THENGARI,,unknown
+W2280,LS-1995-12-06-6,LS_member,LS_member,SHRI HARISINH CHAVDA,,unknown
+W2281,LS-1992-02-26-18,minister,minister,SHRI PABAN SINGH GHATOWAR,,
+W2282,RS-1967-04-07-5,RS_member,RS_member,SHRI NIREN GHOSH,CPM,opposition
+W2283,RS-1965-11-23-4,RS_member,RS_member,SHRI M. N. GOVINDAN NAIR,CPI,opposition
+W2285,RS-1962-05-08-11,RS_member,RS_member,SHRI V. M. CHORDIA,,unknown
+W2286,RS-1999-12-16-5,RS_member,RS_member,SHRI PRANAB MUKHERJEE,,unknown
+W2287,RS-1995-03-29-4,RS_member,RS_member,SYED SIBTEY RAZI,,unknown
+W2288,LS-1987-11-16-1,LS_member,LS_member,Shri Ram Pyarc Panika Re,,unknown
+W2289,RS-1982-05-06-4,minister,minister,SHRI CHANDRA PRATAP NARAIN SINGH,,
+W2290,RS-1967-05-22-10,RS_member,RS_member,SHRI B. D. KHOBARAGADE,,unknown
+W2292,RS-1972-11-30-5,RS_member,RS_member,SHRI BIPINPAL DAS (Assam),CPM,opposition
+W2293,RS-1990-10-01-1,RS_member,RS_member,SHRIMATI RENUKA CHOW- DHURY,,unknown
+W2294,RS-1964-12-03-1,RS_member,RS_member,SHRI SITARAM JAIPURIA,,unknown
+W2295,RS-1997-11-20-2,RS_member,RS_member,SHRI GHUFRAN AZAM,INC(I),opposition
+W2297,LS-1999-12-08-24,LS_member,LS_member,SHRI RAMSHAKAL,,unknown
+W2298,LS-1964-12-09-9,minister,minister,Shri Lal Bahadur Shastri,,
+W2299,LS-1968-03-27-24,LS_member,LS_member,SHRI D. N. PATODIA,,unknown
+W2300,LS-1995-05-03-2,LS_member,LS_member,SHRI RAM NAIK,BJP,opposition
+W2301,LS-1990-05-08-1,minister,minister,SHRI AJIT SINGH,,
+W2302,RS-1985-08-22-1,minister,minister,SHRI K. P. SINGH DEO,,
+W2303,LS-1996-07-17-1,LS_member,LS_member,DR. MAHADEEPAK SlNBH SHAKYA,,unknown
+W2304,LS-1998-08-03-20,LS_member,LS_member,SHRI SHIVRAJ V. PATIL (Latur),INC,opposition
+W2305,LS-1962-06-21-1,LS_member,LS_member,Shri Prabhat Kar,,unknown
+W2308,RS-1995-08-24-1,minister,minister,SHRI K. KARUNAKARAN,,
+W2309,RS-1967-06-21-26,RS_member,RS_member,SHRI C. D. PANDE,INC,government
+W2310,LS-1993-03-03-3,LS_member,LS_member,SHRI J. CHOKKA RAO,INC,government
+W2311,RS-1987-11-12-5,minister,minister,SHRI SHIVRAJ PATIL,,
+W2312,LS-1966-08-08-28,minister,minister,Shri Y. B. Chavan,,
+W2314,LS-1964-12-21-23,LS_member,LS_member,Shri S. N. Chaturvedi,INC,government
+W2317,RS-1964-12-22-25,RS_member,RS_member,SHRI P. N. SAPRU,,unknown
+W2320,LS-1975-04-16-10,minister,minister,PROF. SIDDHESHWAR PRASAD,,
+W2322,RS-1992-08-20-8,RS_member,RS_member,MISS SAROJ KHAPARDE,,unknown
+W2325,RS-1978-07-31-4,RS_member,RS_member,SHRI PILOO MODY (Gujarat),,unknown
+W2326,LS-1986-07-23-1,minister,minister,SHRI ARUN SINGH,,
+W2329,LS-1998-12-02-8,LS_member,LS_member,DR. T. SUBBARAMI REDDY,INC,opposition
+W2330,RS-1998-12-03-11,RS_member,RS_member,SHRIMATI VEENA VERMA,,unknown
+W2331,LS-1998-07-29-10,minister,minister,SHRI SOMPAL,,
+W2333,RS-1982-07-08-8,RS_member,RS_member,SHRI DHULESHWAR MEENA,,unknown
+W2334,RS-1990-08-22-9,RS_member,RS_member,SHRI RAJNI RANJAN SAHU,,unknown
+W2335,RS-1992-03-16-27,RS_member,RS_member,Mr. Vice- Chairman. SHRIMATI JAYANTHI NATARAJAN,,unknown
+W2337,LS-1983-04-27-5,LS_member,LS_member,SHRI R.P. GAEKWAD,INC(I),government
+W2338,RS-1989-03-01-6,RS_member,RS_member,SHRI KAPIL VERMA (Uttar Pradesh),,unknown
+W2339,LS-1999-03-16-5,LS_member,LS_member,SHRI MURLI DEORA,INC,opposition
+W2340,LS-1971-12-01-1,minister,minister,"SHRIH.:-N, BAHUGUNA",,
+W2341,LS-1986-04-23-6,LS_member,LS_member,SHRI Y ASHW ANTRAO GADAKH PATIL,,unknown
+W2342,RS-1999-02-25-30,RS_member,RS_member,SHRI C. RAMACHANDRAIAH (Andhra Pradesh),,unknown
+W2343,RS-1962-03-14-2,RS_member,RS_member,SHRI SUDHIR GHOSH (West Bengal),,
+W2344,LS-1979-04-02-5,LS_member,LS_member,SHRI YESHWANTRAO CHAVAN,,unknown
+W2346,LS-1989-05-08-7,minister,minister,SHRI SHIVRAJ V. PATIL,,
+W2349,RS-1982-10-08-5,RS_member,RS_member,SHRI P. RAMAMURTI,CPM,opposition
+W2351,LS-1994-05-04-12,LS_member,LS_member,SHRI N.J. RATHVA,JD(G),opposition
+W2352,LS-1990-08-31-1,LS_member,LS_member,SHRI GUMAN MAL LODHA,,unknown
+W2353,LS-1964-11-23-29,LS_member,LS_member,Shri M. B. Masani,,unknown
+W2358,RS-1998-07-23-7,RS_member,RS_member,SHRI PREM CHAND GUPTA,,unknown
+W2359,LS-1971-07-14-16,minister,minister,SHRIMATI INDIRA GANDHI,,
+W2360,RS-1990-05-10-1,minister,minister,SHRI ARUN KUMAR NEHRU,,
+W2361,LS-1995-08-23-4,LS_member,LS_member,SHRI MANIKRAO HODL YA GAVIT,,unknown
+W2362,LS-1972-08-02-11,minister,minister,SHRIMATI INDIRA GANDHI,,
+W2363,RS-1990-05-22-6,minister,minister,PROF. M. G. K. MENON,,
+W2364,LS-1990-04-09-22,minister,minister,SHRI VISH- WANATH PRATAP SINGH,,
+W2365,RS-1990-05-14-2,minister,minister,SHRI ARIF MOHD. KHAN,,
+W2366,LS-1973-03-07-5,minister,minister,SHRI K. C. PANT,,
+W2368,LS-1967-04-06-2,minister,minister,Shri M C. Chagia,,
+W2370,LS-1991-01-11-1,LS_member,LS_member,SHRI KAMAL CHAUDHRY,INC,unclassified period
+W2372,RS-1985-05-03-1,RS_member,RS_member,Mr. Madan Bhatia. MR. CHAIRMAN,,unknown
+W2374,RS-1994-08-04-15,RS_member,RS_member,SHRI SOM PAL,,unknown
+W2375,RS-1974-08-29-13,RS_member,RS_member,SHRI H.S. NARASIAH,,unknown
+W2377,RS-1998-06-12-2,RS_member,RS_member,SHRI E. BALANANDAN,,unknown
+W2378,RS-1990-09-04-6,RS_member,RS_member,SHRI ANANTRAY DEV- SHANKER DAVE,,unknown
+W2379,LS-1994-12-07-5,LS_member,LS_member,SHRI RAJENDRA KUMAR SHARMA,BJP,opposition
+W2381,LS-1998-07-29-5,LS_member,LS_member,SHRI SUSHIL KUMAR SHINDE,,unknown
+W2383,LS-1964-09-21-3,LS_member,LS_member,Shri Sham Lal Saraf,,unknown
+W2384,RS-1988-05-12-25,RS_member,RS_member,SHRI M. A. BABY,,unknown
+W2385,LS-1980-12-18-1,LS_member,LS_member,DR. VASANT KUMAR PAN. DIT,,unknown
+W2388,LS-1980-11-20-5,LS_member,LS_member,SHRI SHIV KUMAR SINGH,,unknown
+W2389,RS-1979-05-09-3,RS_member,RS_member,Shri Prakash Mehrotra. MR. CHAIRMAN,,unknown
+W2390,RS-1998-06-03-8,RS_member,RS_member,SHRI GOVIND RAM MIRI,BLD,opposition
+W2391,LS-1970-05-20-1,minister,minister,Shri P. C. Sethi,,
+W2393,RS-1988-05-12-20,minister,minister,SHRI BIREN SINGH ENG-TI,,
+W2394,RS-1992-05-14-2,RS_member,RS_member,SHRI S. MADHAVAN,,unknown
+W2395,LS-1979-03-30-8,LS_member,LS_member,SHRI C. M. STEPHEN (Idukki),INC,opposition
+W2396,LS-1998-05-27-18,LS_member,LS_member,SHRIMATI JAYANTI PATNAIK,INC,opposition
+W2397,RS-1999-12-13-4,RS_member,RS_member,SHRI PRANAB MUKHERJEE,,unknown
+W2398,LS-1998-07-22-9,minister,minister,SHRIMATI VASUNDHARA RAJE,,
+W2399,RS-1979-03-05-1,minister,minister,SHRI JAGJIVAN RAM,,
+W2400,RS-1968-05-02-3,minister,minister,SHRI B. R. BHAGAT,,
+W2403,LS-1992-07-22-2,minister,minister,SHRI PABAN SINGH GHATOWAR,,
+W2404,LS-1992-08-12-5,LS_member,LS_member,SHRI K. RAMAMURTHEE TIN- DIVANAM,,unknown
+W2406,RS-1985-11-21-26,minister,minister,SHRI 13. R. BHAGAT,,
+W2408,LS-1966-11-14-14,minister,minister,Shrimati Indira Gandhi,,
+W2409,RS-1993-12-06-4,minister,minister,SMT. MARGARET ALVA,,
+W2411,LS-1998-07-21-1,LS_member,LS_member,SHRI S. JAIPAL REDDY (Mahabubnagar),JD,opposition
+W2412,RS-1998-07-16-2,RS_member,RS_member,SHRIMATI KAMALA SINHA,,unknown
+W2413,LS-1993-02-24-12,LS_member,LS_member,SHRI N. J. RATHVA,JD(G),opposition
+W2414,RS-1995-11-29-5,RS_member,RS_member,DR. B.B. DUTTA,CPM,opposition
+W2415,RS-1978-08-29-2,RS_member,RS_member,SHRI INDRADEEP SINHA,,unknown
+W2418,RS-1964-09-22-7,minister,minister,SHRI LAL BAHADUR,,
+W2419,RS-1996-02-28-4,RS_member,RS_member,SHRI RAHASBIHARI BARIK,,unknown
+W2420,RS-1984-02-23-1,RS_member,RS_member,SHRI LAL K. ADVANI (Madhya Pradesh),BJP,opposition
+W2421,LS-1995-05-08-34,LS_member,LS_member,SHRI SUDHIR SAWANT,INC,government
+W2422,LS-1964-09-21-1,LS_member,LS_member,Shri Hari Vishnu Kamath,PSP,opposition
+W2423,LS-1992-04-20-2,LS_member,LS_member,SHRI GEORGE FERNANDES,JD,opposition
+W2424,LS-1968-07-31-20,minister,minister,SHRIMATI INDIRA GANDHI,,
+W2425,LS-1986-11-26-10,minister,minister,SHRI SUKH RAM,,
+W2426,RS-1996-12-05-32,RS_member,RS_member,SHRI S. MUTHU MANI,,unknown
+W2427,LS-1998-06-03-8,LS_member,LS_member,SHRI CHAMAN LAL GUPTA,BJP,government
+W2428,RS-1995-03-22-9,minister,minister,SHRI R. L. BHATIA,,
+W2429,LS-1966-05-09-2,minister,minister,Shrimati Indira Gandhi,,
+W2431,RS-1974-12-19-9,RS_member,RS_member,SHRI RAJNARAIN,,unknown
+W2432,RS-1963-11-26-1,RS_member,RS_member,SHRI N. M. ANWAR,,unknown
+W2433,LS-1993-03-03-9,minister,minister,SHRI P.K. THUNGON,,
+W2434,RS-1995-12-20-6,RS_member,RS_member,SHRIMATI VEENA VERMA,,unknown
+W2435,RS-1988-03-17-16,RS_member,RS_member,SHRI RAOOF VALIULLAH,,unknown
+W2437,RS-1993-03-04-5,RS_member,RS_member,SHRI DILIP SINGH JUDEV,,unknown
+W2438,RS-1996-07-17-2,minister,minister,SHRI R.L. JALLAPA,,
+W2439,LS-1992-03-05-1,LS_member,LS_member,SHRI SHARAVAN KUMAR PAlEl (Jabalpur),INC,government
+W2440,LS-1971-06-14-1,LS_member,LS_member,SHRI JYOTIRMOY BOSU,,unknown
+W2442,RS-1997-05-15-3,minister,minister,DR. S. VEN- UGOPALACHARI,,
+W2443,LS-1997-11-19-24,minister,minister,SHRI YOGINDER K. ALAGH,,
+W2445,LS-1976-01-28-4,LS_member,LS_member,SHRIMATI PARVATHI KRi- SHNAN,,unknown
+W2446,LS-1974-03-18-1,LS_member,LS_member,DR. HENRY AUSTIN (Erneku- Jam),INC,government
+W2447,RS-1992-11-26-6,RS_member,RS_member,SHRI TINDIVANAM G. VEN- KATRAMAN,,unknown
+W2448,LS-1995-08-02-5,LS_member,LS_member,SHRI RAM NAIK,BJP,opposition
+W2449,LS-1997-05-07-2,minister,minister,SHR! M.P. VEERENDRA KUMAR,,
+W2450,RS-1978-12-14-5,RS_member,RS_member,SHRI RABI RAY,,unknown
+W2451,RS-1972-08-17-6,RS_member,RS_member,SHRI KALYAN ROY,,unknown
+W2452,LS-1998-08-03-29,LS_member,LS_member,PROF. PREM SINGH CHANDUMAJRA (Patiala),SAD,government
+W2453,LS-1985-03-20-8,LS_member,LS_member,SHRI B.V. DESAI,INC,government
+W2454,RS-1967-06-05-2,RS_member,RS_member,SHRI M. V. BHADRAM,,unknown
