@@ -1,0 +1,1494 @@
+code_id,coder,relevant,disarmament,peaceful_use,option_open,discrimination,deterrence_weapon,security_threat,autonomy,stance,deal_stance,confidence,note
+X0001,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0002,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0003,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Nuclear CBMs and missile test notification in dialogue
+X0004,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0005,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0006,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0007,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0008,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0009,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0010,claude_a,yes,0,0,0,0,0,0,0,neutral,support,2,Confidence motion defending government over deal
+X0011,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Question on NSG reservations and test ban commitment
+X0012,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0013,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0014,claude_a,no,0,0,0,0,0,0,0,,,2,Only a heading on North Korea NPT withdrawal
+X0015,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0016,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0017,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0018,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,Question on common nuclear doctrine India China Pakistan
+X0019,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0020,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0021,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X0022,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Left critique of deal and US alignment
+X0023,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0024,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Left critique of deal and US policy
+X0025,claude_a,no,0,0,0,0,0,0,0,,,2,Passing mention of nuclear deal in economic speech
+X0026,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0027,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0028,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0029,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0030,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0031,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0032,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Question on US offer of reactors and aircraft
+X0033,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0034,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,Deal debate opening; speaker position ambiguous
+X0035,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0036,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Nuclear scientists abroad; proliferation concern
+X0037,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0038,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,China-Bangladesh nuclear ties question
+X0039,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0040,claude_a,yes,0,0,1,0,0,0,1,keep_option,neutral,2,Question on right to test under joint statement
+X0041,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0042,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,none,1,"Passing remark that Pokhran jolted Indo-US ties, in science question"
+X0043,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0044,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Question on nuclear CBMs with Pakistan
+X0045,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,none,2,Questions priority of atom bomb and test over famine
+X0046,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0047,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0048,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0049,claude_a,yes,1,0,0,0,0,0,0,other_country,none,2,Iraq renouncing atomic weapons
+X0050,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,North Korea atomic weapons question
+X0051,claude_a,yes,0,0,1,0,1,0,1,keep_option,oppose,3,
+X0052,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0053,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0054,claude_a,yes,1,0,1,0,0,0,0,critical_of_tests,support,1,"CTBT moratorium quotes, nuclear isolation; deal link only implied"
+X0055,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0056,claude_a,yes,0,1,0,0,0,0,1,other_country,none,2,Iran nuclear programme and IAEA
+X0057,claude_a,no,0,0,0,0,0,0,0,,,2,Mostly nuclear materials and thorium energy
+X0058,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0059,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0060,claude_a,no,0,0,0,0,0,0,0,,,2,Only a heading on Pakistan nuclear missile submarines
+X0061,claude_a,no,0,0,0,0,0,0,0,,,2,"Reactor sites and uranium, energy only"
+X0062,claude_a,no,0,0,0,0,0,0,0,,,2,Unclear; no nuclear content
+X0063,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Nuclear risk reduction with Pakistan urged
+X0064,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Opposition attack on government during confidence motion over deal
+X0065,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0066,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,support,2,Welcomes de facto nuclear weapon state recognition under deal
+X0067,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,Complains about secrecy of deterrent and doctrine
+X0068,claude_a,no,0,0,0,0,0,0,0,,,2,Uranium compound possession case
+X0069,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,1,Implicit reference to deal-related international cooperation
+X0070,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0071,claude_a,yes,0,0,0,0,0,0,1,neutral,neutral,2,Question on US Congress amending agreement
+X0072,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0073,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,3,
+X0074,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Terrorist NBC threat answer
+X0075,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0076,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0077,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0078,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0079,claude_a,yes,1,0,0,0,0,1,0,neutral,none,3,Question on US call to roll back nuclear programmes
+X0080,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0081,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,Question on nuclear attack threat perception
+X0082,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0083,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0084,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0085,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Detecting nuclear material smuggling; nuclear terrorism
+X0086,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,oppose,3,
+X0087,claude_a,no,0,0,0,0,0,0,0,,,2,Passing mention of nuclear terrorism convention
+X0088,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0089,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0090,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0091,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0092,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,China-Pakistan nuclear transfers question
+X0093,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0094,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,none,3,
+X0095,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0096,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0097,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0098,claude_a,yes,0,0,0,0,0,1,1,peaceful_only,support,2,Supports deal; national security and foreign policy independence
+X0099,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,US warning to Russia on uranium fuel and NPT
+X0100,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0101,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0102,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0103,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0104,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,Welcomes PM US visit on energy grounds
+X0105,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0106,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0107,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0108,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,Question on lifting of US sanctions after Pokhran
+X0109,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0110,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0111,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0112,claude_a,no,0,0,0,0,0,0,0,,,2,Nuclear power share; no explicit deal reference
+X0113,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0114,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0115,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,Question on talks covering disarmament CTBT non-proliferation
+X0116,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0117,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0118,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0119,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0120,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0121,claude_a,no,0,0,0,0,0,0,0,,,2,Passing mention of nuclear black marketing in crime question
+X0122,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0123,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,2,Cost of power from imported reactors under deal
+X0124,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0125,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Attacks nuclear treaty as falling in line with US
+X0126,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Nuclear sovereignty not upheld
+X0127,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,Question on Pakistan nuclear weapons
+X0128,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0129,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0130,claude_a,yes,1,0,0,1,0,0,1,critical_of_tests,none,2,Attacks post-Pokhran II placating letter to US
+X0131,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0132,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0133,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Opposes deal during confidence motion
+X0134,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0135,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0136,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0137,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0138,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0139,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,"Terrorists acquiring atom bomb, in POTA remark"
+X0140,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,Question on fuel agreements and cost
+X0141,claude_a,yes,0,0,0,1,0,0,0,critical_of_tests,none,2,Technology denial after 1974 explosion and NSG guidelines
+X0142,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,"Argues to end nuclear isolation, cites China energy"
+X0143,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0144,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X0145,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0146,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0147,claude_a,no,0,0,0,0,0,0,0,,,2,Bush quote; only passing nuclear weapons mention
+X0148,claude_a,yes,1,1,1,0,0,0,1,keep_option,oppose,2,Opposes US reactors; against stockpiling but has capability
+X0149,claude_a,yes,0,0,0,0,0,1,0,neutral,none,3,Question on MoU on accidental use of nuclear weapons
+X0150,claude_a,yes,0,1,1,0,1,1,1,keep_option,conditional,2,Welcomes 123 without sacrificing nuclear capability
+X0151,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0152,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0153,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0154,claude_a,yes,0,0,0,0,1,1,1,pro_bomb,none,3,
+X0155,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0156,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0157,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0158,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0159,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0160,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0161,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0162,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Hospital readiness for nuclear war
+X0163,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0164,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0165,claude_a,no,0,0,0,0,0,0,0,,,2,"Nuclear power share, possibly deal context but not explicit"
+X0166,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Question on NSG support for nuclear treaty
+X0167,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0168,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0169,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0170,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0171,claude_a,no,0,0,0,0,0,0,0,,,2,Passing remark that India became nuclear power in 1974
+X0172,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0173,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0174,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,oppose,2,Praises 1998 explosion; calls deal betrayal
+X0175,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0176,claude_a,yes,0,0,0,0,0,0,0,neutral,conditional,2,Hyde Act concerns and committee before IAEA step
+X0177,claude_a,yes,0,0,0,0,1,0,1,neutral,support,2,Rebuts claim that deal restricts deterrent option; answer cut off
+X0178,claude_a,yes,0,0,0,0,1,0,1,keep_option,none,2,No CTBT assurance to EU; decisions on national interest
+X0179,claude_a,no,0,0,0,0,0,0,0,,,2,Enriched uranium supply for Tarapur
+X0180,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0181,claude_a,yes,0,1,0,0,0,0,1,neutral,conditional,2,Supports deal with concerns of surrender; energy case doubted
+X0182,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0183,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0184,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Terrorists and small nuclear weapons
+X0185,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0186,claude_a,yes,0,0,1,0,0,0,0,keep_option,none,2,"Never surrendered nuclear option, not signed NPT or CTBT"
+X0187,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0188,claude_a,yes,0,0,0,0,0,0,1,neutral,neutral,2,
+X0189,claude_a,yes,0,0,0,0,1,0,1,keep_option,support,2,
+X0190,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0191,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0192,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0193,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0194,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0195,claude_a,yes,0,0,0,0,0,0,1,other_country,none,2,
+X0196,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,
+X0197,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,Nuclear cooperation with Israel and regional security concern; thin on weapons
+X0198,claude_a,yes,0,0,0,0,0,0,1,other_country,none,2,
+X0199,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,Nuclear smuggling and terrorism question; marginal relevance
+X0200,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0201,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,
+X0202,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,none,3,
+X0203,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,
+X0204,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0205,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,
+X0206,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0207,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0208,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0209,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0210,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,
+X0211,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0212,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0213,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0214,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0215,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,1,Energy argument; seems sceptical of deal energy claims; ambiguous
+X0216,claude_a,yes,0,0,0,0,0,0,1,pro_bomb,none,1,Brief defence of Pokhran tests against US threat; passing
+X0217,claude_a,yes,0,1,1,0,0,0,1,keep_option,conditional,3,
+X0218,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0219,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0220,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0221,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0222,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0223,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0224,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0225,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0226,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0227,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0228,claude_a,yes,0,1,0,0,0,0,1,neutral,conditional,2,
+X0229,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0230,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0231,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,none,1,Notes suspicion among developing countries after India exploded; faint criticism
+X0232,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,Dirty bomb terrorism in explosives bill; marginal
+X0233,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0234,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,none,2,
+X0235,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0236,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,
+X0237,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0238,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0239,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0240,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0241,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0242,claude_a,yes,0,0,0,0,0,0,0,neutral,oppose,2,
+X0243,claude_a,yes,0,1,1,0,0,0,1,keep_option,oppose,3,
+X0244,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0245,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0246,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0247,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0248,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,Explosives bill; nuclear/dirty bomb mention marginal
+X0249,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0250,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0251,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0252,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,Nuclear pact mentioned in budget remarks; marginal
+X0253,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0254,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0255,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0256,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0257,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,
+X0258,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0259,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,
+X0260,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0261,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0262,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0263,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0264,claude_a,yes,0,0,0,0,1,0,0,neutral,neutral,2,
+X0265,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0266,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0267,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0268,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,none,2,
+X0269,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0270,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0271,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0272,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0273,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0274,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0275,claude_a,yes,0,1,0,0,1,0,0,peaceful_only,support,2,
+X0276,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0277,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,
+X0278,claude_a,yes,0,0,0,1,0,0,0,neutral,neutral,2,
+X0279,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0280,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0281,claude_a,yes,0,0,0,0,0,1,0,critical_of_tests,none,2,
+X0282,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,Explosives bill; trash atom bomb mention marginal
+X0283,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0284,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0285,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,
+X0286,claude_a,yes,0,0,0,0,0,0,0,neutral,oppose,2,
+X0287,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X0288,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0289,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0290,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0291,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0292,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0293,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0294,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0295,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0296,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0297,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0298,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0299,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0300,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,
+X0301,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0302,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0303,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0304,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,Recalls tests as response to China threat; speaker position unclear
+X0305,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0306,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,
+X0307,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0308,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0309,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0310,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0311,claude_a,yes,0,0,0,0,0,0,0,neutral,none,1,Japan refuses civil nuclear talks; weapons link unclear
+X0312,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0313,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0314,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0315,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0316,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0317,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0318,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0319,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0320,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0321,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,support,3,
+X0322,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0323,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0324,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0325,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0326,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0327,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0328,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,
+X0329,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0330,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0331,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,3,
+X0332,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0333,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0334,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0335,claude_a,yes,0,0,0,0,0,0,1,neutral,support,3,
+X0336,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0337,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0338,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0339,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0340,claude_a,yes,0,0,1,0,1,0,1,keep_option,conditional,2,
+X0341,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0342,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0343,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0344,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0345,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0346,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0347,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0348,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0349,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0350,claude_a,yes,0,0,0,0,0,0,0,neutral,conditional,2,
+X0351,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0352,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,2,
+X0353,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,none,1,Praises missiles and atom bombs as Congress achievement in passing
+X0354,claude_a,no,0,0,0,0,0,0,0,,,1,Agreement on atomic energy with US; unclear if deal; energy only
+X0355,claude_a,yes,0,0,1,0,0,0,1,keep_option,conditional,2,
+X0356,claude_a,yes,0,0,0,0,0,0,0,other_country,none,3,
+X0357,claude_a,yes,0,0,0,0,0,0,0,neutral,none,3,
+X0358,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0359,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0360,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0361,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0362,claude_a,yes,0,1,0,1,0,0,0,peaceful_only,support,2,
+X0363,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0364,claude_a,yes,0,0,0,0,1,0,0,neutral,none,3,
+X0365,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0366,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0367,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0368,claude_a,yes,0,0,0,1,0,1,0,neutral,none,2,
+X0369,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0370,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0371,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,2,
+X0372,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0373,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0374,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0375,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0376,claude_a,no,0,0,0,0,0,0,0,,,2,nuclear terrorism seminar in counter-terror question; passing
+X0377,claude_a,no,0,0,0,0,0,0,0,,,2,unclear hardware vs technology remark
+X0378,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0379,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0380,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0381,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0382,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0383,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0384,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0385,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0386,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0387,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0388,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0389,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0390,claude_a,no,0,0,0,0,0,0,0,,,2,uranium cost; energy only
+X0391,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0392,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0393,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0394,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0395,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0396,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0397,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0398,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0399,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0400,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0401,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0402,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0403,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0404,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0405,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0406,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0407,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,3,
+X0408,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0409,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0410,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0411,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0412,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0413,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0414,claude_a,no,0,0,0,0,0,0,0,,,2,energy mix only
+X0415,claude_a,no,0,0,0,0,0,0,0,,,2,mixed; fuel reactor help; energy only
+X0416,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0417,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0418,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0419,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0420,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0421,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0422,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0423,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0424,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0425,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0426,claude_a,no,0,0,0,0,0,0,0,,,2,"fragment, possibly deal debate; no explicit content"
+X0427,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0428,claude_a,yes,1,0,0,0,0,0,0,neutral,none,1,"Hindi, mixed speakers; Iran and US-India disarmament statement; position unclear"
+X0429,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0430,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0431,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0432,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0433,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0434,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,2,
+X0435,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0436,claude_a,yes,1,0,0,0,1,0,0,disarmament,none,3,
+X0437,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0438,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0439,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0440,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0441,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0442,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0443,claude_a,no,0,0,0,0,0,0,0,,,2,nuclear power not clean; energy only
+X0444,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0445,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0446,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0447,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0448,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0449,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0450,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0451,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0452,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0453,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0454,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0455,claude_a,no,0,0,0,0,0,0,0,,,2,dual-use hardware remark; unclear
+X0456,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,3,
+X0457,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0458,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0459,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0460,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0461,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0462,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0463,claude_a,yes,0,0,0,0,1,0,0,neutral,none,3,
+X0464,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0465,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0466,claude_a,yes,1,0,0,0,1,0,1,critical_of_tests,oppose,2,
+X0467,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0468,claude_a,yes,1,0,0,0,0,0,0,disarmament,none,2,
+X0469,claude_a,yes,0,0,0,0,0,0,0,neutral,oppose,3,
+X0470,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0471,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0472,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0473,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0474,claude_a,yes,1,0,0,1,1,0,0,pro_bomb,none,2,
+X0475,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0476,claude_a,no,0,0,0,0,0,0,0,,,2,aid suspended after Pokhran; passing
+X0477,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0478,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,
+X0479,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0480,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,
+X0481,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0482,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0483,claude_a,yes,0,1,0,1,0,0,0,other_country,none,2,
+X0484,claude_a,yes,0,0,0,0,0,0,1,pro_bomb,none,3,
+X0485,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0486,claude_a,yes,0,0,0,0,0,0,0,neutral,oppose,1,Skeptical questions about need for deal; position implicit
+X0487,claude_a,yes,1,0,0,1,0,0,0,disarmament,none,3,
+X0488,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0489,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0490,claude_a,yes,0,0,0,0,0,0,0,neutral,oppose,1,Criticises 123 terms (no arbitration); not clearly opposing deal
+X0491,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,none,3,
+X0492,claude_a,yes,0,0,0,0,1,1,0,neutral,none,3,
+X0493,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0494,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0495,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,
+X0496,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0497,claude_a,yes,0,0,1,0,1,0,1,keep_option,support,3,
+X0498,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0499,claude_a,no,0,0,0,0,0,0,0,,,2,sanctions mention within economy speech
+X0500,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0501,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0502,claude_a,yes,0,0,0,0,0,0,0,neutral,none,1,"Bill on nuclear obligations, likely WMD Bill; no clear position"
+X0503,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0504,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0505,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,Confidence debate; MPs unaware of deal contents; weak stance
+X0506,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0507,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0508,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0509,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0510,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0511,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0512,claude_a,yes,0,0,0,0,0,0,1,neutral,conditional,2,
+X0513,claude_a,yes,0,0,0,0,1,0,0,other_country,none,1,Truncated; US missile defence critique; Indian position unclear
+X0514,claude_a,no,0,0,0,0,0,0,0,,,2,nuclear relations with Israel; unclear meaning
+X0515,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0516,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0517,claude_a,no,0,0,0,0,0,0,0,,,2,energy; deal link not explicit
+X0518,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,
+X0519,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0520,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0521,claude_a,yes,0,0,0,0,1,1,0,critical_of_tests,none,2,
+X0522,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0523,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0524,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0525,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0526,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0527,claude_a,yes,0,0,0,0,0,0,0,neutral,none,1,"NSSP-type talks, dual-use and nuclear technology; weakly relevant"
+X0528,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0529,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0530,claude_a,yes,0,0,0,0,0,0,1,neutral,neutral,2,
+X0531,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,
+X0532,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0533,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0534,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0535,claude_a,yes,1,0,0,0,0,0,0,neutral,none,3,
+X0536,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0537,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0538,claude_a,yes,0,1,0,0,0,1,1,other_country,none,1,Iran vote and US pressure; deal link implicit; stance unclear
+X0539,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,none,2,
+X0540,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0541,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0542,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0543,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,1,US cooperation in atomic energy; deal link implicit
+X0544,claude_a,yes,0,0,0,0,0,0,1,neutral,neutral,3,
+X0545,claude_a,yes,0,0,0,0,0,0,0,neutral,oppose,2,
+X0546,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0547,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0548,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0549,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0550,claude_a,yes,0,0,1,0,1,1,0,pro_bomb,none,2,
+X0551,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0552,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0553,claude_a,yes,0,0,0,0,1,1,0,other_country,none,2,
+X0554,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0555,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,1,Brief remark on nuclear sovereignty; context unclear
+X0556,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0557,claude_a,yes,0,0,0,0,0,1,0,neutral,none,3,
+X0558,claude_a,yes,0,0,1,0,1,0,1,keep_option,oppose,3,
+X0559,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0560,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,
+X0561,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0562,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,NSG guidelines for civil commerce; factual answer
+X0563,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0564,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0565,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,question on disarmament impact
+X0566,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0567,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,India-Pakistan nuclear doctrine CBM report
+X0568,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0569,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,asks government for nuclear doctrine
+X0570,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0571,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0572,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0573,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0574,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,question on attack-prohibition agreement
+X0575,claude_a,yes,1,0,0,1,1,0,1,keep_option,none,2,no constraint on strategic programme; also disarmament goal
+X0576,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0577,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0578,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0579,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0580,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0581,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0582,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0583,claude_a,yes,1,1,1,1,0,0,0,critical_of_tests,none,2,Pokhran-II aberration; opposes arms race
+X0584,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0585,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0586,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,nuclear material protection convention question
+X0587,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,nuclear installations list exchange
+X0588,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0589,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,"US coercion over Iran vote, 123 Agreement"
+X0590,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0591,claude_a,yes,0,0,1,0,1,0,1,pro_bomb,oppose,2,defends 1998 autonomy; deal limits tests
+X0592,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,1,nuclear sovereignty phrase; implicit deal reference
+X0593,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0594,claude_a,yes,0,0,0,0,1,0,0,critical_of_tests,none,3,
+X0595,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0596,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0597,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0598,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0599,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0600,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X0601,claude_a,yes,0,0,0,0,1,0,0,neutral,none,2,WMD bill; nuclear brahmacharya abandoned
+X0602,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0603,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,uranium supply worry after deal
+X0604,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0605,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0606,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0607,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0608,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0609,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0610,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0611,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0612,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0613,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0614,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0615,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0616,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,oppose,2,thorium independence against uranium deal
+X0617,claude_a,yes,1,0,0,1,0,0,0,keep_option,none,2,rejects NPT as discriminatory
+X0618,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0619,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,US pressure to sign NPT CTBT
+X0620,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0621,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0622,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0623,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,none,2,isolation due to tests
+X0624,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0625,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0626,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0627,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0628,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0629,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0630,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0631,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0632,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,aid halted after tests; question
+X0633,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,truncated; Hyde Act mention; no clear deal view
+X0634,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0635,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0636,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0637,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,none,2,proud we are nuclear power
+X0638,claude_a,yes,0,1,1,0,0,0,1,keep_option,conditional,2,strategic reactors unmonitored; fuel supply apprehension
+X0639,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,sovereignty against deal
+X0640,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0641,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,"asks 123 vs Hyde Act, FBR safeguards"
+X0642,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0643,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,3,factual on 123 text
+X0644,claude_a,yes,0,0,0,0,0,0,0,neutral,oppose,1,nuclear power decision political; deal implicit
+X0645,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0646,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0647,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Hyde Act extraneous conditions
+X0648,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X0649,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0650,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,"civil nuclear declarations, separation question"
+X0651,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0652,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0653,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0654,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,fear of nuclear war India Pakistan
+X0655,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0656,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0657,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0658,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,nuclear war caution against war
+X0659,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0660,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0661,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0662,claude_a,yes,0,0,0,0,0,0,0,neutral,none,1,IAEA statement; possibly Iran vote; unclear
+X0663,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0664,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0665,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,question on deal power output
+X0666,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,none,2,sanctions after tests; what was need
+X0667,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,nuclear war danger and Pakistan safety
+X0668,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,US annual report infringes sovereignty
+X0669,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,Russia help for NSG exemption
+X0670,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0671,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0672,claude_a,yes,0,1,0,0,1,0,0,neutral,none,1,energy plants on borders as deterrent
+X0673,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,123 Agreement subordinate to Hyde Act
+X0674,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0675,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0676,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,WMD bill welcomed
+X0677,claude_a,yes,1,0,0,1,0,0,0,pro_bomb,none,2,nuclear power via hard power path
+X0678,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,civil cooperation after Pokhran-II
+X0679,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,US shifting goalposts on deal
+X0680,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0681,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Pakistan nuclear; limited war doubt
+X0682,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0683,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0684,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0685,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X0686,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X0687,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0688,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0689,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0690,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0691,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0692,claude_a,yes,0,0,0,1,0,1,0,other_country,none,2,Iran programme; opposition by nuclear powers
+X0693,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0694,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,none,3,welcomed BJP explosion
+X0695,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0696,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0697,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0698,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0699,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,none,3,
+X0700,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0701,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,clarification on Hyde Act renegotiation
+X0702,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0703,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,noisy; signing of civil nuclear agreement
+X0704,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,sceptical questions on deal benefits
+X0705,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0706,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,Pakistan nuclear assets security
+X0707,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Hyde Act Iran clause question
+X0708,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0709,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0710,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0711,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0712,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0713,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0714,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,brief deal reference; stance unclear
+X0715,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0716,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0717,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0718,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0719,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0720,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0721,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0722,claude_a,yes,0,0,0,0,0,0,1,neutral,conditional,2,reject if not in national interest
+X0723,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0724,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0725,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0726,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,tech denial history; questions deal terms
+X0727,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0728,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0729,claude_a,yes,0,0,0,0,1,1,0,other_country,neutral,2,Pakistan doctrine; link to deals
+X0730,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0731,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0732,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0733,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0734,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0735,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,ambassador comments on agreement
+X0736,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0737,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,question on signing NPT
+X0738,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0739,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0740,claude_a,yes,1,0,0,0,0,1,0,disarmament,none,2,Diego Garcia base dismantlement demand
+X0741,claude_a,yes,1,0,0,1,0,0,0,disarmament,none,3,
+X0742,claude_a,yes,0,0,0,0,0,0,1,neutral,conditional,2,ground rules for nuclear deals
+X0743,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0744,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0745,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0746,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,NMD concern; nuclear threat from Pakistan
+X0747,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0748,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0749,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0750,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0751,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0752,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0753,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,2,
+X0754,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0755,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0756,claude_a,yes,0,1,0,0,0,0,1,neutral,neutral,2,
+X0757,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,
+X0758,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0759,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0760,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0761,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,
+X0762,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0763,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,1,unclear if deal-related reactor contract question
+X0764,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0765,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0766,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0767,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0768,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,none,3,
+X0769,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0770,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0771,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0772,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0773,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0774,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0775,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,
+X0776,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0777,claude_a,yes,0,0,0,0,0,0,1,neutral,support,2,
+X0778,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0779,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0780,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0781,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,2,
+X0782,claude_a,yes,0,0,0,0,1,0,0,keep_option,none,2,
+X0783,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0784,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0785,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0786,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0787,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0788,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,2,
+X0789,claude_a,yes,0,0,1,0,0,1,1,keep_option,oppose,2,
+X0790,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,
+X0791,claude_a,yes,0,0,1,0,1,0,0,keep_option,support,2,
+X0792,claude_a,yes,0,0,0,0,1,0,0,neutral,none,3,
+X0793,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0794,claude_a,yes,0,0,0,0,0,0,1,neutral,none,1,economic fallout of 1998 tests; position unclear
+X0795,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0796,claude_a,yes,1,0,0,0,0,0,0,other_country,none,2,
+X0797,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0798,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0799,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0800,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0801,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0802,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0803,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0804,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0805,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0806,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0807,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0808,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0809,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0810,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0811,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0812,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0813,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0814,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0815,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0816,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0817,claude_a,yes,0,0,0,1,1,1,1,pro_bomb,none,3,
+X0818,claude_a,yes,0,0,0,1,0,0,1,keep_option,none,3,
+X0819,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0820,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0821,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0822,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0823,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0824,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0825,claude_a,yes,1,0,0,0,0,0,1,disarmament,oppose,2,
+X0826,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0827,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0828,claude_a,yes,0,0,0,0,0,0,0,neutral,support,2,
+X0829,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0830,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,none,2,
+X0831,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0832,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0833,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,
+X0834,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0835,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0836,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0837,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0838,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0839,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0840,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0841,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0842,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0843,claude_a,yes,1,0,0,0,0,0,0,neutral,none,3,
+X0844,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0845,claude_a,yes,0,1,1,1,1,0,1,pro_bomb,support,3,
+X0846,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0847,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0848,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0849,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,
+X0850,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,
+X0851,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0852,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0853,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0854,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0855,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,"procedural privilege motion on deal, Hindi interruptions"
+X0856,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0857,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0858,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0859,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,none,2,
+X0860,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0861,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0862,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0863,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0864,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0865,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0866,claude_a,yes,0,1,1,0,0,0,0,keep_option,support,2,
+X0867,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,1,deal mentioned within technology-transfer answer
+X0868,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,
+X0869,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0870,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0871,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0872,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0873,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0874,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0875,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0876,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0877,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0878,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0879,claude_a,yes,0,0,1,0,1,0,0,keep_option,none,3,
+X0880,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0881,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,
+X0882,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0883,claude_a,yes,0,0,0,0,1,1,0,other_country,none,2,
+X0884,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0885,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0886,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0887,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0888,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0889,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0890,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0891,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0892,claude_a,yes,0,0,1,1,1,0,0,keep_option,oppose,2,
+X0893,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0894,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,none,3,
+X0895,claude_a,yes,0,0,0,0,0,0,0,other_country,none,1,Iran IAEA vote; thin nuclear content
+X0896,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0897,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,3,
+X0898,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0899,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,none,2,
+X0900,claude_a,yes,0,0,0,0,0,1,0,neutral,neutral,1,F-16 sale to Pakistan plus civil nuclear offer; weak link
+X0901,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0902,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0903,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X0904,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0905,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0906,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0907,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0908,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X0909,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0910,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0911,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0912,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0913,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0914,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0915,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0916,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0917,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0918,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0919,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0920,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0921,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0922,claude_a,yes,0,0,1,0,0,0,1,keep_option,oppose,2,
+X0923,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X0924,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0925,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0926,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0927,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0928,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0929,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,
+X0930,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,
+X0931,claude_a,yes,0,0,0,0,0,0,0,neutral,conditional,2,
+X0932,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0933,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,
+X0934,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0935,claude_a,no,0,0,0,0,0,0,0,,,2,
+X0936,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0937,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0938,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,"Fragment mentioning nuclear agreement, no clear view"
+X0939,claude_a,yes,0,0,0,0,1,1,1,pro_bomb,support,2,Supports deal; praises Pokhran-I as showing strength
+X0940,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0941,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0942,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0943,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0944,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0945,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,Both nuclear powers cannot risk war
+X0946,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0947,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0948,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0949,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0950,claude_a,yes,0,1,0,0,0,0,1,neutral,oppose,2,"Attacks US strategy, deal gains doubtful"
+X0951,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0952,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,none,3,
+X0953,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,Rice remark on Indo-US nuclear bill and Iran gas
+X0954,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X0955,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,Brief welcome of atomic energy agreement
+X0956,claude_a,yes,0,0,0,0,0,0,0,other_country,none,2,IAEA vote on Iran
+X0957,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,1,Cost of imported reactors question; deal implicit
+X0958,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,3,
+X0959,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0960,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0961,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0962,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0963,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0964,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0965,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0966,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0967,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0968,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,NSSP cooperation incl missile defence; borderline relevance
+X0969,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0970,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0971,claude_a,yes,1,0,0,0,1,0,0,pro_bomb,none,2,"WMD bill; welcomes nuclear power status, Rajiv plan"
+X0972,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0973,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0974,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0975,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0976,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0977,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Adjournment motion on nuclear deal
+X0978,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0979,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0980,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0981,claude_a,yes,0,0,0,0,0,0,0,neutral,support,2,Supports nuclear deal for political reasons
+X0982,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0983,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0984,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Complains of secrecy about deal
+X0985,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0986,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0987,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,"Hyde Act conditions, Iran, PSI"
+X0988,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0989,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,3,
+X0990,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,Iran IAEA vote; Pokhran-II sanctions recalled
+X0991,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0992,claude_a,yes,0,0,0,0,1,1,1,pro_bomb,none,3,
+X0993,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0994,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0995,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0996,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0997,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0998,claude_a,no,0,0,0,0,0,0,0,,,3,
+X0999,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,CTBT consensus assurance
+X1000,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1001,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1002,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,No first use question
+X1003,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,Canada urged NPT/CTBT
+X1004,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1005,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,"Fragment about Indo-US deal, interruptions"
+X1006,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Bomb shelters for nuclear war
+X1007,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,Missiles against nuclear attack question
+X1008,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1009,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1010,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1011,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1012,claude_a,yes,1,0,0,1,1,0,1,keep_option,conditional,2,Fears deal curbs weapons programme
+X1013,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1014,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1015,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1016,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1017,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1018,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1019,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1020,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1021,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1022,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1023,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1024,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1025,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,Reports nuclear free zone proposal
+X1026,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,Trade effects of 1998 tests question
+X1027,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1028,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,NSG negotiations question
+X1029,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1030,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1031,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,Pakistan army nuclear weapons concern
+X1032,claude_a,yes,1,0,0,1,0,0,0,disarmament,none,3,
+X1033,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1034,claude_a,yes,0,0,0,1,0,0,0,neutral,neutral,2,"Questions on 123 Agreement, IAEA, NSG, NPT"
+X1035,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1036,claude_a,yes,0,1,0,0,0,0,0,neutral,support,2,Explain 123 Agreement to voters
+X1037,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1038,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1039,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1040,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1041,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1042,claude_a,yes,0,0,1,0,0,0,1,keep_option,neutral,2,Test decision sovereign; deal signed
+X1043,claude_a,yes,1,0,0,0,0,0,0,disarmament,none,3,
+X1044,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1045,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Asks achievements of atomic deal
+X1046,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,"Musharraf bomb remark, Indian doctrine"
+X1047,claude_a,yes,0,1,0,0,0,0,1,neutral,oppose,2,"Independent foreign policy, Iran vote, US shifting goalposts"
+X1048,claude_a,yes,0,1,1,0,0,0,1,keep_option,support,2,Govt answer: strategic programme unhindered
+X1049,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1050,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1051,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1052,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1053,claude_a,yes,0,0,0,0,0,1,1,neutral,oppose,2,"Attacks atomic agreement, Iran vote, US policing"
+X1054,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1055,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1056,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1057,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,US helicopter over Kalpakkam; borderline relevance
+X1058,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1059,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1060,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,Defends deal for nuclear power
+X1061,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1062,claude_a,yes,0,0,1,0,0,0,1,keep_option,oppose,2,"Right to Pokhran-III, sovereignty"
+X1063,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Deal not needed; sanctions overcome by self-reliance
+X1064,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1065,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1066,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1067,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1068,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1069,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1070,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1071,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1072,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1073,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1074,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1075,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,none,3,
+X1076,claude_a,yes,0,0,0,0,1,1,0,disarmament,none,2,No bomb needed; cannot race China
+X1077,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,Deal as boon for fuel and energy
+X1078,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,none,2,Asks how Pokharan benefited poor country
+X1079,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1080,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,Assurance on nuclear doctrine
+X1081,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,Musharraf nuclear threat
+X1082,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1083,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1084,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1085,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1086,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1087,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1088,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1089,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1090,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Opens debate on Indo-US cooperation
+X1091,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,Musharraf nuclear option remark
+X1092,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1093,claude_a,yes,0,0,0,0,0,0,1,neutral,conditional,2,No compromise of sovereignty for deal
+X1094,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1095,claude_a,yes,0,1,0,0,0,0,1,neutral,oppose,2,"123 Agreement bound by Hyde Act, fuel doubts"
+X1096,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1097,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1098,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1099,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1100,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1101,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,Pakistan nuclear weapons security
+X1102,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1103,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1104,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,Safety of nuclear weapons question
+X1105,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,Theft of nuclear material; borderline relevance
+X1106,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1107,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1108,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1109,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1110,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1111,claude_a,yes,0,0,0,0,0,0,1,neutral,neutral,2,Bush on safeguards and separation
+X1112,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1113,claude_a,yes,0,0,0,0,0,1,0,neutral,neutral,2,"Border talks, deal reaction question"
+X1114,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1115,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,none,2,"Proud of 1998 tests, Technology Day"
+X1116,claude_a,yes,1,0,0,0,0,1,0,neutral,none,3,
+X1117,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1118,claude_a,yes,0,0,0,0,0,0,0,other_country,none,2,Iran bomb question
+X1119,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,123 as Trojan horse; Hyde Act
+X1120,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1121,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1122,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1123,claude_a,no,0,0,0,0,0,0,0,,,2,heading fragment only
+X1124,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1125,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1126,claude_a,no,0,0,0,0,0,0,0,,,2,"chemical weapons bill, NPT passing"
+X1127,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1128,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1129,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1130,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1131,claude_a,no,0,0,0,0,0,0,0,,,3,index
+X1132,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1133,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,2,defends 123 deal and safeguards; sanctions after tests
+X1134,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1135,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1136,claude_a,no,0,0,0,0,0,0,0,,,2,Pokhran passing mention
+X1137,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1138,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,none,2,anti-nuclear energy speech; Pokhran Buddha crying
+X1139,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,terror threat to nuclear installations
+X1140,claude_a,no,0,0,0,0,0,0,0,,,2,heading for deal discussion
+X1141,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1142,claude_a,yes,0,1,1,0,0,0,0,keep_option,support,3,
+X1143,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1144,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1145,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1146,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,nuclear weapons in region mentioned
+X1147,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1148,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1149,claude_a,yes,1,0,0,1,0,0,0,disarmament,oppose,2,
+X1150,claude_a,no,0,0,0,0,0,0,0,,,1,garbled interruptions
+X1151,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1152,claude_a,yes,0,1,0,0,0,0,1,neutral,oppose,2,opposes deal on cost; no weapons position
+X1153,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1154,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,aid resumed after 1998 tests
+X1155,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,fragment on nuclear deal; position unclear
+X1156,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1157,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1158,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1159,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,NBC shelters procurement question
+X1160,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1161,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1162,claude_a,yes,0,0,0,1,1,1,0,neutral,none,2,
+X1163,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1164,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1165,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1166,claude_a,yes,0,0,0,1,0,0,0,pro_bomb,none,2,welcomes India as nuclear power
+X1167,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1168,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,nuclear nation passing; mostly PSU debate
+X1169,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1170,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1171,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1172,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1173,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,"US warships with atomic weapons, question only"
+X1174,claude_a,no,0,0,0,0,0,0,0,,,2,Pokhran passing
+X1175,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1176,claude_a,no,0,0,0,0,0,0,0,,,2,US alliance critique; nuclear sanction passing
+X1177,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1178,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1179,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1180,claude_a,yes,1,1,0,1,1,0,0,pro_bomb,none,2,defends Pokhran and NWS status; also disarmament and peaceful use
+X1181,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1182,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,3,
+X1183,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1184,claude_a,no,0,0,0,0,0,0,0,,,2,minerals mining
+X1185,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1186,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1187,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1188,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1189,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,Pakistan nuclear park; unclear if weapons
+X1190,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1191,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1192,claude_a,no,0,0,0,0,0,0,0,,,2,"India-China civil nuclear energy, not US deal"
+X1193,claude_a,no,0,0,0,0,0,0,0,,,2,visit list; passing nuclear items
+X1194,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1195,claude_a,yes,0,0,0,0,0,0,0,pro_bomb,none,2,praises Pokhran as defining moment
+X1196,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1197,claude_a,no,0,0,0,0,0,0,0,,,2,nuclear risk reduction listed only
+X1198,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1199,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1200,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1201,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,factual answer on Hyde bills and separation plan
+X1202,claude_a,yes,0,0,0,1,0,0,0,pro_bomb,none,2,pride in second explosion
+X1203,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1204,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1205,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1206,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1207,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1208,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1209,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1210,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1211,claude_a,no,0,0,0,0,0,0,0,,,2,sanction after Pokharan passing
+X1212,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1213,claude_a,no,0,0,0,0,0,0,0,,,2,deal passing mention
+X1214,claude_a,yes,0,0,1,0,0,0,0,neutral,neutral,2,asks effect of future test on deal
+X1215,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,deal-linked energy question
+X1216,claude_a,no,0,0,0,0,0,0,0,,,2,passing mention
+X1217,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1218,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1219,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,"1998 test world pressure, political argument"
+X1220,claude_a,yes,0,0,0,1,1,0,0,pro_bomb,none,3,
+X1221,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1222,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1223,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X1224,claude_a,yes,0,0,0,0,0,0,1,neutral,support,1,"mixed speakers; MIM opposes, Mehbooba defends deal"
+X1225,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1226,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1227,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1228,claude_a,yes,0,0,0,1,0,0,1,pro_bomb,conditional,2,wants recognition as nuclear weapon state not client
+X1229,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1230,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1231,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1232,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,
+X1233,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,
+X1234,claude_a,yes,1,0,0,1,1,0,1,pro_bomb,none,2,"justifies 1974 test, also disarmament"
+X1235,claude_a,no,0,0,0,0,0,0,0,,,3,CTBT is company name
+X1236,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1237,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1238,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1239,claude_a,yes,0,0,0,1,1,0,0,neutral,none,2,expects nuclear war with Pakistan
+X1240,claude_a,yes,0,0,0,0,0,0,1,pro_bomb,oppose,2,praises Pokhran; calls deal diversion
+X1241,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1242,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1243,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1244,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1245,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1246,claude_a,no,0,0,0,0,0,0,0,,,2,Pakistan missiles passing in budget speech
+X1247,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,US ban on scientists over Iran nuclear programme
+X1248,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,asks about lifting sanctions after Pokhran
+X1249,claude_a,yes,0,0,0,1,0,0,0,other_country,none,2,lists arsenals of others
+X1250,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1251,claude_a,yes,0,0,1,1,1,0,0,keep_option,oppose,3,
+X1252,claude_a,yes,0,0,1,0,1,1,1,keep_option,none,2,"NPT as nuclear apartheid, Iran IAEA vote"
+X1253,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,procedural report of discussions
+X1254,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1255,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1256,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1257,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1258,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1259,claude_a,yes,0,0,0,0,0,0,0,other_country,none,1,Iraq WMD inspections; not nuclear India
+X1260,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1261,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1262,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1263,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,question on sanctions after Pokhran-II
+X1264,claude_a,no,0,0,0,0,0,0,0,,,2,"bill consultations, no nuclear content"
+X1265,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1266,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X1267,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1268,claude_a,yes,0,1,0,0,0,0,0,neutral,none,2,Iran programme question
+X1269,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1270,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,asks lifting of Pokharan sanctions
+X1271,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1272,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1273,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1274,claude_a,no,0,0,0,0,0,0,0,,,2,treaty passing mention
+X1275,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1276,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,Pakistan arms question
+X1277,claude_a,no,0,0,0,0,0,0,0,,,2,India-China civil nuclear cooperation
+X1278,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,sanctions after tests being lifted
+X1279,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1280,claude_a,no,0,0,0,0,0,0,0,,,3,index
+X1281,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1282,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1283,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1284,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1285,claude_a,no,0,0,0,0,0,0,0,,,2,nuclear arsenal passing
+X1286,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1287,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1288,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1289,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1290,claude_a,no,0,0,0,0,0,0,0,,,1,"GNEP invitation; energy partnership, relevance unsure"
+X1291,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,3,
+X1292,claude_a,yes,0,0,1,0,1,0,1,keep_option,oppose,2,
+X1293,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1294,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,
+X1295,claude_a,yes,0,0,1,0,1,0,0,keep_option,none,1,loaded FMCT question; position implied
+X1296,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,3,
+X1297,claude_a,no,0,0,0,0,0,0,0,,,3,heading
+X1298,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1299,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1300,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1301,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,2,
+X1302,claude_a,no,0,0,0,0,0,0,0,,,2,"Iraq war, nuclear weapons passing"
+X1303,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1304,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,JPC demand on agreement; process complaint
+X1305,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1306,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,BARC premises security; not weapons policy
+X1307,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1308,claude_a,yes,0,1,0,0,0,0,1,neutral,oppose,3,
+X1309,claude_a,yes,0,0,0,1,1,1,0,pro_bomb,none,2,wants credible deterrent
+X1310,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1311,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1312,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1313,claude_a,no,0,0,0,0,0,0,0,,,2,"security point is about satellite imagery, not weapons"
+X1314,claude_a,yes,0,0,0,0,0,0,0,neutral,support,2,minister explaining 123 Agreement and Hyde Act consistency
+X1315,claude_a,yes,0,0,0,1,1,0,0,neutral,none,2,"question on nuclear club, recognition as weapon state, CTBT"
+X1316,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1317,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1318,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,question on deal reprocessing and waste proposals
+X1319,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1320,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1321,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1322,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1323,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1324,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1325,claude_a,yes,1,0,0,0,0,0,0,disarmament,none,3,
+X1326,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1327,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,ISI NBC threat question
+X1328,claude_a,yes,1,0,0,0,0,1,0,neutral,none,2,"WMD bill support, danger of mass destruction weapons"
+X1329,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,energy case for civil nuclear cooperation with US
+X1330,claude_a,yes,0,0,0,0,0,0,0,neutral,support,2,supports PM nuclear policy; Iran and deal mixed
+X1331,claude_a,yes,0,1,0,0,0,0,1,neutral,oppose,2,"Left attack on deal, betrayal, electricity argument"
+X1332,claude_a,no,0,0,0,0,0,0,0,,,2,heading plus unrelated Mauritius text
+X1333,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1334,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1335,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1336,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1337,claude_a,yes,0,0,0,0,0,0,0,other_country,none,2,IAEA vote on Iran question
+X1338,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1339,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,"India-Pakistan nuclear CBMs, missile test pre-notification"
+X1340,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1341,claude_a,no,0,0,0,0,0,0,0,,,2,"Pokhran only mentioned in passing, topic is hijacking"
+X1342,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1343,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1344,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1345,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1346,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1347,claude_a,yes,0,1,0,0,0,0,1,neutral,conditional,2,"ambivalent on deal, dependence on imports, safeguards, energy figures"
+X1348,claude_a,yes,0,0,0,0,1,0,0,neutral,none,2,India rejecting ICC citing nuclear arms possession; marginal
+X1349,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1350,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1351,claude_a,no,0,0,0,0,0,0,0,,,2,Pokhran-II passing mention
+X1352,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1353,claude_a,yes,0,0,0,0,1,0,0,neutral,support,2,defends deal vs Islamisation; Israel bombs aside
+X1354,claude_a,yes,1,0,0,1,0,0,0,disarmament,none,3,
+X1355,claude_a,yes,0,0,1,0,1,0,1,keep_option,support,2,deal will not compromise autonomy of strategic programme
+X1356,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,"both nuclear weapon states, avoid nuclear confrontation"
+X1357,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1358,claude_a,no,0,0,0,0,0,0,0,,,2,deal mentioned only in economy criticism
+X1359,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1360,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1361,claude_a,no,0,0,0,0,0,0,0,,,2,"civil nuclear cooperation with France question, energy only"
+X1362,claude_a,no,0,0,0,0,0,0,0,,,2,"regulator visit question, no weapons or deal content"
+X1363,claude_a,yes,0,0,1,0,0,0,1,keep_option,oppose,2,attacks Hyde Act certification dictating nuclear programme
+X1364,claude_a,yes,0,0,0,0,1,1,1,pro_bomb,none,3,
+X1365,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1366,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1367,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1368,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,US weapons and nuclear technology offer vs F-16 sale to Pakistan
+X1369,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1370,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1371,claude_a,yes,0,0,1,1,1,0,1,keep_option,conditional,2,deal must not bar future testing or modernising deterrent
+X1372,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1373,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X1374,claude_a,no,0,0,0,0,0,0,0,,,2,only a heading on nuclear CBMs
+X1375,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1376,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,claim China deployed atomic weapons on island
+X1377,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1378,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1379,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1380,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1381,claude_a,yes,0,0,0,0,1,1,0,neutral,none,2,WMD bill; danger of arsenals and terrorist use
+X1382,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1383,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1384,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1385,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1386,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1387,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1388,claude_a,yes,0,1,0,0,0,0,1,neutral,conditional,2,support for PM on deal while benchmark holds; criticises US House
+X1389,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1390,claude_a,yes,1,0,0,0,0,0,0,neutral,none,2,question on NAM declaration for elimination of nuclear weapons
+X1391,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,none,3,
+X1392,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1393,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1394,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1395,claude_a,yes,0,1,0,0,1,0,0,keep_option,support,2,praises separation plan and fuel assurances; nuclear power status hint
+X1396,claude_a,yes,0,1,0,0,0,0,0,neutral,neutral,2,question on 123 energy security vs power losses
+X1397,claude_a,no,0,0,0,0,0,0,0,,,2,deal mentioned only in passing in terrorism speech
+X1398,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,nuclear black marketing link question
+X1399,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1400,claude_a,yes,0,1,0,0,0,0,1,neutral,oppose,2,"cost of nuclear power, Hyde Act Iran clause"
+X1401,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,"Russia-India approach on ABM, fissile material ban question"
+X1402,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1403,claude_a,yes,0,0,0,0,0,0,0,neutral,none,2,question on nuclear safety convention and Pakistan nuclear peace treaty
+X1404,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1405,claude_a,yes,0,0,0,0,0,1,1,other_country,none,2,defends IAEA vote on Iran; no other nuclear power nearby
+X1406,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1407,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1408,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,"BJP attack on deal handling, against national interest"
+X1409,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1410,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,support,2,thorium and uranium shortage justify international collaboration
+X1411,claude_a,yes,0,0,1,1,1,0,1,keep_option,oppose,3,no right to shift facilities to military; enslaved by separation plan
+X1412,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1413,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,Canada resuming nuclear exports to India
+X1414,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1415,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1416,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,energy diversification case for deal
+X1417,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,Hyde Act binding on India dispute
+X1418,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1419,claude_a,yes,0,0,0,0,0,1,0,other_country,none,1,"Pakistan atomic park question, unclear if weapons related"
+X1420,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,"report of Indian delegation visit to US, energy dialogue"
+X1421,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1422,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1423,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1424,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1425,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1426,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,1,vague remark on US agreement aftermath and Russia
+X1427,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1428,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1429,claude_a,yes,0,0,1,0,0,0,0,neutral,neutral,2,question on Hyde draft waiver ending if India tests
+X1430,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1431,claude_a,yes,0,0,0,0,0,0,1,neutral,support,2,PM defends engagement with US as guided by national interest
+X1432,claude_a,yes,1,0,0,0,0,0,0,disarmament,none,2,asks for initiative on nuclear disarmament and space arms race
+X1433,claude_a,yes,0,0,0,1,0,1,0,critical_of_tests,none,2,Pokhran bang ending in CTBT whimper; abandoned minimum deterrent
+X1434,claude_a,yes,0,0,0,0,0,0,1,neutral,none,2,US pressure on CTBT linked to post-test sanctions
+X1435,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1436,claude_a,yes,0,0,0,0,1,0,0,keep_option,support,2,defends separation plan as recognising India's strategic assets
+X1437,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1438,claude_a,no,0,0,0,0,0,0,0,,,2,heading only about Russian offer
+X1439,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1440,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1441,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,3,
+X1442,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,"NSSP, export controls, missile defence; pre-deal, borderline relevance"
+X1443,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1444,claude_a,no,0,0,0,0,0,0,0,,,2,nuclear bomb mentioned in passing in food security speech
+X1445,claude_a,yes,0,0,0,0,0,0,0,neutral,none,1,Australia uranium policy tied to NPT; borderline energy
+X1446,claude_a,yes,0,0,1,0,0,0,0,keep_option,none,2,attacks govt for being on verge of signing CTBT
+X1447,claude_a,no,0,0,0,0,0,0,0,,,2,India-France civil nuclear agreement signed; energy only
+X1448,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1449,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1450,claude_a,yes,0,0,0,0,0,1,0,neutral,none,1,"training against nuclear, chemical and biological warfare; borderline"
+X1451,claude_a,no,0,0,0,0,0,0,0,,,1,export controls on civilian nuclear mentioned in trade question
+X1452,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1453,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1454,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1455,claude_a,yes,0,0,0,0,0,1,0,neutral,none,2,India conveyed proliferation concerns to China
+X1456,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1457,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1458,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,"supports India's Iran stance, Iran nuclear weapons harmful"
+X1459,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1460,claude_a,yes,0,0,0,0,0,0,0,other_country,none,2,India's vote on Iran nuclear issue
+X1461,claude_a,no,0,0,0,0,0,0,0,,,2,"nuclear disaster response force, not weapons policy"
+X1462,claude_a,no,0,0,0,0,0,0,0,,,2,nuclear weapons mentioned in passing in Iraq speech
+X1463,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,none,2,loaded question lamenting Pakistan's lead and India's nuclear lag
+X1464,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1465,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1466,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1467,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,none,2,defends 1974 and 1998 explosions against whimper charge
+X1468,claude_a,yes,0,1,0,0,0,0,0,neutral,oppose,2,against deal and IAEA pact; cost and uranium dumping
+X1469,claude_a,yes,0,0,0,0,0,0,0,neutral,neutral,2,question on US denial of dual-use nuclear technology to India
+X1470,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1471,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1472,claude_a,yes,0,0,0,0,0,0,1,neutral,oppose,2,"Left objections to Hyde Act, sanctions, foreign policy congruence"
+X1473,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1474,claude_a,no,0,0,0,0,0,0,0,,,2,deal mentioned as example in trust vote speech
+X1475,claude_a,yes,0,0,0,0,0,1,0,other_country,none,2,ISI NBC plans question
+X1476,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1477,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1478,claude_a,yes,0,0,0,0,0,1,0,other_country,none,3,
+X1479,claude_a,yes,0,0,0,0,0,0,0,neutral,none,1,dispute over mole who knew of nuclear test; borderline
+X1480,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,support,2,"energy security from deal, welcomes nuclear power"
+X1481,claude_a,yes,0,0,1,1,0,0,0,keep_option,oppose,2,"perpetual safeguards on 14 reactors, no nuclear weapon state status"
+X1482,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1483,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1484,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1485,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1486,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1487,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1488,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1489,claude_a,yes,0,0,0,0,0,0,0,other_country,none,2,Iraq has no nuclear weapons programme per IAEA
+X1490,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1491,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1492,claude_a,no,0,0,0,0,0,0,0,,,3,
+X1493,claude_a,yes,1,1,0,0,0,0,1,critical_of_tests,conditional,2,"chauvinism after Pokhran isolated India; wants deal explained, disarmament stance kept"
