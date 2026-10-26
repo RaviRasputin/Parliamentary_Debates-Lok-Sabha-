@@ -151,7 +151,7 @@ coders must not see each other's codes, the dictionary codes, or metadata.
 
 ## 6. Pilot and freezing
 
-1. Pilot: `human_1`, `claude_a` and `claude_b` code the same 30 passages (first 30 code_ids).
+1. Pilot: `human_1`, `claude_a` and `claude_b` code the same 30 passages: the first 6 code_ids of each voice (LS members, RS members, ministers, MEA, near-miss), listed in `subsets.csv` (author decision, 26 October 2026: balanced across voices).
 2. Compare; for each disagreement, decide whether the rule was unclear. Revise definitions and
    tie-breaks only; do not add or remove frames or stance categories.
 3. Record changes in the changelog below, set version 1.0, and code the rest. Pilot passages are
