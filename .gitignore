@@ -31,3 +31,6 @@ Thumbs.db
 *.swp
 .idea/
 .vscode/
+
+# Large derived data (>50 MB); regenerate with extract.py
+analysis/nuclear_1962_1999/output/passages.jsonl

@@ -16,7 +16,7 @@ for r in rows:
 def voice(r):
     if r["house"] in ("LS", "RS"):
         return "ministers" if r["role"] == "executive" else "members"
-    return r["house"]  # MEA, SWJN
+    return r["house"]  # MEA
 
 
 PERIODS = [(1962, 1963), (1964, 1968), (1969, 1973), (1974, 1974), (1975, 1979), (1980, 1984), (1985, 1989),
@@ -86,12 +86,6 @@ for a, b in PERIODS:
     rec["consensus_per100_min"] = round(100 * sum(r["consensus"] for r in mn) / len(mn), 2) if mn else ""
     per.append(rec)
 
-# Nehru baseline 1962-64 vs members 1962-64
-nb = [r for y in (1962, 1963, 1964) for r in by[("SWJN", y)]]
-mb = [r for y in (1962, 1963, 1964) for r in by[("members", y)]]
-nehru = {"swjn_chunks": len(nb), "dist_swjn": dict(zip(FR, [round(x, 3) for x in dist(nb)[0]])),
-         "jsd_swjn_members_1962_64": round(jsd(dist(nb)[0], dist(mb)[0]), 4)} if nb else {}
-
 # 3. lead-lag: first year with >=2 uses per voice
 phr = [k[3:] for k in rows[0] if k.startswith("ph_")]
 lead = []
@@ -124,8 +118,6 @@ def dump(name, recs):
 
 dump("salience_by_year.csv", sal); dump("frames_by_period.csv", per); dump("lead_lag.csv", lead)
 dump("phrases_by_year.csv", ph_year); dump("active_members.csv", active)
-json.dump(nehru, open(OUT / "nehru_baseline.json", "w"), indent=1)
-print(json.dumps(nehru))
 for r in per:
     print(r["period"], r["ministers_turns"], r["members_turns"], r["mea_chunks"], r["jsd_min_mem"],
           (r["jsd_min_mem_lo"], r["jsd_min_mem_hi"]), r["jsd_mea_mem"])

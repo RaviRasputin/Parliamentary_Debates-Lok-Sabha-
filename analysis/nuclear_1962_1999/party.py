@@ -13,6 +13,7 @@ from functools import lru_cache
 from pathlib import Path
 
 OUT, ELEC = Path(sys.argv[1]), sys.argv[2]
+NO_PARTY_FROM = "2004-05-17"  # turns on or after this date get no party/side (later task)
 
 # Lok Sabha in session -> election year whose winners sit in it (start date of each new House)
 HOUSES = [("1967-03-16", 1962), ("1971-03-15", 1967), ("1977-03-25", 1971), ("1980-01-21", 1977),
@@ -172,6 +173,8 @@ for r in rows:
     if r["house"] not in ("LS", "RS") or r["role"] != "member":
         continue
     if r["speaker"].upper().startswith(("AN HON", "HON", "SOME HON")):
+        continue
+    if r["date"] >= NO_PARTY_FROM:  # 2004 House and UPA periods are not yet labelled
         continue
     if r["house"] == "LS":
         p, how = match_ls(r["speaker"], r["date"])

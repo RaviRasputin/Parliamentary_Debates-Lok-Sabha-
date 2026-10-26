@@ -1,9 +1,9 @@
 """Extract nuclear-related speech turns from Lok Sabha / Rajya Sabha debates,
-the MEA Foreign Affairs Record and SWJN (1962-64), and code them by frame.
+and the MEA Foreign Affairs Record, and code them by frame.
 
 Usage: python3 extract.py ROOT OUTDIR [START END]
 """
-import csv, json, re, sys, zipfile
+import csv, json, random, re, sys, zipfile
 from collections import Counter, defaultdict
 from multiprocessing import Pool
 from pathlib import Path
@@ -12,7 +12,12 @@ ROOT, OUT = Path(sys.argv[1]), Path(sys.argv[2])
 START, END = (int(sys.argv[3]), int(sys.argv[4])) if len(sys.argv) > 4 else (1962, 1999)
 
 NUC = re.compile(r"\bnuclear\b|\batomic\b|\batom bombs?\b|\bNPT\b|\bCTBT\b|non-?\s?proliferation|"
-                 r"pokh?a?ran|test[- ]ban|plutonium|fissile|परमाणु|आणविक|न्यूक्लियर", re.I)
+                 r"pokh?a?ran|test[- ]ban|plutonium|fissile|परमाणु|आणविक|न्यूक्लियर|"
+                 r"123 agreement|hyde act|civil nuclear|\bNSG\b|nuclear suppliers group|separation plan|IAEA", re.I)
+NEAR = re.compile(r"(?i)\batom|\bbombs?\b|pokh|fission|uranium|radioactiv|reactor|test.{0,40}china|china.{0,40}test")
+NM_PER_HOUSE_YEAR = 20
+NM_SEED = 20261026
+NM_SPAN = 60  # words either side of the first NEAR match
 
 FRAMES = {
     "disarmament": r"disarmament|test[- ]ban|elimination of (all )?nuclear weapons|nuclear[- ]weapons?[- ]free|"
@@ -32,6 +37,9 @@ FRAMES = {
                        r"concerns?|interests?|needs?)|blackmail|umbrella|guarantee",
     "autonomy": r"sovereign\w*|self[- ]reliance|national interest|pressures?\b|sanctions?\b|"
                 r"independen(t|ce) of (judgment|action|decision)|dictat\w*|coerc\w*|bow down|surrender",
+    # eighth column, added for the 2000-2008 civil-nuclear period; not part of the seven-frame measure
+    "civil_cooperation": r"civil nuclear (cooperation|deal|agreement|energy)|123 agreement|hyde act|\bNSG\b|"
+                         r"nuclear suppliers group|separation plan|safeguards agreement|fuel supply|energy security",
 }
 FRAME_RX = {k: re.compile(v, re.I) for k, v in FRAMES.items()}
 META = {"consensus": re.compile(r"consensus", re.I)}
@@ -50,6 +58,14 @@ PHRASES = {
     "weaponisation": r"weaponi[sz]\w*",
     "CTBT": r"\bCTBT\b|comprehensive (nuclear )?test[- ]ban",
     "NPT": r"\bNPT\b|non-?\s?proliferation treaty",
+    "123 agreement": r"123 agreement|section 123",
+    "Hyde Act": r"hyde act",
+    "NSG": r"\bNSG\b|nuclear suppliers group",
+    "separation plan": r"separation plan",
+    "IAEA safeguards": r"IAEA safeguards|safeguards agreement",
+    "moratorium": r"moratorium",
+    "strategic autonomy": r"strategic autonomy",
+    "credible minimum deterrence": r"credible minimum (nuclear )?deterren\w*",
 }
 PHRASE_RX = {k: re.compile(v, re.I) for k, v in PHRASES.items()}
 QUOTE_KEYS = {"keep option open", "nuclear apartheid", "discriminatory treaty", "national consensus",
@@ -122,6 +138,7 @@ def process_house_year(args):
     house, year = args
     exec_since = {}  # normalized name -> first date seen speaking as a minister
     turns, words_total = [], 0
+    nm_rnd, nm_seen, nm_res = random.Random(NM_SEED + year), 0, []  # reservoir of near-miss turns
     for date, text in sittings(house, year):
         words_total += len(text.split())
         ms = list(LABEL.finditer(text))
@@ -140,7 +157,21 @@ def process_house_year(args):
                 role = "executive" if key in exec_since and exec_since[key] <= date else "member"
             else:
                 role, name, office = "member", m.group("hon"), ""
-            if role == "chair" or not NUC.search(seg):
+            if role == "chair":
+                continue
+            if not NUC.search(seg):
+                nm = NEAR.search(seg)
+                if nm:
+                    nm_seen += 1
+                    rec = (nm_seen, {"house": house, "year": year, "date": date, "role": role,
+                                     "speaker": re.sub(r"\s+", " ", name).strip()[:80],
+                                     "text": near_window(seg, nm)})
+                    if len(nm_res) < NM_PER_HOUSE_YEAR:
+                        nm_res.append(rec)
+                    else:
+                        j = nm_rnd.randrange(nm_seen)
+                        if j < NM_PER_HOUSE_YEAR:
+                            nm_res[j] = rec
                 continue
             win, nhits = windows(seg)
             if not nhits:
@@ -150,7 +181,14 @@ def process_house_year(args):
                           "speaker": re.sub(r"\s+", " ", name).strip()[:80], "office": office[:80],
                           "nuc_hits": nhits, "words": len(seg.split()), **f,
                           **{"ph_" + k: v for k, v in p.items()}, "_win": win})
-    return house, year, words_total, turns
+    nm_res.sort(key=lambda t: t[0])
+    return house, year, words_total, turns, [r for _, r in nm_res]
+
+
+def near_window(seg, m):
+    words = seg.split()
+    i = len(seg[:m.start()].split())
+    return " ".join(words[max(0, i - NM_SPAN): i + NM_SPAN])
 
 
 def process_doc(args):
@@ -169,7 +207,7 @@ def process_doc(args):
         out.append({"house": source, "year": year, "date": str(year), "role": "executive",
                     "speaker": source, "office": "", "nuc_hits": nhits, "words": 400, **f,
                     **{"ph_" + k: v for k, v in p.items()}, "_win": win})
-    return source, year, total, out
+    return source, year, total, out, []
 
 
 def main():
@@ -180,21 +218,27 @@ def main():
         p = ROOT / "Foreign_Affairs_Record-MEA-1955-1999" / f"{y}.md"
         if p.exists():
             docs.append(("MEA", y, str(p)))
-    swjn_years = {75: 1962, 76: 1962, 77: 1962, 78: 1962, 79: 1962, 80: 1962, 81: 1963, 82: 1963, 83: 1963,
-                  84: 1963, 85: 1964}
-    for v, y in swjn_years.items():
-        p = ROOT / "Selected_Works_of_JLN" / "second_series" / f"SWJLN_S2_V{v}.md"
-        if p.exists() and START <= y <= END:
-            docs.append(("SWJN", y, str(p)))
 
-    rows, sizes = [], []
+    rows, sizes, near = [], [], []
     with Pool(4) as pool:
-        for src, y, total, t in pool.imap_unordered(process_house_year, jobs):
-            sizes.append({"source": src, "year": y, "words": total}); rows += t
-            print(src, y, total, len(t), flush=True)
-        for src, y, total, t in pool.imap_unordered(process_doc, docs):
+        for src, y, total, t, nm in pool.imap_unordered(process_house_year, jobs):
+            sizes.append({"source": src, "year": y, "words": total}); rows += t; near += nm
+            print(src, y, total, len(t), len(nm), flush=True)
+        for src, y, total, t, _ in pool.imap_unordered(process_doc, docs):
             sizes.append({"source": src, "year": y, "words": total}); rows += t
     rows.sort(key=lambda r: (r["year"], r["house"], r["date"]))
+    near.sort(key=lambda r: (r["year"], r["house"], r["date"]))
+
+    # stable ids: running counter per (house, date) in output order
+    ctr = Counter()
+    for r in rows:
+        ctr[(r["house"], r["date"])] += 1
+        r["pid"] = f"{r['house']}-{r['date']}-{ctr[(r['house'], r['date'])]}"
+    rows = [{"pid": r.pop("pid"), **r} for r in rows]
+    ctr = Counter()
+    for r in near:
+        ctr[(r["house"], r["date"])] += 1
+        r["pid"] = f"NM-{r['house']}-{r['date']}-{ctr[(r['house'], r['date'])]}"
 
     cols = [k for k in rows[0] if k != "_win"]
     with open(OUT / "turns.csv", "w", newline="", encoding="utf-8") as fh:
@@ -202,6 +246,14 @@ def main():
     with open(OUT / "corpus_sizes.csv", "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=["source", "year", "words"]); w.writeheader()
         w.writerows(sorted(sizes, key=lambda r: (r["year"], r["source"])))
+    with open(OUT / "passages.jsonl", "w", encoding="utf-8") as fh:
+        for r in rows:
+            rec = {k: r[k] for k in cols}; rec["text"] = r["_win"]
+            fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    with open(OUT / "near_miss.jsonl", "w", encoding="utf-8") as fh:
+        for r in near:
+            rec = {k: r[k] for k in ("pid", "house", "year", "date", "role", "speaker", "text")}
+            fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
     # quotes: every passage containing a key phrase, for close reading
     with open(OUT / "quotes.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh); w.writerow(["phrase", "house", "date", "role", "speaker", "excerpt"])
@@ -210,7 +262,7 @@ def main():
                 for m in PHRASE_RX[k].finditer(r["_win"]):
                     a, b = max(0, m.start() - 500), min(len(r["_win"]), m.end() + 300)
                     w.writerow([k, r["house"], r["date"], r["role"], r["speaker"], r["_win"][a:b]])
-    print("turns", len(rows))
+    print("turns", len(rows), "near_miss", len(near))
 
 
 if __name__ == "__main__":
