@@ -1,0 +1,10 @@
+field,units,pct_agree,alpha,alpha_lo,alpha_hi,positives_a,positives_b
+relevant,550,98.2,0.962,0.935,0.981,,
+disarmament,335,96.4,0.913,0.858,0.962,96,96
+peaceful_use,335,97.9,0.955,0.918,0.982,123,126
+option_open,335,97.9,0.748,0.523,0.906,14,15
+discrimination,335,97.6,0.849,0.734,0.939,28,30
+deterrence_weapon,335,94.9,0.839,0.758,0.908,62,69
+security_threat,335,95.5,0.876,0.814,0.933,76,83
+autonomy,335,94.0,0.728,0.603,0.832,41,43
+stance,335,90.1,0.858,0.81,0.899,,

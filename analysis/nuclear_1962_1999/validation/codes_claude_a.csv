@@ -1,0 +1,551 @@
+code_id,coder,relevant,disarmament,peaceful_use,option_open,discrimination,deterrence_weapon,security_threat,autonomy,stance,confidence,note
+V001,claude_a,no,0,0,0,0,0,0,0,,,Heading only
+V002,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on Russian aid for Kudankulam plant.
+V003,claude_a,yes,0,0,0,0,0,0,0,neutral,2,General fear of nuclear war; no call to action
+V004,claude_a,no,0,0,0,0,0,0,0,,3,Unreadable garbled text.
+V005,claude_a,no,0,0,0,0,0,0,0,,2,Scientists' grievances; commission named only.
+V006,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Notes India's well-known opposition to nuclear weapons in Indian Ocean.
+V007,claude_a,yes,0,0,1,0,0,1,0,keep_option,2,Says non-attack protocol forecloses options and gives Pakistan parity; Sino-Pak nuclear link
+V008,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on atomic energy development and self-reliance.
+V009,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Reports AEC chairman urging continued atomic power station programme.
+V010,claude_a,no,0,0,0,0,0,0,0,,2,Pokhran praise passing in farmers speech
+V011,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,Regrets slow progress on test ban; urges comprehensive treaty.
+V012,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on atomic installation site
+V013,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Question on PR firms after tests; not critical
+V014,claude_a,no,0,0,0,0,0,0,0,,3,Hand-grenade seizure; not nuclear.
+V015,claude_a,no,0,0,0,0,0,0,0,,2,Rehabilitation for Narora displaced; no nuclear matter
+V016,claude_a,no,0,0,0,0,0,0,0,,2,Heading fragment
+V017,claude_a,yes,1,0,0,0,0,0,0,neutral,3,Question on Pakistan test ban proposal
+V018,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual radiological safety report on uranium mines.
+V019,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Criticises cut to nuclear energy programme
+V020,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on atomic power generation.
+V021,claude_a,no,0,0,0,0,0,0,0,,2,Sarabhai death question; no nuclear content
+V022,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on nuclear power schemes in state plans.
+V023,claude_a,no,0,0,0,0,0,0,0,,2,Economic debate; Pokhran pride a passing mention.
+V024,claude_a,no,0,0,0,0,0,0,0,,3,Oil installations.
+V025,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on Kalpakkam reactor fault
+V026,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on power plant site committee.
+V027,claude_a,no,0,0,0,0,0,0,0,,2,Papers laid; institute names only.
+V028,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual plan for nuclear power plants
+V029,claude_a,yes,0,0,0,0,1,1,0,neutral,2,Question on Pakistan nuclear missile threat and response
+V030,claude_a,yes,0,0,0,0,0,1,0,other_country,2,Illegal nuclear material to Pakistan; question seeks reaction only.
+V031,claude_a,no,0,0,0,0,0,0,0,,2,Ministerial titles only.
+V032,claude_a,yes,0,0,0,0,1,1,1,neutral,2,Criticises reliance on US nuclear shield; no-first-use point; no bomb call.
+V033,claude_a,yes,0,0,0,0,0,1,0,other_country,3,Pakistan enrichment programme setback; only about Pakistan
+V034,claude_a,no,0,0,0,0,0,0,0,,2,Stamp advisory board; reactors mentioned in passing.
+V035,claude_a,yes,0,0,0,0,0,0,0,other_country,2,Nehru warns of West German nuclear armament; no Indian posture
+V036,claude_a,no,0,0,0,0,0,0,0,,3,Hunger strike at AEC office.
+V037,claude_a,yes,1,0,0,1,0,0,0,disarmament,3,"Calls for CTBT, elimination, non-discriminatory non-proliferation regime, Action Plan."
+V038,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on safety of foreign nuclear ships; no position
+V039,claude_a,no,0,0,0,0,0,0,0,,2,Electronics centres; department title only.
+V040,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on nuclear plant in Punjab
+V041,claude_a,no,0,0,0,0,0,0,0,,2,Cable work; atomic generation only a heading.
+V042,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on reactors import and costs; factual.
+V043,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,2,Aid withheld after Pokhran II; complains of consequences
+V044,claude_a,yes,0,0,0,0,0,1,0,other_country,3,Question on Chinese test and fall-out; no Indian response.
+V045,claude_a,no,0,0,0,0,0,0,0,,2,No nuclear content
+V046,claude_a,no,0,0,0,0,0,0,0,,2,MOU on nuclear research in a list; passing
+V047,claude_a,yes,1,0,0,0,1,1,0,pro_bomb,3,Justifies 1998 tests as self-defence after disarmament proposals ignored.
+V048,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,2,Cut motion: need to make atom bomb for defence.
+V049,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V050,claude_a,yes,0,0,0,0,0,0,1,neutral,2,Reports US export restrictions after tests; opposes coercive measures but no weapons stance.
+V051,claude_a,no,0,0,0,0,0,0,0,,2,Smuggling case
+V052,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on power allocation from reactor station.
+V053,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on reactor radioactive discharge
+V054,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on atomic blast for oil exploration
+V055,claude_a,no,0,0,0,0,0,0,0,,,Non-nuclear energy cooperation
+V056,claude_a,no,0,0,0,0,0,0,0,,2,Table of contents lines only.
+V057,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Demand for nuclear power allocation to a state.
+V058,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Compares cost of atomic and hydel power; no weapons position.
+V059,claude_a,yes,0,0,0,0,0,1,0,other_country,2,"Pakistan nuclear capability; asks remedial steps, no Indian weapons position"
+V060,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual on Tarapur maintenance
+V061,claude_a,yes,0,1,0,0,0,0,1,neutral,2,Question on indigenous enrichment technology for Tarapur plant.
+V062,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on reactor safety incident; no position.
+V063,claude_a,no,0,0,0,0,0,0,0,,,Nuclear issues mentioned only in passing in joint statement
+V064,claude_a,no,0,0,0,0,0,0,0,,,Not nuclear
+V065,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on Kudankulam plant delays
+V066,claude_a,yes,0,0,0,0,1,0,0,neutral,2,Asks about scientist's bomb cost statement and similar remarks elsewhere; no view.
+V067,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual question on atomic power station utilisation.
+V068,claude_a,yes,0,0,0,0,1,0,0,neutral,1,Disputes remark equating military and nuclear capability; no position
+V069,claude_a,yes,1,0,0,0,1,1,0,disarmament,3,"Argues bomb is no defence, prestige only, China fear no reason; keep test-ban."
+V070,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on plant utilisation percentages.
+V071,claude_a,yes,0,0,0,0,1,1,0,neutral,2,Question on Pakistan nuclear command; no stated Indian position
+V072,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on scientists sent back after tests
+V073,claude_a,no,0,0,0,0,0,0,0,,,Not nuclear
+V074,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual DAE support to universities
+V075,claude_a,no,0,0,0,0,0,0,0,,2,Ilmenite deposits and exports; not clearly nuclear matter.
+V076,claude_a,yes,0,0,0,1,0,0,1,keep_option,2,Opposes CTBT entry clause and quid pro quo; resists US pressure.
+V077,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Laments failed disarmament talks and others' tests
+V078,claude_a,yes,0,0,0,1,0,0,0,neutral,2,General remark that nuclear powers divide the world.
+V079,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Suggestions kept in view for nuclear power programme; factual.
+V080,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on mineral sand mining for atomic energy
+V081,claude_a,yes,0,1,0,0,0,1,0,keep_option,2,Pakistan programme concern; peaceful commitment but all steps for security
+V082,claude_a,no,0,0,0,0,0,0,0,,,Tourism circuits
+V083,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,"Nuclear disarmament priority, SSOD IV"
+V084,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,3,Asks when India can attack China with nuclear weapons
+V085,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Reports favourably on India-Vietnam peaceful nuclear cooperation; no weapons position.
+V086,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual answer on fast breeder technology.
+V087,claude_a,no,0,0,0,0,0,0,0,,3,Biotechnology research; BARC only listed.
+V088,claude_a,no,0,0,0,0,0,0,0,,2,Power shortage; atomic plant delay only passing.
+V089,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,3,"Demands technical parity with China, develop nuclear weapons"
+V090,claude_a,yes,1,0,0,0,1,0,0,pro_bomb,2,Speaks as nuclear weapon state with no-first-use while urging elimination convention.
+V091,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on nuclear research centres
+V092,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on proposed power station.
+V093,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on non-aligned stand on NPT; no stated view.
+V094,claude_a,yes,1,0,0,0,0,0,0,neutral,2,Question on India position at disarmament conference
+V095,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Plant output table and maintenance measures; factual.
+V096,claude_a,yes,0,0,0,0,1,0,0,neutral,2,Joint statement on nuclear risk reduction and doctrine talks
+V097,claude_a,no,0,0,0,0,0,0,0,,3,Energy overview; nuclear fuel in a list.
+V098,claude_a,yes,1,0,0,1,0,1,0,pro_bomb,3,Defends 1998 tests as measured response; wants nondiscriminatory fissile treaty.
+V099,claude_a,no,0,0,0,0,0,0,0,,2,Cancer centres; hospital under atomic department by name only.
+V100,claude_a,yes,0,0,0,0,0,1,1,keep_option,1,Opposes US equating India with Pakistan; not bargaining freedom; weapons stance implicit
+V101,claude_a,yes,1,0,0,0,1,0,0,disarmament,2,Seeks assurance India never makes the bomb
+V102,claude_a,yes,1,0,0,0,1,1,0,disarmament,2,Against making the bomb; seeks assistance from nuclear powers and treaties as shield.
+V103,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on nuclear versus thermal power
+V104,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,2,Defends government's decision on tests by citing 1974 test unopposed.
+V105,claude_a,yes,0,0,0,0,1,1,0,disarmament,3,Not thinking of atom bomb; unworried by Chinese bomb; bomb not decisive.
+V106,claude_a,yes,1,1,0,0,0,0,0,disarmament,2,"Action Plan for disarmament, plus support for IAEA peaceful nuclear energy."
+V107,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Question on regulatory board delay
+V108,claude_a,no,0,0,0,0,0,0,0,,3,Propaganda against public firms; no nuclear matter.
+V109,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual on reactors and cost
+V110,claude_a,yes,1,0,0,0,0,0,0,neutral,3,Reports communique urging signature of test ban treaty; no Indian position.
+V111,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question and reply on safety of Soviet reactors.
+V112,claude_a,yes,0,0,0,0,0,1,0,other_country,3,Pakistan tests and US sanctions reported; no Indian posture.
+V113,claude_a,yes,0,1,0,0,0,0,0,neutral,1,Brief remark on peaceful nuclear development; no position.
+V114,claude_a,yes,1,1,0,0,0,0,0,disarmament,2,Calls for nuclear-free world; cites India's peaceful use example.
+V115,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V116,claude_a,yes,0,0,0,0,0,1,1,neutral,2,Question warning against anti-China collective security; no weapons stance.
+V117,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Reports Indo-Soviet atomic energy cooperation favourably
+V118,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Argues test ban agreement is attainable despite verification fears.
+V119,claude_a,no,0,0,0,0,0,0,0,,3,Chinese border killings; no nuclear content.
+V120,claude_a,yes,1,0,0,0,1,0,0,disarmament,2,Rejects arms race; discusses CTBT and Pokhran; opposes weapons
+V121,claude_a,yes,0,0,0,0,0,1,0,other_country,2,Pakistan nuclear programme and bomb worry; no Indian response proposed.
+V122,claude_a,no,0,0,0,0,0,0,0,,2,Y2K precautions; atomic sector passing mention.
+V123,claude_a,no,0,0,0,0,0,0,0,,2,Security cover for VIPs; unrelated.
+V124,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on scientists opposing tests; no explicit view.
+V125,claude_a,yes,0,0,0,1,0,0,1,neutral,2,Opposes discriminatory technology denial regimes; supports non-proliferation; no weapons stance.
+V126,claude_a,no,0,0,0,0,0,0,0,,,Terrorist bombs
+V127,claude_a,no,0,0,0,0,0,0,0,,2,Nepal issue
+V128,claude_a,yes,0,1,0,0,0,1,0,neutral,2,Asks about Islamic bomb report and nuclear energy talks with Pakistan; no view.
+V129,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Factual answer on safeguards for nuclear material.
+V130,claude_a,no,0,0,0,0,0,0,0,,3,Export goods list; reactors electrical.
+V131,claude_a,yes,0,0,0,0,0,0,1,neutral,2,Factual answer on sanctions after tests
+V132,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,3,Strongly opposes Pokhran tests and their consequences
+V133,claude_a,no,0,0,0,0,0,0,0,,2,Chocolate bomb metaphor.
+V134,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Describes fast breeder reactor development; factual.
+V135,claude_a,no,0,0,0,0,0,0,0,,2,Workers' strike at plant; labour matter.
+V136,claude_a,no,0,0,0,0,0,0,0,,2,Industrial policy monopoly; atomic energy passing
+V137,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,3,Says India will have to build the bomb as deterrent.
+V138,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Laments failure on nuclear disarmament; quotes Mrs Gandhi on arms race.
+V139,claude_a,yes,1,0,0,0,0,0,0,neutral,3,Question on seminar on nuclear issues; no position.
+V140,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Safety question on Narora seismic site
+V141,claude_a,no,0,0,0,0,0,0,0,,2,General nuclear age phrase; passing
+V142,claude_a,no,0,0,0,0,0,0,0,,2,Table of contents lines only.
+V143,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Cost question on atomic power projects.
+V144,claude_a,yes,0,0,0,0,1,1,0,critical_of_tests,2,Criticises post-Pokhran statements; seeks nuclear risk reduction with Pakistan
+V145,claude_a,no,0,0,0,0,0,0,0,,,Village politics
+V146,claude_a,no,0,0,0,0,0,0,0,,2,Procurement tender question; department title only.
+V147,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual reply on request for power station.
+V148,claude_a,no,0,0,0,0,0,0,0,,,Heading only
+V149,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on power received from Tarapur station; factual.
+V150,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V151,claude_a,no,0,0,0,0,0,0,0,,,Nuclear status mentioned only in passing
+V152,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Communique notes Kudankulam power station cooperation.
+V153,claude_a,no,0,0,0,0,0,0,0,,2,Beach sand survey; department name only.
+V154,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual question on nuclear power schemes.
+V155,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V156,claude_a,yes,1,0,0,0,1,0,0,neutral,3,Questions on CTBT and Pakistan nuclear command
+V157,claude_a,no,0,0,0,0,0,0,0,,,Heading only
+V158,claude_a,no,0,0,0,0,0,0,0,,2,Pakistani propaganda; nuclear policy only a passing mention.
+V159,claude_a,yes,1,1,0,1,0,0,0,peaceful_only,2,Wants IAEA peaceful explosion services without discrimination
+V160,claude_a,no,0,0,0,0,0,0,0,,,Heading only
+V161,claude_a,no,0,0,0,0,0,0,0,,,Terror bomb blast
+V162,claude_a,yes,0,1,0,0,0,1,0,peaceful_only,2,"Concern at Chinese H-bomb; India adheres to peaceful nuclear energy, security under review."
+V163,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,"Nuclear-weapon-free world declaration, Delhi Six"
+V164,claude_a,yes,0,0,0,0,0,0,0,neutral,1,Passing reference to PM consulting parties on CTBT; mostly other topic.
+V165,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on British comments on CTBT; no view
+V166,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,2,Criticises lack of consultation over Pokhran tests; handling.
+V167,claude_a,no,0,0,0,0,0,0,0,,,Tarapur mentioned in passing
+V168,claude_a,yes,0,0,1,0,1,0,0,keep_option,3,Will not foreclose exploding bomb; present intention not to manufacture
+V169,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on delay in commissioning reactor unit.
+V170,claude_a,yes,0,1,0,0,0,0,1,neutral,2,"Asks why foreign firm built atomic project, wants indigenous know-how."
+V171,claude_a,yes,0,1,1,1,0,0,0,keep_option,2,Rejects nuclear apartheid and self-limitation on peaceful explosives.
+V172,claude_a,no,0,0,0,0,0,0,0,,,Terror bombs
+V173,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,"Praises disarmament role; asks response to nuclear arming in Indian Ocean, nuclear-free zones."
+V174,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,Seeks removal of nuclear weapons and bases from Indian Ocean.
+V175,claude_a,no,0,0,0,0,0,0,0,,2,Index lines only
+V176,claude_a,no,0,0,0,0,0,0,0,,2,Nuclear physics in research list
+V177,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Reports exchange of nuclear installations lists under bilateral agreement.
+V178,claude_a,no,0,0,0,0,0,0,0,,2,Institute staff manual; name only.
+V179,claude_a,no,0,0,0,0,0,0,0,,2,Terror bomb blasts
+V180,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,Indian Ocean free from nuclear weapons and bases.
+V181,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Reports nuclear cooperation dialogue and Tarapur fuel supply
+V182,claude_a,yes,0,0,0,0,0,0,1,pro_bomb,3,Defends Pokharan policy; sanctions benefited economy
+V183,claude_a,no,0,0,0,0,0,0,0,,2,Price rise; Pokharan passing
+V184,claude_a,no,0,0,0,0,0,0,0,,2,Resources of Northeast; uranium passing mention.
+V185,claude_a,yes,1,0,0,1,0,0,0,disarmament,3,"India champions disarmament, CTBT, non-discrimination"
+V186,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on uranium imports.
+V187,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Uranium resource facts; no argument
+V188,claude_a,no,0,0,0,0,0,0,0,,2,Passing reference to nuclear aspects; about Kashmir and appointment.
+V189,claude_a,yes,1,1,0,0,0,0,0,disarmament,2,"Condemns continuing tests by powers, stockpiles; notes Indian peaceful explosion."
+V190,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual answer on atomic power station site selection.
+V191,claude_a,no,0,0,0,0,0,0,0,,2,UN crisis; atom bomb a passing comparison.
+V192,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question whether to sign NPT; no clear position.
+V193,claude_a,no,0,0,0,0,0,0,0,,2,Nuclear umbrella passing in list of grievances
+V194,claude_a,yes,0,0,1,0,1,0,0,keep_option,2,No bomb now but decision can be reviewed
+V195,claude_a,no,0,0,0,0,0,0,0,,2,NSG security cover.
+V196,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,3,After China's bomb urges rethinking idealism; cannot depend on others' protection.
+V197,claude_a,no,0,0,0,0,0,0,0,,2,Terrorist bomb blast
+V198,claude_a,no,0,0,0,0,0,0,0,,3,Terror bomb blasts.
+V199,claude_a,yes,0,0,0,0,0,0,0,neutral,2,General shared threat from nuclear weapons; no action.
+V200,claude_a,no,0,0,0,0,0,0,0,,2,Pipelines; atomic plants only a heading.
+V201,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Reports exchange of nuclear installation lists with Pakistan.
+V202,claude_a,yes,0,0,0,0,0,0,1,neutral,2,Reports G-8 communique on loans after tests
+V203,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Urges halting spread of nuclear weapons; appeals to France to join.
+V204,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,3,Demands India build the bomb against Pakistan and China.
+V205,claude_a,no,0,0,0,0,0,0,0,,3,Heading only on atomic device experiments.
+V206,claude_a,no,0,0,0,0,0,0,0,,3,Power capacity table.
+V207,claude_a,yes,0,0,0,0,0,1,1,other_country,2,"US draft paper on India NPT; India registers concern, no posture stated"
+V208,claude_a,yes,0,1,0,0,0,1,0,pro_bomb,1,Noisy; hints at non-peaceful alternative posture citing Pakistan and China double standard.
+V209,claude_a,no,0,0,0,0,0,0,0,,2,WTO and national interest; no nuclear content visible.
+V210,claude_a,no,0,0,0,0,0,0,0,,2,Equipment import figures; no nuclear content
+V211,claude_a,no,0,0,0,0,0,0,0,,3,Epilepsy answer; heading only.
+V212,claude_a,no,0,0,0,0,0,0,0,,2,Bonus irregularities at fuel complex; labour matter.
+V213,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Reports visit by non-proliferation activist; no Indian position.
+V214,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on nuclear research laboratory
+V215,claude_a,no,0,0,0,0,0,0,0,,3,Power measures; nuclear only in a list.
+V216,claude_a,no,0,0,0,0,0,0,0,,3,Kashmir statement; NPT only a heading.
+V217,claude_a,no,0,0,0,0,0,0,0,,2,Officials travel figures
+V218,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,Urges cessation of tests as first step to disarmament.
+V219,claude_a,yes,0,0,0,0,0,1,1,neutral,2,CTBT and technology controls after tests; no clear position
+V220,claude_a,yes,0,1,0,0,1,1,0,pro_bomb,3,Dismisses peaceful-purpose line; demands positive policy against Chinese bullying and a bomb.
+V221,claude_a,yes,0,0,0,0,0,0,0,neutral,2,General remark on confrontation between nuclear powers; no call to action.
+V222,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Joint statement on nuclear disarmament and test ban
+V223,claude_a,no,0,0,0,0,0,0,0,,,Heading only
+V224,claude_a,no,0,0,0,0,0,0,0,,,Bomb threat analogy; not nuclear
+V225,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Argues for complete disarmament as first aim
+V226,claude_a,yes,1,0,0,0,1,1,0,pro_bomb,2,Asserts need for minimum credible deterrent in post-test talks; CTBT commitment.
+V227,claude_a,no,0,0,0,0,0,0,0,,,Naga leaders
+V228,claude_a,no,0,0,0,0,0,0,0,,2,Kashmir question; ministerial title only.
+V229,claude_a,no,0,0,0,0,0,0,0,,2,Population control
+V230,claude_a,no,0,0,0,0,0,0,0,,2,Cosmos electricity; no nuclear content
+V231,claude_a,yes,0,0,0,1,1,1,0,pro_bomb,1,"Hindi, noisy; double standards of US arsenal, complains about restraint on Prithvi"
+V232,claude_a,no,0,0,0,0,0,0,0,,3,Delegation visit itinerary.
+V233,claude_a,no,0,0,0,0,0,0,0,,,Taiwan
+V234,claude_a,no,0,0,0,0,0,0,0,,3,TV components; atomic energy only in minister title.
+V235,claude_a,yes,1,0,0,1,1,0,0,disarmament,3,Denies prestige to nuclear weapons; wants stockpile reduction
+V236,claude_a,no,0,0,0,0,0,0,0,,,Telematics funds
+V237,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual safety report on uranium mining and milling.
+V238,claude_a,yes,1,0,0,0,0,0,0,neutral,2,Notes nuclear disarmament process begun; no India position.
+V239,claude_a,no,0,0,0,0,0,0,0,,,Science Congress
+V240,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on private nuclear power and Canadian collaboration.
+V241,claude_a,yes,0,0,1,0,1,0,0,neutral,2,Procedural point on whether question concerns nuclear option or producing bomb.
+V242,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,Urges big powers toward real nuclear disarmament
+V243,claude_a,no,0,0,0,0,0,0,0,,3,Place list; nuclear item only a heading.
+V244,claude_a,yes,1,0,0,1,0,0,0,disarmament,3,India crusader for disarmament and nondiscrimination
+V245,claude_a,no,0,0,0,0,0,0,0,,,Institute name only
+V246,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Question on India-US export control talks on proliferation.
+V247,claude_a,no,0,0,0,0,0,0,0,,2,Appointment criteria for AEC head; no nuclear matter
+V248,claude_a,no,0,0,0,0,0,0,0,,,Power mix statistics
+V249,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual on agro-industrial complex near reactors
+V250,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Communique backs general and complete disarmament and world disarmament conference.
+V251,claude_a,no,0,0,0,0,0,0,0,,3,Cartridge answer; nuclear test only a heading.
+V252,claude_a,no,0,0,0,0,0,0,0,,2,Commission staffing
+V253,claude_a,no,0,0,0,0,0,0,0,,,Titanium sponge plant; not nuclear matter
+V254,claude_a,no,0,0,0,0,0,0,0,,3,Per capita income; atomic energy only in title.
+V255,claude_a,yes,0,0,0,0,0,0,0,other_country,2,Welcomes DPRK nuclear agreement; nothing on India's posture.
+V256,claude_a,yes,1,0,0,1,0,0,0,disarmament,2,Argues nuclear powers must act to stop proliferation and eradicate menace.
+V257,claude_a,yes,1,0,0,0,1,1,0,pro_bomb,3,"Welcomes Indian tests, while goal is non-nuclear world"
+V258,claude_a,yes,1,0,0,0,0,0,0,neutral,2,Introduction to statement on PTBT anniversary; no position shown
+V259,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Welcomes test ban treaty as step to general disarmament; India to sign.
+V260,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Routine India-Pakistan exchange of nuclear installation lists
+V261,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,Six Nation initiative; nuclear disarmament
+V262,claude_a,no,0,0,0,0,0,0,0,,,Power tariff; atomic power only in a list
+V263,claude_a,yes,0,1,0,0,0,0,1,neutral,2,Reactor built by Indian engineers with Canadian design cooperation
+V264,claude_a,no,0,0,0,0,0,0,0,,3,Newspaper answer; nuclear engineers only a heading.
+V265,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on fuel for nuclear stations
+V266,claude_a,yes,1,0,0,0,0,0,0,neutral,2,Question on India-USSR disarmament steps to avert nuclear war; no view.
+V267,claude_a,no,0,0,0,0,0,0,0,,2,Passport rules; nuclear explosion only a heading.
+V268,claude_a,no,0,0,0,0,0,0,0,,3,Ministers meeting businessmen; title only.
+V269,claude_a,no,0,0,0,0,0,0,0,,2,Communal politics.
+V270,claude_a,yes,0,0,0,0,1,0,0,neutral,2,Criticises deterrence doctrines in general terms; no stated Indian action.
+V271,claude_a,no,0,0,0,0,0,0,0,,2,Civilisation talk; atom mentioned in passing.
+V272,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Criticises fire safety at atomic facility; no weapons position.
+V273,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on heavy water plant shutdown.
+V274,claude_a,yes,0,0,0,0,0,0,0,critical_of_tests,2,Notes isolation after Pokhran II; consequences of tests
+V275,claude_a,yes,0,0,0,1,0,0,1,neutral,1,Non-proliferation as tool controlling developing countries; mainly economic passage.
+V276,claude_a,yes,0,1,0,1,0,0,0,peaceful_only,2,Opposes NPT-style safeguards as discriminatory; reports peaceful power stations
+V277,claude_a,no,0,0,0,0,0,0,0,,3,Heading only about reactor criticality.
+V278,claude_a,no,0,0,0,0,0,0,0,,2,Power targets; nuclear mention passing
+V279,claude_a,yes,1,1,0,1,0,0,1,keep_option,2,NPT loaded against emerging countries; independence of action
+V280,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on reactors from Russia
+V281,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on power from Kalpakkam.
+V282,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on heavy water thorium reactor
+V283,claude_a,yes,0,0,0,0,1,1,0,neutral,2,Question on nuclear-powered submarines for Navy; no position on weapons.
+V284,claude_a,yes,0,0,0,0,0,1,0,neutral,2,UN resolution text on assurances to non-nuclear states; no Indian view
+V285,claude_a,no,0,0,0,0,0,0,0,,,Atomic capsule used as sarcasm
+V286,claude_a,no,0,0,0,0,0,0,0,,2,Factory construction status; nuclear only in unit name.
+V287,claude_a,yes,0,1,0,0,0,1,0,peaceful_only,2,Stresses test was for peaceful uses; Pakistan doubts intentions.
+V288,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,2,Asks for policy change on nuclear weapons production given China threat; loaded.
+V289,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on atomic research and power
+V290,claude_a,yes,0,0,0,0,1,0,0,neutral,3,Question on US advice against Indian nuclear weapons
+V291,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V292,claude_a,yes,1,0,0,0,1,1,0,neutral,2,Question on strategy paper: abolish legitimacy or become nuclear power
+V293,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V294,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Factual: uranium not for export
+V295,claude_a,no,0,0,0,0,0,0,0,,,Nuclear era mentioned in passing
+V296,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V297,claude_a,no,0,0,0,0,0,0,0,,2,House procedure; bomb leaflets irrelevant.
+V298,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on atomic energy in agriculture and isotopes
+V299,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,3,Defends tests; not yielding to sanctions pressure
+V300,claude_a,no,0,0,0,0,0,0,0,,2,Visit itinerary mention
+V301,claude_a,yes,0,0,0,0,0,1,0,critical_of_tests,2,Mocks PM for explaining Pokhran-II to US President.
+V302,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Praises AEC work and isotope use
+V303,claude_a,no,0,0,0,0,0,0,0,,2,Medical imaging machines; not nuclear energy.
+V304,claude_a,no,0,0,0,0,0,0,0,,2,Bomb explosions in Kashmir
+V305,claude_a,no,0,0,0,0,0,0,0,,3,Food safety list; radioactivity only a passing item.
+V306,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual answer on atomic power projects.
+V307,claude_a,no,0,0,0,0,0,0,0,,2,Soviet developments; NPT only heading.
+V308,claude_a,yes,1,0,0,0,0,1,0,disarmament,1,Demands withdrawal of nuclear submarines; not clearly Indian region
+V309,claude_a,no,0,0,0,0,0,0,0,,2,Index of proceedings; headings only.
+V310,claude_a,yes,1,0,0,0,0,1,0,other_country,2,Rebuts Pakistan proposal; Pakistan clandestine weapons programme
+V311,claude_a,no,0,0,0,0,0,0,0,,,Heading only
+V312,claude_a,no,0,0,0,0,0,0,0,,3,Industrial plant management; no nuclear content.
+V313,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,Nuclear disarmament and Indian Ocean zone of peace
+V314,claude_a,no,0,0,0,0,0,0,0,,2,Scientists pool scheme; no nuclear matter discussed.
+V315,claude_a,no,0,0,0,0,0,0,0,,3,Commission meeting; nuclear item only a heading.
+V316,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on uranium supply shortfall for power stations.
+V317,claude_a,yes,0,0,0,0,0,0,0,neutral,3,Reports talks on post-test problems; no position stated.
+V318,claude_a,no,0,0,0,0,0,0,0,,3,Table of contents entries.
+V319,claude_a,no,0,0,0,0,0,0,0,,2,Railways; header fragment only
+V320,claude_a,no,0,0,0,0,0,0,0,,2,Export controls; atomic materials passing
+V321,claude_a,no,0,0,0,0,0,0,0,,2,Postal answer; nuclear only a heading.
+V322,claude_a,yes,0,0,0,0,1,0,0,neutral,1,Passing discussion of atomic weapons in warfare; no nuclear policy
+V323,claude_a,yes,1,0,1,1,1,1,1,pro_bomb,3,Attacks discriminatory NPT and deterrence; says India forced to test; keeps option.
+V324,claude_a,no,0,0,0,0,0,0,0,,2,Heading fragment only
+V325,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual question on reprocessing spent fuel
+V326,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Reports briefing on missile control regime; no Indian position.
+V327,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,Nuclear war a crime; Six-Nation initiative for disarmament
+V328,claude_a,no,0,0,0,0,0,0,0,,,Terror bombs in Kashmir
+V329,claude_a,yes,1,0,0,0,0,1,0,disarmament,1,"Fragment: against nuclear devices, hopes UN weighs threat to India; unclear."
+V330,claude_a,yes,0,0,0,0,1,0,0,neutral,2,Question on nuclear command and control; government only reviewing.
+V331,claude_a,no,0,0,0,0,0,0,0,,,Not nuclear
+V332,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on nuclear cooperation with France after NPT signing.
+V333,claude_a,no,0,0,0,0,0,0,0,,2,Bomb explosion in Ambala; not nuclear
+V334,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on nuclear plant siting
+V335,claude_a,yes,0,0,0,1,0,0,0,neutral,2,Proliferation global; selective action will not work; no India weapons stance
+V336,claude_a,yes,0,0,0,0,0,1,0,neutral,2,"Spokesman statement on Pakistani nuclear war remark; dialogue readiness, no nuclear posture."
+V337,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,"Supports nuclear disarmament, INF treaty"
+V338,claude_a,yes,1,0,0,0,0,0,0,neutral,2,Reports questions on South Asia nuclear-weapon-free zone
+V339,claude_a,no,0,0,0,0,0,0,0,,2,Budget table.
+V340,claude_a,no,0,0,0,0,0,0,0,,3,"Asphyxiation bombs in Vietnam; chemical, not nuclear."
+V341,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on reactions to tests; no position stated.
+V342,claude_a,yes,0,0,0,0,0,0,0,neutral,2,General nuclear annihilation fear; no call to action
+V343,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual report of uranium indications.
+V344,claude_a,no,0,0,0,0,0,0,0,,2,Hindi committee; only a heading on Chinese weapons.
+V345,claude_a,yes,0,0,0,0,0,1,0,other_country,2,Concern over Pakistan plutonium procurement; no Indian posture.
+V346,claude_a,no,0,0,0,0,0,0,0,,,Heading only
+V347,claude_a,yes,1,0,0,0,0,1,1,keep_option,2,Reports India's reasons for not signing NPT; action plan
+V348,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on Rajasthan plant status.
+V349,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,"Indian Ocean zone of peace, nuclear disarmament support"
+V350,claude_a,yes,0,0,0,0,1,0,0,neutral,2,Missile export controls; nuclear-capable delivery; government awaits study
+V351,claude_a,no,0,0,0,0,0,0,0,,2,Passing mention of nuclear energy cooperation
+V352,claude_a,no,0,0,0,0,0,0,0,,2,Training deputation table.
+V353,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual: Nuclear Power Corporation bonds
+V354,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on atomic power plants.
+V355,claude_a,no,0,0,0,0,0,0,0,,2,List of research projects; nuclear pressure vessels mentioned in passing.
+V356,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question about Soviet nuclear power plant offer
+V357,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,2,Reports indigenous reactor capability favourably; no weapons position
+V358,claude_a,no,0,0,0,0,0,0,0,,3,Telephone exchange list.
+V359,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on scientist's speech and publicity after tests; no criticism.
+V360,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,"Hindi, urges faster nuclear power development"
+V361,claude_a,no,0,0,0,0,0,0,0,,3,Reservation debate; nuclear only in list of fields.
+V362,claude_a,no,0,0,0,0,0,0,0,,,Atomic power only in cost comparison aside
+V363,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Mentions Declaration of the Six on nuclear disarmament
+V364,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Urges nuclear weapons convention; elimination of nuclear weapons
+V365,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual answer on uranium mines.
+V366,claude_a,no,0,0,0,0,0,0,0,,2,Computer licence dispute; AEC chairman named only.
+V367,claude_a,no,0,0,0,0,0,0,0,,,Nuclear stations mentioned only in a list
+V368,claude_a,no,0,0,0,0,0,0,0,,,Ministry name only
+V369,claude_a,no,0,0,0,0,0,0,0,,3,List of ministers.
+V370,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on enrichment and heavy water plants
+V371,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,India welcomes and signs test ban treaty
+V372,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,"Mixed text; nuclear part favours phased elimination of nuclear weapons, global approach."
+V373,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,2,Defends India's tests by noting neighbours went nuclear unopposed.
+V374,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Asks whether nuclear issue was discussed in talks; no view.
+V375,claude_a,no,0,0,0,0,0,0,0,,3,Rhetorical mention of bomb in passage about children.
+V376,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Calls for elimination of nuclear stockpiles and general disarmament
+V377,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,3,States India is nuclear weapon state; tests created deterrent.
+V378,claude_a,no,0,0,0,0,0,0,0,,2,Budget walkout; Pokhran passing
+V379,claude_a,no,0,0,0,0,0,0,0,,2,Tariff committee; nuclear listed among sources in passing.
+V380,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Factual description of nuclear safety regulation
+V381,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on heavy water shortage and alleged clandestine shipments
+V382,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on water for atomic plant
+V383,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,NATO nuclear arms race criticised; India seeks nuclear disarmament
+V384,claude_a,no,0,0,0,0,0,0,0,,2,Table of contents lines
+V385,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on atomic power station for power shortage
+V386,claude_a,yes,1,0,0,1,0,0,0,disarmament,2,NPT discriminatory; vertical proliferation uncontrolled; India for balanced obligations
+V387,claude_a,no,0,0,0,0,0,0,0,,2,Bomb blast case and TADA.
+V388,claude_a,yes,1,0,0,1,0,0,0,neutral,2,Seabed treaty verification favouring nuclear powers; no Indian weapons stance
+V389,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on Madras atomic plant.
+V390,claude_a,yes,0,1,1,0,0,0,1,keep_option,2,Defends nuclear programme and capability; CTBT stand; keep skills
+V391,claude_a,yes,0,1,0,0,0,1,0,peaceful_only,2,Praises peaceful atomic energy; fears nuclear dictators like Zia
+V392,claude_a,yes,1,0,1,0,0,0,1,keep_option,2,CTBT moratorium with right to review on national interest; disarmament commitment.
+V393,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,1,Brief favourable mention of nuclear research for power and isotopes
+V394,claude_a,yes,1,0,0,0,0,0,1,keep_option,1,Rejects non-proliferation demands; no weapons call stated
+V395,claude_a,yes,0,0,0,0,0,1,0,critical_of_tests,3,Blames government for arms race after Pakistan's test; consequences of tests.
+V396,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Reports informing leader of 1974 experiment; truncated
+V397,claude_a,no,0,0,0,0,0,0,0,,,Table of travel; Nuclear Age only in a title
+V398,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on atomic power station site
+V399,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V400,claude_a,yes,0,0,0,0,0,1,0,other_country,2,"Rebuts Bhutto allegations; concerns Pakistan attitude, no Indian posture"
+V401,claude_a,yes,0,1,0,0,0,1,0,disarmament,3,Opposes Indian atom bomb; Pakistan danger; atomic power for service
+V402,claude_a,yes,0,0,0,0,0,0,0,neutral,3,General concern about threatened use of nuclear weapons; no action.
+V403,claude_a,no,0,0,0,0,0,0,0,,2,Passing mention of nuclear annihilation in non-alignment sentence
+V404,claude_a,yes,1,0,0,0,1,0,0,disarmament,2,"Resolution reducing nuclear danger, no-first-use agreement, elimination of weapons."
+V405,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V406,claude_a,yes,1,0,0,0,0,1,1,pro_bomb,2,"Rebuts Security Council after tests; moratorium, FMCT offer; Pakistan clandestine programme"
+V407,claude_a,no,0,0,0,0,0,0,0,,3,List of projects; atomic energy only a line item.
+V408,claude_a,yes,0,0,1,0,1,0,1,pro_bomb,3,Defends Pokhran tests and rejects Clinton's lecture
+V409,claude_a,no,0,0,0,0,0,0,0,,2,Television prices; department title only.
+V410,claude_a,no,0,0,0,0,0,0,0,,2,Nuclear reactors in list of Indian products; passing
+V411,claude_a,yes,1,0,0,1,1,0,0,disarmament,3,Attacks NPT as privileging few; seeks global disarmament.
+V412,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on site for atomic power plant in Punjab.
+V413,claude_a,no,0,0,0,0,0,0,0,,3,Railway electrification.
+V414,claude_a,no,0,0,0,0,0,0,0,,3,Terrorism treaties; bombs not nuclear.
+V415,claude_a,no,0,0,0,0,0,0,0,,2,No nuclear content
+V416,claude_a,yes,0,0,0,0,0,0,1,keep_option,2,Consistent NPT and missile policy; will not succumb to pressure.
+V417,claude_a,yes,0,0,0,1,0,0,1,neutral,2,Notes vertical stockpile increase; calls for independent judgement; no nuclear posture.
+V418,claude_a,no,0,0,0,0,0,0,0,,2,Only a heading line about nuclear treaty; rest unrelated.
+V419,claude_a,yes,0,1,0,0,0,0,1,neutral,3,Factual on enriched uranium supply
+V420,claude_a,yes,1,0,0,0,1,0,0,neutral,2,Question on NPT draft and whether to make bomb; no view
+V421,claude_a,yes,0,0,0,0,0,0,1,neutral,2,Question on economic impact of post-test sanctions; no stance.
+V422,claude_a,no,0,0,0,0,0,0,0,,3,Railway lines.
+V423,claude_a,yes,0,0,0,0,1,0,1,pro_bomb,3,Praises Pokhran test and facing sanctions
+V424,claude_a,yes,0,0,0,0,0,1,0,neutral,2,Asks reaction to British nuclear force and nuclear shield idea; no view.
+V425,claude_a,yes,0,0,1,0,1,1,0,pro_bomb,2,Stresses China threat and India's ability to make bomb; interjection urges it.
+V426,claude_a,yes,1,0,0,1,0,0,0,disarmament,3,Elimination of all nuclear weapons; non-discriminatory agreement
+V427,claude_a,no,0,0,0,0,0,0,0,,2,Technology list with nuclear energy only passing.
+V428,claude_a,yes,0,0,0,0,0,1,0,other_country,2,China nuclear and missile power as primary threat; no Indian response in passage
+V429,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on Tarapur fuel and NPT/IAEA pressure; no position.
+V430,claude_a,yes,1,0,0,0,0,0,0,neutral,3,Factual report on CTBT negotiations progress.
+V431,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Praises anti-nuclear arms convention; stresses danger of nuclear war and arms.
+V432,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Criticises power plant performance; no weapons position.
+V433,claude_a,no,0,0,0,0,0,0,0,,,Passing mention of Kakrapara project in power list
+V434,claude_a,no,0,0,0,0,0,0,0,,,Not nuclear
+V435,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Joint commitment to nuclear disarmament
+V436,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Radiation measurement factual answer; no position
+V437,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,2,"Hindi: wants nuclear-powered, missile-armed submarines against China; weapons acquisition."
+V438,claude_a,yes,1,0,0,0,1,1,0,pro_bomb,1,China explosion; asks clear attitude; doubts will beats bomb; leaning bomb
+V439,claude_a,no,0,0,0,0,0,0,0,,2,PSLV space launcher; department title only.
+V440,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,"Joint statement backing disarmament, test ban, Indian Ocean zone of peace."
+V441,claude_a,no,0,0,0,0,0,0,0,,3,Science budget; atomic research only a figure.
+V442,claude_a,no,0,0,0,0,0,0,0,,2,Border camps and cattle grazing.
+V443,claude_a,no,0,0,0,0,0,0,0,,2,Bomb explosions in West Bengal; violence
+V444,claude_a,yes,0,0,0,0,0,1,0,other_country,2,Pakistan nuclear programme and arms supplies; no Indian posture proposed
+V445,claude_a,no,0,0,0,0,0,0,0,,3,Groupism in department; no nuclear matter.
+V446,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Opposes all nuclear tests; regret at French tests
+V447,claude_a,yes,1,0,0,0,0,0,1,disarmament,1,Protest bases and explosions; wary of inspection; mixed
+V448,claude_a,yes,0,0,0,0,1,0,1,neutral,2,Text of bilateral CBMs including moratorium; no Indian weapons position argued.
+V449,claude_a,no,0,0,0,0,0,0,0,,3,Law and order bombs.
+V450,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,2,Wants more missiles and nuclear weapons
+V451,claude_a,yes,0,0,0,0,0,1,0,other_country,3,Questions Pakistan's enrichment facilities; no Indian response.
+V452,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on thorium deposits
+V453,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,"Delhi Declaration, nuclear-weapon-free world, hopes for universal nuclear disarmament."
+V454,claude_a,no,0,0,0,0,0,0,0,,2,Customs notifications
+V455,claude_a,yes,0,0,0,0,1,1,0,neutral,2,Calls for legal and strategic review of nuclear establishments; no stance on bomb
+V456,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Reports BARC radiation crop varieties favourably
+V457,claude_a,no,0,0,0,0,0,0,0,,3,Gulf deaths answer; nuclear facility only a heading.
+V458,claude_a,no,0,0,0,0,0,0,0,,2,Plant location; no nuclear content
+V459,claude_a,no,0,0,0,0,0,0,0,,,Territory question
+V460,claude_a,no,0,0,0,0,0,0,0,,2,Bomb blasts terrorism; speaker election.
+V461,claude_a,yes,0,1,1,0,0,1,0,keep_option,2,"Civilian open programme, capability demonstrated with restraint; contrasts Pakistan's clandestine one."
+V462,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on Tarapur fuel supply
+V463,claude_a,yes,0,0,0,0,1,0,0,pro_bomb,2,Moratorium after successful tests of advanced devices
+V464,claude_a,no,0,0,0,0,0,0,0,,2,Solar cell technology; department titles only.
+V465,claude_a,no,0,0,0,0,0,0,0,,2,Pokhran is a place name; salt cooperative.
+V466,claude_a,no,0,0,0,0,0,0,0,,3,TV receivers; atomic energy only in title.
+V467,claude_a,no,0,0,0,0,0,0,0,,,Nuclear plant offer in passing
+V468,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Favourable report on atomic power fuel programme
+V469,claude_a,yes,1,1,0,0,0,0,0,peaceful_only,2,Budget notes atomic programme progress; hopes nuclear ban
+V470,claude_a,yes,1,0,0,0,0,1,0,pro_bomb,2,"Defends post-test dialogue, voluntary steps and security concerns; sanctions lifted."
+V471,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on reactor from France.
+V472,claude_a,no,0,0,0,0,0,0,0,,2,Kashmir conflict and British premier; no nuclear content.
+V473,claude_a,no,0,0,0,0,0,0,0,,2,"Helium exploration, not nuclear"
+V474,claude_a,yes,0,0,0,0,0,1,0,other_country,2,Alarm at Pakistan's bomb programme and nuclear war report; asks for statement.
+V475,claude_a,no,0,0,0,0,0,0,0,,2,PABX
+V476,claude_a,no,0,0,0,0,0,0,0,,3,Rural development paper; atomic energy only in title.
+V477,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on safety upgrade at Madras plant; no weapons position.
+V478,claude_a,yes,0,0,0,0,0,1,0,other_country,2,Concern at nuclear warheads at Diego Garcia; no Indian proposal stated.
+V479,claude_a,yes,1,0,0,1,1,1,0,pro_bomb,3,Defends 1998 tests citing discriminatory regime and adverse security environment.
+V480,claude_a,yes,1,0,0,1,1,0,0,disarmament,3,Rejects deterrence; urges renunciation and elimination of arsenals
+V481,claude_a,yes,1,0,0,0,0,0,0,neutral,2,Reports meeting where Gorbachev praised India's disarmament initiative.
+V482,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual study on nuclear energy complexes
+V483,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Descriptive answer on isotope and agriculture programmes with budget; no argument.
+V484,claude_a,no,0,0,0,0,0,0,0,,2,Water supply debate; nuclear power passing mention.
+V485,claude_a,no,0,0,0,0,0,0,0,,2,Rocket station; AEC site inspection only
+V486,claude_a,yes,0,0,0,0,0,1,0,other_country,2,"Pakistan bomb possibility; vague readiness, no Indian policy."
+V487,claude_a,yes,1,0,1,0,1,0,0,keep_option,1,Says India free to manufacture; urges stockpile destruction; ambiguous
+V488,claude_a,yes,0,0,0,0,0,0,1,neutral,2,Question on US sanctions warning over tests
+V489,claude_a,no,0,0,0,0,0,0,0,,3,Garbled Hindi; Kalpakkam entry only a heading.
+V490,claude_a,no,0,0,0,0,0,0,0,,2,Project transfer list; atomic energy passing
+V491,claude_a,no,0,0,0,0,0,0,0,,,Pakistan missiles; no nuclear content beyond heading
+V492,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Question on regulator independence; no position on weapons
+V493,claude_a,yes,1,0,0,1,0,0,0,disarmament,3,Demands abolition of nuclear weapons; Six Nation Initiative
+V494,claude_a,yes,0,1,0,0,0,0,1,peaceful_only,2,Defends peaceful use against US criticism; protests Kissinger nuclear threat
+V495,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Reports loan for atomic power plant
+V496,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on atomic power policy
+V497,claude_a,yes,0,0,0,0,0,0,0,neutral,2,Defence minister on timing of test decision; no clear position
+V498,claude_a,yes,1,0,0,1,1,1,0,pro_bomb,2,"Wants triad kept, criticises yielding; CTBT unequal; FMCT stance"
+V499,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,India took ICJ case on duty to negotiate nuclear disarmament.
+V500,claude_a,no,0,0,0,0,0,0,0,,2,Memorandum question; department title only.
+V501,claude_a,yes,0,1,0,0,0,0,0,neutral,2,"Question on nuclear power station in Bihar; Hindi, answer negative."
+V502,claude_a,yes,0,0,0,0,1,1,1,pro_bomb,3,Pakistan tests vindicate our policy; safeguard security
+V503,claude_a,no,0,0,0,0,0,0,0,,3,Bill procedure; atomic energy only in title.
+V504,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Factual question on research reactor sale to Iran.
+V505,claude_a,no,0,0,0,0,0,0,0,,2,Mineral research complex; no nuclear content
+V506,claude_a,yes,0,0,1,0,0,1,1,keep_option,3,Nuclear option stays open; no assurances to US; decide by security.
+V507,claude_a,yes,0,0,0,0,1,1,0,pro_bomb,3,Defends tests; Pakistan and China threat; let them test
+V508,claude_a,yes,0,0,0,0,1,0,0,disarmament,2,Argues against bomb cry; bomb needs technological base
+V509,claude_a,yes,0,0,0,0,0,0,1,neutral,2,Question on sanctions impact after tests; no criticism
+V510,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on fast breeder reactor criticality
+V511,claude_a,yes,0,0,1,0,1,0,1,keep_option,2,Moratorium on tests with supreme national interest escape; risk reduction.
+V512,claude_a,no,0,0,0,0,0,0,0,,,Table of contents
+V513,claude_a,no,0,0,0,0,0,0,0,,3,Science cooperation agreement; no nuclear content.
+V514,claude_a,no,0,0,0,0,0,0,0,,2,Hospital waste; power plant car hire heading only.
+V515,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,NAM calls for nuclear freeze and test ban; India aligned with disarmament
+V516,claude_a,no,0,0,0,0,0,0,0,,2,Power utilisation; atomic passing
+V517,claude_a,no,0,0,0,0,0,0,0,,2,Conventional bomb explosion in Delhi.
+V518,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Defends safety of Kudankulam reactor design versus Chernobyl; no weapons position.
+V519,claude_a,yes,0,1,0,0,0,0,0,neutral,3,Question on Tarapur enriched uranium stalemate
+V520,claude_a,no,0,0,0,0,0,0,0,,2,Passing mention of nuclear power projects
+V521,claude_a,no,0,0,0,0,0,0,0,,,NPT mentioned in passing
+V522,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,"Joint call to curb nuclear weapons increase, Indian Ocean demilitarisation"
+V523,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,"Calls for nuclear disarmament, ending test impasse"
+V524,claude_a,yes,0,0,0,0,0,1,0,other_country,2,"Pakistan nuclear facility, no bombs claimed"
+V525,claude_a,no,0,0,0,0,0,0,0,,2,Heading only
+V526,claude_a,yes,1,1,0,1,0,0,0,disarmament,2,Peaceful uses without discrimination; seeks disarmament progress
+V527,claude_a,yes,1,0,0,0,0,0,0,disarmament,3,"Urges test ban, non-proliferation, general disarmament"
+V528,claude_a,yes,0,0,0,0,0,1,0,other_country,2,Pakistan bomb propaganda and Chinese nuclear plants; question without Indian position.
+V529,claude_a,no,0,0,0,0,0,0,0,,,Bomb scare
+V530,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Dismay at Chinese tests; reaffirms India's disarmament position.
+V531,claude_a,no,0,0,0,0,0,0,0,,,No nuclear content
+V532,claude_a,yes,0,0,0,0,0,0,0,neutral,2,General lament over arms piling and test harm; no call to action.
+V533,claude_a,yes,0,0,0,0,0,1,0,neutral,3,Question on China aiding Pakistan nuclear programme
+V534,claude_a,no,0,0,0,0,0,0,0,,3,Tax and corporate profits.
+V535,claude_a,yes,1,0,0,1,0,0,0,disarmament,3,"Defines proliferation incl. vertical; India against manufacture, wants disarmament."
+V536,claude_a,no,0,0,0,0,0,0,0,,,Terror bomb blast
+V537,claude_a,yes,0,1,0,0,0,0,0,neutral,2,Question on fast breeder reactors; no argument
+V538,claude_a,no,0,0,0,0,0,0,0,,2,"Heading only, no sentence on nuclear matter"
+V539,claude_a,yes,0,0,0,0,0,1,1,keep_option,2,Quotes PM no NPT signing; Pakistan quest for bombs
+V540,claude_a,no,0,0,0,0,0,0,0,,2,Passing mention in list of talks outcomes.
+V541,claude_a,no,0,0,0,0,0,0,0,,2,Plan allocation figures; nuclear capacity only a line item.
+V542,claude_a,yes,0,0,0,0,0,0,1,neutral,2,Reports foreign restrictions on scientists after tests; no judgement.
+V543,claude_a,yes,1,0,0,0,0,0,0,disarmament,2,Joint communique supports general and nuclear disarmament and world conference.
+V544,claude_a,yes,0,0,0,0,0,1,0,other_country,2,China's nuclear blackmail rhetoric quoted; no Indian response
+V545,claude_a,no,0,0,0,0,0,0,0,,,Herbal drugs question
+V546,claude_a,no,0,0,0,0,0,0,0,,2,GDR joining IAEA; passing
+V547,claude_a,yes,0,0,0,1,0,0,1,neutral,2,"Calls NPT discriminatory, US denies India technology; no stated India posture."
+V548,claude_a,yes,0,1,0,0,0,0,0,peaceful_only,2,Reports favourably on atomic radiation wheat variety
+V549,claude_a,no,0,0,0,0,0,0,0,,2,"Iraq bombing; atomic weapons only as pretext, passing"
+V550,claude_a,yes,0,0,0,0,0,0,1,pro_bomb,3,Celebrates diplomatic gain defeating censure of Pokhran tests.
