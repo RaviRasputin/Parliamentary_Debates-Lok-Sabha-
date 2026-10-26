@@ -47,3 +47,24 @@ Keyword filter: 335 of 500 keyword-selected passages (67%) are relevant; the res
 With validated codes the gap stays wide until 1997 and closes only in 1998–99. The dictionary measure placed the closing in 1994–97. Cells are small (19–40 passages per voice and era), so this is a check, not a replacement series.
 
 Stance (`stance_by_voice_era.csv`): the MEA's passages are mostly disarmament in 1962–89 (12–13 of about 20 per era), fall to 4 of 20 in 1990–97 (mostly neutral) and include 7 pro-bomb of 21 in 1998–99. Members' passages are mostly neutral; pro-bomb rises from 0–4 per era before 1998 to 9 of 40 in 1998–99, with 7 critical of the tests.
+
+---
+
+# Scaled validated series (2,954 passages)
+
+`sample2.py` drew 2,454 more passages so that each voice has about 125 per era over six eras (1962–68, 1969–79, 1980–89, 1990–93, 1994–97, 1998–99); with the first sample, 2,954 passages (1,990 relevant). The same two Claude coders coded them blind in isolated batches; 523 passages with disagreements were adjudicated by six Opus adjudicators following `CODEBOOK.md` and `adjudication.csv` as precedent (`adjudication2.csv`, 814 rulings). One coder batch (A12) wrote not-relevant rows with an extra empty column; those 56 rows were repaired at merge (codes unaffected).
+
+Agreement (Krippendorff's alpha): relevant 0.94, stance 0.88, frames 0.62 (option open) to 0.96 (peaceful use).
+
+Validated series (`series_gap.csv`, frame JSD, 90% bootstrap CI):
+
+| Era | MEA vs members | Ministers vs members |
+| --- | --- | --- |
+| 1962–68 | 0.30 (0.25–0.40) | 0.05 |
+| 1969–79 | 0.32 (0.26–0.40) | 0.10 |
+| 1980–89 | 0.29 (0.23–0.39) | 0.01 |
+| 1990–93 | 0.25 (0.20–0.34) | 0.13 |
+| 1994–97 | 0.14 (0.10–0.22) | 0.02 |
+| 1998–99 | 0.12 (0.09–0.17) | 0.04 |
+
+The 550-passage check above (1990–97 as one era) understated the 1994–97 narrowing; the scaled series supersedes it. Keep-the-option stance peaks in every voice in 1994–97 (MEA 17%, ministers 13%, members 10% of relevant passages). In 1998–99 the MEA is 40% pro-bomb; members split 36 pro-bomb vs 40 critical of the tests. Dictionary F1 on the full set: 0.39–0.82 (`dictionary_performance_full.csv`).
