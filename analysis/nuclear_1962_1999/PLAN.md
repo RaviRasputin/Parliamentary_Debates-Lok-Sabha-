@@ -11,6 +11,17 @@ labels), `party_analysis.py` (side/family/robustness). Corpora are cloned side b
 root (`/home/user` in the cloud session): Lok Sabha and Rajya Sabha debate ZIPs, the MEA
 Foreign Affairs Record (1955–1999) and the Selected Works of Jawaharlal Nehru (SWJN).
 
+## Decisions by the author (26 October 2026)
+
+- Nehru's Selected Works are dropped entirely (tasks C1 and C2 cancelled; the 1962–64 Nehru
+  baseline is removed from the paper). The comparison is executive (ministers in Parliament + MEA
+  Record) vs legislature (members), treated the same way for every government.
+- Validation sample: 125 passages each for Lok Sabha members, Rajya Sabha members, ministers and
+  the MEA Record, plus 50 near-miss passages.
+- Archives: online collections only (no visits). The author will open the blocked domains
+  before Phase 2.
+- Agents ask the author before taking any decision this plan does not cover.
+
 ## Ground rules
 
 - Scripts in this folder; outputs in `output/`; never commit the corpora or extracted `.md`.
@@ -41,10 +52,10 @@ host say so and have a fallback (author uploads files). `pip install scikit-lear
   window text `text`. Add the same `pid` column to `turns.csv`.
 - Re-run extraction for 1952–2008 in one pass (feeds A1, C3 and E1). Expect ~60 min on 4 cores.
 - `sample.py`: draw 500 passages stratified by voice × era.
-  - Voices: LS members, RS members, ministers (both houses), MEA, SWJN.
+  - Voices: LS members, RS members, ministers (both houses), MEA.
   - Eras: 1962–68, 1969–79, 1980–89, 1990–97, 1998–99.
-  - Allocation: 100 per voice, spread evenly across eras where the voice exists (SWJN only in
-    1962–64; MEA has no 1999 depth — take what exists and top up from neighbouring eras).
+  - Allocation: 125 per voice, 25 per era; where a cell is short, take all and top up from
+    the adjacent era of the same voice.
   - Drop passages under 25 words; cap text at 250 words around the keyword.
   - Add 50 "near-miss" passages: turns with no nuclear keyword but containing "atom", "bomb",
     "Pokhran" misspellings or "test" + "China", to estimate the keyword filter's recall.
@@ -74,7 +85,7 @@ host say so and have a fallback (author uploads files). `pip install scikit-lear
 Pilot: both Claude coders and the author code the same 30 passages; Opus revises the codebook
 where they disagree; then freeze it (version tag in the file).
 
-### C1. Split Nehru's Selected Works into documents
+### C1. Split Nehru's Selected Works into documents — CANCELLED (author decision)
 
 - `swjn_docs.py`: for each Second Series volume (1–85, including part files), parse the table
   of contents. Entries look like `9. In New Delhi: Press Conference 31/12/62 8` — number, title,
@@ -146,14 +157,16 @@ start/end).
 - Accept: re-run `party.py`; LS coverage ≥75%; 1969–71 government/opposition split reflects
   Congress (O) as opposition.
 
-### D1. Archival collection (author-led)
+### D1. Archival collection (online only)
 
-The author collects documents; Claude registers and codes them.
+Claude searches the online collections once the domains are open, proposes documents, and the
+author approves what goes in; Claude registers and codes them. Indian private papers (e.g. the
+P. N. Haksar papers) are not online and are out of scope.
 - Targets, by window:
-  - 1964–68 (China's test, NPT): MEA and PMO files on the NPT; Wilson Center NPIHP India
-    collection; FRUS 1964–68 vol. XXV (South Asia).
-  - 1972–74 (PNE decision): P. N. Haksar papers (PMML, subject files); Wilson Center; FRUS
-    1969–76 vol. E-8 (South Asia 1973–76).
+  - 1964–68 (China's test, NPT): digitised MEA/PMO files on Abhilekh Patal; Wilson Center
+    NPIHP India collection; FRUS 1964–68 vol. XXV (South Asia).
+  - 1972–74 (PNE decision): Abhilekh Patal; Wilson Center; FRUS 1969–76 vol. E-8 (South Asia
+    1973–76).
   - 1995–98: limited declassification — use memoirs (Jaswant Singh, Strobe Talbott),
     published interviews, and the 1998 government papers tabled in Parliament.
 - Uploads go to `archive/raw/` (PDFs or photos). `archive_register.py` OCRs them (pytesseract
@@ -206,7 +219,7 @@ executive voice for 2000–08, and flag the change of source in the paper.
 - Accept: macro-F1 ≥ 0.65 on the human test set; if lower, report it and use stance only
   descriptively.
 
-### C2. Nehru's private–public gap
+### C2. Nehru's private–public gap — CANCELLED (author decision)
 
 - Code `swjn_documents.jsonl` windows with the frame dictionaries (and the stance classifier
   from A5).
@@ -248,5 +261,5 @@ executive voice for 2000–08, and flag the change of source in the paper.
 | Work | Model |
 | --- | --- |
 | Codebook design, adjudication, review, paper writing | Opus |
-| Scripts (A1, C1, E1, B1, B2, A4, A5, C2, D2, E3), batch coding (Claude A/B) | Sonnet |
-| Gold-standard coding, archive visits, source decisions | Author |
+| Scripts (A1, E1, B1, B2, A4, A5, D2, E3), batch coding (Claude A/B) | Sonnet |
+| Gold-standard coding, approving archive documents and sources, opening domains | Author |
