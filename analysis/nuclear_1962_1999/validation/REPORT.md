@@ -119,3 +119,45 @@ After the fix (fresh `extract.py` run, `party.py`, `party_analysis.py`, then `re
 - stance, MEA vs members: 0.25, 0.33, 0.16, 0.30, 0.20, 0.31.
 
 Dictionary outputs change only in the third decimal.
+
+---
+
+# The Indo-US deal, 2000–08 (codebook 1.2; `e3.py`)
+
+**Sample.** `sample3.py` drew 1,493 parliamentary passages from 2000–08: up to 80 per voice and period. The voices are ministers (both houses), Lok Sabha Left, BJP (with Shiv Sena), Congress and other members, and Rajya Sabha members. The periods are NDA to 21 May 2004; UPA to 17 July 2005; the deal years to 8 July 2008; after the Left withdrew. Small cells took every passage they had. Party labels for the 14th Lok Sabha come from DataMeet's 2004 results (`party.py`). After 1999 the executive voice is ministers in Parliament only, because the MEA Record in this corpus stops in 1999.
+
+**Coding.** The same two blind Claude coders coded the sample, in isolated batches. The 200 passages with any disagreement went to four Opus adjudicators, who wrote 327 rulings (`adjudication3.csv`). Codebook 1.2 adds a `deal_stance` variable and counts deal passages as relevant even when they argue only about energy.
+
+**Agreement (alpha):**
+- relevant 0.97;
+- stance 0.91;
+- deal_stance 0.96;
+- frames 0.67 (discrimination) to 0.85.
+
+Of the 1,493 passages, 474 are relevant. Ministers are thin: only 9, 9, 23 and 17 relevant passages across the four periods. Most ministerial nuclear passages in these years are about energy and plants, not weapons or the deal.
+
+**Results (`e3_gap.csv`, `e3_deal.csv`, `e3_stance.csv`, `e3_frames.csv`):**
+
+| Period | Frame JSD, ministers vs all members | Deal-stance JSD, ministers vs all members |
+| --- | --- | --- |
+| 2000–04 (NDA) | 0.07 | — |
+| 2004–05 (UPA) | 0.04 | 0.00 (almost no deal talk) |
+| 2005–08 (deal) | 0.06 | 0.50 (0.42–0.59) |
+| Jul–Dec 2008 | 0.17 | 0.60 (0.49–0.73) |
+
+Deal stance by voice, 2005–08 / Jul–Dec 2008 (support–oppose–conditional):
+
+| Voice | 2005–08 | Jul–Dec 2008 |
+| --- | --- | --- |
+| Ministers | 8–0–0 | 10–0–0 |
+| Congress members | 12–0–0 | 2–0–0 |
+| Left | 0–22–4 | 0–3–1 |
+| BJP | 2–12–2 | 0–19–1 |
+| Rajya Sabha members | 6–17–3 | 0–2–0 |
+
+**Frames, 2005–08:**
+- Ministers spoke mostly of peaceful use (52% of frame uses) and autonomy (22%).
+- The Left spoke of autonomy (51%) and peaceful use (28%), never of security threats.
+- The BJP spoke of autonomy (33%), security (25%), the option (11%) and deterrence (8%). Eight BJP passages took a keep-the-option stance, on the right to test.
+
+H7 is supported on position, and the deal reopened the gap. The executive's framing stayed close to the House until the Left left (frame JSD 0.04–0.07, rising to 0.17 after July 2008). Members split sharply on the deal itself, and the two oppositions opposed it for different reasons: the Left on sovereignty and alignment with the US, the BJP on autonomy and on the weapons programme and testing. Ministerial cells are small, so the frame gaps carry wide intervals.

@@ -182,8 +182,8 @@ def series():
     gaps = []
     for p in PERIODS:
         mins = cell[("minister", p)]
-        for gname in GROUPS:
-            grp = cell[(gname, p)]
+        for gname in GROUPS + ["all_members"]:
+            grp = [r for g in GROUPS for r in cell[(g, p)]] if gname == "all_members" else cell[(gname, p)]
             rec = {"period": p, "group": gname, "n_ministers": len(mins), "n_group": len(grp)}
             for kind in ("frames", "stance", "deal"):
                 rec[kind], rec[kind + "_lo"], rec[kind + "_hi"] = gap(mins, grp, kind) if len(grp) >= 10 else ("", "", "")
